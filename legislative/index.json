@@ -1,2 +1,310 @@
-{}
-
+[
+  {
+    "comment": "Chamber of Deputies",
+    "house_item_id": "Q1834804",
+    "position_item_id": "Q20058725",
+    "terms": [
+      {
+        "comment": "55th Chamber of Deputies of Brazil",
+        "term_item_id": "Q18479094"
+      }
+    ]
+  },
+  {
+    "comment": "Federal Senate of Brazil",
+    "house_item_id": "Q2119413",
+    "position_item_id": "Q18964326",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Chamber of Federal District",
+    "house_item_id": "Q10262893",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Minas Gerais",
+    "house_item_id": "Q12243888",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Rio Grande do Norte",
+    "house_item_id": "Q12270300",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Pará",
+    "house_item_id": "Q12469964",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Ceará",
+    "house_item_id": "Q13163502",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Alagoas",
+    "house_item_id": "Q16142313",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Acre",
+    "house_item_id": "Q16142333",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Assembleia Legislativa do Piauí",
+    "house_item_id": "Q16494759",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Assembleia Legislativa de Rondônia",
+    "house_item_id": "Q16494760",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Assembleia Legislativa de Mato Grosso",
+    "house_item_id": "Q16498710",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Amazonas",
+    "house_item_id": "Q6518202",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Rio de Janeiro",
+    "house_item_id": "Q6583209",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Paraíba",
+    "house_item_id": "Q9633173",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Bahia",
+    "house_item_id": "Q9633175",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Assembleia Legislativa de Goiás",
+    "house_item_id": "Q9633183",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Assembleia Legislativa de Mato Grosso do Sul",
+    "house_item_id": "Q9633190",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Pernambuco",
+    "house_item_id": "Q9633197",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Roraima",
+    "house_item_id": "Q9633200",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Sergipe",
+    "house_item_id": "Q9633202",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Santa Catarina",
+    "house_item_id": "Q9633207",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Assembleia Legislativa do Amapá",
+    "house_item_id": "Q9633212",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Espírito Santo",
+    "house_item_id": "Q9633218",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Assembleia Legislativa do Maranhão",
+    "house_item_id": "Q9633221",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Paraná",
+    "house_item_id": "Q9633230",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Rio Grande do Sul",
+    "house_item_id": "Q9633239",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Assembleia Legislativa do Tocantins",
+    "house_item_id": "Q9633245",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  }
+]
