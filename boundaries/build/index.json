@@ -1,2 +1,17 @@
-{}
+[
+  {
+    "directory": "country",
+    "area_type_wikidata_item_id": "Q6256",
+    "associations": [
+      {
+        "comment": "President of Brazil",
+        "position_item_id": "Q5176750"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "name_pt",
+      "lang:en": "name_en"
+    }
+  }
+]
 
