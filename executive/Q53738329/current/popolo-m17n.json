@@ -1,0 +1,77 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pt": "José Ivo Sartori",
+        "lang:en": "José Ivo Sartori"
+      },
+      "id": "Q10309629",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10309629"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/joseivo.sartori.1"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/joseivosartori"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "cabinet of the governor of the state of Rio Grande do Sul"
+      },
+      "id": "Q53738329",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738329"
+        }
+      ],
+      "area_id": "Q40030"
+    },
+    {
+      "name": {
+        "lang:pt": "Movimento Democrático Brasileiro",
+        "lang:en": "Democratic Movement Party"
+      },
+      "id": "Q1322751",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322751"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10309629-5CED4594-AA87-4F55-B102-40F305219395",
+      "person_id": "Q10309629",
+      "on_behalf_of_id": "Q1322751",
+      "organization_id": "Q53738329",
+      "area_id": "Q40030",
+      "role_superclass_code": "Q53739340",
+      "role_superclass": {
+        "lang:en": "governor of the state of Rio Grande do Sul"
+      },
+      "role_code": "Q53739340",
+      "role": {
+        "lang:en": "governor of the state of Rio Grande do Sul"
+      }
+    }
+  ]
+}

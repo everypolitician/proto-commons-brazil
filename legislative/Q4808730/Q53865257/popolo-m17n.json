@@ -1,0 +1,77 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pt": "Roberto Massafera",
+        "lang:en": "Roberto Massafera"
+      },
+      "id": "Q28677607",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28677607"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/RobertoMassafera"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:pt": "Assembleia Legislativa de São Paulo",
+        "lang:en": "Legislative Assembly of São Paulo"
+      },
+      "id": "Q4808730",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4808730"
+        }
+      ],
+      "area_id": "Q175",
+      "seat_counts": {
+        "Q53864923": "94"
+      }
+    },
+    {
+      "name": {
+        "lang:pt": "Partido da Social Democracia Brasileira",
+        "lang:en": "Brazilian Social Democracy Party"
+      },
+      "id": "Q1322897",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322897"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28677607-3F0CB63B-6A07-405F-BE41-71654CBA5E0F",
+      "person_id": "Q28677607",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q4808730",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt": "Deputado estadual",
+        "lang:en": "State deputy"
+      },
+      "role_code": "Q53864923",
+      "role": {
+        "lang:en": "state deputy of São Paulo"
+      }
+    }
+  ]
+}

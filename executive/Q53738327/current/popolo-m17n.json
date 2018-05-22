@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pt": "Rui Costa",
+        "lang:en": "Rui Costa"
+      },
+      "id": "Q10365240",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10365240"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ruicostaoficial"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "cabinet of the governor of the state of Bahia"
+      },
+      "id": "Q53738327",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738327"
+        }
+      ],
+      "area_id": "Q40430"
+    },
+    {
+      "name": {
+        "lang:pt": "Partido dos Trabalhadores",
+        "lang:en": "Workers' Party"
+      },
+      "id": "Q657089",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q657089"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10365240-19B01FA4-E38E-4956-8106-69C65BF82B76",
+      "person_id": "Q10365240",
+      "on_behalf_of_id": "Q657089",
+      "organization_id": "Q53738327",
+      "area_id": "Q40430",
+      "role_superclass_code": "Q53739339",
+      "role_superclass": {
+        "lang:en": "governor of the state of Bahia"
+      },
+      "role_code": "Q53739339",
+      "role": {
+        "lang:en": "governor of the state of Bahia"
+      }
+    }
+  ]
+}

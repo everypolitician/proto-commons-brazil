@@ -98,6 +98,25 @@
     },
     {
       "name": {
+        "lang:pt": "Paulo Pimenta",
+        "lang:en": "Paulo Pimenta"
+      },
+      "id": "Q10346742",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10346742"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/deputadofederal"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:pt": "Pedro Chaves (político)",
         "lang:en": "Pedro Chaves"
       },
@@ -358,6 +377,25 @@
     },
     {
       "name": {
+        "lang:pt": "André Figueiredo",
+        "lang:en": "André Figueiredo"
+      },
+      "id": "Q21290171",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21290171"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/DeputadoAndreFigueiredo"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:pt": "Newton Cardoso Júnior",
         "lang:en": "Newton Cardoso Jr"
       },
@@ -370,6 +408,25 @@
       ],
       "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Nilson Leitão",
+        "lang:en": "Nilson Leitão"
+      },
+      "id": "Q23892781",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23892781"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/nilsonleitao"
+        }
       ]
     },
     {
@@ -793,6 +850,25 @@
     },
     {
       "name": {
+        "lang:pt": "Victório Galli",
+        "lang:en": "Victório Galli"
+      },
+      "id": "Q30935619",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30935619"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/VictorioGalliOficial"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:pt": "José Fogaça",
         "lang:en": "José Fogaça"
       },
@@ -901,6 +977,25 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:pt": "Baleia Rossi",
+        "lang:en": "Baleia Rossi"
+      },
+      "id": "Q9644523",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9644523"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/BaleiaRossi"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -921,6 +1016,76 @@
       "seat_counts": {
         "Q20058725": "513"
       }
+    },
+    {
+      "name": {
+        "lang:pt": "Movimento Democrático Brasileiro",
+        "lang:en": "Democratic Movement Party"
+      },
+      "id": "Q1322751",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322751"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Partido da Social Democracia Brasileira",
+        "lang:en": "Brazilian Social Democracy Party"
+      },
+      "id": "Q1322897",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322897"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Partido Democrático Trabalhista",
+        "lang:en": "Democratic Labour Party"
+      },
+      "id": "Q1414708",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1414708"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Partido Social Cristão",
+        "lang:en": "Social Christian Party"
+      },
+      "id": "Q2626213",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2626213"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Partido dos Trabalhadores",
+        "lang:en": "Workers' Party"
+      },
+      "id": "Q657089",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q657089"
+        }
+      ]
     }
   ],
   "areas": [
@@ -1006,6 +1171,23 @@
       "id": "http://www.wikidata.org/entity/statement/Q10346628-C21827B4-D099-49C6-94DC-D88961DD1C96",
       "person_id": "Q10346628",
       "organization_id": "Q1834804",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10346742-B1BB115C-372F-47C2-837B-4176FEA3FC31",
+      "person_id": "Q10346742",
+      "on_behalf_of_id": "Q657089",
+      "organization_id": "Q1834804",
+      "area_id": "Q53657915",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:pt": "deputado",
@@ -1258,9 +1440,43 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21290171-3793F17F-A034-4FCE-B19D-A11612857448",
+      "person_id": "Q21290171",
+      "on_behalf_of_id": "Q1414708",
+      "organization_id": "Q1834804",
+      "area_id": "Q53657931",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q23883203-604B8FA7-CA72-4862-8D48-4BFF2080F784",
       "person_id": "Q23883203",
       "organization_id": "Q1834804",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23892781-AB38F071-0919-4386-8D58-C9999A8009F8",
+      "person_id": "Q23892781",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q1834804",
+      "area_id": "Q53657991",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:pt": "deputado",
@@ -1672,6 +1888,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q30935619-9CE73A3B-18D0-4CE6-BB19-7ECC97B81726",
+      "person_id": "Q30935619",
+      "on_behalf_of_id": "Q2626213",
+      "organization_id": "Q1834804",
+      "area_id": "Q53657991",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q359615-1D5374F5-D9D1-45C1-B64C-8C724838DFD3",
       "person_id": "Q359615",
       "organization_id": "Q1834804",
@@ -1766,6 +1999,23 @@
       "id": "http://www.wikidata.org/entity/statement/Q771782-0F7DE1C1-16CE-43D5-BEC0-276823E5CF01",
       "person_id": "Q771782",
       "organization_id": "Q1834804",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9644523-4275A5C8-AE68-4987-B0EC-D9A3B3D32AF9",
+      "person_id": "Q9644523",
+      "on_behalf_of_id": "Q1322751",
+      "organization_id": "Q1834804",
+      "area_id": "Q53657905",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:pt": "deputado",

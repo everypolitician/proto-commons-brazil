@@ -1,0 +1,89 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pt": "Antônio Carlos Magalhães",
+        "lang:en": "Antônio Carlos Magalhães"
+      },
+      "id": "Q571064",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q571064"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Antônio Carlos Magalhães Neto",
+        "lang:en": "Antônio Carlos Magalhães Neto"
+      },
+      "id": "Q9621234",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9621234"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "municipal prefecture of Salvador"
+      },
+      "id": "Q53930901",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53930901"
+        }
+      ],
+      "area_id": "Q36947"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q571064-dbd79886-4011-ca21-0d7a-50b67113b089",
+      "person_id": "Q571064",
+      "organization_id": "Q53930901",
+      "area_id": "Q36947",
+      "role_superclass_code": "Q27306390",
+      "role_superclass": {
+        "lang:pt": "prefeito de Salvador",
+        "lang:en": "mayor of Salvador"
+      },
+      "role_code": "Q27306390",
+      "role": {
+        "lang:pt": "prefeito de Salvador",
+        "lang:en": "mayor of Salvador"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9621234-19edbd8b-4425-4ae5-1ffe-48270838880f",
+      "person_id": "Q9621234",
+      "organization_id": "Q53930901",
+      "area_id": "Q36947",
+      "role_superclass_code": "Q27306390",
+      "role_superclass": {
+        "lang:pt": "prefeito de Salvador",
+        "lang:en": "mayor of Salvador"
+      },
+      "role_code": "Q27306390",
+      "role": {
+        "lang:pt": "prefeito de Salvador",
+        "lang:en": "mayor of Salvador"
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pt": "Luiz Fernando de Souza",
+        "lang:en": "Luiz Fernando Pezão"
+      },
+      "id": "Q10320733",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10320733"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/LFPezao"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "cabinet of the governor of the state of Rio de Janeiro"
+      },
+      "id": "Q53738324",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738324"
+        }
+      ],
+      "area_id": "Q41428"
+    },
+    {
+      "name": {
+        "lang:pt": "Movimento Democrático Brasileiro",
+        "lang:en": "Democratic Movement Party"
+      },
+      "id": "Q1322751",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322751"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10320733-F1B70278-F774-489B-AD6B-50D3818D0BBC",
+      "person_id": "Q10320733",
+      "on_behalf_of_id": "Q1322751",
+      "organization_id": "Q53738324",
+      "area_id": "Q41428",
+      "role_superclass_code": "Q53739338",
+      "role_superclass": {
+        "lang:en": "governor of the state of Rio de Janeiro"
+      },
+      "role_code": "Q53739338",
+      "role": {
+        "lang:en": "governor of the state of Rio de Janeiro"
+      }
+    }
+  ]
+}
