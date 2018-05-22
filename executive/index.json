@@ -1,3 +1,422 @@
 [
-
+  {
+    "comment": "cabinet of Brazil",
+    "executive_item_id": "Q5015503",
+    "positions": [
+      {
+        "comment": "President of Brazil",
+        "position_item_id": "Q5176750"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Sao Paulo",
+    "executive_item_id": "Q53738322",
+    "positions": [
+      {
+        "comment": "governor of the state of Sao Paulo",
+        "position_item_id": "Q53739335"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Minas Gerais",
+    "executive_item_id": "Q53738323",
+    "positions": [
+      {
+        "comment": "governor of the state of Minas Gerais",
+        "position_item_id": "Q53739337"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Rio de Janeiro",
+    "executive_item_id": "Q53738324",
+    "positions": [
+      {
+        "comment": "governor of the state of Rio de Janeiro",
+        "position_item_id": "Q53739338"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Bahia",
+    "executive_item_id": "Q53738327",
+    "positions": [
+      {
+        "comment": "governor of the state of Bahia",
+        "position_item_id": "Q53739339"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Rio Grande do Sul",
+    "executive_item_id": "Q53738329",
+    "positions": [
+      {
+        "comment": "governor of the state of Rio Grande do Sul",
+        "position_item_id": "Q53739340"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Parana",
+    "executive_item_id": "Q53738330",
+    "positions": [
+      {
+        "comment": "governor of the state of Parana",
+        "position_item_id": "Q53739343"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Pernambuco",
+    "executive_item_id": "Q53738332",
+    "positions": [
+      {
+        "comment": "governor of the state of Pernambuco",
+        "position_item_id": "Q53739344"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Ceara",
+    "executive_item_id": "Q53738333",
+    "positions": [
+      {
+        "comment": "governor of the state of Ceara",
+        "position_item_id": "Q53739345"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Para",
+    "executive_item_id": "Q53738335",
+    "positions": [
+      {
+        "comment": "governor of the state of Para",
+        "position_item_id": "Q53739346"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Santa Catarina",
+    "executive_item_id": "Q53738342",
+    "positions": [
+      {
+        "comment": "governor of the state of Santa Catarina",
+        "position_item_id": "Q53739354"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Maranhao",
+    "executive_item_id": "Q53738348",
+    "positions": [
+      {
+        "comment": "governor of the state of Maranhao",
+        "position_item_id": "Q53739358"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Goias",
+    "executive_item_id": "Q53738350",
+    "positions": [
+      {
+        "comment": "governor of the state of Goias",
+        "position_item_id": "Q53739360"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Amazonas",
+    "executive_item_id": "Q53738351",
+    "positions": [
+      {
+        "comment": "governor of the state of Amazonas",
+        "position_item_id": "Q53739362"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Paraiba",
+    "executive_item_id": "Q53738352",
+    "positions": [
+      {
+        "comment": "governor of the state of Paraiba",
+        "position_item_id": "Q53739363"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Espirito Santo",
+    "executive_item_id": "Q53738354",
+    "positions": [
+      {
+        "comment": "governor of the state of Espirito Santo",
+        "position_item_id": "Q53739364"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Rio Grande do Norte",
+    "executive_item_id": "Q53738355",
+    "positions": [
+      {
+        "comment": "governor of the state of Rio Grande do Norte",
+        "position_item_id": "Q53739366"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Alagoas",
+    "executive_item_id": "Q53738356",
+    "positions": [
+      {
+        "comment": "governor of the state of Alagoas",
+        "position_item_id": "Q53739367"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Mato Grosso",
+    "executive_item_id": "Q53738357",
+    "positions": [
+      {
+        "comment": "governor of the state of Mato Grosso",
+        "position_item_id": "Q53739368"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Piaui",
+    "executive_item_id": "Q53738367",
+    "positions": [
+      {
+        "comment": "governor of the state of Piaui",
+        "position_item_id": "Q53739375"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the Federal District",
+    "executive_item_id": "Q53738372",
+    "positions": [
+      {
+        "comment": "governor of the Federal District",
+        "position_item_id": "Q53739380"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Mato Grosso do Sul",
+    "executive_item_id": "Q53738373",
+    "positions": [
+      {
+        "comment": "governor of the state of Mato Grosso do Sul",
+        "position_item_id": "Q53739381"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Sergipe",
+    "executive_item_id": "Q53738374",
+    "positions": [
+      {
+        "comment": "governor of the state of Sergipe",
+        "position_item_id": "Q53739383"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Rondonia",
+    "executive_item_id": "Q53738377",
+    "positions": [
+      {
+        "comment": "governor of the state of Rondonia",
+        "position_item_id": "Q53739384"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Tocantins",
+    "executive_item_id": "Q53738378",
+    "positions": [
+      {
+        "comment": "governor of the state of Tocantins",
+        "position_item_id": "Q53739385"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Acre",
+    "executive_item_id": "Q53738379",
+    "positions": [
+      {
+        "comment": "Governor of Acre",
+        "position_item_id": "Q47520037"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Amapa",
+    "executive_item_id": "Q53738380",
+    "positions": [
+      {
+        "comment": "governor of the state of Amapa",
+        "position_item_id": "Q53739389"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the governor of the state of Roraima",
+    "executive_item_id": "Q53738381",
+    "positions": [
+      {
+        "comment": "governor of the state of Roraima",
+        "position_item_id": "Q53739390"
+      }
+    ]
+  },
+  {
+    "comment": "municipal prefecture of São Paulo",
+    "executive_item_id": "Q10351100",
+    "positions": [
+      {
+        "comment": "Mayor of São Paulo",
+        "position_item_id": "Q24255165"
+      }
+    ]
+  },
+  {
+    "comment": "municipal prefecture of Belo Horizonte",
+    "executive_item_id": "Q30263897",
+    "positions": [
+      {
+        "comment": "Mayor of Belo Horizonte",
+        "position_item_id": "Q53926035"
+      }
+    ]
+  },
+  {
+    "comment": "municipal prefecture of Rio de Janeiro",
+    "executive_item_id": "Q53930899",
+    "positions": [
+      {
+        "comment": "Mayor of Rio de Janeiro",
+        "position_item_id": "Q53926032"
+      }
+    ]
+  },
+  {
+    "comment": "municipal prefecture of Salvador",
+    "executive_item_id": "Q53930901",
+    "positions": [
+      {
+        "comment": "mayor of Salvador",
+        "position_item_id": "Q27306390"
+      }
+    ]
+  },
+  {
+    "comment": "municipal prefecture of Fortaleza",
+    "executive_item_id": "Q53930902",
+    "positions": [
+      {
+        "comment": "Mayor of Fortaleza",
+        "position_item_id": "Q53926033"
+      }
+    ]
+  },
+  {
+    "comment": "municipal prefecture of Manaus",
+    "executive_item_id": "Q53930905",
+    "positions": [
+      {
+        "comment": "Mayor of Manaus",
+        "position_item_id": "Q53926036"
+      }
+    ]
+  },
+  {
+    "comment": "municipal prefecture of Curitiba",
+    "executive_item_id": "Q53930907",
+    "positions": [
+      {
+        "comment": "Mayor of Curitiba",
+        "position_item_id": "Q53926039"
+      }
+    ]
+  },
+  {
+    "comment": "municipal prefecture of Recife",
+    "executive_item_id": "Q53930910",
+    "positions": [
+      {
+        "comment": "Mayor of Recife",
+        "position_item_id": "Q53926041"
+      }
+    ]
+  },
+  {
+    "comment": "municipal prefecture of Porto Alegre",
+    "executive_item_id": "Q53930913",
+    "positions": [
+      {
+        "comment": "Mayor of Porto Alegre",
+        "position_item_id": "Q53926042"
+      }
+    ]
+  },
+  {
+    "comment": "municipal prefecture of Goiânia",
+    "executive_item_id": "Q53930914",
+    "positions": [
+      {
+        "comment": "Mayor of Goiânia",
+        "position_item_id": "Q53926044"
+      }
+    ]
+  },
+  {
+    "comment": "municipal prefecture of Belém",
+    "executive_item_id": "Q53930915",
+    "positions": [
+      {
+        "comment": "Mayor of Belém",
+        "position_item_id": "Q53926047"
+      }
+    ]
+  },
+  {
+    "comment": "municipal prefecture of Guarulhos",
+    "executive_item_id": "Q53930928",
+    "positions": [
+      {
+        "comment": "Mayor of Guarulhos",
+        "position_item_id": "Q53926062"
+      }
+    ]
+  },
+  {
+    "comment": "municipal prefecture of Campinas",
+    "executive_item_id": "Q53930937",
+    "positions": [
+      {
+        "comment": "Mayor of Campinas",
+        "position_item_id": "Q53926063"
+      }
+    ]
+  },
+  {
+    "comment": "municipal prefecture of Sao Luis",
+    "executive_item_id": "Q53930939",
+    "positions": [
+      {
+        "comment": "Mayor of Sao Luis",
+        "position_item_id": "Q53926065"
+      }
+    ]
+  }
 ]
