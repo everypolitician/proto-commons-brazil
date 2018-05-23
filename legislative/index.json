@@ -31,7 +31,7 @@
     "position_item_id": "Q53864942",
     "terms": [
       {
-        "comment": "7th legislatureLegislative Chamber of the Federal District",
+        "comment": "7th Legislative Chamber of the Federal District",
         "term_item_id": "Q53865289"
       }
     ]
@@ -75,7 +75,7 @@
     "position_item_id": "Q53864930",
     "terms": [
       {
-        "comment": "29th legislatureLegislativa Assembly of the state of Ceara",
+        "comment": "29th Legislative Assembly of the state of Ceara",
         "term_item_id": "Q53865268"
       }
     ]
@@ -323,13 +323,156 @@
     ]
   },
   {
-    "comment": "Câmara Municipal de Salvador",
-    "house_item_id": "Q10262913",
-    "position_item_id": null,
+    "comment": "Municipal Chamber of Belém",
+    "house_item_id": "Q53934974",
+    "position_item_id": "Q53935627",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "18th Legislature of the Municipal Chamber of Belém",
+        "term_item_id": "Q53935631"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Chamber of Guarulhos",
+    "house_item_id": "Q53934976",
+    "position_item_id": "Q53935633",
+    "terms": [
+      {
+        "comment": "17th Legislature of the Municipal Chamber of Guarulhos",
+        "term_item_id": "Q53935636"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Chamber of Campinas",
+    "house_item_id": "Q53934977",
+    "position_item_id": "Q53935638",
+    "terms": [
+      {
+        "comment": "17th Legislature of the Municipal Chamber of Campinas",
+        "term_item_id": "Q53949902"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Chamber of São Luís",
+    "house_item_id": "Q53934979",
+    "position_item_id": "Q53935641",
+    "terms": [
+      {
+        "comment": "19th Legislature of the Municipal Chamber of São Luís",
+        "term_item_id": "Q53935643"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Chamber of Salvador",
+    "house_item_id": "Q53934981",
+    "position_item_id": "Q53934982",
+    "terms": [
+      {
+        "comment": "17th Legislature of the Municipal Chamber of Salvador",
+        "term_item_id": "Q53934997"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Chamber of Fortaleza",
+    "house_item_id": "Q53934998",
+    "position_item_id": "Q53935000",
+    "terms": [
+      {
+        "comment": "18th Legislature of the Municipal Chamber of Fortaleza",
+        "term_item_id": "Q53935002"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Chamber of Belo Horizonte",
+    "house_item_id": "Q53935004",
+    "position_item_id": "Q53935007",
+    "terms": [
+      {
+        "comment": "18th Legislature of the Municipal Chamber of Belo Horizonte",
+        "term_item_id": "Q53935009"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Chamber of Manaus",
+    "house_item_id": "Q53935013",
+    "position_item_id": "Q53935014",
+    "terms": [
+      {
+        "comment": "17th Legislature of the Municipal Chamber of Manaus",
+        "term_item_id": "Q53935032"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Chamber of Curitiba",
+    "house_item_id": "Q53935035",
+    "position_item_id": "Q53935038",
+    "terms": [
+      {
+        "comment": "17th Legislature of the Municipal Chamber of Curitaba",
+        "term_item_id": "Q53935039"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Chamber of Recife",
+    "house_item_id": "Q53935043",
+    "position_item_id": "Q53935045",
+    "terms": [
+      {
+        "comment": "17th Legislature of the Municipal Chamber of Recife",
+        "term_item_id": "Q53935047"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Chamber of Porto Alegre",
+    "house_item_id": "Q53935048",
+    "position_item_id": "Q53935050",
+    "terms": [
+      {
+        "comment": "17th Legislature of the Municipal Chamber of Porto Alegre",
+        "term_item_id": "Q53935071"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Chamber of Goiânia",
+    "house_item_id": "Q53935073",
+    "position_item_id": "Q53935075",
+    "terms": [
+      {
+        "comment": "18th Legislature of the Municipal Chamber of Goiânia",
+        "term_item_id": "Q53935076"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Chamber of Rio de Janeiro",
+    "house_item_id": "Q6936214",
+    "position_item_id": "Q53934881",
+    "terms": [
+      {
+        "comment": "17th Legislature of the Municipal Chamber of Rio de Janeiro",
+        "term_item_id": "Q53934884"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Chamber of Sao Paulo",
+    "house_item_id": "Q6936217",
+    "position_item_id": "Q53934877",
+    "terms": [
+      {
+        "comment": "10th legislature of the Municipal Chamber of Sao Paulo",
+        "term_item_id": "Q53934880"
       }
     ]
   }
