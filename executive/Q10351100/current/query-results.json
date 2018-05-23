@@ -179,6 +179,10 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "jdoriajr"
       }
     }, {
       "item" : {
@@ -1276,6 +1280,10 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-04-06T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "BrunoCovasOficial"
       }
     } ]
   }
