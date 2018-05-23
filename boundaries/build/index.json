@@ -605,6 +605,300 @@
       "match": "country:br/fed:ap",
       "column": "MS_FB"
     }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1637706",
+    "associations": [
+      {
+        "comment": "mayor of campinas",
+        "position_item_id": "Q53926063"
+      },
+      {
+        "comment": "councillor of campinas",
+        "position_item_id": "Q53935638"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:campinas",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q5119",
+    "associations": [
+      {
+        "comment": "mayor of são paulo",
+        "position_item_id": "Q24255165"
+      },
+      {
+        "comment": "councillor of são paulo",
+        "position_item_id": "Q53934877"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q515",
+    "associations": [
+      {
+        "comment": "mayor of goiânia",
+        "position_item_id": "Q53926044"
+      },
+      {
+        "comment": "councillor of goiânia",
+        "position_item_id": "Q53935075"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:go/mun:goiania",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1637706",
+    "associations": [
+      {
+        "comment": "mayor of guarulhos",
+        "position_item_id": "Q53926062"
+      },
+      {
+        "comment": "councillor of guarulhos",
+        "position_item_id": "Q53935633"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:guarulhos",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1637706",
+    "associations": [
+      {
+        "comment": "mayor of recife",
+        "position_item_id": "Q53926041"
+      },
+      {
+        "comment": "councillor of recife",
+        "position_item_id": "Q53935045"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pe/mun:recife",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q515",
+    "associations": [
+      {
+        "comment": "mayor of rio de janeiro",
+        "position_item_id": "Q53926032"
+      },
+      {
+        "comment": "councillor of rio de janeiro",
+        "position_item_id": "Q53934881"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:rio-de-janeiro",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q515",
+    "associations": [
+      {
+        "comment": "mayor of belo horizonte",
+        "position_item_id": "Q53926035"
+      },
+      {
+        "comment": "councillor of belo horizonte",
+        "position_item_id": "Q53935007"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:mg/mun:belo-horizonte",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q515",
+    "associations": [
+      {
+        "comment": "mayor of manaus",
+        "position_item_id": "Q53926036"
+      },
+      {
+        "comment": "councillor of manaus",
+        "position_item_id": "Q53935014"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:am/mun:manaus",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q515",
+    "associations": [
+      {
+        "comment": "mayor of fortaleza",
+        "position_item_id": "Q53926033"
+      },
+      {
+        "comment": "councillor of fortaleza",
+        "position_item_id": "Q53935000"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:ce/mun:fortaleza",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1637706",
+    "associations": [
+      {
+        "comment": "mayor of porto alegre",
+        "position_item_id": "Q53926042"
+      },
+      {
+        "comment": "councillor of porto alegre",
+        "position_item_id": "Q53935050"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rs/mun:porto-alegre",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q515",
+    "associations": [
+      {
+        "comment": "mayor of curitiba",
+        "position_item_id": "Q53926039"
+      },
+      {
+        "comment": "councillor of curitiba",
+        "position_item_id": "Q53935038"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pr/mun:curitiba",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q515",
+    "associations": [
+      {
+        "comment": "mayor of Salvador",
+        "position_item_id": "Q27306390"
+      },
+      {
+        "comment": "Councillor of Salvador",
+        "position_item_id": "Q53934982"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pr/mun:salvador",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1637706",
+    "associations": [
+      {
+        "comment": "mayor of belém",
+        "position_item_id": "Q53926047"
+      },
+      {
+        "comment": "councillor of belém",
+        "position_item_id": "Q53935627"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pa/mun:belem",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of São Luís",
+        "position_item_id": "Q53926065"
+      },
+      {
+        "comment": "councillor of São Luís",
+        "position_item_id": "Q53935641"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:ma/mun:sao-luis",
+      "column": "MS_FB"
+    }
   }
 ]
 
