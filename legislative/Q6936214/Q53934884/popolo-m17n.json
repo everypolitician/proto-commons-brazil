@@ -1,0 +1,150 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Tânia Bastos"
+      },
+      "id": "Q53939223",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53939223"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/vereadorataniabastos"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:pt": "Câmara Municipal do Rio de Janeiro",
+        "lang:en": "Municipal Chamber of Rio de Janeiro"
+      },
+      "id": "Q6936214",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6936214"
+        }
+      ],
+      "area_id": "Q8678",
+      "seat_counts": {
+        "Q53934881": "51"
+      }
+    },
+    {
+      "name": {
+        "lang:pt": "Partido Republicano Brasileiro",
+        "lang:en": "Brazilian Republican Party"
+      },
+      "id": "Q926973",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q926973"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q41428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:rj"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739338",
+        "Q53864925"
+      ],
+      "type": {
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Rio de Janeiro"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q8678",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:rj/mun:rio-de-janeiro"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8678"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53926032",
+        "Q53934881"
+      ],
+      "type": {
+        "lang:pt": "município do Brasil",
+        "lang:en": "municipality of Brazil"
+      },
+      "name": {
+        "lang:pt": "Rio de Janeiro"
+      },
+      "parent_id": "Q41428"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53939223-443364D7-D507-4145-BF51-5BB632E69839",
+      "person_id": "Q53939223",
+      "on_behalf_of_id": "Q926973",
+      "organization_id": "Q6936214",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "conselheiro",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934881",
+      "role": {
+        "lang:en": "Councillor of Rio de Janeiro"
+      }
+    }
+  ]
+}

@@ -127,7 +127,7 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Antônio Carlos Magalhães Neto"
+        "value" : "Antônio Carlos Peixoto de Magalhães Neto"
       },
       "name_pt" : {
         "xml:lang" : "pt",
@@ -150,6 +150,10 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q36947"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "ACMNetoOficial"
       }
     } ]
   }

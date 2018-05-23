@@ -1,0 +1,150 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Milton Leite"
+      },
+      "id": "Q53864959",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53864959"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/VereadorMiltonLeite"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:pt": "Câmara Municipal de São Paulo",
+        "lang:en": "Municipal Chamber of Sao Paulo"
+      },
+      "id": "Q6936217",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6936217"
+        }
+      ],
+      "area_id": "Q174",
+      "seat_counts": {
+        "Q53934877": "55"
+      }
+    },
+    {
+      "name": {
+        "lang:pt": "Democratas",
+        "lang:en": "Democrats"
+      },
+      "id": "Q1185830",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1185830"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp/mun:sao-paulo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24255165",
+        "Q53934877"
+      ],
+      "type": {
+        "lang:pt": "capital",
+        "lang:en": "capital"
+      },
+      "name": {
+        "lang:pt": "São Paulo"
+      },
+      "parent_id": "Q175"
+    },
+    {
+      "id": "Q175",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q175"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739335",
+        "Q53864923"
+      ],
+      "type": {
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "São Paulo"
+      },
+      "parent_id": "Q155"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53864959-80E087BD-E9FC-4404-8EE9-3C1B673D4029",
+      "person_id": "Q53864959",
+      "on_behalf_of_id": "Q1185830",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "conselheiro",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:en": "Councillor of São Paulo"
+      }
+    }
+  ]
+}

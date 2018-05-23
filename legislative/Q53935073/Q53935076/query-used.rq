@@ -7,8 +7,8 @@ SELECT ?statement
        ?start ?end ?facebook
        ?org ?org_pt ?org_en ?org_jurisdiction ?org_seat_count
 WHERE {
-  BIND(wd: as ?role) .
-  BIND(wd:Q10262913 as ?org) .
+  BIND(wd:Q53935075 as ?role) .
+  BIND(wd:Q53935073 as ?org) .
   OPTIONAL {
           ?org rdfs:label ?org_pt
           FILTER(LANG(?org_pt) = "pt")
@@ -53,7 +53,7 @@ OPTIONAL {
           FILTER(LANG(?role_superclass_en) = "en")
         }
   }
-  
+  ?statement pq:P2937 wd:Q53935076 .
   OPTIONAL { ?statement pq:P580 ?start }
   OPTIONAL { ?statement pq:P582 ?end }
   OPTIONAL {
@@ -79,9 +79,5 @@ OPTIONAL {
         }
   }
   OPTIONAL { ?item wdt:P2013 ?facebook }
-  BIND(COALESCE(?start, "1000-01-01T00:00:00Z"^^xsd:dateTime) AS ?start_or_sentinel)
-BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
-FILTER (?end_or_sentinel >= "2018-01-01"^^xsd:dateTime)
-FILTER (?start_or_sentinel <= "2018-12-31"^^xsd:dateTime)
-
-} ORDER BY ?item ?role ?start ?end
+  
+} ORDER BY ?item ?role ?term ?start ?end

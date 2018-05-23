@@ -1,0 +1,150 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "João Salmito Filho"
+      },
+      "id": "Q53939228",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53939228"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/SalmitoOficial"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:pt": "Câmara Municipal de Fortaleza",
+        "lang:en": "Municipal Chamber of Fortaleza"
+      },
+      "id": "Q53934998",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53934998"
+        }
+      ],
+      "area_id": "Q43463",
+      "seat_counts": {
+        "Q53935000": "43"
+      }
+    },
+    {
+      "name": {
+        "lang:pt": "Partido Democrático Trabalhista",
+        "lang:en": "Democratic Labour Party"
+      },
+      "id": "Q1414708",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1414708"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q40123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:ce"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q40123"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739345",
+        "Q53864930"
+      ],
+      "type": {
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Ceará"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q43463",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:ce/mun:fortaleza"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q43463"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53926033",
+        "Q53935000"
+      ],
+      "type": {
+        "lang:pt": "município do Brasil",
+        "lang:en": "municipality of Brazil"
+      },
+      "name": {
+        "lang:pt": "Fortaleza"
+      },
+      "parent_id": "Q40123"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53939228-DBCD6031-3592-4846-BC68-DD58FB6BA36E",
+      "person_id": "Q53939228",
+      "on_behalf_of_id": "Q1414708",
+      "organization_id": "Q53934998",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "conselheiro",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53935000",
+      "role": {
+        "lang:en": "Councillor of Fortaleza"
+      }
+    }
+  ]
+}
