@@ -23,7 +23,20 @@
       }
     ],
     "name_columns": {
-      "lang:pt": "nome",
+      "lang:pt": "nome"
+    }
+  },
+  {
+    "directory": "senate-constituencies",
+    "area_type_wikidata_item_id": "Q53657468",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Brazil",
+        "position_item_id": "Q18964326"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "nome"
     }
   }
 ]
