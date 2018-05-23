@@ -854,7 +854,7 @@
       "lang:pt": "NOME"
     },
     "filter": {
-      "match": "country:br/fed:pr/mun:salvador",
+      "match": "country:br/fed:ba/mun:salvador",
       "column": "MS_FB"
     }
   },
