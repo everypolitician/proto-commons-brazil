@@ -51,7 +51,56 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q39109",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:mg"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q39109"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739337",
+        "Q53864924"
+      ],
+      "type": {
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Minas Gerais"
+      },
+      "parent_id": "Q155"
+    }
   ],
   "memberships": [
     {

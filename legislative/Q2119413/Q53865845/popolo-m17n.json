@@ -187,7 +187,652 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q53657907",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:sp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657907"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "São Paulo"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657910",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:mg"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657910"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Minas Gerais"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657912",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:rj"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657912"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Rio de Janeiro"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657914",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:ba"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657914"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Bahia"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657921",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:rs"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657921"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Rio Grande do Sul"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657927",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:pr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657927"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Paraná"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657929",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:pe"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657929"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Pernambuco"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657932",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:ce"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657932"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Ceará"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:pa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Pará"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657946",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:sc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657946"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Santa Catarina"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657948",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:ma"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657948"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Maranhão"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657950",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:go"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657950"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Goiás"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657952",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:am"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657952"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Amazonas"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657959",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:pb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657959"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Paraíba"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:es"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Espírito Santo"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657969",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:rn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657969"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Rio Grande do Norte"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657971",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:al"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657971"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Alagoas"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657975",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:mt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657975"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Mato Grosso"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657985",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:pi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657985"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Piauí"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657989",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:df"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657989"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Federal District"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657992",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:ms"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657992"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Mato Grosso do Sul"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:se"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Sergipe"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53658005",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:ro"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53658005"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Rondônia"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53658010",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:to"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53658010"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Tocantins"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53658013",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:ac"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53658013"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Acre"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53658016",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:ap"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53658016"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Amapá"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53658018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/senate-ed:rr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53658018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18964326"
+      ],
+      "type": {
+        "lang:en": "constituency of the Federal Senate of Brazil"
+      },
+      "name": {
+        "lang:pt": "Roraima"
+      },
+      "parent_id": "Q155"
+    }
   ],
   "memberships": [
     {

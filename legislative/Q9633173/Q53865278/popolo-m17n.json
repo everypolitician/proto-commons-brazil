@@ -6,7 +6,56 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q38088",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:pb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38088"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739363",
+        "Q53864936"
+      ],
+      "type": {
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Paraíba"
+      },
+      "parent_id": "Q155"
+    }
   ],
   "memberships": [
 

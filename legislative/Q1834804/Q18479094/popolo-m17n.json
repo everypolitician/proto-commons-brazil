@@ -1089,7 +1089,652 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q53657905",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:sp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657905"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "São Paulo"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657908",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:mg"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657908"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Minas Gerais"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657911",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:rj"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657911"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Rio de Janeiro"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657913",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:ba"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657913"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Bahia"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657915",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:rs"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657915"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Rio Grande do Sul"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657926",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:pr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657926"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Paraná"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:pe"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Pernambuco"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657931",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:ce"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657931"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Ceará"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657933",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:pa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657933"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Pará"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657942",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:sc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657942"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Santa Catarina"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657947",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:ma"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657947"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Maranhão"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657949",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:go"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657949"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Goiás"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657951",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:am"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657951"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Amazonas"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657953",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:pb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657953"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Paraíba"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657964",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:es"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657964"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Espírito Santo"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657968",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:rn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657968"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Rio Grande do Norte"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:al"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657970"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Alagoas"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657973",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:mt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657973"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Mato Grosso"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:pi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Piauí"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657987",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:df"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657987"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Federal District"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657991",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:ms"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657991"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Mato Grosso do Sul"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657993",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:se"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657993"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Sergipe"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53657996",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:ro"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53657996"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Rondônia"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53658009",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:to"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53658009"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Tocantins"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53658012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:ac"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53658012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Acre"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53658014",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:ap"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53658014"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Amapá"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q53658017",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/chamber-ed:rr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53658017"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058725"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Brazil"
+      },
+      "name": {
+        "lang:pt": "Roraima"
+      },
+      "parent_id": "Q155"
+    }
   ],
   "memberships": [
     {
