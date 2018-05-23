@@ -2,24 +2,19 @@
   "persons": [
     {
       "name": {
-        "lang:pt": "Roberto Cláudio",
-        "lang:en": "Roberto Cláudio Rodrigues Bezerra"
+        "lang:en": "Aladilce Souza"
       },
-      "id": "Q7351650",
+      "id": "Q53939225",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q7351650"
+          "identifier": "Q53939225"
         }
       ],
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/robertoclaudio40"
-        },
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/prefeitorobertoclaudio"
+          "url": "https://www.facebook.com/aladilcesouza"
         }
       ]
     }
@@ -27,29 +22,33 @@
   "organizations": [
     {
       "name": {
-        "lang:en": "municipal prefecture of Fortaleza"
+        "lang:pt": "Câmara Municipal de Salvador",
+        "lang:en": "Municipal Chamber of Salvador"
       },
-      "id": "Q53930902",
+      "id": "Q53934981",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q53930902"
+          "identifier": "Q53934981"
         }
       ],
-      "area_id": "Q43463"
+      "area_id": "Q36947",
+      "seat_counts": {
+        "Q53934982": "43"
+      }
     },
     {
       "name": {
-        "lang:pt": "Partido Socialista Brasileiro",
-        "lang:en": "Brazilian Socialist Party"
+        "lang:pt": "Partido Comunista do Brasil",
+        "lang:en": "Communist Party of Brazil"
       },
-      "id": "Q2054789",
+      "id": "Q504000",
       "classification": "party",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q2054789"
+          "identifier": "Q504000"
         }
       ]
     }
@@ -81,70 +80,70 @@
       "parent_id": null
     },
     {
-      "id": "Q40123",
+      "id": "Q36947",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:br/fed:ce"
+          "identifier": "country:br/fed:ba/mun:salvador"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q40123"
+          "identifier": "Q36947"
         }
       ],
       "associated_wikidata_positions": [
-        "Q53739345",
-        "Q53864930"
-      ],
-      "type": {
-        "lang:pt": "unidade federativa do Brasil",
-        "lang:en": "Federative unit of Brazil"
-      },
-      "name": {
-        "lang:pt": "Ceará"
-      },
-      "parent_id": "Q155"
-    },
-    {
-      "id": "Q43463",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:br/fed:ce/mun:fortaleza"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q43463"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q53926033",
-        "Q53935000"
+        "Q27306390",
+        "Q53934982"
       ],
       "type": {
         "lang:pt": "município do Brasil",
         "lang:en": "municipality of Brazil"
       },
       "name": {
-        "lang:pt": "Fortaleza"
+        "lang:pt": "Salvador"
       },
-      "parent_id": "Q40123"
+      "parent_id": "Q40430"
+    },
+    {
+      "id": "Q40430",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:ba"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q40430"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739339",
+        "Q53864926"
+      ],
+      "type": {
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Bahia"
+      },
+      "parent_id": "Q155"
     }
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q7351650-D4F099B7-5286-472F-9770-05D15964BB12",
-      "person_id": "Q7351650",
-      "on_behalf_of_id": "Q2054789",
-      "organization_id": "Q53930902",
-      "area_id": "Q43463",
-      "role_superclass_code": "Q53926033",
+      "id": "http://www.wikidata.org/entity/statement/Q53939225-B42506A0-910F-4690-AD5E-D54DB0ABA7A7",
+      "person_id": "Q53939225",
+      "on_behalf_of_id": "Q504000",
+      "organization_id": "Q53934981",
+      "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:en": "Mayor of Fortaleza"
+        "lang:pt": "conselheiro",
+        "lang:en": "councillor"
       },
-      "role_code": "Q53926033",
+      "role_code": "Q53934982",
       "role": {
-        "lang:en": "Mayor of Fortaleza"
+        "lang:en": "Councillor of Salvador"
       }
     }
   ]

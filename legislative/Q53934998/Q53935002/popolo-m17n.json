@@ -2,20 +2,19 @@
   "persons": [
     {
       "name": {
-        "lang:pt": "Alexandre Kalil",
-        "lang:en": "Alexandre Kalil"
+        "lang:en": "João Salmito Filho"
       },
-      "id": "Q16501287",
+      "id": "Q53939228",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q16501287"
+          "identifier": "Q53939228"
         }
       ],
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/AlexandreKalilOficial"
+          "url": "https://www.facebook.com/SalmitoOficial"
         }
       ]
     }
@@ -23,17 +22,35 @@
   "organizations": [
     {
       "name": {
-        "lang:en": "municipal prefecture of Belo Horizonte"
+        "lang:pt": "Câmara Municipal de Fortaleza",
+        "lang:en": "Municipal Chamber of Fortaleza"
       },
-      "id": "Q30263897",
+      "id": "Q53934998",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q30263897"
+          "identifier": "Q53934998"
         }
       ],
-      "area_id": "Q42800"
+      "area_id": "Q43463",
+      "seat_counts": {
+        "Q53935000": "43"
+      }
+    },
+    {
+      "name": {
+        "lang:pt": "Partido Democrático Trabalhista",
+        "lang:en": "Democratic Labour Party"
+      },
+      "id": "Q1414708",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1414708"
+        }
+      ]
     }
   ],
   "areas": [
@@ -63,69 +80,70 @@
       "parent_id": null
     },
     {
-      "id": "Q39109",
+      "id": "Q40123",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:br/fed:mg"
+          "identifier": "country:br/fed:ce"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q39109"
+          "identifier": "Q40123"
         }
       ],
       "associated_wikidata_positions": [
-        "Q53739337",
-        "Q53864924"
+        "Q53739345",
+        "Q53864930"
       ],
       "type": {
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
       "name": {
-        "lang:pt": "Minas Gerais"
+        "lang:pt": "Ceará"
       },
       "parent_id": "Q155"
     },
     {
-      "id": "Q42800",
+      "id": "Q43463",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:br/fed:mg/mun:belo-horizonte"
+          "identifier": "country:br/fed:ce/mun:fortaleza"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q42800"
+          "identifier": "Q43463"
         }
       ],
       "associated_wikidata_positions": [
-        "Q53926035",
-        "Q53935007"
+        "Q53926033",
+        "Q53935000"
       ],
       "type": {
         "lang:pt": "município do Brasil",
         "lang:en": "municipality of Brazil"
       },
       "name": {
-        "lang:pt": "Belo Horizonte"
+        "lang:pt": "Fortaleza"
       },
-      "parent_id": "Q39109"
+      "parent_id": "Q40123"
     }
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16501287-6C98DBDE-D2EF-42D0-A914-69232CC3B1F8",
-      "person_id": "Q16501287",
-      "organization_id": "Q30263897",
-      "area_id": "Q42800",
-      "role_superclass_code": "Q53926035",
+      "id": "http://www.wikidata.org/entity/statement/Q53939228-DBCD6031-3592-4846-BC68-DD58FB6BA36E",
+      "person_id": "Q53939228",
+      "on_behalf_of_id": "Q1414708",
+      "organization_id": "Q53934998",
+      "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:en": "Mayor of Belo Horizonte"
+        "lang:pt": "conselheiro",
+        "lang:en": "councillor"
       },
-      "role_code": "Q53926035",
+      "role_code": "Q53935000",
       "role": {
-        "lang:en": "Mayor of Belo Horizonte"
+        "lang:en": "Councillor of Fortaleza"
       }
     }
   ]

@@ -2,20 +2,19 @@
   "persons": [
     {
       "name": {
-        "lang:pt": "Alexandre Kalil",
-        "lang:en": "Alexandre Kalil"
+        "lang:en": "Tânia Bastos"
       },
-      "id": "Q16501287",
+      "id": "Q53939223",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q16501287"
+          "identifier": "Q53939223"
         }
       ],
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/AlexandreKalilOficial"
+          "url": "https://www.facebook.com/vereadorataniabastos"
         }
       ]
     }
@@ -23,17 +22,35 @@
   "organizations": [
     {
       "name": {
-        "lang:en": "municipal prefecture of Belo Horizonte"
+        "lang:pt": "Câmara Municipal do Rio de Janeiro",
+        "lang:en": "Municipal Chamber of Rio de Janeiro"
       },
-      "id": "Q30263897",
+      "id": "Q6936214",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q30263897"
+          "identifier": "Q6936214"
         }
       ],
-      "area_id": "Q42800"
+      "area_id": "Q8678",
+      "seat_counts": {
+        "Q53934881": "51"
+      }
+    },
+    {
+      "name": {
+        "lang:pt": "Partido Republicano Brasileiro",
+        "lang:en": "Brazilian Republican Party"
+      },
+      "id": "Q926973",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q926973"
+        }
+      ]
     }
   ],
   "areas": [
@@ -63,69 +80,70 @@
       "parent_id": null
     },
     {
-      "id": "Q39109",
+      "id": "Q41428",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:br/fed:mg"
+          "identifier": "country:br/fed:rj"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q39109"
+          "identifier": "Q41428"
         }
       ],
       "associated_wikidata_positions": [
-        "Q53739337",
-        "Q53864924"
+        "Q53739338",
+        "Q53864925"
       ],
       "type": {
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
       "name": {
-        "lang:pt": "Minas Gerais"
+        "lang:pt": "Rio de Janeiro"
       },
       "parent_id": "Q155"
     },
     {
-      "id": "Q42800",
+      "id": "Q8678",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:br/fed:mg/mun:belo-horizonte"
+          "identifier": "country:br/fed:rj/mun:rio-de-janeiro"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q42800"
+          "identifier": "Q8678"
         }
       ],
       "associated_wikidata_positions": [
-        "Q53926035",
-        "Q53935007"
+        "Q53926032",
+        "Q53934881"
       ],
       "type": {
         "lang:pt": "município do Brasil",
         "lang:en": "municipality of Brazil"
       },
       "name": {
-        "lang:pt": "Belo Horizonte"
+        "lang:pt": "Rio de Janeiro"
       },
-      "parent_id": "Q39109"
+      "parent_id": "Q41428"
     }
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16501287-6C98DBDE-D2EF-42D0-A914-69232CC3B1F8",
-      "person_id": "Q16501287",
-      "organization_id": "Q30263897",
-      "area_id": "Q42800",
-      "role_superclass_code": "Q53926035",
+      "id": "http://www.wikidata.org/entity/statement/Q53939223-443364D7-D507-4145-BF51-5BB632E69839",
+      "person_id": "Q53939223",
+      "on_behalf_of_id": "Q926973",
+      "organization_id": "Q6936214",
+      "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:en": "Mayor of Belo Horizonte"
+        "lang:pt": "conselheiro",
+        "lang:en": "councillor"
       },
-      "role_code": "Q53926035",
+      "role_code": "Q53934881",
       "role": {
-        "lang:en": "Mayor of Belo Horizonte"
+        "lang:en": "Councillor of Rio de Janeiro"
       }
     }
   ]
