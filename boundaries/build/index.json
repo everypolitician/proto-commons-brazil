@@ -12,6 +12,19 @@
       "lang:pt": "name_pt",
       "lang:en": "name_en"
     }
+  },
+  {
+    "directory": "chamber-constituencies",
+    "area_type_wikidata_item_id": "Q53657274",
+    "associations": [
+      {
+        "comment": "member of the Chamber of Deputies of Brazil",
+        "position_item_id": "Q20058725"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "nome",
+    }
   }
 ]
 
