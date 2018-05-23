@@ -38,6 +38,573 @@
     "name_columns": {
       "lang:pt": "nome"
     }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of goias",
+        "position_item_id": "Q53739360"
+      },
+      {
+        "comment": "state deputy of goiás",
+        "position_item_id": "Q53864934"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:go",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of sao paulo",
+        "position_item_id": "Q53739335"
+      },
+      {
+        "comment": "state deputy of são paulo",
+        "position_item_id": "Q53864923"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:sp",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of pernambuco",
+        "position_item_id": "Q53739344"
+      },
+      {
+        "comment": "state deputy of pernambuco",
+        "position_item_id": "Q53864929"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:pe",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of acre",
+        "position_item_id": "Q47520037"
+      },
+      {
+        "comment": "state deputy of acre",
+        "position_item_id": "Q53864947"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:ac",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of amazonas",
+        "position_item_id": "Q53739362"
+      },
+      {
+        "comment": "state deputy of amazonas",
+        "position_item_id": "Q53864935"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:am",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of maranhao",
+        "position_item_id": "Q53739358"
+      },
+      {
+        "comment": "state deputy of maranhão",
+        "position_item_id": "Q53864933"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:ma",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of para",
+        "position_item_id": "Q53739346"
+      },
+      {
+        "comment": "state deputy of pará",
+        "position_item_id": "Q53864931"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:pa",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of rondonia",
+        "position_item_id": "Q53739384"
+      },
+      {
+        "comment": "state deputy of rondônia",
+        "position_item_id": "Q53864945"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:ro",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of tocantins",
+        "position_item_id": "Q53739385"
+      },
+      {
+        "comment": "state deputy of tocantins",
+        "position_item_id": "Q53864946"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:to",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q27495502",
+    "associations": [
+      {
+        "comment": "governor of the federal district",
+        "position_item_id": "Q53739380"
+      },
+      {
+        "comment": "deputy of the federal district",
+        "position_item_id": "Q53864942"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:df",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of mato grosso do sul",
+        "position_item_id": "Q53739381"
+      },
+      {
+        "comment": "state deputy of mato grosso do sul",
+        "position_item_id": "Q53864943"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:ms",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of minas gerais",
+        "position_item_id": "Q53739337"
+      },
+      {
+        "comment": "state deputy of minas gerais",
+        "position_item_id": "Q53864924"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:mg",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of mato grosso",
+        "position_item_id": "Q53739368"
+      },
+      {
+        "comment": "state deputy of mato grosso",
+        "position_item_id": "Q53864940"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:mt",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of rio grande do sul",
+        "position_item_id": "Q53739340"
+      },
+      {
+        "comment": "state deputy of rio grande do sul",
+        "position_item_id": "Q53864927"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:rs",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of parana",
+        "position_item_id": "Q53739343"
+      },
+      {
+        "comment": "state deputy of paraná",
+        "position_item_id": "Q53864928"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:pr",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of santa catarina",
+        "position_item_id": "Q53739354"
+      },
+      {
+        "comment": "state deputy of santa catarina",
+        "position_item_id": "Q53864932"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:sc",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of ceara",
+        "position_item_id": "Q53739345"
+      },
+      {
+        "comment": "state deputy of ceará",
+        "position_item_id": "Q53864930"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:ce",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of piaui",
+        "position_item_id": "Q53739375"
+      },
+      {
+        "comment": "state deputy of piauí",
+        "position_item_id": "Q53864941"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:pi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of alagoas",
+        "position_item_id": "Q53739367"
+      },
+      {
+        "comment": "state deputy of alagoas",
+        "position_item_id": "Q53864939"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:al",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of bahia",
+        "position_item_id": "Q53739339"
+      },
+      {
+        "comment": "state deputy of bahia",
+        "position_item_id": "Q53864926"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:ba",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of espirito santo",
+        "position_item_id": "Q53739364"
+      },
+      {
+        "comment": "state deputy of espírito santo",
+        "position_item_id": "Q53864937"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:es",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of paraiba",
+        "position_item_id": "Q53739363"
+      },
+      {
+        "comment": "state deputy of paraíba",
+        "position_item_id": "Q53864936"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:pb",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of rio de janeiro",
+        "position_item_id": "Q53739338"
+      },
+      {
+        "comment": "state deputy of rio de janeiro",
+        "position_item_id": "Q53864925"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:rj",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of rio grande do norte",
+        "position_item_id": "Q53739366"
+      },
+      {
+        "comment": "state deputy of rio grande do norte",
+        "position_item_id": "Q53864938"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:rn",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of sergipe",
+        "position_item_id": "Q53739383"
+      },
+      {
+        "comment": "state deputy of sergipe",
+        "position_item_id": "Q53864944"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:se",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of roraima",
+        "position_item_id": "Q53739390"
+      },
+      {
+        "comment": "state deputy of roraima",
+        "position_item_id": "Q53864949"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:rr",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q485258",
+    "associations": [
+      {
+        "comment": "governor of the state of amapa",
+        "position_item_id": "Q53739389"
+      },
+      {
+        "comment": "state deputy of amapá",
+        "position_item_id": "Q53864948"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:br/fed:ap",
+      "column": "MS_FB"
+    }
   }
 ]
 
