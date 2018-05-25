@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Floriano Peixoto",
         "lang:pt": "Floriano Peixoto",
         "lang:en": "Floriano Peixoto"
       },
@@ -18,6 +19,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Tancredo Neves",
         "lang:pt": "Tancredo Neves",
         "lang:en": "Tancredo Neves"
       },
@@ -66,6 +68,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Artur da Costa e Silva",
         "lang:pt": "Costa e Silva",
         "lang:en": "Artur da Costa e Silva"
       },
@@ -130,6 +133,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Michel Temer",
         "lang:pt": "Michel Temer",
         "lang:en": "Michel Temer"
       },
@@ -151,6 +155,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "Ministério do Brasil",
         "lang:pt": "Ministério do Brasil",
         "lang:en": "cabinet of Brazil"
       },
@@ -166,6 +171,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Movimento Democrático Brasileiro",
         "lang:pt": "Movimento Democrático Brasileiro",
         "lang:en": "Democratic Movement Party"
       },
@@ -180,6 +186,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Aliança Renovadora Nacionalista",
         "lang:pt": "Aliança Renovadora Nacional",
         "lang:en": "National Renewal Alliance Party"
       },
@@ -238,6 +245,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -256,11 +264,13 @@
       "area_id": "Q155",
       "role_superclass_code": "Q5176750",
       "role_superclass": {
+        "lang:pt-br": "Presidente do Brasil",
         "lang:pt": "Presidente do Brasil",
         "lang:en": "President of Brazil"
       },
       "role_code": "Q5176750",
       "role": {
+        "lang:pt-br": "Presidente do Brasil",
         "lang:pt": "Presidente do Brasil",
         "lang:en": "President of Brazil"
       }
@@ -273,11 +283,13 @@
       "area_id": "Q155",
       "role_superclass_code": "Q5176750",
       "role_superclass": {
+        "lang:pt-br": "Presidente do Brasil",
         "lang:pt": "Presidente do Brasil",
         "lang:en": "President of Brazil"
       },
       "role_code": "Q5176750",
       "role": {
+        "lang:pt-br": "Presidente do Brasil",
         "lang:pt": "Presidente do Brasil",
         "lang:en": "President of Brazil"
       }
@@ -290,11 +302,13 @@
       "area_id": "Q155",
       "role_superclass_code": "Q5176750",
       "role_superclass": {
+        "lang:pt-br": "Presidente do Brasil",
         "lang:pt": "Presidente do Brasil",
         "lang:en": "President of Brazil"
       },
       "role_code": "Q5176750",
       "role": {
+        "lang:pt-br": "Presidente do Brasil",
         "lang:pt": "Presidente do Brasil",
         "lang:en": "President of Brazil"
       }
@@ -307,11 +321,13 @@
       "area_id": "Q155",
       "role_superclass_code": "Q5176750",
       "role_superclass": {
+        "lang:pt-br": "Presidente do Brasil",
         "lang:pt": "Presidente do Brasil",
         "lang:en": "President of Brazil"
       },
       "role_code": "Q5176750",
       "role": {
+        "lang:pt-br": "Presidente do Brasil",
         "lang:pt": "Presidente do Brasil",
         "lang:en": "President of Brazil"
       }
@@ -324,11 +340,13 @@
       "area_id": "Q155",
       "role_superclass_code": "Q5176750",
       "role_superclass": {
+        "lang:pt-br": "Presidente do Brasil",
         "lang:pt": "Presidente do Brasil",
         "lang:en": "President of Brazil"
       },
       "role_code": "Q5176750",
       "role": {
+        "lang:pt-br": "Presidente do Brasil",
         "lang:pt": "Presidente do Brasil",
         "lang:en": "President of Brazil"
       }
@@ -341,11 +359,13 @@
       "area_id": "Q155",
       "role_superclass_code": "Q5176750",
       "role_superclass": {
+        "lang:pt-br": "Presidente do Brasil",
         "lang:pt": "Presidente do Brasil",
         "lang:en": "President of Brazil"
       },
       "role_code": "Q5176750",
       "role": {
+        "lang:pt-br": "Presidente do Brasil",
         "lang:pt": "Presidente do Brasil",
         "lang:en": "President of Brazil"
       }
@@ -358,11 +378,13 @@
       "area_id": "Q155",
       "role_superclass_code": "Q5176750",
       "role_superclass": {
+        "lang:pt-br": "Presidente do Brasil",
         "lang:pt": "Presidente do Brasil",
         "lang:en": "President of Brazil"
       },
       "role_code": "Q5176750",
       "role": {
+        "lang:pt-br": "Presidente do Brasil",
         "lang:pt": "Presidente do Brasil",
         "lang:en": "President of Brazil"
       }
@@ -375,11 +397,13 @@
       "area_id": "Q155",
       "role_superclass_code": "Q5176750",
       "role_superclass": {
+        "lang:pt-br": "Presidente do Brasil",
         "lang:pt": "Presidente do Brasil",
         "lang:en": "President of Brazil"
       },
       "role_code": "Q5176750",
       "role": {
+        "lang:pt-br": "Presidente do Brasil",
         "lang:pt": "Presidente do Brasil",
         "lang:en": "President of Brazil"
       }
@@ -393,11 +417,13 @@
       "start_date": "2016-08-31",
       "role_superclass_code": "Q5176750",
       "role_superclass": {
+        "lang:pt-br": "Presidente do Brasil",
         "lang:pt": "Presidente do Brasil",
         "lang:en": "President of Brazil"
       },
       "role_code": "Q5176750",
       "role": {
+        "lang:pt-br": "Presidente do Brasil",
         "lang:pt": "Presidente do Brasil",
         "lang:en": "President of Brazil"
       }

@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Fernando Pimentel",
         "lang:pt": "Fernando Pimentel",
         "lang:en": "Fernando Pimentel"
       },
@@ -23,6 +24,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "cabinete do governador do estado de Minas Gerais",
         "lang:en": "cabinet of the governor of the state of Minas Gerais"
       },
       "id": "Q53738323",
@@ -37,6 +39,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido dos Trabalhadores",
         "lang:pt": "Partido dos Trabalhadores",
         "lang:en": "Workers' Party"
       },
@@ -67,6 +70,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -93,6 +97,7 @@
         "Q53864924"
       ],
       "type": {
+        "lang:pt-br": "unidades federativas",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -111,10 +116,12 @@
       "area_id": "Q39109",
       "role_superclass_code": "Q53739337",
       "role_superclass": {
+        "lang:pt-br": "governador do estado de Minas Gerais",
         "lang:en": "governor of the state of Minas Gerais"
       },
       "role_code": "Q53739337",
       "role": {
+        "lang:pt-br": "governador do estado de Minas Gerais",
         "lang:en": "governor of the state of Minas Gerais"
       }
     }

@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Antônio Carlos Magalhães",
         "lang:pt": "Antônio Carlos Magalhães",
         "lang:en": "Antônio Carlos Magalhães"
       },
@@ -18,6 +19,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Antônio Carlos Peixoto de Magalhães Neto",
         "lang:pt": "Antônio Carlos Magalhães Neto",
         "lang:en": "Antônio Carlos Peixoto de Magalhães Neto"
       },
@@ -39,6 +41,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "prefeitura municipal de Salvador",
         "lang:en": "municipal prefecture of Salvador"
       },
       "id": "Q53930901",
@@ -69,6 +72,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -95,6 +99,7 @@
         "Q53934982"
       ],
       "type": {
+        "lang:pt-br": "município do Brasil",
         "lang:pt": "município do Brasil",
         "lang:en": "municipality of Brazil"
       },
@@ -120,6 +125,7 @@
         "Q53864926"
       ],
       "type": {
+        "lang:pt-br": "unidades federativas",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -137,11 +143,13 @@
       "area_id": "Q36947",
       "role_superclass_code": "Q27306390",
       "role_superclass": {
+        "lang:pt-br": "prefeito de Salvador",
         "lang:pt": "prefeito de Salvador",
         "lang:en": "mayor of Salvador"
       },
       "role_code": "Q27306390",
       "role": {
+        "lang:pt-br": "prefeito de Salvador",
         "lang:pt": "prefeito de Salvador",
         "lang:en": "mayor of Salvador"
       }
@@ -153,11 +161,13 @@
       "area_id": "Q36947",
       "role_superclass_code": "Q27306390",
       "role_superclass": {
+        "lang:pt-br": "prefeito de Salvador",
         "lang:pt": "prefeito de Salvador",
         "lang:en": "mayor of Salvador"
       },
       "role_code": "Q27306390",
       "role": {
+        "lang:pt-br": "prefeito de Salvador",
         "lang:pt": "prefeito de Salvador",
         "lang:en": "mayor of Salvador"
       }

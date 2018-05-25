@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Luiza Maia",
         "lang:pt": "Luiza Maia",
         "lang:en": "Luiza Maia"
       },
@@ -23,6 +24,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "assembleia legislativa do estado da Bahia",
         "lang:pt": "Assembleia Legislativa da Bahia",
         "lang:en": "Legislative Assembly of Bahia"
       },
@@ -41,6 +43,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido dos Trabalhadores",
         "lang:pt": "Partido dos Trabalhadores",
         "lang:en": "Workers' Party"
       },
@@ -71,6 +74,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -97,6 +101,7 @@
         "Q53864926"
       ],
       "type": {
+        "lang:pt-br": "unidades federativas",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -119,6 +124,7 @@
       },
       "role_code": "Q53864926",
       "role": {
+        "lang:pt-br": "deutado estadual de Bahia",
         "lang:en": "state deputy of Bahia"
       }
     }

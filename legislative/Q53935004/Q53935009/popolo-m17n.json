@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Henrique Braga",
         "lang:en": "Henrique Braga"
       },
       "id": "Q53939229",
@@ -22,6 +23,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "Câmara Municipal do Belo Horizonte",
         "lang:pt": "Câmara Municipal de Belo Horizonte",
         "lang:en": "Municipal Chamber of Belo Horizonte"
       },
@@ -40,6 +42,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
         "lang:pt": "Partido da Social Democracia Brasileira",
         "lang:en": "Brazilian Social Democracy Party"
       },
@@ -70,6 +73,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -96,6 +100,7 @@
         "Q53864924"
       ],
       "type": {
+        "lang:pt-br": "unidades federativas",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -121,6 +126,7 @@
         "Q53935007"
       ],
       "type": {
+        "lang:pt-br": "município do Brasil",
         "lang:pt": "município do Brasil",
         "lang:en": "municipality of Brazil"
       },
@@ -143,6 +149,7 @@
       },
       "role_code": "Q53935007",
       "role": {
+        "lang:pt-br": "Vereador de Belo Horizonte",
         "lang:en": "Councillor of Belo Horizonte"
       }
     }

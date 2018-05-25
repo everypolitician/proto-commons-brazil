@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "José Ivo Sartori",
         "lang:pt": "José Ivo Sartori",
         "lang:en": "José Ivo Sartori"
       },
@@ -27,6 +28,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "cabinete do governador do estado do Rio Grande do Sul",
         "lang:en": "cabinet of the governor of the state of Rio Grande do Sul"
       },
       "id": "Q53738329",
@@ -41,6 +43,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Movimento Democrático Brasileiro",
         "lang:pt": "Movimento Democrático Brasileiro",
         "lang:en": "Democratic Movement Party"
       },
@@ -71,6 +74,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -97,6 +101,7 @@
         "Q53864927"
       ],
       "type": {
+        "lang:pt-br": "unidades federativas",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -115,10 +120,12 @@
       "area_id": "Q40030",
       "role_superclass_code": "Q53739340",
       "role_superclass": {
+        "lang:pt-br": "governador do estado do Rio Grande do Sul",
         "lang:en": "governor of the state of Rio Grande do Sul"
       },
       "role_code": "Q53739340",
       "role": {
+        "lang:pt-br": "governador do estado do Rio Grande do Sul",
         "lang:en": "governor of the state of Rio Grande do Sul"
       }
     }

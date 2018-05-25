@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Aladilce Souza",
         "lang:en": "Aladilce Souza"
       },
       "id": "Q53939225",
@@ -22,6 +23,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "Câmara Municipal de Salvador",
         "lang:pt": "Câmara Municipal de Salvador",
         "lang:en": "Municipal Chamber of Salvador"
       },
@@ -40,6 +42,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido Comunista do Brasil",
         "lang:pt": "Partido Comunista do Brasil",
         "lang:en": "Communist Party of Brazil"
       },
@@ -70,6 +73,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -96,6 +100,7 @@
         "Q53934982"
       ],
       "type": {
+        "lang:pt-br": "município do Brasil",
         "lang:pt": "município do Brasil",
         "lang:en": "municipality of Brazil"
       },
@@ -121,6 +126,7 @@
         "Q53864926"
       ],
       "type": {
+        "lang:pt-br": "unidades federativas",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -143,6 +149,7 @@
       },
       "role_code": "Q53934982",
       "role": {
+        "lang:pt-br": "Vereador de Salvador",
         "lang:en": "Councillor of Salvador"
       }
     }

@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Roberto Cláudio Rodrigues Bezerra",
         "lang:pt": "Roberto Cláudio",
         "lang:en": "Roberto Cláudio Rodrigues Bezerra"
       },
@@ -27,6 +28,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "prefeitura municipal de Fortaleza",
         "lang:en": "municipal prefecture of Fortaleza"
       },
       "id": "Q53930902",
@@ -41,6 +43,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido Socialista Brasileiro",
         "lang:pt": "Partido Socialista Brasileiro",
         "lang:en": "Brazilian Socialist Party"
       },
@@ -71,6 +74,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -97,6 +101,7 @@
         "Q53864930"
       ],
       "type": {
+        "lang:pt-br": "unidades federativas",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -122,6 +127,7 @@
         "Q53935000"
       ],
       "type": {
+        "lang:pt-br": "município do Brasil",
         "lang:pt": "município do Brasil",
         "lang:en": "municipality of Brazil"
       },
@@ -140,10 +146,12 @@
       "area_id": "Q43463",
       "role_superclass_code": "Q53926033",
       "role_superclass": {
+        "lang:pt-br": "Prefeito de Fortaleza",
         "lang:en": "Mayor of Fortaleza"
       },
       "role_code": "Q53926033",
       "role": {
+        "lang:pt-br": "Prefeito de Fortaleza",
         "lang:en": "Mayor of Fortaleza"
       }
     }

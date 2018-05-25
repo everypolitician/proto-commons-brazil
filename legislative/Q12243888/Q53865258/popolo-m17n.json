@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Gustavo Corrêa",
         "lang:pt": "Gustavo de Faria Dias Corrêa",
         "lang:en": "Gustavo Corrêa"
       },
@@ -23,6 +24,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "assembleia legislativa do estado de Minas Gerais",
         "lang:pt": "Assembleia Legislativa do Estado de Minas Gerais",
         "lang:en": "Legislative Assembly of Minas Gerais"
       },
@@ -41,6 +43,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Democratas",
         "lang:pt": "Democratas",
         "lang:en": "Democrats"
       },
@@ -71,6 +74,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -97,6 +101,7 @@
         "Q53864924"
       ],
       "type": {
+        "lang:pt-br": "unidades federativas",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -119,6 +124,7 @@
       },
       "role_code": "Q53864924",
       "role": {
+        "lang:pt-br": "deutado estadual de Minas Gerais",
         "lang:en": "state deputy of Minas Gerais"
       }
     }

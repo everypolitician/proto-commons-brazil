@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Alexandre Kalil",
         "lang:pt": "Alexandre Kalil",
         "lang:en": "Alexandre Kalil"
       },
@@ -23,6 +24,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "prefeitura municipal de Belo Horizonte",
         "lang:en": "municipal prefecture of Belo Horizonte"
       },
       "id": "Q30263897",
@@ -53,6 +55,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -79,6 +82,7 @@
         "Q53864924"
       ],
       "type": {
+        "lang:pt-br": "unidades federativas",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -104,6 +108,7 @@
         "Q53935007"
       ],
       "type": {
+        "lang:pt-br": "município do Brasil",
         "lang:pt": "município do Brasil",
         "lang:en": "municipality of Brazil"
       },
@@ -121,10 +126,12 @@
       "area_id": "Q42800",
       "role_superclass_code": "Q53926035",
       "role_superclass": {
+        "lang:pt-br": "Prefeito de Belo Horizonte",
         "lang:en": "Mayor of Belo Horizonte"
       },
       "role_code": "Q53926035",
       "role": {
+        "lang:pt-br": "Prefeito de Belo Horizonte",
         "lang:en": "Mayor of Belo Horizonte"
       }
     }

@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Milton Leite",
         "lang:en": "Milton Leite"
       },
       "id": "Q53864959",
@@ -22,6 +23,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "Câmara Municipal de São Paulo",
         "lang:pt": "Câmara Municipal de São Paulo",
         "lang:en": "Municipal Chamber of Sao Paulo"
       },
@@ -40,6 +42,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Democratas",
         "lang:pt": "Democratas",
         "lang:en": "Democrats"
       },
@@ -70,6 +73,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -96,6 +100,7 @@
         "Q53934877"
       ],
       "type": {
+        "lang:pt-br": "capital",
         "lang:pt": "capital",
         "lang:en": "capital"
       },
@@ -121,6 +126,7 @@
         "Q53864923"
       ],
       "type": {
+        "lang:pt-br": "unidades federativas",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -143,6 +149,7 @@
       },
       "role_code": "Q53934877",
       "role": {
+        "lang:pt-br": "Vereador de São Paulo",
         "lang:en": "Councillor of São Paulo"
       }
     }

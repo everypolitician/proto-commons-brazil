@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Lindbergh Farias",
         "lang:pt": "Lindberg Farias",
         "lang:en": "Lindbergh Farias"
       },
@@ -21,6 +22,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Ronaldo Caiado",
         "lang:pt": "Ronaldo Caiado",
         "lang:en": "Ronaldo Caiado"
       },
@@ -40,6 +42,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Simone Tebet",
         "lang:pt": "Simone Tebet",
         "lang:en": "Simone Tebet"
       },
@@ -59,6 +62,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Paulo Bauer",
         "lang:pt": "Paulo Bauer",
         "lang:en": "Paulo Bauer"
       },
@@ -78,6 +82,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Vanessa Grazziotin",
         "lang:pt": "Vanessa Grazziotin",
         "lang:en": "Vanessa Grazziotin"
       },
@@ -99,6 +104,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "Senado Federal",
         "lang:pt": "Senado Federal do Brasil",
         "lang:en": "Federal Senate of Brazil"
       },
@@ -117,6 +123,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Democratas",
         "lang:pt": "Democratas",
         "lang:en": "Democrats"
       },
@@ -131,6 +138,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Movimento Democrático Brasileiro",
         "lang:pt": "Movimento Democrático Brasileiro",
         "lang:en": "Democratic Movement Party"
       },
@@ -145,6 +153,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
         "lang:pt": "Partido da Social Democracia Brasileira",
         "lang:en": "Brazilian Social Democracy Party"
       },
@@ -159,6 +168,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido Comunista do Brasil",
         "lang:pt": "Partido Comunista do Brasil",
         "lang:en": "Communist Party of Brazil"
       },
@@ -173,6 +183,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido dos Trabalhadores",
         "lang:pt": "Partido dos Trabalhadores",
         "lang:en": "Workers' Party"
       },
@@ -203,6 +214,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -843,11 +855,13 @@
       "area_id": "Q53657912",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
+        "lang:pt-br": "Senador",
         "lang:pt": "senador",
         "lang:en": "senator"
       },
       "role_code": "Q18964326",
       "role": {
+        "lang:pt-br": "Senador",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -859,11 +873,13 @@
       "area_id": "Q53657950",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
+        "lang:pt-br": "Senador",
         "lang:pt": "senador",
         "lang:en": "senator"
       },
       "role_code": "Q18964326",
       "role": {
+        "lang:pt-br": "Senador",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -875,11 +891,13 @@
       "area_id": "Q53657992",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
+        "lang:pt-br": "Senador",
         "lang:pt": "senador",
         "lang:en": "senator"
       },
       "role_code": "Q18964326",
       "role": {
+        "lang:pt-br": "Senador",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -891,11 +909,13 @@
       "area_id": "Q53657946",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
+        "lang:pt-br": "Senador",
         "lang:pt": "senador",
         "lang:en": "senator"
       },
       "role_code": "Q18964326",
       "role": {
+        "lang:pt-br": "Senador",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -907,11 +927,13 @@
       "area_id": "Q53657952",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
+        "lang:pt-br": "Senador",
         "lang:pt": "senador",
         "lang:en": "senator"
       },
       "role_code": "Q18964326",
       "role": {
+        "lang:pt-br": "Senador",
         "lang:en": "Member of the Senate of Brazil"
       }
     }

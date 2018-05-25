@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Geraldo Alckmin",
         "lang:pt": "Geraldo Alckmin",
         "lang:en": "Geraldo Alckmin"
       },
@@ -23,6 +24,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "cabinete do governador do estado de São Paulo",
         "lang:en": "cabinet of the governor of the state of Sao Paulo"
       },
       "id": "Q53738322",
@@ -37,6 +39,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
         "lang:pt": "Partido da Social Democracia Brasileira",
         "lang:en": "Brazilian Social Democracy Party"
       },
@@ -67,6 +70,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -93,6 +97,7 @@
         "Q53864923"
       ],
       "type": {
+        "lang:pt-br": "unidades federativas",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -111,10 +116,12 @@
       "area_id": "Q175",
       "role_superclass_code": "Q53739335",
       "role_superclass": {
+        "lang:pt-br": "governador do estado de São Paulo",
         "lang:en": "governor of the state of Sao Paulo"
       },
       "role_code": "Q53739335",
       "role": {
+        "lang:pt-br": "governador do estado de São Paulo",
         "lang:en": "governor of the state of Sao Paulo"
       }
     }

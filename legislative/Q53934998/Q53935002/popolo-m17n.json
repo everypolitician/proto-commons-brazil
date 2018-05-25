@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "João Salmito Filho",
         "lang:en": "João Salmito Filho"
       },
       "id": "Q53939228",
@@ -22,6 +23,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "Câmara Municipal de Fortaleza",
         "lang:pt": "Câmara Municipal de Fortaleza",
         "lang:en": "Municipal Chamber of Fortaleza"
       },
@@ -40,6 +42,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido Democrático Trabalhista",
         "lang:pt": "Partido Democrático Trabalhista",
         "lang:en": "Democratic Labour Party"
       },
@@ -70,6 +73,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -96,6 +100,7 @@
         "Q53864930"
       ],
       "type": {
+        "lang:pt-br": "unidades federativas",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -121,6 +126,7 @@
         "Q53935000"
       ],
       "type": {
+        "lang:pt-br": "município do Brasil",
         "lang:pt": "município do Brasil",
         "lang:en": "municipality of Brazil"
       },
@@ -143,6 +149,7 @@
       },
       "role_code": "Q53935000",
       "role": {
+        "lang:pt-br": "Vereador de Fortaleza",
         "lang:en": "Councillor of Fortaleza"
       }
     }

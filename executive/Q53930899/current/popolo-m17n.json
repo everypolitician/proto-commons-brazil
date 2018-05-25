@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Marcelo Crivellla",
         "lang:pt": "Marcelo Crivella",
         "lang:en": "Marcelo Crivellla"
       },
@@ -23,6 +24,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "prefeitura municipal de Rio de Janeiro",
         "lang:en": "municipal prefecture of Rio de Janeiro"
       },
       "id": "Q53930899",
@@ -37,6 +39,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido Republicano Brasileiro",
         "lang:pt": "Partido Republicano Brasileiro",
         "lang:en": "Brazilian Republican Party"
       },
@@ -67,6 +70,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -93,6 +97,7 @@
         "Q53864925"
       ],
       "type": {
+        "lang:pt-br": "unidades federativas",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -118,6 +123,7 @@
         "Q53934881"
       ],
       "type": {
+        "lang:pt-br": "município do Brasil",
         "lang:pt": "município do Brasil",
         "lang:en": "municipality of Brazil"
       },
@@ -136,10 +142,12 @@
       "area_id": "Q8678",
       "role_superclass_code": "Q53926032",
       "role_superclass": {
+        "lang:pt-br": "Prefeito do Rio de Janeiro",
         "lang:en": "Mayor of Rio de Janeiro"
       },
       "role_code": "Q53926032",
       "role": {
+        "lang:pt-br": "Prefeito do Rio de Janeiro",
         "lang:en": "Mayor of Rio de Janeiro"
       }
     }

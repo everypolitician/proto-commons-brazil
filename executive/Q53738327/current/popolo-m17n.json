@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Rui Costa",
         "lang:pt": "Rui Costa",
         "lang:en": "Rui Costa"
       },
@@ -23,6 +24,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "cabinete do governador do estado da Bahia",
         "lang:en": "cabinet of the governor of the state of Bahia"
       },
       "id": "Q53738327",
@@ -37,6 +39,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido dos Trabalhadores",
         "lang:pt": "Partido dos Trabalhadores",
         "lang:en": "Workers' Party"
       },
@@ -67,6 +70,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -93,6 +97,7 @@
         "Q53864926"
       ],
       "type": {
+        "lang:pt-br": "unidades federativas",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -111,10 +116,12 @@
       "area_id": "Q40430",
       "role_superclass_code": "Q53739339",
       "role_superclass": {
+        "lang:pt-br": "governador do estado da Bahia",
         "lang:en": "governor of the state of Bahia"
       },
       "role_code": "Q53739339",
       "role": {
+        "lang:pt-br": "governador do estado da Bahia",
         "lang:en": "governor of the state of Bahia"
       }
     }

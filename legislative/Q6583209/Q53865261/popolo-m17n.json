@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Cidinha Campos",
         "lang:pt": "Cidinha Campos",
         "lang:en": "Cidinha Campos"
       },
@@ -23,6 +24,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "assembleia legislativa do estado do Rio de Janeiro",
         "lang:pt": "Assembleia Legislativa do Estado do Rio de Janeiro",
         "lang:en": "Legislative Assembly of Rio de Janeiro"
       },
@@ -41,6 +43,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido Democrático Trabalhista",
         "lang:pt": "Partido Democrático Trabalhista",
         "lang:en": "Democratic Labour Party"
       },
@@ -71,6 +74,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -97,6 +101,7 @@
         "Q53864925"
       ],
       "type": {
+        "lang:pt-br": "unidades federativas",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -119,6 +124,7 @@
       },
       "role_code": "Q53864925",
       "role": {
+        "lang:pt-br": "deutado estadual de Rio de Janeiro",
         "lang:en": "state deputy of Rio de Janeiro"
       }
     }

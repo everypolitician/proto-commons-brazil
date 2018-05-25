@@ -98,6 +98,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Paulo Pimenta",
         "lang:pt": "Paulo Pimenta",
         "lang:en": "Paulo Pimenta"
       },
@@ -377,6 +378,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "André Figueiredo",
         "lang:pt": "André Figueiredo",
         "lang:en": "André Figueiredo"
       },
@@ -412,6 +414,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Nilson Leitão",
         "lang:pt": "Nilson Leitão",
         "lang:en": "Nilson Leitão"
       },
@@ -850,6 +853,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Victório Galli",
         "lang:pt": "Victório Galli",
         "lang:en": "Victório Galli"
       },
@@ -869,6 +873,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "José Alberto Fogaça de Medeiros",
         "lang:pt": "José Fogaça",
         "lang:en": "José Fogaça"
       },
@@ -980,6 +985,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Baleia Rossi",
         "lang:pt": "Baleia Rossi",
         "lang:en": "Baleia Rossi"
       },
@@ -1001,6 +1007,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "Câmara dos Deputados",
         "lang:pt": "Câmara dos Deputados do Brasil",
         "lang:en": "Chamber of Deputies"
       },
@@ -1019,6 +1026,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Movimento Democrático Brasileiro",
         "lang:pt": "Movimento Democrático Brasileiro",
         "lang:en": "Democratic Movement Party"
       },
@@ -1033,6 +1041,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
         "lang:pt": "Partido da Social Democracia Brasileira",
         "lang:en": "Brazilian Social Democracy Party"
       },
@@ -1047,6 +1056,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido Democrático Trabalhista",
         "lang:pt": "Partido Democrático Trabalhista",
         "lang:en": "Democratic Labour Party"
       },
@@ -1061,6 +1071,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido Social Cristão",
         "lang:pt": "Partido Social Cristão",
         "lang:en": "Social Christian Party"
       },
@@ -1075,6 +1086,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido dos Trabalhadores",
         "lang:pt": "Partido dos Trabalhadores",
         "lang:en": "Workers' Party"
       },
@@ -1105,6 +1117,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -1743,11 +1756,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -1758,11 +1773,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -1773,11 +1790,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -1788,11 +1807,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -1803,11 +1824,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -1818,11 +1841,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -1835,11 +1860,13 @@
       "area_id": "Q53657915",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -1850,11 +1877,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -1865,11 +1894,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -1880,11 +1911,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -1895,11 +1928,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -1910,11 +1945,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -1925,11 +1962,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -1940,11 +1979,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -1955,11 +1996,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -1970,11 +2013,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -1985,11 +2030,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2000,11 +2047,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2015,11 +2064,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2030,11 +2081,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2045,11 +2098,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2060,11 +2115,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2075,11 +2132,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2092,11 +2151,13 @@
       "area_id": "Q53657931",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2107,11 +2168,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2124,11 +2187,13 @@
       "area_id": "Q53657991",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2139,11 +2204,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2154,11 +2221,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2169,11 +2238,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2187,11 +2258,13 @@
       "end_date": "2016-10-19",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2205,11 +2278,13 @@
       "end_date": "2016-11-24",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2221,11 +2296,13 @@
       "area_id": "Q53657970",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2236,11 +2313,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2251,11 +2330,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2266,11 +2347,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2281,11 +2364,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2296,11 +2381,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2311,11 +2398,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2326,11 +2415,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2341,11 +2432,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2356,11 +2449,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2371,11 +2466,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2386,11 +2483,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2401,11 +2500,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2416,11 +2517,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2431,11 +2534,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2446,11 +2551,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2461,11 +2568,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2476,11 +2585,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2493,11 +2604,13 @@
       "start_date": "2015-09-03",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2508,11 +2621,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2523,11 +2638,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2540,11 +2657,13 @@
       "area_id": "Q53657991",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2555,11 +2674,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2571,11 +2692,13 @@
       "start_date": "2017-01-02",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2586,11 +2709,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2601,11 +2726,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2616,11 +2743,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2631,11 +2760,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2646,11 +2777,13 @@
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }
@@ -2663,11 +2796,13 @@
       "area_id": "Q53657905",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
+        "lang:pt-br": "Deputado",
         "lang:pt": "deputado",
         "lang:en": "deputy"
       },
       "role_code": "Q20058725",
       "role": {
+        "lang:pt-br": "Deputado federal",
         "lang:pt": "deputado do Brasil",
         "lang:en": "member of the Chamber of Deputies of Brazil"
       }

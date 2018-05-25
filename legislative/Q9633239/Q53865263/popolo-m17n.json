@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Marlon Santos",
         "lang:pt": "Marlon Santos",
         "lang:en": "Marlon Santos"
       },
@@ -23,6 +24,7 @@
   "organizations": [
     {
       "name": {
+        "lang:pt-br": "assembleia legislativa do estado do Rio Grande do Sul",
         "lang:pt": "Assembleia Legislativa do Rio Grande do Sul",
         "lang:en": "Legislative Assembly of Rio Grande do Sul"
       },
@@ -41,6 +43,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido Democrático Trabalhista",
         "lang:pt": "Partido Democrático Trabalhista",
         "lang:en": "Democratic Labour Party"
       },
@@ -71,6 +74,7 @@
         "Q5176750"
       ],
       "type": {
+        "lang:pt-br": "país",
         "lang:pt": "país",
         "lang:en": "country"
       },
@@ -97,6 +101,7 @@
         "Q53864927"
       ],
       "type": {
+        "lang:pt-br": "unidades federativas",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -119,6 +124,7 @@
       },
       "role_code": "Q53864927",
       "role": {
+        "lang:pt-br": "deutado estadual de Rio Grande do Sul",
         "lang:en": "state deputy of Rio Grande do Sul"
       }
     }
