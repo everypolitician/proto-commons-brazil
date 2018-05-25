@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_pt", "name_en", "party", "party_name_pt", "party_name_en", "district", "district_name_pt", "district_name_en", "role", "role_pt", "role_en", "role_superclass", "role_superclass_pt", "role_superclass_en", "start", "end", "facebook", "org", "org_pt", "org_en", "org_jurisdiction", "org_seat_count" ]
+    "vars" : [ "statement", "item", "name_pt_br", "name_pt", "name_en", "party", "party_name_pt_br", "party_name_pt", "party_name_en", "district", "district_name_pt_br", "district_name_pt", "district_name_en", "role", "role_pt_br", "role_pt", "role_en", "role_superclass", "role_superclass_pt_br", "role_superclass_pt", "role_superclass_en", "start", "end", "facebook", "org", "org_pt_br", "org_pt", "org_en", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
     "bindings" : [ {
@@ -22,6 +22,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -35,6 +40,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -58,6 +68,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -92,6 +107,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -105,6 +125,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -128,6 +153,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -162,6 +192,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -175,6 +210,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -198,6 +238,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -232,6 +277,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -245,6 +295,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -268,6 +323,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -302,6 +362,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -315,6 +380,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -338,6 +408,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -372,6 +447,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -385,6 +465,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -408,6 +493,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -442,6 +532,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -455,6 +550,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -478,6 +578,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -507,6 +612,11 @@
         "type" : "literal",
         "value" : "Partido dos Trabalhadores"
       },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido dos Trabalhadores"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657915"
@@ -515,6 +625,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio Grande do Sul"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Paulo Pimenta"
       },
       "facebook" : {
         "type" : "literal",
@@ -539,6 +654,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -552,6 +672,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -575,6 +700,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -609,6 +739,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -622,6 +757,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -645,6 +785,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -679,6 +824,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -692,6 +842,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -715,6 +870,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -749,6 +909,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -762,6 +927,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -785,6 +955,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -819,6 +994,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -832,6 +1012,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -855,6 +1040,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -889,6 +1079,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -902,6 +1097,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -925,6 +1125,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -959,6 +1164,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -972,6 +1182,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -995,6 +1210,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1029,6 +1249,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -1042,6 +1267,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1065,6 +1295,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1099,6 +1334,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -1112,6 +1352,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1135,6 +1380,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1164,6 +1414,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -1177,6 +1432,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1200,6 +1460,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1234,6 +1499,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -1247,6 +1517,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1270,6 +1545,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1308,6 +1588,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -1321,6 +1606,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1344,6 +1634,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1382,6 +1677,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -1395,6 +1695,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1418,6 +1723,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1452,6 +1762,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -1465,6 +1780,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1488,6 +1808,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1517,6 +1842,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -1530,6 +1860,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1553,6 +1888,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1587,6 +1927,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -1600,6 +1945,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1623,6 +1973,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1657,6 +2012,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -1670,6 +2030,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1693,6 +2058,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1722,6 +2092,11 @@
         "type" : "literal",
         "value" : "Partido Democrático Trabalhista"
       },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido Democrático Trabalhista"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657931"
@@ -1730,6 +2105,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Ceará"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "André Figueiredo"
       },
       "facebook" : {
         "type" : "literal",
@@ -1754,6 +2134,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -1767,6 +2152,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1790,6 +2180,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1824,6 +2219,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -1837,6 +2237,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1860,6 +2265,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1889,6 +2299,11 @@
         "type" : "literal",
         "value" : "Partido da Social Democracia Brasileira"
       },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido da Social Democracia Brasileira"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657991"
@@ -1897,6 +2312,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mato Grosso do Sul"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Nilson Leitão"
       },
       "facebook" : {
         "type" : "literal",
@@ -1921,6 +2341,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -1934,6 +2359,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1957,6 +2387,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1991,6 +2426,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -2004,6 +2444,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2027,6 +2472,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2061,6 +2511,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -2074,6 +2529,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2097,6 +2557,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2135,6 +2600,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -2148,6 +2618,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2171,6 +2646,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2224,6 +2704,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -2237,6 +2722,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2260,6 +2750,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2313,6 +2808,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -2326,6 +2826,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2349,6 +2854,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2392,6 +2902,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -2405,6 +2920,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2428,6 +2948,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2462,6 +2987,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -2475,6 +3005,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2498,6 +3033,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2532,6 +3072,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -2545,6 +3090,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2568,6 +3118,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2602,6 +3157,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -2615,6 +3175,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2638,6 +3203,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2672,6 +3242,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -2685,6 +3260,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2708,6 +3288,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2742,6 +3327,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -2755,6 +3345,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2778,6 +3373,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2812,6 +3412,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -2825,6 +3430,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2848,6 +3458,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2882,6 +3497,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -2895,6 +3515,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2918,6 +3543,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2952,6 +3582,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -2965,6 +3600,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2988,6 +3628,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3022,6 +3667,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -3035,6 +3685,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3058,6 +3713,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3092,6 +3752,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -3105,6 +3770,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3128,6 +3798,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3162,6 +3837,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -3175,6 +3855,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3198,6 +3883,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3232,6 +3922,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -3245,6 +3940,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3268,6 +3968,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3302,6 +4007,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -3315,6 +4025,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3338,6 +4053,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3372,6 +4092,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -3385,6 +4110,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3408,6 +4138,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3442,6 +4177,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -3455,6 +4195,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3478,6 +4223,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3512,6 +4262,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -3525,6 +4280,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3548,6 +4308,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3582,6 +4347,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -3595,6 +4365,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3618,6 +4393,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3666,6 +4446,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -3679,6 +4464,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3702,6 +4492,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3736,6 +4531,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -3749,6 +4549,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3772,6 +4577,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3806,6 +4616,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -3819,6 +4634,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3842,6 +4662,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3871,6 +4696,11 @@
         "type" : "literal",
         "value" : "Partido Social Cristão"
       },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido Social Cristão"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657991"
@@ -3879,6 +4709,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mato Grosso do Sul"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Victório Galli"
       },
       "facebook" : {
         "type" : "literal",
@@ -3903,6 +4738,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -3916,6 +4756,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3940,6 +4785,11 @@
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
       },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
+      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q155"
@@ -3953,6 +4803,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "José Fogaça"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "José Alberto Fogaça de Medeiros"
       }
     }, {
       "statement" : {
@@ -3973,6 +4828,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -3986,6 +4846,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -4009,6 +4874,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4048,6 +4918,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -4061,6 +4936,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -4084,6 +4964,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4113,6 +4998,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -4126,6 +5016,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -4149,6 +5044,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4183,6 +5083,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -4196,6 +5101,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -4219,6 +5129,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4253,6 +5168,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -4266,6 +5186,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -4289,6 +5214,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4323,6 +5253,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -4336,6 +5271,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -4359,6 +5299,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4393,6 +5338,11 @@
         "type" : "literal",
         "value" : "deputado"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20058725"
@@ -4406,6 +5356,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -4429,6 +5384,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4458,6 +5418,11 @@
         "type" : "literal",
         "value" : "Movimento Democrático Brasileiro"
       },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Movimento Democrático Brasileiro"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657905"
@@ -4466,6 +5431,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "São Paulo"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Baleia Rossi"
       },
       "facebook" : {
         "type" : "literal",

@@ -1,15 +1,19 @@
 SELECT ?statement
-       ?item ?name_pt ?name_en
-       ?party ?party_name_pt ?party_name_en
-       ?district ?district_name_pt ?district_name_en
-       ?role ?role_pt ?role_en
+       ?item ?name_pt_br ?name_pt ?name_en
+       ?party ?party_name_pt_br ?party_name_pt ?party_name_en
+       ?district ?district_name_pt_br ?district_name_pt ?district_name_en
+       ?role ?role_pt_br ?role_pt ?role_en
        ?start ?end ?facebook
-       ?role_superclass ?role_superclass_pt ?role_superclass_en
-       ?org ?org_pt ?org_en ?org_jurisdiction
+       ?role_superclass ?role_superclass_pt_br ?role_superclass_pt ?role_superclass_en
+       ?org ?org_pt_br ?org_pt ?org_en ?org_jurisdiction
 WHERE {
   VALUES ?role_superclass { wd:Q53739358 }
   BIND(wd:Q53738348 AS ?org)
   OPTIONAL {
+          ?org rdfs:label ?org_pt_br
+          FILTER(LANG(?org_pt_br) = "pt-br")
+        }
+OPTIONAL {
           ?org rdfs:label ?org_pt
           FILTER(LANG(?org_pt) = "pt")
         }
@@ -22,6 +26,10 @@ OPTIONAL {
   }
   ?item p:P39 ?statement .
   OPTIONAL {
+          ?item rdfs:label ?name_pt_br
+          FILTER(LANG(?name_pt_br) = "pt-br")
+        }
+OPTIONAL {
           ?item rdfs:label ?name_pt
           FILTER(LANG(?name_pt) = "pt")
         }
@@ -31,6 +39,10 @@ OPTIONAL {
         }
   ?statement ps:P39 ?role .
   OPTIONAL {
+          ?role rdfs:label ?role_pt_br
+          FILTER(LANG(?role_pt_br) = "pt-br")
+        }
+OPTIONAL {
           ?role rdfs:label ?role_pt
           FILTER(LANG(?role_pt) = "pt")
         }
@@ -40,6 +52,10 @@ OPTIONAL {
         }
   ?role wdt:P279* ?role_superclass .
   OPTIONAL {
+          ?role_superclass rdfs:label ?role_superclass_pt_br
+          FILTER(LANG(?role_superclass_pt_br) = "pt-br")
+        }
+OPTIONAL {
           ?role_superclass rdfs:label ?role_superclass_pt
           FILTER(LANG(?role_superclass_pt) = "pt")
         }
@@ -51,6 +67,10 @@ OPTIONAL {
   OPTIONAL {
     ?role p:P1001/ps:P1001 ?district .
     OPTIONAL {
+          ?district rdfs:label ?district_name_pt_br
+          FILTER(LANG(?district_name_pt_br) = "pt-br")
+        }
+OPTIONAL {
           ?district rdfs:label ?district_name_pt
           FILTER(LANG(?district_name_pt) = "pt")
         }
@@ -68,6 +88,10 @@ OPTIONAL {
     ?item p:P102 ?party_statement .
     ?party_statement ps:P102 ?party .
     OPTIONAL {
+          ?party rdfs:label ?party_name_pt_br
+          FILTER(LANG(?party_name_pt_br) = "pt-br")
+        }
+OPTIONAL {
           ?party rdfs:label ?party_name_pt
           FILTER(LANG(?party_name_pt) = "pt")
         }

@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_pt", "name_en", "party", "party_name_pt", "party_name_en", "district", "district_name_pt", "district_name_en", "role", "role_pt", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_pt", "role_superclass_en", "org", "org_pt", "org_en", "org_jurisdiction" ]
+    "vars" : [ "statement", "item", "name_pt_br", "name_pt", "name_en", "party", "party_name_pt_br", "party_name_pt", "party_name_en", "district", "district_name_pt_br", "district_name_pt", "district_name_en", "role", "role_pt_br", "role_pt", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_pt_br", "role_superclass_pt", "role_superclass_en", "org", "org_pt_br", "org_pt", "org_en", "org_jurisdiction" ]
   },
   "results" : {
     "bindings" : [ {
@@ -36,6 +36,11 @@
         "type" : "literal",
         "value" : "São Paulo"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24255165"
@@ -88,6 +93,11 @@
         "type" : "literal",
         "value" : "Prefeitura do Município de São Paulo"
       },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeitura municipal de São Paulo"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q10310619-4e0ac4d9-4d48-190c-f216-0896918b6134"
@@ -95,6 +105,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q174"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Aliança Renovadora Nacionalista"
       }
     }, {
       "item" : {
@@ -115,6 +130,11 @@
         "type" : "literal",
         "value" : "São Paulo"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24255165"
@@ -167,6 +187,11 @@
         "type" : "literal",
         "value" : "Prefeitura do Município de São Paulo"
       },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeitura municipal de São Paulo"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q10311413-bc77641c-4efe-8ba1-36cc-e596d3829b00"
@@ -183,6 +208,11 @@
       "facebook" : {
         "type" : "literal",
         "value" : "jdoriajr"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "João Doria Júnior"
       }
     }, {
       "item" : {
@@ -200,6 +230,11 @@
       },
       "district_name_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "São Paulo"
       },
@@ -255,6 +290,11 @@
         "type" : "literal",
         "value" : "Prefeitura do Município de São Paulo"
       },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeitura municipal de São Paulo"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q10353688-40434ce3-46da-1527-9205-804f04496e71"
@@ -296,6 +336,11 @@
         "type" : "literal",
         "value" : "São Paulo"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24255165"
@@ -348,6 +393,11 @@
         "type" : "literal",
         "value" : "Prefeitura do Município de São Paulo"
       },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeitura municipal de São Paulo"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q1669473-56b0ba3f-4f4a-570f-a540-c7a98affe667"
@@ -355,6 +405,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q174"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido da Social Democracia Brasileira"
       }
     }, {
       "party" : {
@@ -389,6 +444,11 @@
         "type" : "literal",
         "value" : "São Paulo"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24255165"
@@ -441,6 +501,11 @@
         "type" : "literal",
         "value" : "Prefeitura do Município de São Paulo"
       },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeitura municipal de São Paulo"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q1797226-ed143384-4d62-ad26-61b3-776d8d3c29c6"
@@ -448,6 +513,16 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q174"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Democratas"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Olavo Setúbal"
       }
     }, {
       "party" : {
@@ -482,6 +557,11 @@
         "type" : "literal",
         "value" : "São Paulo"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24255165"
@@ -534,6 +614,11 @@
         "type" : "literal",
         "value" : "Prefeitura do Município de São Paulo"
       },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeitura municipal de São Paulo"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q1857846-CC5BB7B8-B3FC-41EB-8601-BD3155AC966B"
@@ -541,6 +626,16 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q174"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido Progressista"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Celso Pitta"
       }
     }, {
       "party" : {
@@ -572,6 +667,11 @@
       },
       "district_name_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "São Paulo"
       },
@@ -627,6 +727,11 @@
         "type" : "literal",
         "value" : "Prefeitura do Município de São Paulo"
       },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeitura municipal de São Paulo"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q199624-1a4ee03c-4e73-bb6b-374c-9c689ec81a1a"
@@ -634,6 +739,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q174"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Ademar Pereira de Barros"
       }
     }, {
       "party" : {
@@ -668,6 +778,11 @@
         "type" : "literal",
         "value" : "São Paulo"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24255165"
@@ -720,6 +835,11 @@
         "type" : "literal",
         "value" : "Prefeitura do Município de São Paulo"
       },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeitura municipal de São Paulo"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2546210-89ac76a0-4dc2-1bf3-295e-48c7064e37d5"
@@ -727,6 +847,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q174"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Gilberto Kassab"
       }
     }, {
       "party" : {
@@ -761,6 +886,11 @@
         "type" : "literal",
         "value" : "São Paulo"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24255165"
@@ -813,6 +943,11 @@
         "type" : "literal",
         "value" : "Prefeitura do Município de São Paulo"
       },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeitura municipal de São Paulo"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q379563-FF17F8FE-E53B-4D49-9605-CBCB504259D0"
@@ -820,6 +955,16 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q174"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido da Social Democracia Brasileira"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "José Serra"
       }
     }, {
       "party" : {
@@ -854,6 +999,11 @@
         "type" : "literal",
         "value" : "São Paulo"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24255165"
@@ -906,6 +1056,11 @@
         "type" : "literal",
         "value" : "Prefeitura do Município de São Paulo"
       },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeitura municipal de São Paulo"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q463614-5ed0d655-48e1-1477-fc37-dc2a3b89be26"
@@ -914,9 +1069,19 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q174"
       },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido dos Trabalhadores"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "MartaNossaPrefeita"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Marta Suplicy"
       }
     }, {
       "party" : {
@@ -948,6 +1113,11 @@
       },
       "district_name_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "São Paulo"
       },
@@ -1003,6 +1173,11 @@
         "type" : "literal",
         "value" : "Prefeitura do Município de São Paulo"
       },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeitura municipal de São Paulo"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4776958-59f99f30-48a4-5208-f510-7f67e5754329"
@@ -1010,6 +1185,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q174"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido Progressista"
       }
     }, {
       "party" : {
@@ -1044,6 +1224,11 @@
         "type" : "literal",
         "value" : "São Paulo"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24255165"
@@ -1096,6 +1281,11 @@
         "type" : "literal",
         "value" : "Prefeitura do Município de São Paulo"
       },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeitura municipal de São Paulo"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q549835-40204e52-41f1-dcbb-aaad-92ebc258da14"
@@ -1103,6 +1293,16 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q174"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido Progressista"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Paulo Maluf"
       }
     }, {
       "party" : {
@@ -1137,6 +1337,11 @@
         "type" : "literal",
         "value" : "São Paulo"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24255165"
@@ -1189,6 +1394,11 @@
         "type" : "literal",
         "value" : "Prefeitura do Município de São Paulo"
       },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeitura municipal de São Paulo"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7386110-157a2661-4eaf-e4af-64af-7866b799c5a7"
@@ -1196,6 +1406,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q174"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido da Social Democracia Brasileira"
       }
     }, {
       "item" : {
@@ -1216,6 +1431,11 @@
         "type" : "literal",
         "value" : "São Paulo"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24255165"
@@ -1267,6 +1487,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Prefeitura do Município de São Paulo"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeitura municipal de São Paulo"
       },
       "statement" : {
         "type" : "uri",

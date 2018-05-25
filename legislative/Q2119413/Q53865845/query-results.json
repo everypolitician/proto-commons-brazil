@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_pt", "name_en", "party", "party_name_pt", "party_name_en", "district", "district_name_pt", "district_name_en", "role", "role_pt", "role_en", "role_superclass", "role_superclass_pt", "role_superclass_en", "start", "end", "facebook", "org", "org_pt", "org_en", "org_jurisdiction", "org_seat_count" ]
+    "vars" : [ "statement", "item", "name_pt_br", "name_pt", "name_en", "party", "party_name_pt_br", "party_name_pt", "party_name_en", "district", "district_name_pt_br", "district_name_pt", "district_name_en", "role", "role_pt_br", "role_pt", "role_en", "role_superclass", "role_superclass_pt_br", "role_superclass_pt", "role_superclass_en", "start", "end", "facebook", "org", "org_pt_br", "org_pt", "org_en", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
     "bindings" : [ {
@@ -15,6 +15,11 @@
       },
       "party_name_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido dos Trabalhadores"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Partido dos Trabalhadores"
       },
@@ -45,6 +50,11 @@
         "type" : "literal",
         "value" : "senador"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Senador"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18964326"
@@ -53,6 +63,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Member of the Senate of Brazil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Senador"
       },
       "item" : {
         "type" : "uri",
@@ -68,6 +83,11 @@
         "type" : "literal",
         "value" : "Lindberg Farias"
       },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Lindbergh Farias"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2119413"
@@ -81,6 +101,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Senado Federal do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Senado Federal"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -107,6 +132,11 @@
       },
       "party_name_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Democratas"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Democratas"
       },
@@ -137,6 +167,11 @@
         "type" : "literal",
         "value" : "senador"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Senador"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18964326"
@@ -145,6 +180,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Member of the Senate of Brazil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Senador"
       },
       "item" : {
         "type" : "uri",
@@ -157,6 +197,11 @@
       },
       "name_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ronaldo Caiado"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Ronaldo Caiado"
       },
@@ -173,6 +218,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Senado Federal do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Senado Federal"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -199,6 +249,11 @@
       },
       "party_name_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Movimento Democrático Brasileiro"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Movimento Democrático Brasileiro"
       },
@@ -229,6 +284,11 @@
         "type" : "literal",
         "value" : "senador"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Senador"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18964326"
@@ -237,6 +297,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Member of the Senate of Brazil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Senador"
       },
       "item" : {
         "type" : "uri",
@@ -249,6 +314,11 @@
       },
       "name_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Simone Tebet"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Simone Tebet"
       },
@@ -265,6 +335,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Senado Federal do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Senado Federal"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -291,6 +366,11 @@
       },
       "party_name_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido da Social Democracia Brasileira"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Partido da Social Democracia Brasileira"
       },
@@ -321,6 +401,11 @@
         "type" : "literal",
         "value" : "senador"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Senador"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18964326"
@@ -329,6 +414,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Member of the Senate of Brazil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Senador"
       },
       "item" : {
         "type" : "uri",
@@ -341,6 +431,11 @@
       },
       "name_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Paulo Bauer"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Paulo Bauer"
       },
@@ -357,6 +452,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Senado Federal do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Senado Federal"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -383,6 +483,11 @@
       },
       "party_name_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Comunista do Brasil"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Partido Comunista do Brasil"
       },
@@ -413,6 +518,11 @@
         "type" : "literal",
         "value" : "senador"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Senador"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18964326"
@@ -421,6 +531,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Member of the Senate of Brazil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Senador"
       },
       "item" : {
         "type" : "uri",
@@ -433,6 +548,11 @@
       },
       "name_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Vanessa Grazziotin"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Vanessa Grazziotin"
       },
@@ -449,6 +569,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Senado Federal do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Senado Federal"
       },
       "org_jurisdiction" : {
         "type" : "uri",

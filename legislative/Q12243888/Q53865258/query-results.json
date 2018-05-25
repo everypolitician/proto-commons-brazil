@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_pt", "name_en", "party", "party_name_pt", "party_name_en", "district", "district_name_pt", "district_name_en", "role", "role_pt", "role_en", "role_superclass", "role_superclass_pt", "role_superclass_en", "start", "end", "facebook", "org", "org_pt", "org_en", "org_jurisdiction", "org_seat_count" ]
+    "vars" : [ "statement", "item", "name_pt_br", "name_pt", "name_en", "party", "party_name_pt_br", "party_name_pt", "party_name_en", "district", "district_name_pt_br", "district_name_pt", "district_name_en", "role", "role_pt_br", "role_pt", "role_en", "role_superclass", "role_superclass_pt_br", "role_superclass_pt", "role_superclass_en", "start", "end", "facebook", "org", "org_pt_br", "org_pt", "org_en", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
     "bindings" : [ {
@@ -15,6 +15,11 @@
       },
       "party_name_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Democratas"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Democratas"
       },
@@ -45,6 +50,11 @@
         "type" : "literal",
         "value" : "state deputy of Minas Gerais"
       },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Minas Gerais"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10293157"
@@ -59,6 +69,11 @@
         "type" : "literal",
         "value" : "Gustavo de Faria Dias Corrêa"
       },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Gustavo Corrêa"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12243888"
@@ -72,6 +87,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Assembleia Legislativa do Estado de Minas Gerais"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Minas Gerais"
       },
       "org_jurisdiction" : {
         "type" : "uri",

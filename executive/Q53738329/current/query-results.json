@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_pt", "name_en", "party", "party_name_pt", "party_name_en", "district", "district_name_pt", "district_name_en", "role", "role_pt", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_pt", "role_superclass_en", "org", "org_pt", "org_en", "org_jurisdiction" ]
+    "vars" : [ "statement", "item", "name_pt_br", "name_pt", "name_en", "party", "party_name_pt_br", "party_name_pt", "party_name_en", "district", "district_name_pt_br", "district_name_pt", "district_name_en", "role", "role_pt_br", "role_pt", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_pt_br", "role_superclass_pt", "role_superclass_en", "org", "org_pt_br", "org_pt", "org_en", "org_jurisdiction" ]
   },
   "results" : {
     "bindings" : [ {
@@ -15,6 +15,11 @@
       },
       "party_name_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Movimento Democrático Brasileiro"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Movimento Democrático Brasileiro"
       },
@@ -36,6 +41,11 @@
         "type" : "literal",
         "value" : "Rio Grande do Sul"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Rio Grande do Sul"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53739340"
@@ -49,10 +59,20 @@
         "type" : "literal",
         "value" : "governor of the state of Rio Grande do Sul"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "governador do estado do Rio Grande do Sul"
+      },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "governor of the state of Rio Grande do Sul"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "governador do estado do Rio Grande do Sul"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -64,6 +84,11 @@
         "type" : "literal",
         "value" : "José Ivo Sartori"
       },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "José Ivo Sartori"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53738329"
@@ -72,6 +97,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "cabinet of the governor of the state of Rio Grande do Sul"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "cabinete do governador do estado do Rio Grande do Sul"
       },
       "statement" : {
         "type" : "uri",
@@ -100,6 +130,11 @@
         "type" : "literal",
         "value" : "Movimento Democrático Brasileiro"
       },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Movimento Democrático Brasileiro"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10309629"
@@ -118,6 +153,11 @@
         "type" : "literal",
         "value" : "Rio Grande do Sul"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Rio Grande do Sul"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53739340"
@@ -131,10 +171,20 @@
         "type" : "literal",
         "value" : "governor of the state of Rio Grande do Sul"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "governador do estado do Rio Grande do Sul"
+      },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "governor of the state of Rio Grande do Sul"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "governador do estado do Rio Grande do Sul"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -146,6 +196,11 @@
         "type" : "literal",
         "value" : "José Ivo Sartori"
       },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "José Ivo Sartori"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53738329"
@@ -154,6 +209,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "cabinet of the governor of the state of Rio Grande do Sul"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "cabinete do governador do estado do Rio Grande do Sul"
       },
       "statement" : {
         "type" : "uri",

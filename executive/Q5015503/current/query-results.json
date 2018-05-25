@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_pt", "name_en", "party", "party_name_pt", "party_name_en", "district", "district_name_pt", "district_name_en", "role", "role_pt", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_pt", "role_superclass_en", "org", "org_pt", "org_en", "org_jurisdiction" ]
+    "vars" : [ "statement", "item", "name_pt_br", "name_pt", "name_en", "party", "party_name_pt_br", "party_name_pt", "party_name_en", "district", "district_name_pt_br", "district_name_pt", "district_name_en", "role", "role_pt_br", "role_pt", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_pt_br", "role_superclass_pt", "role_superclass_en", "org", "org_pt_br", "org_pt", "org_en", "org_jurisdiction" ]
   },
   "results" : {
     "bindings" : [ {
@@ -15,6 +15,11 @@
       },
       "district_name_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Brasil"
       },
@@ -36,6 +41,11 @@
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -43,6 +53,11 @@
       },
       "role_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
@@ -60,6 +75,11 @@
         "type" : "literal",
         "value" : "Floriano Peixoto"
       },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Floriano Peixoto"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5015503"
@@ -71,6 +91,11 @@
       },
       "org_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Ministério do Brasil"
       },
@@ -97,6 +122,11 @@
         "type" : "literal",
         "value" : "Brasil"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5176750"
@@ -115,6 +145,11 @@
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -122,6 +157,11 @@
       },
       "role_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
@@ -139,6 +179,11 @@
         "type" : "literal",
         "value" : "Tancredo Neves"
       },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Tancredo Neves"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5015503"
@@ -150,6 +195,11 @@
       },
       "org_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Ministério do Brasil"
       },
@@ -174,6 +224,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Movimento Democrático Brasileiro"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Movimento Democrático Brasileiro"
       }
     }, {
       "district" : {
@@ -187,6 +242,11 @@
       },
       "district_name_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Brasil"
       },
@@ -208,6 +268,11 @@
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -215,6 +280,11 @@
       },
       "role_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
@@ -243,6 +313,11 @@
       },
       "org_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Ministério do Brasil"
       },
@@ -283,6 +358,11 @@
         "type" : "literal",
         "value" : "Brasil"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5176750"
@@ -301,6 +381,11 @@
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -308,6 +393,11 @@
       },
       "role_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
@@ -336,6 +426,11 @@
       },
       "org_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Ministério do Brasil"
       },
@@ -376,6 +471,11 @@
         "type" : "literal",
         "value" : "Brasil"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5176750"
@@ -394,6 +494,11 @@
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -401,6 +506,11 @@
       },
       "role_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
@@ -418,6 +528,11 @@
         "type" : "literal",
         "value" : "Costa e Silva"
       },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Artur da Costa e Silva"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5015503"
@@ -429,6 +544,11 @@
       },
       "org_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Ministério do Brasil"
       },
@@ -453,6 +573,11 @@
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Aliança Renovadora Nacional"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Aliança Renovadora Nacionalista"
       }
     }, {
       "district" : {
@@ -466,6 +591,11 @@
       },
       "district_name_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Brasil"
       },
@@ -487,6 +617,11 @@
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -494,6 +629,11 @@
       },
       "role_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
@@ -522,6 +662,11 @@
       },
       "org_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Ministério do Brasil"
       },
@@ -562,6 +707,11 @@
         "type" : "literal",
         "value" : "Brasil"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5176750"
@@ -580,6 +730,11 @@
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -587,6 +742,11 @@
       },
       "role_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
@@ -615,6 +775,11 @@
       },
       "org_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Ministério do Brasil"
       },
@@ -655,6 +820,11 @@
         "type" : "literal",
         "value" : "Brasil"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5176750"
@@ -673,6 +843,11 @@
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -680,6 +855,11 @@
       },
       "role_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
@@ -708,6 +888,11 @@
       },
       "org_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Ministério do Brasil"
       },
@@ -748,6 +933,11 @@
         "type" : "literal",
         "value" : "Brasil"
       },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5176750"
@@ -766,6 +956,11 @@
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -773,6 +968,11 @@
       },
       "role_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
@@ -790,6 +990,11 @@
         "type" : "literal",
         "value" : "Michel Temer"
       },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Michel Temer"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5015503"
@@ -801,6 +1006,11 @@
       },
       "org_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Ministério do Brasil"
       },
@@ -823,6 +1033,11 @@
       },
       "party_name_pt" : {
         "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Movimento Democrático Brasileiro"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Movimento Democrático Brasileiro"
       },
