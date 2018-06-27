@@ -1,6 +1,8 @@
-SELECT DISTINCT ?legislature ?legislatureLabel ?country ?countryLabel ?adminArea ?adminAreaLabel ?adminAreaType ?adminAreaTypeLabel ?legislaturePost ?legislaturePostLabel ?numberOfSeats WHERE {
+SELECT DISTINCT ?legislature ?legislatureLabel ?adminArea ?adminAreaLabel ?adminAreaTypes ?legislaturePost ?legislaturePostLabel ?numberOfSeats WHERE {
   {
-    SELECT DISTINCT ?primarySort ?adminArea ?adminAreaType {
+    SELECT DISTINCT ?adminArea
+                (MIN(?primarySort) AS ?primarySort)
+                (GROUP_CONCAT(DISTINCT REPLACE(STR(?adminAreaType), '^.*/', ''); SEPARATOR=" ") AS ?adminAreaTypes) {
   {
     VALUES (?adminArea ?primarySort ?adminAreaType) { (wd:Q155 1 wd:Q6256) }
   } UNION {
@@ -9,16 +11,18 @@ SELECT DISTINCT ?legislature ?legislatureLabel ?country ?countryLabel ?adminArea
           wdt:P31/wdt:P279* wd:Q10864048
     VALUES (?primarySort ?adminAreaType) { (2 wd:Q10864048) }
   } UNION {
-    # Find cities with populations of over 250k
+    # Find cities or municipalities with populations of over 250k
+    VALUES ?adminAreaType { wd:Q515 wd:Q15284 }
     ?adminArea wdt:P17 wd:Q155 ;
-       wdt:P31/wdt:P279* wd:Q515 ;
+       wdt:P31/wdt:P279* ?adminAreaType ;
        wdt:P1082 ?population .
     FILTER (?population > 250000)
-    # Make sure the city is not also a FLACS
-    MINUS { ?adminArea wdt:P31/wdt:P279* wd:Q10864048 }
-    VALUES (?primarySort ?adminAreaType) { (3 wd:Q515) }
+    VALUES ?primarySort { 3 }
+  } UNION {
+    VALUES (?adminArea ?primarySort ?adminAreaType) {
+    }
   }
-} ORDER BY ?primarySort
+} GROUP BY ?adminArea ORDER BY ?primarySort ?adminArea
 
   }
 
@@ -45,5 +49,5 @@ SELECT DISTINCT ?legislature ?legislatureLabel ?country ?countryLabel ?adminArea
 
   # Remove legislatures that have ended
   FILTER NOT EXISTS { ?legislature wdt:P576 ?legislatureEnd . FILTER (?legislatureEnd < NOW()) }
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,pt". }
-} ORDER BY ?primarySort ?country ?adminAreaType ?legislature ?legislaturePost
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,pt-br,pt". }
+} ORDER BY ?primarySort ?legislature ?legislaturePost
