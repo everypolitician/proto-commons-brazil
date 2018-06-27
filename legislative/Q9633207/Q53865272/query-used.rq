@@ -10,64 +10,77 @@ WHERE {
   BIND(wd:Q53864932 as ?role) .
   BIND(wd:Q9633207 as ?org) .
   OPTIONAL {
-          ?org rdfs:label ?org_pt_br
-          FILTER(LANG(?org_pt_br) = "pt-br")
-        }
+  ?org rdfs:label ?org_pt_br
+  FILTER(LANG(?org_pt_br) = "pt-br")
+}
+
 OPTIONAL {
-          ?org rdfs:label ?org_pt
-          FILTER(LANG(?org_pt) = "pt")
-        }
+  ?org rdfs:label ?org_pt
+  FILTER(LANG(?org_pt) = "pt")
+}
+
 OPTIONAL {
-          ?org rdfs:label ?org_en
-          FILTER(LANG(?org_en) = "en")
-        }
+  ?org rdfs:label ?org_en
+  FILTER(LANG(?org_en) = "en")
+}
+
   OPTIONAL {
     ?org wdt:P1001 ?org_jurisdiction
   }
   OPTIONAL {
     ?org wdt:P1342 ?org_seat_count
   }
-  ?item p:P39 ?statement .
+  ?item wdt:P31 wd:Q5 ;
+        p:P39 ?statement .
   OPTIONAL {
-          ?item rdfs:label ?name_pt_br
-          FILTER(LANG(?name_pt_br) = "pt-br")
-        }
+  ?item rdfs:label ?name_pt_br
+  FILTER(LANG(?name_pt_br) = "pt-br")
+}
+
 OPTIONAL {
-          ?item rdfs:label ?name_pt
-          FILTER(LANG(?name_pt) = "pt")
-        }
+  ?item rdfs:label ?name_pt
+  FILTER(LANG(?name_pt) = "pt")
+}
+
 OPTIONAL {
-          ?item rdfs:label ?name_en
-          FILTER(LANG(?name_en) = "en")
-        }
+  ?item rdfs:label ?name_en
+  FILTER(LANG(?name_en) = "en")
+}
+
   ?statement ps:P39 ?role .
   OPTIONAL {
-          ?role rdfs:label ?role_pt_br
-          FILTER(LANG(?role_pt_br) = "pt-br")
-        }
+  ?role rdfs:label ?role_pt_br
+  FILTER(LANG(?role_pt_br) = "pt-br")
+}
+
 OPTIONAL {
-          ?role rdfs:label ?role_pt
-          FILTER(LANG(?role_pt) = "pt")
-        }
+  ?role rdfs:label ?role_pt
+  FILTER(LANG(?role_pt) = "pt")
+}
+
 OPTIONAL {
-          ?role rdfs:label ?role_en
-          FILTER(LANG(?role_en) = "en")
-        }
+  ?role rdfs:label ?role_en
+  FILTER(LANG(?role_en) = "en")
+}
+
   OPTIONAL {
     ?role wdt:P279 ?role_superclass .
     ?role_superclass wdt:P279+ wd:Q4175034
     OPTIONAL {
-          ?role_superclass rdfs:label ?role_superclass_pt_br
-          FILTER(LANG(?role_superclass_pt_br) = "pt-br")
-        }
+  ?role_superclass rdfs:label ?role_superclass_pt_br
+  FILTER(LANG(?role_superclass_pt_br) = "pt-br")
+}
+
 OPTIONAL {
-          ?role_superclass rdfs:label ?role_superclass_pt
-          FILTER(LANG(?role_superclass_pt) = "pt")
-        }
+  ?role_superclass rdfs:label ?role_superclass_pt
+  FILTER(LANG(?role_superclass_pt) = "pt")
+}
+
 OPTIONAL {
-          ?role_superclass rdfs:label ?role_superclass_en
-          FILTER(LANG(?role_superclass_en) = "en")
-        }
+  ?role_superclass rdfs:label ?role_superclass_en
+  FILTER(LANG(?role_superclass_en) = "en")
+}
+
   }
   ?statement pq:P2937 wd:Q53865272 .
   OPTIONAL { ?statement pq:P580 ?start }
@@ -75,32 +88,38 @@ OPTIONAL {
   OPTIONAL {
     ?statement pq:P768 ?district.
     OPTIONAL {
-          ?district rdfs:label ?district_name_pt_br
-          FILTER(LANG(?district_name_pt_br) = "pt-br")
-        }
+  ?district rdfs:label ?district_name_pt_br
+  FILTER(LANG(?district_name_pt_br) = "pt-br")
+}
+
 OPTIONAL {
-          ?district rdfs:label ?district_name_pt
-          FILTER(LANG(?district_name_pt) = "pt")
-        }
+  ?district rdfs:label ?district_name_pt
+  FILTER(LANG(?district_name_pt) = "pt")
+}
+
 OPTIONAL {
-          ?district rdfs:label ?district_name_en
-          FILTER(LANG(?district_name_en) = "en")
-        }
+  ?district rdfs:label ?district_name_en
+  FILTER(LANG(?district_name_en) = "en")
+}
+
   }
   OPTIONAL {
     ?statement pq:P4100 ?party.
     OPTIONAL {
-          ?party rdfs:label ?party_name_pt_br
-          FILTER(LANG(?party_name_pt_br) = "pt-br")
-        }
+  ?party rdfs:label ?party_name_pt_br
+  FILTER(LANG(?party_name_pt_br) = "pt-br")
+}
+
 OPTIONAL {
-          ?party rdfs:label ?party_name_pt
-          FILTER(LANG(?party_name_pt) = "pt")
-        }
+  ?party rdfs:label ?party_name_pt
+  FILTER(LANG(?party_name_pt) = "pt")
+}
+
 OPTIONAL {
-          ?party rdfs:label ?party_name_en
-          FILTER(LANG(?party_name_en) = "en")
-        }
+  ?party rdfs:label ?party_name_en
+  FILTER(LANG(?party_name_en) = "en")
+}
+
   }
   OPTIONAL { ?item wdt:P2013 ?facebook }
   
