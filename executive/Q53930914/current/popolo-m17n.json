@@ -1,9 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Iris Rezende",
+        "lang:en": "Iris Rezende"
+      },
+      "id": "Q10303622",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10303622"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Goiânia",
+        "lang:en": "municipal prefecture of Goiânia"
+      },
+      "id": "Q53930914",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53930914"
+        }
+      ],
+      "area_id": "Q83189"
+    }
   ],
   "areas": [
     {
@@ -86,6 +115,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10303622-a9e7960e-4283-066a-7453-55126c439fc6",
+      "person_id": "Q10303622",
+      "organization_id": "Q53930914",
+      "area_id": "Q83189",
+      "start_date": "2017-01-01",
+      "role_superclass_code": "Q53926044",
+      "role_superclass": {
+        "lang:pt-br": "Prefeito de Goiânia",
+        "lang:en": "Mayor of Goiânia"
+      },
+      "role_code": "Q53926044",
+      "role": {
+        "lang:pt-br": "Prefeito de Goiânia",
+        "lang:en": "Mayor of Goiânia"
+      }
+    }
   ]
 }
