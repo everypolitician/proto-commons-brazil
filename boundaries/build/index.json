@@ -899,6 +899,550 @@
       "match": "country:br/fed:ma/mun:sao-luis",
       "column": "MS_FB"
     }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of perus",
+        "position_item_id": "Q56098344"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:perus",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of pirituba",
+        "position_item_id": "Q56098345"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:pirituba---jaragua",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of freguesia do ó",
+        "position_item_id": "Q56098346"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:freguesia-do-o---brasilandia",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of casa verde",
+        "position_item_id": "Q56098347"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:casa-verde---cachoeirinha",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of santana-tucuruvi",
+        "position_item_id": "Q56098348"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:santana---tucuruvi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of jaçanã/tremembé",
+        "position_item_id": "Q56098349"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:jacana---tremembe",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of vila maria",
+        "position_item_id": "Q56098350"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:vila-maria---vila-guilherme",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of lapa",
+        "position_item_id": "Q56098351"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:lapa",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of sé",
+        "position_item_id": "Q56098566"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:se",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of butantã",
+        "position_item_id": "Q56098567"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:butanta",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of pinheiros",
+        "position_item_id": "Q56098569"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:pinheiros",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of vila mariana",
+        "position_item_id": "Q56098571"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:vila-mariana",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of ipiranga",
+        "position_item_id": "Q56098572"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:ipiranga",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of santo amaro",
+        "position_item_id": "Q56098573"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:santo-amaro",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of jabaquara",
+        "position_item_id": "Q56098574"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:jabaquara",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of cidade ademar",
+        "position_item_id": "Q56098575"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:cidade-ademar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of campo limpo",
+        "position_item_id": "Q56098600"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:campo-limpo",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of m'boi mirim",
+        "position_item_id": "Q56098601"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:m'boi-mirim",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of capela do socorro",
+        "position_item_id": "Q56098602"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:capela-do-socorro",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of parelheiros",
+        "position_item_id": "Q56098603"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:parelheiros",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of penha",
+        "position_item_id": "Q56098604"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:penha",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of ermelino matarazzo",
+        "position_item_id": "Q56098606"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:ermelino-matarazzo",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of são miguel paulista",
+        "position_item_id": "Q56098472"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:sao-miguel-paulista",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of itaim paulista/vila curuçá",
+        "position_item_id": "Q56098474"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:itaim-paulista",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of mooca",
+        "position_item_id": "Q56098477"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:mooca",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of aricanduva/formosa/carrão",
+        "position_item_id": "Q56098479"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:aricanduva---vila-formosa",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of itaquera",
+        "position_item_id": "Q56098607"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:itaquera",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of guaianases",
+        "position_item_id": "Q56098609"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:guaianases",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of vila prudente",
+        "position_item_id": "Q56098610"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:vila-prudente",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of são mateus",
+        "position_item_id": "Q56098612"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:sao-mateus",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of cidade tiradentes",
+        "position_item_id": "Q56098613"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:cidade-tiradentes",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sao-paulo-subprefectures",
+    "area_type_wikidata_item_id": "Q19886676",
+    "associations": [
+      {
+        "comment": "subprefect of sapopemba",
+        "position_item_id": "Q56098614"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:sapopemba",
+      "column": "MS_FB"
+    }
   }
 ]
 
