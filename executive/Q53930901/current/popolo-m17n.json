@@ -53,6 +53,21 @@
         }
       ],
       "area_id": "Q36947"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Democrático Social",
+        "lang:pt": "Partido Democrático Social",
+        "lang:en": "Democratic Social Party"
+      },
+      "id": "Q1713552",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1713552"
+        }
+      ]
     }
   ],
   "areas": [
@@ -125,7 +140,7 @@
         "Q53864926"
       ],
       "type": {
-        "lang:pt-br": "unidades federativas",
+        "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -139,6 +154,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q571064-dbd79886-4011-ca21-0d7a-50b67113b089",
       "person_id": "Q571064",
+      "on_behalf_of_id": "Q1713552",
       "organization_id": "Q53930901",
       "area_id": "Q36947",
       "role_superclass_code": "Q27306390",

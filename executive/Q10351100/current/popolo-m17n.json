@@ -433,7 +433,7 @@
         "Q53864923"
       ],
       "type": {
-        "lang:pt-br": "unidades federativas",
+        "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -464,6 +464,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10311413-bc77641c-4efe-8ba1-36cc-e596d3829b00",
       "person_id": "Q10311413",
+      "on_behalf_of_id": "Q1322897",
       "organization_id": "Q10351100",
       "area_id": "Q174",
       "start_date": "2017-01-01",
@@ -667,6 +668,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q9667541-b81a26af-4fbd-25a4-9ee5-223ae2cf5683",
       "person_id": "Q9667541",
+      "on_behalf_of_id": "Q1322897",
       "organization_id": "Q10351100",
       "area_id": "Q174",
       "start_date": "2018-04-06",

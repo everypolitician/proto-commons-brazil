@@ -97,7 +97,7 @@
         "Q53864925"
       ],
       "type": {
-        "lang:pt-br": "unidades federativas",
+        "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -140,14 +140,17 @@
       "on_behalf_of_id": "Q926973",
       "organization_id": "Q53930899",
       "area_id": "Q8678",
+      "start_date": "2017-01-01",
       "role_superclass_code": "Q53926032",
       "role_superclass": {
         "lang:pt-br": "Prefeito do Rio de Janeiro",
+        "lang:pt": "prefeito de Rio de Janeiro",
         "lang:en": "Mayor of Rio de Janeiro"
       },
       "role_code": "Q53926032",
       "role": {
         "lang:pt-br": "Prefeito do Rio de Janeiro",
+        "lang:pt": "prefeito de Rio de Janeiro",
         "lang:en": "Mayor of Rio de Janeiro"
       }
     }

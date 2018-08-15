@@ -36,6 +36,21 @@
         }
       ],
       "area_id": "Q42800"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Socialista Brasileiro",
+        "lang:pt": "Partido Socialista Brasileiro",
+        "lang:en": "Brazilian Socialist Party"
+      },
+      "id": "Q2054789",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2054789"
+        }
+      ]
     }
   ],
   "areas": [
@@ -82,7 +97,7 @@
         "Q53864924"
       ],
       "type": {
-        "lang:pt-br": "unidades federativas",
+        "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
         "lang:en": "Federative unit of Brazil"
       },
@@ -122,6 +137,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16501287-6C98DBDE-D2EF-42D0-A914-69232CC3B1F8",
       "person_id": "Q16501287",
+      "on_behalf_of_id": "Q2054789",
       "organization_id": "Q30263897",
       "area_id": "Q42800",
       "role_superclass_code": "Q53926035",
