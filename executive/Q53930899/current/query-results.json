@@ -59,6 +59,11 @@
         "type" : "literal",
         "value" : "Mayor of Rio de Janeiro"
       },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "prefeito de Rio de Janeiro"
+      },
       "role_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
@@ -68,6 +73,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mayor of Rio de Janeiro"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "prefeito de Rio de Janeiro"
       },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
@@ -110,6 +120,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8678"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-01-01T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",

@@ -34,12 +34,12 @@
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State deputy"
+        "value" : "state deputy"
       },
       "role_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Deputado estadual"
+        "value" : "deputado estadual"
       },
       "role" : {
         "type" : "uri",

@@ -112,6 +112,20 @@
         "value" : "Aliança Renovadora Nacionalista"
       }
     }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1322897"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian Social Democracy Party"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido da Social Democracia Brasileira"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10311413"
@@ -200,19 +214,24 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q174"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "2017-01-01T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "jdoriajr"
+        "value" : "Partido da Social Democracia Brasileira"
       },
       "name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "João Doria Júnior"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "jdoriajr"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-01-01T00:00:00Z"
       }
     }, {
       "item" : {
@@ -1074,14 +1093,14 @@
         "type" : "literal",
         "value" : "Partido dos Trabalhadores"
       },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "MartaNossaPrefeita"
-      },
       "name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Marta Suplicy"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "MartaNossaPrefeita"
       }
     }, {
       "party" : {
@@ -1413,6 +1432,20 @@
         "value" : "Partido da Social Democracia Brasileira"
       }
     }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1322897"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian Social Democracy Party"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido da Social Democracia Brasileira"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9667541"
@@ -1501,14 +1534,19 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q174"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "2018-04-06T00:00:00Z"
+        "value" : "Partido da Social Democracia Brasileira"
       },
       "facebook" : {
         "type" : "literal",
         "value" : "BrunoCovasOficial"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-04-06T00:00:00Z"
       }
     } ]
   }

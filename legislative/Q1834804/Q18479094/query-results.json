@@ -44,7 +44,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -91,6 +91,129 @@
     }, {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q10308690-D5B2602E-A2A1-415F-9CB3-2E31037AC79D"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20058725"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Chamber of Deputies of Brazil"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado federal"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10308690"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "José Affonso Ebert Hamm"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1834804"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chamber of Deputies"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "513"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "José Affonso Ebert Hamm"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q732852"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Progressive Party"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Progressista"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido Progressista"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40030"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rio Grande do Sul"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Rio Grande do Sul"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Rio Grande do Sul"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q10316536-222F7431-52A1-4AA2-8963-7CD5DF2D332A"
       },
       "role_superclass" : {
@@ -129,7 +252,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -214,7 +337,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -299,7 +422,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -384,7 +507,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -431,91 +554,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q10346628-C21827B4-D099-49C6-94DC-D88961DD1C96"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1055894"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "deputy"
-      },
-      "role_superclass_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "deputado"
-      },
-      "role_superclass_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Deputado"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20058725"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Chamber of Deputies of Brazil"
-      },
-      "role_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "deputado do Brasil"
-      },
-      "role_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Deputado federal"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10346628"
-      },
-      "name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Paulo Henrique Lustosa"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1834804"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chamber of Deputies"
-      },
-      "org_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Câmara dos Deputados do Brasil"
-      },
-      "org_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Câmara dos Deputados"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q155"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "513"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Paulo Henrique Lustosa"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q10346742-B1BB115C-372F-47C2-837B-4176FEA3FC31"
       },
       "role_superclass" : {
@@ -554,7 +592,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -676,7 +714,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -761,7 +799,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -846,7 +884,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -931,7 +969,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1016,7 +1054,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1101,7 +1139,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1186,7 +1224,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1233,6 +1271,129 @@
     }, {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16144755-3B35BEC4-27E6-46CC-9460-BFAB6718558C"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20058725"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Chamber of Deputies of Brazil"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado federal"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16144755"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Aelton José de Freitas"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1834804"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chamber of Deputies"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "513"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aelton José de Freitas"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2731720"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Party of the Republic"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido da República"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido da República"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39109"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Minas Gerais"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Minas Gerais"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Minas Gerais"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q17489954-4d39ce4f-4645-8de5-d3d6-26cbc8373787"
       },
       "role_superclass" : {
@@ -1271,7 +1432,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1356,7 +1517,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1436,7 +1597,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1483,6 +1644,133 @@
     }, {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q19607416-EA06C1FB-35C1-4334-B197-7518DEB577AB"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20058725"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Chamber of Deputies of Brazil"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado federal"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19607416"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Afonso Antunes da Motta"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1834804"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chamber of Deputies"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "513"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Afonso Antunes da Motta"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1414708"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Labour Party"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Democrático Trabalhista"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido Democrático Trabalhista"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40030"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rio Grande do Sul"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Rio Grande do Sul"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Rio Grande do Sul"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "afonso.motta.perfil.dois"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19708356-BA1537BC-B1AB-4750-A23D-5FBE1FB5C065"
       },
       "role_superclass" : {
@@ -1521,7 +1809,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1610,7 +1898,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1699,7 +1987,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1784,7 +2072,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1869,7 +2157,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -1916,6 +2204,119 @@
     }, {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q21019814-33D53F07-853A-4FEC-8318-BC8DE298DFCF"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20058725"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Chamber of Deputies of Brazil"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado federal"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21019814"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Adalberto Cavalcanti"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1834804"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chamber of Deputies"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "513"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Adalberto Cavalcanti"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55825564"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PP, PODE, AVANTE Parliamentary Block"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40942"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pernambuco"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Pernambuco"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Pernambuco"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21019935-0833F94A-872F-4830-A34C-CDE4A9A1B670"
       },
       "role_superclass" : {
@@ -1954,7 +2355,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2039,7 +2440,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2161,7 +2562,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2246,7 +2647,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2368,7 +2769,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2453,7 +2854,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2500,6 +2901,133 @@
     }, {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q23893668-EB66C7B4-DB41-423C-B3EE-1AE86E942CB3"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20058725"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Chamber of Deputies of Brazil"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado federal"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23893668"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Adail Carneiro"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1834804"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chamber of Deputies"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "513"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Adail Carneiro"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2453205"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Humanist Party of Solidarity"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Humanista da Solidariedade"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido Humanista da Solidariedade"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40123"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ceará"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ceará"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Ceará"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "adailcarneiro31"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q23904966-C10B7275-B649-4552-B63E-9B2A39F4EA06"
       },
       "role_superclass" : {
@@ -2538,7 +3066,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2627,7 +3155,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2731,7 +3259,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2835,7 +3363,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -2929,7 +3457,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3014,7 +3542,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3099,7 +3627,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3184,7 +3712,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3269,7 +3797,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3354,7 +3882,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3439,7 +3967,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3524,7 +4052,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3609,7 +4137,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3694,7 +4222,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3779,7 +4307,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3826,6 +4354,129 @@
     }, {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q28465690-6CD89FCA-7925-4C17-8397-49371E6C0D0F"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20058725"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Chamber of Deputies of Brazil"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado federal"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28465690"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Adilton Sachetti"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1834804"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chamber of Deputies"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "513"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Adilton Sachetti"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q926973"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian Republican Party"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Republicano Brasileiro"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido Republicano Brasileiro"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42824"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mato Grosso"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Mato Grosso"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Mato Grosso"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q28465693-0E937C61-9057-4291-B234-5418F9370EC8"
       },
       "role_superclass" : {
@@ -3864,7 +4515,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -3949,7 +4600,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -4034,7 +4685,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -4119,7 +4770,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -4204,7 +4855,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -4289,7 +4940,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -4374,7 +5025,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -4473,7 +5124,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -4558,7 +5209,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -4643,7 +5294,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -4765,7 +5416,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -4855,7 +5506,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -4907,6 +5558,129 @@
     }, {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q43193064-A53B6D35-09AB-4F41-B615-0D12160A846A"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20058725"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Chamber of Deputies of Brazil"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado federal"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43193064"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Abel Mesquita Júnior"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1834804"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chamber of Deputies"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "513"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Abel Mesquita Júnior"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1414708"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Labour Party"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Democrático Trabalhista"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido Democrático Trabalhista"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42508"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roraima"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Roraima"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Roraima"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q43193239-690d1d5c-4077-af10-c08b-1a4cd20661ac"
       },
       "role_superclass" : {
@@ -4945,7 +5719,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -5025,7 +5799,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -5110,7 +5884,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -5195,7 +5969,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -5280,7 +6054,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",
@@ -5327,6 +6101,252 @@
     }, {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q9582599-40AF56F9-AF9C-4429-A1FF-AE1ED0358328"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20058725"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Chamber of Deputies of Brazil"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado federal"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9582599"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Adelmo Carneiro Leão"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1834804"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chamber of Deputies"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "513"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Adelmo Carneiro Leão"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q657089"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Workers' Party"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido dos Trabalhadores"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido dos Trabalhadores"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39109"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Minas Gerais"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Minas Gerais"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Minas Gerais"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q9587090-7F6FFD87-3E04-4D88-B36A-23A1A999F9F5"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20058725"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Chamber of Deputies of Brazil"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado federal"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9587090"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Afonso Florence"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1834804"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chamber of Deputies"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "513"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Afonso Florence"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q657089"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Workers' Party"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido dos Trabalhadores"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido dos Trabalhadores"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40430"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bahia"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Bahia"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Bahia"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q9644523-4275A5C8-AE68-4987-B0EC-D9A3B3D32AF9"
       },
       "role_superclass" : {
@@ -5365,7 +6385,7 @@
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado federal"
+        "value" : "deputado federal"
       },
       "item" : {
         "type" : "uri",

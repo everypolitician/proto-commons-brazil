@@ -4,6 +4,29 @@
   },
   "results" : {
     "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1713552"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Social Party"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Democrático Social"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido Democrático Social"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q571064"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q36947"
@@ -60,10 +83,6 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "prefeito de Salvador"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q571064"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -103,6 +122,10 @@
         "value" : "http://www.wikidata.org/entity/Q36947"
       }
     }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9621234"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q36947"
@@ -159,10 +182,6 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "prefeito de Salvador"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q9621234"
       },
       "name_en" : {
         "xml:lang" : "en",
