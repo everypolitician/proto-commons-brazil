@@ -7,9 +7,9 @@ SELECT ?statement
        ?start ?end ?facebook
        ?org ?org_pt_br ?org_pt ?org_en ?org_jurisdiction ?org_seat_count
 WHERE {
-  BIND(wd:Q53935038 as ?role) .
-  BIND(wd:Q53935038 as ?specific_role) .
-  BIND(wd:Q53935035 as ?org) .
+  BIND(wd:Q53935007 as ?role) .
+  BIND(wd:Q53935007 as ?specific_role) .
+  BIND(wd:Q53935004 as ?org) .
   OPTIONAL {
   ?org rdfs:label ?org_pt_br
   FILTER(LANG(?org_pt_br) = "pt-br")
@@ -83,7 +83,7 @@ OPTIONAL {
 }
 
   }
-  ?statement pq:P2937 wd:Q53935039 .
+  ?statement pq:P2937 wd:Q53934927 .
   OPTIONAL { ?statement pq:P580 ?start }
   OPTIONAL { ?statement pq:P582 ?end }
   OPTIONAL {

@@ -20,6 +20,38 @@ SELECT DISTINCT ?legislature ?legislatureLabel ?adminArea ?adminAreaLabel ?admin
     VALUES ?primarySort { 3 }
   } UNION {
     VALUES (?adminArea ?primarySort ?adminAreaType) {
+      (wd:Q986015 4 wd:Q24238356)
+      (wd:Q2223621 4 wd:Q24238356)
+      (wd:Q4261706 4 wd:Q24238356)
+      (wd:Q4262088 4 wd:Q24238356)
+      (wd:Q4262095 4 wd:Q24238356)
+      (wd:Q4262100 4 wd:Q24238356)
+      (wd:Q4262104 4 wd:Q24238356)
+      (wd:Q4262119 4 wd:Q24238356)
+      (wd:Q4262126 4 wd:Q24238356)
+      (wd:Q4262135 4 wd:Q24238356)
+      (wd:Q4274227 4 wd:Q24238356)
+      (wd:Q4274232 4 wd:Q24238356)
+      (wd:Q4274237 4 wd:Q24238356)
+      (wd:Q4305949 4 wd:Q24238356)
+      (wd:Q4305958 4 wd:Q24238356)
+      (wd:Q4306002 4 wd:Q24238356)
+      (wd:Q4352002 4 wd:Q24238356)
+      (wd:Q4352005 4 wd:Q24238356)
+      (wd:Q4409038 4 wd:Q24238356)
+      (wd:Q4409861 4 wd:Q24238356)
+      (wd:Q4409869 4 wd:Q24238356)
+      (wd:Q4445052 4 wd:Q24238356)
+      (wd:Q4445053 4 wd:Q24238356)
+      (wd:Q4445054 4 wd:Q24238356)
+      (wd:Q4445056 4 wd:Q24238356)
+      (wd:Q4502358 4 wd:Q24238356)
+      (wd:Q4502363 4 wd:Q24238356)
+      (wd:Q4555498 4 wd:Q24238356)
+      (wd:Q4675493 4 wd:Q24238356)
+      (wd:Q4675774 4 wd:Q24238356)
+      (wd:Q6372512 4 wd:Q24238356)
+      (wd:Q28680501 4 wd:Q24238356)
     }
   }
 
