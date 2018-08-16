@@ -1,9 +1,53 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Amazonino Mendes",
+        "lang:en": "Amazonino Mendes"
+      },
+      "id": "Q111507",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q111507"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "cabinete do governador do estado do Amazonas",
+        "lang:en": "cabinet of the governor of the state of Amazonas"
+      },
+      "id": "Q53738351",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738351"
+        }
+      ],
+      "area_id": "Q40040"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Democrático Trabalhista",
+        "lang:pt": "Partido Democrático Trabalhista",
+        "lang:en": "Democratic Labour Party"
+      },
+      "id": "Q1414708",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1414708"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -60,6 +104,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q111507-5C17FB3F-BA71-4CA5-B22D-8D8A51ED1FED",
+      "person_id": "Q111507",
+      "on_behalf_of_id": "Q1414708",
+      "organization_id": "Q53738351",
+      "area_id": "Q40040",
+      "role_superclass_code": "Q53739362",
+      "role_superclass": {
+        "lang:pt-br": "governador do estado do Amazonas",
+        "lang:en": "governor of the state of Amazonas"
+      },
+      "role_code": "Q53739362",
+      "role": {
+        "lang:pt-br": "governador do estado do Amazonas",
+        "lang:en": "governor of the state of Amazonas"
+      }
+    }
   ]
 }

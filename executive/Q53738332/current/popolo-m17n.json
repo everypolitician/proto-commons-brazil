@@ -1,9 +1,53 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Paulo Câmara",
+        "lang:en": "Paulo Câmara"
+      },
+      "id": "Q18279658",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18279658"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "cabinete do governador do estado de Pernambuco",
+        "lang:en": "cabinet of the governor of the state of Pernambuco"
+      },
+      "id": "Q53738332",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738332"
+        }
+      ],
+      "area_id": "Q40942"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Socialista Brasileiro",
+        "lang:pt": "Partido Socialista Brasileiro",
+        "lang:en": "Brazilian Socialist Party"
+      },
+      "id": "Q2054789",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2054789"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -60,6 +104,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18279658-8E124176-4065-436B-B39A-C6885DCBF65D",
+      "person_id": "Q18279658",
+      "on_behalf_of_id": "Q2054789",
+      "organization_id": "Q53738332",
+      "area_id": "Q40942",
+      "role_superclass_code": "Q53739344",
+      "role_superclass": {
+        "lang:pt-br": "governador do estado de Pernambuco",
+        "lang:en": "governor of the state of Pernambuco"
+      },
+      "role_code": "Q53739344",
+      "role": {
+        "lang:pt-br": "governador do estado de Pernambuco",
+        "lang:en": "governor of the state of Pernambuco"
+      }
+    }
   ]
 }
