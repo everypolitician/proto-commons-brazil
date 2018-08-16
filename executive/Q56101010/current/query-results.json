@@ -1,0 +1,77 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_pt_br", "name_pt", "name_en", "party", "party_name_pt_br", "party_name_pt", "party_name_en", "district", "district_name_pt_br", "district_name_pt", "district_name_en", "role", "role_pt_br", "role_pt", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_pt_br", "role_superclass_pt", "role_superclass_en", "org", "org_pt_br", "org_pt", "org_en", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4262088"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subprefecture of  Sé"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Subprefeitura da Sé"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Subprefeitura da Sé"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56098566"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56098566"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subprefect of Sé"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subprefect of Sé"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56098662"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eduardo Odloak"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Eduardo Odloak"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56101010"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Office of the Subprefect of Sé"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56098662-A0753B3B-F85B-47F9-847D-6261266BADC1"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4262088"
+      }
+    } ]
+  }
+}

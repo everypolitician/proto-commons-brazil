@@ -1,0 +1,77 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_pt_br", "name_pt", "name_en", "party", "party_name_pt_br", "party_name_pt", "party_name_en", "district", "district_name_pt_br", "district_name_pt", "district_name_en", "role", "role_pt_br", "role_pt", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_pt_br", "role_superclass_pt", "role_superclass_en", "org", "org_pt_br", "org_pt", "org_en", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2223621"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subprefecture of  Santo Amaro"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Subprefeitura de Santo Amaro"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Subprefeitura de Santo Amaro"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56098573"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56098573"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subprefect of Santo Amaro"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subprefect of Santo Amaro"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56098669"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Janaina Lopes de Martini"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Janaina Lopes de Martini"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56101018"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Office of the Subprefect of Santo Amaro"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56098669-DE2CCBAE-9F3C-43B2-9C42-E1F810F25970"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2223621"
+      }
+    } ]
+  }
+}
