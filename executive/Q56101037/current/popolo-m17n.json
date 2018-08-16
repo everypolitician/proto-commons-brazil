@@ -1,0 +1,156 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pt": "Antonio Eduardo dos Santos",
+        "lang:en": "Antonio Eduardo dos Santos"
+      },
+      "id": "Q1825767",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1825767"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Office of the Subprefect of Guaianases"
+      },
+      "id": "Q56101037",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56101037"
+        }
+      ],
+      "area_id": "Q4305949"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp/mun:sao-paulo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24255165",
+        "Q53934877"
+      ],
+      "type": {
+        "lang:pt-br": "capital",
+        "lang:pt": "capital",
+        "lang:en": "capital"
+      },
+      "name": {
+        "lang:pt": "São Paulo"
+      },
+      "parent_id": "Q175"
+    },
+    {
+      "id": "Q175",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q175"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739335",
+        "Q53864923"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "São Paulo"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q4305949",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp/mun:sao-paulo/subprefecture:guaianases"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4305949"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098609"
+      ],
+      "type": {
+        "lang:pt-br": "subprefeitura de São Paulo",
+        "lang:en": "subprefecture of São Paulo"
+      },
+      "name": {
+        "lang:en": "Subprefecture of  Guaianases"
+      },
+      "parent_id": "Q174"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1825767-301B6BA1-A12D-4C52-999E-1E4D91EC757F",
+      "person_id": "Q1825767",
+      "organization_id": "Q56101037",
+      "area_id": "Q4305949",
+      "role_superclass_code": "Q56098609",
+      "role_superclass": {
+        "lang:en": "Subprefect of Guaianases"
+      },
+      "role_code": "Q56098609",
+      "role": {
+        "lang:en": "Subprefect of Guaianases"
+      }
+    }
+  ]
+}

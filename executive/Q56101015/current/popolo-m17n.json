@@ -1,0 +1,156 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pt": "Juliana Natrielli Medeiros Ribeiro dos Santos",
+        "lang:en": "Juliana Natrielli Medeiros Ribeiro dos Santos"
+      },
+      "id": "Q56098665",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56098665"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Office of the Subprefect of Pinheiros"
+      },
+      "id": "Q56101015",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56101015"
+        }
+      ],
+      "area_id": "Q4274237"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp/mun:sao-paulo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24255165",
+        "Q53934877"
+      ],
+      "type": {
+        "lang:pt-br": "capital",
+        "lang:pt": "capital",
+        "lang:en": "capital"
+      },
+      "name": {
+        "lang:pt": "São Paulo"
+      },
+      "parent_id": "Q175"
+    },
+    {
+      "id": "Q175",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q175"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739335",
+        "Q53864923"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "São Paulo"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q4274237",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp/mun:sao-paulo/subprefecture:pinheiros"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4274237"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098569"
+      ],
+      "type": {
+        "lang:pt-br": "subprefeitura de São Paulo",
+        "lang:en": "subprefecture of São Paulo"
+      },
+      "name": {
+        "lang:en": "Subprefecture of  Pinheiros"
+      },
+      "parent_id": "Q174"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56098665-25921FCB-B5FF-46E0-9396-86E20ABAB8D2",
+      "person_id": "Q56098665",
+      "organization_id": "Q56101015",
+      "area_id": "Q4274237",
+      "role_superclass_code": "Q56098569",
+      "role_superclass": {
+        "lang:en": "Subprefect of Pinheiros"
+      },
+      "role_code": "Q56098569",
+      "role": {
+        "lang:en": "Subprefect of Pinheiros"
+      }
+    }
+  ]
+}

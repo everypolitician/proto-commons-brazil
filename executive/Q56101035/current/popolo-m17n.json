@@ -1,0 +1,156 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pt": "Jamil Yatim",
+        "lang:en": "Jamil Yatim"
+      },
+      "id": "Q56098678",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56098678"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Office of the Subprefect of Itaquera"
+      },
+      "id": "Q56101035",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56101035"
+        }
+      ],
+      "area_id": "Q4261706"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp/mun:sao-paulo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24255165",
+        "Q53934877"
+      ],
+      "type": {
+        "lang:pt-br": "capital",
+        "lang:pt": "capital",
+        "lang:en": "capital"
+      },
+      "name": {
+        "lang:pt": "São Paulo"
+      },
+      "parent_id": "Q175"
+    },
+    {
+      "id": "Q175",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q175"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739335",
+        "Q53864923"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "São Paulo"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q4261706",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp/mun:sao-paulo/subprefecture:itaquera"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4261706"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098607"
+      ],
+      "type": {
+        "lang:pt-br": "subprefeitura de São Paulo",
+        "lang:en": "subprefecture of São Paulo"
+      },
+      "name": {
+        "lang:en": "Subprefecture of  Itaquera"
+      },
+      "parent_id": "Q174"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56098678-C955C164-3871-4CD1-8AE9-9EEAEA85293B",
+      "person_id": "Q56098678",
+      "organization_id": "Q56101035",
+      "area_id": "Q4261706",
+      "role_superclass_code": "Q56098607",
+      "role_superclass": {
+        "lang:en": "Subprefect of Itaquera"
+      },
+      "role_code": "Q56098607",
+      "role": {
+        "lang:en": "Subprefect of Itaquera"
+      }
+    }
+  ]
+}

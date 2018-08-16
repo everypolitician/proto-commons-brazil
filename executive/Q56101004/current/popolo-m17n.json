@@ -1,0 +1,156 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pt": "Roberto de Godoi Carneiro",
+        "lang:en": "Roberto de Godoi Carneiro"
+      },
+      "id": "Q56098430",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56098430"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Office of the Subprefect of Freguesia do Ó"
+      },
+      "id": "Q56101004",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56101004"
+        }
+      ],
+      "area_id": "Q4445056"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp/mun:sao-paulo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24255165",
+        "Q53934877"
+      ],
+      "type": {
+        "lang:pt-br": "capital",
+        "lang:pt": "capital",
+        "lang:en": "capital"
+      },
+      "name": {
+        "lang:pt": "São Paulo"
+      },
+      "parent_id": "Q175"
+    },
+    {
+      "id": "Q175",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q175"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739335",
+        "Q53864923"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "São Paulo"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q4445056",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp/mun:sao-paulo/subprefecture:freguesia-do-o---brasilandia"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4445056"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098346"
+      ],
+      "type": {
+        "lang:pt-br": "subprefeitura de São Paulo",
+        "lang:en": "subprefecture of São Paulo"
+      },
+      "name": {
+        "lang:en": "Subprefecture of  Freguesia do Ó"
+      },
+      "parent_id": "Q174"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56098430-4F7B7957-D2F4-49C4-BEB2-7F7253CAD797",
+      "person_id": "Q56098430",
+      "organization_id": "Q56101004",
+      "area_id": "Q4445056",
+      "role_superclass_code": "Q56098346",
+      "role_superclass": {
+        "lang:en": "Subprefect of Freguesia do Ó"
+      },
+      "role_code": "Q56098346",
+      "role": {
+        "lang:en": "Subprefect of Freguesia do Ó"
+      }
+    }
+  ]
+}

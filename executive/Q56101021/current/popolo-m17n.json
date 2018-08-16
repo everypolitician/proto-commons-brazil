@@ -1,0 +1,156 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pt": "Claudete Pereira Da Silva",
+        "lang:en": "Claudete Pereira Da Silva"
+      },
+      "id": "Q56098672",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56098672"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Office of the Subprefect of Campo Limpo"
+      },
+      "id": "Q56101021",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56101021"
+        }
+      ],
+      "area_id": "Q4502363"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp/mun:sao-paulo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24255165",
+        "Q53934877"
+      ],
+      "type": {
+        "lang:pt-br": "capital",
+        "lang:pt": "capital",
+        "lang:en": "capital"
+      },
+      "name": {
+        "lang:pt": "São Paulo"
+      },
+      "parent_id": "Q175"
+    },
+    {
+      "id": "Q175",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q175"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739335",
+        "Q53864923"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "São Paulo"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q4502363",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp/mun:sao-paulo/subprefecture:campo-limpo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4502363"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098600"
+      ],
+      "type": {
+        "lang:pt-br": "subprefeitura de São Paulo",
+        "lang:en": "subprefecture of São Paulo"
+      },
+      "name": {
+        "lang:en": "Subprefecture of  Campo Limpo"
+      },
+      "parent_id": "Q174"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56098672-890C8923-1335-4CEF-A243-CDB5385C302A",
+      "person_id": "Q56098672",
+      "organization_id": "Q56101021",
+      "area_id": "Q4502363",
+      "role_superclass_code": "Q56098600",
+      "role_superclass": {
+        "lang:en": "Subprefect of Campo Limpo"
+      },
+      "role_code": "Q56098600",
+      "role": {
+        "lang:en": "Subprefect of Campo Limpo"
+      }
+    }
+  ]
+}
