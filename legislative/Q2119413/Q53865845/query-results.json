@@ -83,11 +83,6 @@
         "type" : "literal",
         "value" : "Lindberg Farias"
       },
-      "name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Lindbergh Farias"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2119413"
@@ -115,6 +110,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "81"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Lindbergh Farias"
       },
       "facebook" : {
         "type" : "literal",
@@ -200,11 +200,6 @@
         "type" : "literal",
         "value" : "Ronaldo Caiado"
       },
-      "name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Ronaldo Caiado"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2119413"
@@ -232,6 +227,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "81"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Ronaldo Caiado"
       },
       "facebook" : {
         "type" : "literal",
@@ -317,11 +317,6 @@
         "type" : "literal",
         "value" : "Simone Tebet"
       },
-      "name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Simone Tebet"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2119413"
@@ -350,9 +345,122 @@
         "type" : "literal",
         "value" : "81"
       },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Simone Tebet"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "simonetebet"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1322751"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Movement Party"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Movimento Democrático Brasileiro"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Movimento Democrático Brasileiro"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16144980-01913B68-9155-44D0-9B11-FADAE34DE10B"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53657907"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "senador"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Senador"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18964326"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Senate of Brazil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Senador"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16144980"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Airton Sandoval"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Airton Sandoval"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2119413"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Federal Senate of Brazil"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Senado Federal do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Senado Federal"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "81"
       }
     }, {
       "party" : {
@@ -434,11 +542,6 @@
         "type" : "literal",
         "value" : "Paulo Bauer"
       },
-      "name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Paulo Bauer"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2119413"
@@ -466,6 +569,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "81"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Paulo Bauer"
       },
       "facebook" : {
         "type" : "literal",
@@ -551,11 +659,6 @@
         "type" : "literal",
         "value" : "Vanessa Grazziotin"
       },
-      "name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Vanessa Grazziotin"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2119413"
@@ -583,6 +686,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "81"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Vanessa Grazziotin"
       },
       "facebook" : {
         "type" : "literal",
