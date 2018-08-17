@@ -1,9 +1,53 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Geraldo Júlio",
+        "lang:en": "Geraldo Júlio"
+      },
+      "id": "Q5549821",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5549821"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Recife",
+        "lang:en": "municipal prefecture of Recife"
+      },
+      "id": "Q53930910",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53930910"
+        }
+      ],
+      "area_id": "Q48344"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Socialista Brasileiro",
+        "lang:pt": "Partido Socialista Brasileiro",
+        "lang:en": "Brazilian Socialist Party"
+      },
+      "id": "Q2054789",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2054789"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +130,39 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5549821-4CF1CB60-B58D-47C0-9395-72F135BEA9D7",
+      "person_id": "Q5549821",
+      "on_behalf_of_id": "Q2054789",
+      "organization_id": "Q53930910",
+      "area_id": "Q48344",
+      "role_superclass_code": "Q53926041",
+      "role_superclass": {
+        "lang:pt-br": "Prefeito de Recife",
+        "lang:en": "Mayor of Recife"
+      },
+      "role_code": "Q53926041",
+      "role": {
+        "lang:pt-br": "Prefeito de Recife",
+        "lang:en": "Mayor of Recife"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5549821-F68EBD70-FD96-45F3-8A6F-244D2A97CE55",
+      "person_id": "Q5549821",
+      "on_behalf_of_id": "Q2054789",
+      "organization_id": "Q53930910",
+      "area_id": "Q48344",
+      "role_superclass_code": "Q53926041",
+      "role_superclass": {
+        "lang:pt-br": "Prefeito de Recife",
+        "lang:en": "Mayor of Recife"
+      },
+      "role_code": "Q53926041",
+      "role": {
+        "lang:pt-br": "Prefeito de Recife",
+        "lang:en": "Mayor of Recife"
+      }
+    }
   ]
 }

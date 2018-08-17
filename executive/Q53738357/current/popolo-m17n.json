@@ -1,9 +1,53 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Pedro Taques",
+        "lang:en": "Pedro Taques"
+      },
+      "id": "Q10347781",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10347781"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "cabinete do governador do estado de Mato Grosso",
+        "lang:en": "cabinet of the governor of the state of Mato Grosso"
+      },
+      "id": "Q53738357",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738357"
+        }
+      ],
+      "area_id": "Q42824"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
+        "lang:pt": "Partido da Social Democracia Brasileira",
+        "lang:en": "Brazilian Social Democracy Party"
+      },
+      "id": "Q1322897",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322897"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -60,6 +104,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10347781-8FF4EE30-34D2-4E95-8D29-FB55A46D2409",
+      "person_id": "Q10347781",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q53738357",
+      "area_id": "Q42824",
+      "role_superclass_code": "Q53739368",
+      "role_superclass": {
+        "lang:pt-br": "governador do estado de Mato Grosso",
+        "lang:en": "governor of the state of Mato Grosso"
+      },
+      "role_code": "Q53739368",
+      "role": {
+        "lang:pt-br": "governador do estado de Mato Grosso",
+        "lang:en": "governor of the state of Mato Grosso"
+      }
+    }
   ]
 }

@@ -1,9 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Cida Borghetti",
+        "lang:en": "Cida Borghetti"
+      },
+      "id": "Q9757510",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9757510"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "cabinete do governador do estado do Paraná",
+        "lang:en": "cabinet of the governor of the state of Parana"
+      },
+      "id": "Q53738330",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738330"
+        }
+      ],
+      "area_id": "Q15499"
+    }
   ],
   "areas": [
     {
@@ -60,6 +89,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9757510-261A849E-A906-417E-81A2-ABD14234B824",
+      "person_id": "Q9757510",
+      "organization_id": "Q53738330",
+      "area_id": "Q15499",
+      "role_superclass_code": "Q53739343",
+      "role_superclass": {
+        "lang:pt-br": "governador do estado do Paraná",
+        "lang:en": "governor of the state of Parana"
+      },
+      "role_code": "Q53739343",
+      "role": {
+        "lang:pt-br": "governador do estado do Paraná",
+        "lang:en": "governor of the state of Parana"
+      }
+    }
   ]
 }

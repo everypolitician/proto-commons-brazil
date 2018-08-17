@@ -1,9 +1,53 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Renan Filho",
+        "lang:en": "Renan Filho"
+      },
+      "id": "Q10359235",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10359235"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "cabinete do governador do estado de Alagoas",
+        "lang:en": "cabinet of the governor of the state of Alagoas"
+      },
+      "id": "Q53738356",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738356"
+        }
+      ],
+      "area_id": "Q40885"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Movimento Democrático Brasileiro",
+        "lang:pt": "Movimento Democrático Brasileiro",
+        "lang:en": "Democratic Movement Party"
+      },
+      "id": "Q1322751",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322751"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -60,6 +104,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10359235-425ACA68-8F3F-4E13-BDB7-1DC381521EC6",
+      "person_id": "Q10359235",
+      "on_behalf_of_id": "Q1322751",
+      "organization_id": "Q53738356",
+      "area_id": "Q40885",
+      "role_superclass_code": "Q53739367",
+      "role_superclass": {
+        "lang:pt-br": "governador do estado de Alagoas",
+        "lang:en": "governor of the state of Alagoas"
+      },
+      "role_code": "Q53739367",
+      "role": {
+        "lang:pt-br": "governador do estado de Alagoas",
+        "lang:en": "governor of the state of Alagoas"
+      }
+    }
   ]
 }

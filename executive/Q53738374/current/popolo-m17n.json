@@ -1,9 +1,53 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Jackson Barreto",
+        "lang:en": "Jackson Barreto"
+      },
+      "id": "Q10304754",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10304754"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "cabinete do governador do estado de Sergipe",
+        "lang:en": "cabinet of the governor of the state of Sergipe"
+      },
+      "id": "Q53738374",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738374"
+        }
+      ],
+      "area_id": "Q43783"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Movimento Democrático Brasileiro",
+        "lang:pt": "Movimento Democrático Brasileiro",
+        "lang:en": "Democratic Movement Party"
+      },
+      "id": "Q1322751",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322751"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -60,6 +104,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10304754-839A494C-9E85-41A1-8820-B1620C644C9B",
+      "person_id": "Q10304754",
+      "on_behalf_of_id": "Q1322751",
+      "organization_id": "Q53738374",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q53739383",
+      "role_superclass": {
+        "lang:pt-br": "governador do estado de Sergipe",
+        "lang:en": "governor of the state of Sergipe"
+      },
+      "role_code": "Q53739383",
+      "role": {
+        "lang:pt-br": "governador do estado de Sergipe",
+        "lang:en": "governor of the state of Sergipe"
+      }
+    }
   ]
 }

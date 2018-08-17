@@ -1,9 +1,53 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Reinaldo Azambuja",
+        "lang:en": "Reinaldo Azambuja"
+      },
+      "id": "Q10358939",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10358939"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "cabinete do governador do estado de Mato Grosso do Sul",
+        "lang:en": "cabinet of the governor of the state of Mato Grosso do Sul"
+      },
+      "id": "Q53738373",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738373"
+        }
+      ],
+      "area_id": "Q43319"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
+        "lang:pt": "Partido da Social Democracia Brasileira",
+        "lang:en": "Brazilian Social Democracy Party"
+      },
+      "id": "Q1322897",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322897"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -60,6 +104,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10358939-87051630-6080-4378-816A-10A1B6CC6BCC",
+      "person_id": "Q10358939",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q53738373",
+      "area_id": "Q43319",
+      "role_superclass_code": "Q53739381",
+      "role_superclass": {
+        "lang:pt-br": "governador do estado de Mato Grosso do Sul",
+        "lang:en": "governor of the state of Mato Grosso do Sul"
+      },
+      "role_code": "Q53739381",
+      "role": {
+        "lang:pt-br": "governador do estado de Mato Grosso do Sul",
+        "lang:en": "governor of the state of Mato Grosso do Sul"
+      }
+    }
   ]
 }

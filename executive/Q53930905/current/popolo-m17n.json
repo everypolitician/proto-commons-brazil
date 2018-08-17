@@ -1,9 +1,53 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Arthur Virgílio Neto",
+        "lang:en": "Arthur Virgílio Neto"
+      },
+      "id": "Q8205747",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8205747"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Manaus",
+        "lang:en": "municipal prefecture of Manaus"
+      },
+      "id": "Q53930905",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53930905"
+        }
+      ],
+      "area_id": "Q40236"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Socialista Brasileiro",
+        "lang:pt": "Partido Socialista Brasileiro",
+        "lang:en": "Brazilian Socialist Party"
+      },
+      "id": "Q2054789",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2054789"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +130,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8205747-B5C396E4-EB51-48E4-88AD-96AECB25C7B2",
+      "person_id": "Q8205747",
+      "on_behalf_of_id": "Q2054789",
+      "organization_id": "Q53930905",
+      "area_id": "Q40236",
+      "role_superclass_code": "Q53926036",
+      "role_superclass": {
+        "lang:pt-br": "Prefeito de Manaus",
+        "lang:en": "Mayor of Manaus"
+      },
+      "role_code": "Q53926036",
+      "role": {
+        "lang:pt-br": "Prefeito de Manaus",
+        "lang:en": "Mayor of Manaus"
+      }
+    }
   ]
 }
