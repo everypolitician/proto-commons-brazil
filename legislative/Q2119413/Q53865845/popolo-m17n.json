@@ -62,6 +62,22 @@
     },
     {
       "name": {
+        "lang:pt": "Airton Sandoval",
+        "lang:en": "Airton Sandoval"
+      },
+      "id": "Q16144980",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16144980"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:pt-br": "Paulo Bauer",
         "lang:pt": "Paulo Bauer",
         "lang:en": "Paulo Bauer"
@@ -889,6 +905,24 @@
       "on_behalf_of_id": "Q1322751",
       "organization_id": "Q2119413",
       "area_id": "Q53657992",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:pt-br": "Senador",
+        "lang:pt": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18964326",
+      "role": {
+        "lang:pt-br": "Senador",
+        "lang:en": "Member of the Senate of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16144980-01913B68-9155-44D0-9B11-FADAE34DE10B",
+      "person_id": "Q16144980",
+      "on_behalf_of_id": "Q1322751",
+      "organization_id": "Q2119413",
+      "area_id": "Q53657907",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:pt-br": "Senador",

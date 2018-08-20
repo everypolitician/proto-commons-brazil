@@ -1,9 +1,53 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Tião Viana",
+        "lang:en": "Tião Viana"
+      },
+      "id": "Q212394",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q212394"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "Gabinete do GovernadorGoverdador do Estado do Acre",
+        "lang:en": "cabinet of the governor of the state of Acre"
+      },
+      "id": "Q53738379",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738379"
+        }
+      ],
+      "area_id": "Q40780"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido dos Trabalhadores",
+        "lang:pt": "Partido dos Trabalhadores",
+        "lang:en": "Workers' Party"
+      },
+      "id": "Q657089",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q657089"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -60,6 +104,39 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q212394-56D2CE61-B907-4B90-ADA6-2B48FEFA7BBF",
+      "person_id": "Q212394",
+      "on_behalf_of_id": "Q657089",
+      "organization_id": "Q53738379",
+      "area_id": "Q40780",
+      "role_superclass_code": "Q47520037",
+      "role_superclass": {
+        "lang:pt-br": "Goverdador do Estado do Acre",
+        "lang:en": "Governor of Acre"
+      },
+      "role_code": "Q47520037",
+      "role": {
+        "lang:pt-br": "Goverdador do Estado do Acre",
+        "lang:en": "Governor of Acre"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q212394-DA78FF05-7C18-493A-8F82-8E291F6BAE2F",
+      "person_id": "Q212394",
+      "on_behalf_of_id": "Q657089",
+      "organization_id": "Q53738379",
+      "area_id": "Q40780",
+      "role_superclass_code": "Q47520037",
+      "role_superclass": {
+        "lang:pt-br": "Goverdador do Estado do Acre",
+        "lang:en": "Governor of Acre"
+      },
+      "role_code": "Q47520037",
+      "role": {
+        "lang:pt-br": "Goverdador do Estado do Acre",
+        "lang:en": "Governor of Acre"
+      }
+    }
   ]
 }

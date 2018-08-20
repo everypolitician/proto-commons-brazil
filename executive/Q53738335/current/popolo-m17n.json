@@ -1,9 +1,53 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Simão Jatene",
+        "lang:en": "Simão Jatene"
+      },
+      "id": "Q7521412",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7521412"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "cabinete do governador do estado do Pará",
+        "lang:en": "cabinet of the governor of the state of Para"
+      },
+      "id": "Q53738335",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738335"
+        }
+      ],
+      "area_id": "Q39517"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
+        "lang:pt": "Partido da Social Democracia Brasileira",
+        "lang:en": "Brazilian Social Democracy Party"
+      },
+      "id": "Q1322897",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322897"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -60,6 +104,39 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7521412-792650E3-2AE8-4698-BD88-1393C9E130B2",
+      "person_id": "Q7521412",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q53738335",
+      "area_id": "Q39517",
+      "role_superclass_code": "Q53739346",
+      "role_superclass": {
+        "lang:pt-br": "governador do estado do Pará",
+        "lang:en": "governor of the state of Para"
+      },
+      "role_code": "Q53739346",
+      "role": {
+        "lang:pt-br": "governador do estado do Pará",
+        "lang:en": "governor of the state of Para"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7521412-871187F3-3572-4A33-A3AA-C98986932C71",
+      "person_id": "Q7521412",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q53738335",
+      "area_id": "Q39517",
+      "role_superclass_code": "Q53739346",
+      "role_superclass": {
+        "lang:pt-br": "governador do estado do Pará",
+        "lang:en": "governor of the state of Para"
+      },
+      "role_code": "Q53739346",
+      "role": {
+        "lang:pt-br": "governador do estado do Pará",
+        "lang:en": "governor of the state of Para"
+      }
+    }
   ]
 }
