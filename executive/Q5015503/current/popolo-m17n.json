@@ -110,11 +110,11 @@
       "on_behalf_of_id": "Q1322751",
       "organization_id": "Q5015503",
       "area_id": "Q155",
-      "role_superclass_code": "Q30461",
+      "role_superclass_code": "Q2285706",
       "role_superclass": {
-        "lang:pt-br": "presidente",
-        "lang:pt": "presidente",
-        "lang:en": "president"
+        "lang:pt-br": "Chefe de governo",
+        "lang:pt": "chefe de governo",
+        "lang:en": "head of government"
       },
       "role_code": "Q5176750",
       "role": {
@@ -129,26 +129,6 @@
       "on_behalf_of_id": "Q1322751",
       "organization_id": "Q5015503",
       "area_id": "Q155",
-      "role_superclass_code": "Q2285706",
-      "role_superclass": {
-        "lang:pt-br": "Chefe de governo",
-        "lang:pt": "chefe de governo",
-        "lang:en": "head of government"
-      },
-      "role_code": "Q5176750",
-      "role": {
-        "lang:pt-br": "Presidente do Brasil",
-        "lang:pt": "Presidente do Brasil",
-        "lang:en": "President of Brazil"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q463533-341dc2f2-4c16-dfb5-362f-ac0cae065c02",
-      "person_id": "Q463533",
-      "on_behalf_of_id": "Q1322751",
-      "organization_id": "Q5015503",
-      "area_id": "Q155",
-      "start_date": "2016-08-31",
       "role_superclass_code": "Q30461",
       "role_superclass": {
         "lang:pt-br": "presidente",
@@ -174,6 +154,26 @@
         "lang:pt-br": "Chefe de governo",
         "lang:pt": "chefe de governo",
         "lang:en": "head of government"
+      },
+      "role_code": "Q5176750",
+      "role": {
+        "lang:pt-br": "Presidente do Brasil",
+        "lang:pt": "Presidente do Brasil",
+        "lang:en": "President of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q463533-341dc2f2-4c16-dfb5-362f-ac0cae065c02",
+      "person_id": "Q463533",
+      "on_behalf_of_id": "Q1322751",
+      "organization_id": "Q5015503",
+      "area_id": "Q155",
+      "start_date": "2016-08-31",
+      "role_superclass_code": "Q30461",
+      "role_superclass": {
+        "lang:pt-br": "presidente",
+        "lang:pt": "presidente",
+        "lang:en": "president"
       },
       "role_code": "Q5176750",
       "role": {
