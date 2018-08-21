@@ -4,56 +4,51 @@
   },
   "results" : {
     "bindings" : [ {
-      "district" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4262095"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Subprefecture of  Itaim Paulista/Vila Curuçá"
-      },
-      "district_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Subprefeitura do Itaim Paulista/Vila Curuçá"
-      },
-      "district_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Subprefeitura do Itaim Paulista/Vila Curuçá"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56098474"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56098474"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Subprefect of Itaim Paulista/Vila Curuçá"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Subprefect of Itaim Paulista/Vila Curuçá"
+        "value" : "http://www.wikidata.org/entity/statement/Q56098475-1DD8B986-057A-457D-A8EC-2323C6766B93"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56098475"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "José Denycio Pontes Agostinho"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "José Denycio Pontes Agostinho"
       },
-      "name_pt" : {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4262095"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Subprefeitura do Itaim Paulista/Vila Curuçá"
+      },
+      "district_name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "José Denycio Pontes Agostinho"
+        "value" : "Subprefeitura do Itaim Paulista/Vila Curuçá"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subprefecture of  Itaim Paulista/Vila Curuçá"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56098474"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subprefect of Itaim Paulista/Vila Curuçá"
       },
       "org" : {
         "type" : "uri",
@@ -63,10 +58,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Office of the Subprefect of Itaim Paulista/Vila Curuçá"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q56098475-1DD8B986-057A-457D-A8EC-2323C6766B93"
       },
       "org_jurisdiction" : {
         "type" : "uri",

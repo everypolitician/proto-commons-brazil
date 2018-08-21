@@ -4,35 +4,54 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q964493-516E4291-D666-48B0-946F-6697B036E524"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q964493"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Geraldo Alckmin"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Geraldo Alckmin"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Geraldo Alckmin"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1322897"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brazilian Social Democracy Party"
-      },
-      "party_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Partido da Social Democracia Brasileira"
       },
       "party_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Partido da Social Democracia Brasileira"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q964493"
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido da Social Democracia Brasileira"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian Social Democracy Party"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q175"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "São Paulo"
       },
@@ -41,8 +60,8 @@
         "type" : "literal",
         "value" : "São Paulo"
       },
-      "district_name_pt_br" : {
-        "xml:lang" : "pt-br",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "São Paulo"
       },
@@ -50,16 +69,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53739335"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53739335"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor of the state of Sao Paulo"
-      },
-      "role_superclass_pt_br" : {
+      "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "governador do estado de São Paulo"
@@ -69,51 +79,41 @@
         "type" : "literal",
         "value" : "governor of the state of Sao Paulo"
       },
-      "role_pt_br" : {
+      "facebook" : {
+        "type" : "literal",
+        "value" : "geraldoalckmin"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25921469"
+      },
+      "role_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "governador do estado de São Paulo"
+        "value" : "Governador do Brasil"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Geraldo Alckmin"
-      },
-      "name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Geraldo Alckmin"
-      },
-      "name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Geraldo Alckmin"
+        "value" : "State Governor of Brazil"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53738322"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "cabinet of the governor of the state of Sao Paulo"
       },
       "org_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "cabinete do governador do estado de São Paulo"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q964493-516E4291-D666-48B0-946F-6697B036E524"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cabinet of the governor of the state of Sao Paulo"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q175"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "geraldoalckmin"
       }
     } ]
   }

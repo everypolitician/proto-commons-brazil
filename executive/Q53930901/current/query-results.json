@@ -4,88 +4,16 @@
   },
   "results" : {
     "bindings" : [ {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1713552"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Democratic Social Party"
-      },
-      "party_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Partido Democrático Social"
-      },
-      "party_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Partido Democrático Social"
+        "value" : "http://www.wikidata.org/entity/statement/Q571064-dbd79886-4011-ca21-0d7a-50b67113b089"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q571064"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36947"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Salvador"
-      },
-      "district_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Salvador"
-      },
-      "district_name_pt_br" : {
+      "name_pt_br" : {
         "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Salvador"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q27306390"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q27306390"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Salvador"
-      },
-      "role_superclass_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "prefeito de Salvador"
-      },
-      "role_superclass_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "prefeito de Salvador"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Salvador"
-      },
-      "role_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "prefeito de Salvador"
-      },
-      "role_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "prefeito de Salvador"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Antônio Carlos Magalhães"
       },
@@ -94,44 +22,36 @@
         "type" : "literal",
         "value" : "Antônio Carlos Magalhães"
       },
-      "name_pt_br" : {
-        "xml:lang" : "pt-br",
+      "name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Antônio Carlos Magalhães"
       },
-      "org" : {
+      "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53930901"
+        "value" : "http://www.wikidata.org/entity/Q1713552"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipal prefecture of Salvador"
-      },
-      "org_pt_br" : {
+      "party_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "prefeitura municipal de Salvador"
+        "value" : "Partido Democrático Social"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q571064-dbd79886-4011-ca21-0d7a-50b67113b089"
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Democrático Social"
       },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36947"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q9621234"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Social Party"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q36947"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Salvador"
       },
@@ -140,8 +60,8 @@
         "type" : "literal",
         "value" : "Salvador"
       },
-      "district_name_pt_br" : {
-        "xml:lang" : "pt-br",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Salvador"
       },
@@ -149,22 +69,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q27306390"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q27306390"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Salvador"
-      },
-      "role_superclass_pt" : {
-        "xml:lang" : "pt",
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "prefeito de Salvador"
       },
-      "role_superclass_pt_br" : {
-        "xml:lang" : "pt-br",
+      "role_pt" : {
+        "xml:lang" : "pt",
         "type" : "literal",
         "value" : "prefeito de Salvador"
       },
@@ -173,18 +84,54 @@
         "type" : "literal",
         "value" : "mayor of Salvador"
       },
-      "role_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "prefeito de Salvador"
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
       },
-      "role_pt_br" : {
+      "role_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "prefeito de Salvador"
+        "value" : "prefeito"
       },
-      "name_en" : {
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "prefeito"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53930901"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeitura municipal de Salvador"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal prefecture of Salvador"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36947"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q9621234-19edbd8b-4425-4ae5-1ffe-48270838880f"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9621234"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Antônio Carlos Peixoto de Magalhães Neto"
       },
@@ -193,28 +140,81 @@
         "type" : "literal",
         "value" : "Antônio Carlos Magalhães Neto"
       },
-      "name_pt_br" : {
-        "xml:lang" : "pt-br",
+      "name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Antônio Carlos Peixoto de Magalhães Neto"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36947"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Salvador"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Salvador"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Salvador"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27306390"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeito de Salvador"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "prefeito de Salvador"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Salvador"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeito"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "prefeito"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53930901"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipal prefecture of Salvador"
       },
       "org_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "prefeitura municipal de Salvador"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q9621234-19edbd8b-4425-4ae5-1ffe-48270838880f"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal prefecture of Salvador"
       },
       "org_jurisdiction" : {
         "type" : "uri",

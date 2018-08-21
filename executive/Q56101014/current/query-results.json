@@ -4,56 +4,51 @@
   },
   "results" : {
     "bindings" : [ {
-      "district" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4352005"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Subprefecture of  Butantã"
-      },
-      "district_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Subprefeitura do Butantã"
-      },
-      "district_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Subprefeitura do Butantã"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56098567"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56098567"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Subprefect of Butantã"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Subprefect of Butantã"
+        "value" : "http://www.wikidata.org/entity/statement/Q56098664-6A6F94A9-D900-4A92-836E-2E5188B5084D"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56098664"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ricardo Aparecido G"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Ricardo Aparecido G"
       },
-      "name_pt" : {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4352005"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Subprefeitura do Butantã"
+      },
+      "district_name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Ricardo Aparecido G"
+        "value" : "Subprefeitura do Butantã"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subprefecture of  Butantã"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56098567"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subprefect of Butantã"
       },
       "org" : {
         "type" : "uri",
@@ -63,10 +58,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Office of the Subprefect of Butantã"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q56098664-6A6F94A9-D900-4A92-836E-2E5188B5084D"
       },
       "org_jurisdiction" : {
         "type" : "uri",

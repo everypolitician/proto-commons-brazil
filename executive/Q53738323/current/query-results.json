@@ -4,35 +4,54 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5444976-22D21961-260E-4F43-B44B-5B5E52B69F29"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5444976"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Fernando Pimentel"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Fernando Pimentel"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fernando Damata Pimentel"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q657089"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Workers' Party"
-      },
-      "party_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Partido dos Trabalhadores"
       },
       "party_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Partido dos Trabalhadores"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5444976"
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido dos Trabalhadores"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Workers' Party"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q39109"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Minas Gerais"
       },
@@ -41,8 +60,8 @@
         "type" : "literal",
         "value" : "Minas Gerais"
       },
-      "district_name_pt_br" : {
-        "xml:lang" : "pt-br",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Minas Gerais"
       },
@@ -50,16 +69,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53739337"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53739337"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor of the state of Minas Gerais"
-      },
-      "role_superclass_pt_br" : {
+      "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "governador do estado de Minas Gerais"
@@ -69,51 +79,41 @@
         "type" : "literal",
         "value" : "governor of the state of Minas Gerais"
       },
-      "role_pt_br" : {
+      "facebook" : {
+        "type" : "literal",
+        "value" : "PimentelMinas"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25921469"
+      },
+      "role_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "governador do estado de Minas Gerais"
+        "value" : "Governador do Brasil"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Fernando Damata Pimentel"
-      },
-      "name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Fernando Pimentel"
-      },
-      "name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Fernando Pimentel"
+        "value" : "State Governor of Brazil"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53738323"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "cabinet of the governor of the state of Minas Gerais"
       },
       "org_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "cabinete do governador do estado de Minas Gerais"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5444976-22D21961-260E-4F43-B44B-5B5E52B69F29"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cabinet of the governor of the state of Minas Gerais"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q39109"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "PimentelMinas"
       }
     } ]
   }

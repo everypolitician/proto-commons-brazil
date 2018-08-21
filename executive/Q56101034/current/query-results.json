@@ -4,56 +4,51 @@
   },
   "results" : {
     "bindings" : [ {
-      "district" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4445052"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Subprefecture of  Aricanduva/Formosa/Carrão"
-      },
-      "district_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Subprefeitura de Aricanduva/Formosa/Carrão"
-      },
-      "district_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Subprefeitura de Aricanduva/Formosa/Carrão"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56098479"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56098479"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Subprefect of Aricanduva/Formosa/Carrão"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Subprefect of Aricanduva/Formosa/Carrão"
+        "value" : "http://www.wikidata.org/entity/statement/Q56098480-CEA5642F-6B12-402B-AFB2-64B15072DA8A"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56098480"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Jurandir Junqueira Junior"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Jurandir Junqueira Junior"
       },
-      "name_pt" : {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4445052"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Subprefeitura de Aricanduva/Formosa/Carrão"
+      },
+      "district_name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Jurandir Junqueira Junior"
+        "value" : "Subprefeitura de Aricanduva/Formosa/Carrão"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subprefecture of  Aricanduva/Formosa/Carrão"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56098479"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subprefect of Aricanduva/Formosa/Carrão"
       },
       "org" : {
         "type" : "uri",
@@ -63,10 +58,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Office of the Subprefect of Aricanduva/Formosa/Carrão"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q56098480-CEA5642F-6B12-402B-AFB2-64B15072DA8A"
       },
       "org_jurisdiction" : {
         "type" : "uri",

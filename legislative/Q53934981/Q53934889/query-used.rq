@@ -48,7 +48,7 @@ OPTIONAL {
   FILTER(LANG(?name_en) = "en")
 }
 
-  ?statement ps:P39 ?specific_role .
+  ?statement ps:P39/wdt:P279* ?specific_role .
   OPTIONAL {
   ?role rdfs:label ?role_pt_br
   FILTER(LANG(?role_pt_br) = "pt-br")
@@ -83,7 +83,7 @@ OPTIONAL {
 }
 
   }
-  ?statement pq:P2937 wd:Q53934997 .
+  ?statement pq:P2937 wd:Q53934889 .
   OPTIONAL { ?statement pq:P580 ?start }
   OPTIONAL { ?statement pq:P582 ?end }
   OPTIONAL {

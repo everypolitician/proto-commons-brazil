@@ -4,56 +4,51 @@
   },
   "results" : {
     "bindings" : [ {
-      "district" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4274227"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Subprefecture of  Pirituba"
-      },
-      "district_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Subprefeitura de Pirituba"
-      },
-      "district_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Subprefeitura de Pirituba"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56098345"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56098345"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Subprefect of Pirituba"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Subprefect of Pirituba"
+        "value" : "http://www.wikidata.org/entity/statement/Q56098429-EB20B4DA-D85F-44B6-A3AC-87FD763A2B5F"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56098429"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ivan Renato Lima"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Ivan Renato Lima"
       },
-      "name_pt" : {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4274227"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Subprefeitura de Pirituba"
+      },
+      "district_name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Ivan Renato Lima"
+        "value" : "Subprefeitura de Pirituba"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subprefecture of  Pirituba"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56098345"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subprefect of Pirituba"
       },
       "org" : {
         "type" : "uri",
@@ -63,10 +58,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Office of the Subprefect of Pirituba"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q56098429-EB20B4DA-D85F-44B6-A3AC-87FD763A2B5F"
       },
       "org_jurisdiction" : {
         "type" : "uri",

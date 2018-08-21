@@ -4,56 +4,51 @@
   },
   "results" : {
     "bindings" : [ {
-      "district" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4262126"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Subprefecture of  M'Boi Mirim"
-      },
-      "district_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Subprefeitura de M'Boi Mirim"
-      },
-      "district_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Subprefeitura de M'Boi Mirim"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56098601"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56098601"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Subprefect of M'Boi Mirim"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Subprefect of M'Boi Mirim"
+        "value" : "http://www.wikidata.org/entity/statement/Q56098673-86E0FDD3-7AC7-41F9-B6B1-04D92C2BADFB"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56098673"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Rita de Cassia Correa Madureira"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rita de Cassia Correa Madureira"
       },
-      "name_pt" : {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4262126"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Subprefeitura de M'Boi Mirim"
+      },
+      "district_name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Rita de Cassia Correa Madureira"
+        "value" : "Subprefeitura de M'Boi Mirim"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subprefecture of  M'Boi Mirim"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56098601"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subprefect of M'Boi Mirim"
       },
       "org" : {
         "type" : "uri",
@@ -63,10 +58,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Office of the Subprefect of M'Boi Mirim"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q56098673-86E0FDD3-7AC7-41F9-B6B1-04D92C2BADFB"
       },
       "org_jurisdiction" : {
         "type" : "uri",

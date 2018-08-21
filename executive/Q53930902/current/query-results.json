@@ -4,78 +4,16 @@
   },
   "results" : {
     "bindings" : [ {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2054789"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brazilian Socialist Party"
-      },
-      "party_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Partido Socialista Brasileiro"
-      },
-      "party_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Partido Socialista Brasileiro"
+        "value" : "http://www.wikidata.org/entity/statement/Q7351650-D4F099B7-5286-472F-9770-05D15964BB12"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7351650"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q43463"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Fortaleza"
-      },
-      "district_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Fortaleza"
-      },
-      "district_name_pt_br" : {
+      "name_pt_br" : {
         "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Fortaleza"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53926033"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53926033"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Fortaleza"
-      },
-      "role_superclass_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Prefeito de Fortaleza"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Fortaleza"
-      },
-      "role_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Prefeito de Fortaleza"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Roberto Cláudio Rodrigues Bezerra"
       },
@@ -84,67 +22,153 @@
         "type" : "literal",
         "value" : "Roberto Cláudio"
       },
-      "name_pt_br" : {
-        "xml:lang" : "pt-br",
+      "name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Roberto Cláudio Rodrigues Bezerra"
       },
-      "org" : {
+      "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53930902"
+        "value" : "http://www.wikidata.org/entity/Q2054789"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipal prefecture of Fortaleza"
-      },
-      "org_pt_br" : {
+      "party_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "prefeitura municipal de Fortaleza"
+        "value" : "Partido Socialista Brasileiro"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7351650-D4F099B7-5286-472F-9770-05D15964BB12"
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Socialista Brasileiro"
       },
-      "org_jurisdiction" : {
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian Socialist Party"
+      },
+      "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q43463"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Fortaleza"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Fortaleza"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fortaleza"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53926033"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Prefeito de Fortaleza"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of Fortaleza"
       },
       "facebook" : {
         "type" : "literal",
         "value" : "robertoclaudio40"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeito"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "prefeito"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53930902"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeitura municipal de Fortaleza"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal prefecture of Fortaleza"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43463"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7351650-D4F099B7-5286-472F-9770-05D15964BB12"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7351650"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Roberto Cláudio Rodrigues Bezerra"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Roberto Cláudio"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roberto Cláudio Rodrigues Bezerra"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2054789"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brazilian Socialist Party"
-      },
-      "party_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Partido Socialista Brasileiro"
       },
       "party_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Partido Socialista Brasileiro"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7351650"
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Socialista Brasileiro"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian Socialist Party"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q43463"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Fortaleza"
       },
@@ -153,8 +177,8 @@
         "type" : "literal",
         "value" : "Fortaleza"
       },
-      "district_name_pt_br" : {
-        "xml:lang" : "pt-br",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Fortaleza"
       },
@@ -162,16 +186,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53926033"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53926033"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Fortaleza"
-      },
-      "role_superclass_pt_br" : {
+      "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Prefeito de Fortaleza"
@@ -181,51 +196,46 @@
         "type" : "literal",
         "value" : "Mayor of Fortaleza"
       },
-      "role_pt_br" : {
+      "facebook" : {
+        "type" : "literal",
+        "value" : "prefeitorobertoclaudio"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "role_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Prefeito de Fortaleza"
+        "value" : "prefeito"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Roberto Cláudio Rodrigues Bezerra"
-      },
-      "name_pt" : {
+      "role_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Roberto Cláudio"
+        "value" : "prefeito"
       },
-      "name_pt_br" : {
-        "xml:lang" : "pt-br",
+      "role_superclass_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Roberto Cláudio Rodrigues Bezerra"
+        "value" : "mayor"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53930902"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipal prefecture of Fortaleza"
       },
       "org_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "prefeitura municipal de Fortaleza"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7351650-D4F099B7-5286-472F-9770-05D15964BB12"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal prefecture of Fortaleza"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q43463"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "prefeitorobertoclaudio"
       }
     } ]
   }
