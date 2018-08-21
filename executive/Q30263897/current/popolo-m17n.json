@@ -140,10 +140,11 @@
       "on_behalf_of_id": "Q2054789",
       "organization_id": "Q30263897",
       "area_id": "Q42800",
-      "role_superclass_code": "Q53926035",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:pt-br": "Prefeito de Belo Horizonte",
-        "lang:en": "Mayor of Belo Horizonte"
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
       },
       "role_code": "Q53926035",
       "role": {

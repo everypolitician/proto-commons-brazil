@@ -1,9 +1,56 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:pt": "Rodrigo Rollemberg",
+        "lang:en": "Rodrigo Rollemberg"
+      },
+      "id": "Q10363936",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10363936"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/rodrollemberg"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "Gabinete do Governador do Distrito Federal",
+        "lang:en": "cabinet of the governor of the Federal District"
+      },
+      "id": "Q53738372",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738372"
+        }
+      ],
+      "area_id": "Q119158"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Socialista Brasileiro",
+        "lang:pt": "Partido Socialista Brasileiro",
+        "lang:en": "Brazilian Socialist Party"
+      },
+      "id": "Q2054789",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2054789"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -58,6 +105,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10363936-1D84413F-3BB7-4ED1-A093-EC526E8E98CF",
+      "person_id": "Q10363936",
+      "on_behalf_of_id": "Q2054789",
+      "organization_id": "Q53738372",
+      "area_id": "Q119158",
+      "role_superclass_code": "Q25921469",
+      "role_superclass": {
+        "lang:pt-br": "Governador do Brasil",
+        "lang:en": "State Governor of Brazil"
+      },
+      "role_code": "Q53739380",
+      "role": {
+        "lang:pt-br": "governador do Distrito Federal",
+        "lang:en": "governor of the Federal District"
+      }
+    }
   ]
 }

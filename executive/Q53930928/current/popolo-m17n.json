@@ -1,9 +1,37 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Guti"
+      },
+      "id": "Q56127585",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56127585"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Guarulhos",
+        "lang:en": "municipal prefecture of Guarulhos"
+      },
+      "id": "Q53930928",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53930928"
+        }
+      ],
+      "area_id": "Q184409"
+    }
   ],
   "areas": [
     {
@@ -86,6 +114,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56127585-034660F2-81D8-48A5-BB12-46B3664A738F",
+      "person_id": "Q56127585",
+      "organization_id": "Q53930928",
+      "area_id": "Q184409",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q53926062",
+      "role": {
+        "lang:pt-br": "Prefeito de Guarulhos",
+        "lang:en": "Mayor of Guarulhos"
+      }
+    }
   ]
 }

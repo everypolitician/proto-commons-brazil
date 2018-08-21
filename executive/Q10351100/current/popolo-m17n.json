@@ -175,6 +175,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Antônio Salim Curiati",
         "lang:pt": "Antônio Salim Curiati",
         "lang:en": "Antonio Salim Curiati"
       },
@@ -450,10 +451,11 @@
       "on_behalf_of_id": "Q2745857",
       "organization_id": "Q10351100",
       "area_id": "Q174",
-      "role_superclass_code": "Q24255165",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:pt": "Prefeito de São Paulo",
-        "lang:en": "Mayor of São Paulo"
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
       },
       "role_code": "Q24255165",
       "role": {
@@ -468,10 +470,11 @@
       "organization_id": "Q10351100",
       "area_id": "Q174",
       "start_date": "2017-01-01",
-      "role_superclass_code": "Q24255165",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:pt": "Prefeito de São Paulo",
-        "lang:en": "Mayor of São Paulo"
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
       },
       "role_code": "Q24255165",
       "role": {
@@ -484,10 +487,11 @@
       "person_id": "Q10353688",
       "organization_id": "Q10351100",
       "area_id": "Q174",
-      "role_superclass_code": "Q24255165",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:pt": "Prefeito de São Paulo",
-        "lang:en": "Mayor of São Paulo"
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
       },
       "role_code": "Q24255165",
       "role": {
@@ -501,10 +505,11 @@
       "on_behalf_of_id": "Q1322897",
       "organization_id": "Q10351100",
       "area_id": "Q174",
-      "role_superclass_code": "Q24255165",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:pt": "Prefeito de São Paulo",
-        "lang:en": "Mayor of São Paulo"
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
       },
       "role_code": "Q24255165",
       "role": {
@@ -518,10 +523,11 @@
       "on_behalf_of_id": "Q1185830",
       "organization_id": "Q10351100",
       "area_id": "Q174",
-      "role_superclass_code": "Q24255165",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:pt": "Prefeito de São Paulo",
-        "lang:en": "Mayor of São Paulo"
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
       },
       "role_code": "Q24255165",
       "role": {
@@ -535,10 +541,11 @@
       "on_behalf_of_id": "Q732852",
       "organization_id": "Q10351100",
       "area_id": "Q174",
-      "role_superclass_code": "Q24255165",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:pt": "Prefeito de São Paulo",
-        "lang:en": "Mayor of São Paulo"
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
       },
       "role_code": "Q24255165",
       "role": {
@@ -552,10 +559,11 @@
       "on_behalf_of_id": "Q7550752",
       "organization_id": "Q10351100",
       "area_id": "Q174",
-      "role_superclass_code": "Q24255165",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:pt": "Prefeito de São Paulo",
-        "lang:en": "Mayor of São Paulo"
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
       },
       "role_code": "Q24255165",
       "role": {
@@ -569,10 +577,11 @@
       "on_behalf_of_id": "Q2626216",
       "organization_id": "Q10351100",
       "area_id": "Q174",
-      "role_superclass_code": "Q24255165",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:pt": "Prefeito de São Paulo",
-        "lang:en": "Mayor of São Paulo"
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
       },
       "role_code": "Q24255165",
       "role": {
@@ -586,10 +595,11 @@
       "on_behalf_of_id": "Q1322897",
       "organization_id": "Q10351100",
       "area_id": "Q174",
-      "role_superclass_code": "Q24255165",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:pt": "Prefeito de São Paulo",
-        "lang:en": "Mayor of São Paulo"
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
       },
       "role_code": "Q24255165",
       "role": {
@@ -603,10 +613,11 @@
       "on_behalf_of_id": "Q657089",
       "organization_id": "Q10351100",
       "area_id": "Q174",
-      "role_superclass_code": "Q24255165",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:pt": "Prefeito de São Paulo",
-        "lang:en": "Mayor of São Paulo"
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
       },
       "role_code": "Q24255165",
       "role": {
@@ -620,10 +631,11 @@
       "on_behalf_of_id": "Q732852",
       "organization_id": "Q10351100",
       "area_id": "Q174",
-      "role_superclass_code": "Q24255165",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:pt": "Prefeito de São Paulo",
-        "lang:en": "Mayor of São Paulo"
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
       },
       "role_code": "Q24255165",
       "role": {
@@ -637,10 +649,11 @@
       "on_behalf_of_id": "Q732852",
       "organization_id": "Q10351100",
       "area_id": "Q174",
-      "role_superclass_code": "Q24255165",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:pt": "Prefeito de São Paulo",
-        "lang:en": "Mayor of São Paulo"
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
       },
       "role_code": "Q24255165",
       "role": {
@@ -654,10 +667,11 @@
       "on_behalf_of_id": "Q1322897",
       "organization_id": "Q10351100",
       "area_id": "Q174",
-      "role_superclass_code": "Q24255165",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:pt": "Prefeito de São Paulo",
-        "lang:en": "Mayor of São Paulo"
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
       },
       "role_code": "Q24255165",
       "role": {
@@ -672,10 +686,11 @@
       "organization_id": "Q10351100",
       "area_id": "Q174",
       "start_date": "2018-04-06",
-      "role_superclass_code": "Q24255165",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:pt": "Prefeito de São Paulo",
-        "lang:en": "Mayor of São Paulo"
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
       },
       "role_code": "Q24255165",
       "role": {

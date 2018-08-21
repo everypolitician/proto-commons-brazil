@@ -137,10 +137,11 @@
       "organization_id": "Q53930914",
       "area_id": "Q83189",
       "start_date": "2017-01-01",
-      "role_superclass_code": "Q53926044",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:pt-br": "Prefeito de Goiânia",
-        "lang:en": "Mayor of Goiânia"
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
       },
       "role_code": "Q53926044",
       "role": {

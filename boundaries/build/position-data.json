@@ -1,0 +1,1678 @@
+[
+  {
+    "role_id": "Q18964326",
+    "role_name": {
+      "lang:pt-br": "Senador",
+      "lang:en": "Member of the Senate of Brazil"
+    },
+    "generic_role_id": "Q15686806",
+    "generic_role_name": {
+      "lang:pt-br": "Senador",
+      "lang:pt": "senador",
+      "lang:en": "senator"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q2119413",
+    "organization_name": {
+      "lang:pt-br": "Senado Federal",
+      "lang:pt": "Senado Federal do Brasil",
+      "lang:en": "Federal Senate of Brazil"
+    }
+  },
+  {
+    "role_id": "Q20058725",
+    "role_name": {
+      "lang:pt-br": "deputado federal",
+      "lang:pt": "deputado do Brasil",
+      "lang:en": "member of the Chamber of Deputies of Brazil"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:pt-br": "Deputado",
+      "lang:pt": "deputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q1834804",
+    "organization_name": {
+      "lang:pt-br": "Câmara dos Deputados",
+      "lang:pt": "Câmara dos Deputados do Brasil",
+      "lang:en": "Chamber of Deputies"
+    }
+  },
+  {
+    "role_id": "Q24255165",
+    "role_name": {
+      "lang:pt": "Prefeito de São Paulo",
+      "lang:en": "Mayor of São Paulo"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q10351100",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de São Paulo",
+      "lang:pt": "Prefeitura do Município de São Paulo",
+      "lang:en": "municipal prefecture of São Paulo"
+    }
+  },
+  {
+    "role_id": "Q27306390",
+    "role_name": {
+      "lang:pt-br": "prefeito de Salvador",
+      "lang:pt": "prefeito de Salvador",
+      "lang:en": "mayor of Salvador"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q53930901",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Salvador",
+      "lang:en": "municipal prefecture of Salvador"
+    }
+  },
+  {
+    "role_id": "Q47520037",
+    "role_name": {
+      "lang:pt-br": "Goverdador do Estado do Acre",
+      "lang:en": "Governor of Acre"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738379",
+    "organization_name": {
+      "lang:pt-br": "Gabinete do GovernadorGoverdador do Estado do Acre",
+      "lang:en": "cabinet of the governor of the state of Acre"
+    }
+  },
+  {
+    "role_id": "Q5176750",
+    "role_name": {
+      "lang:pt-br": "Presidente do Brasil",
+      "lang:pt": "Presidente do Brasil",
+      "lang:en": "President of Brazil"
+    },
+    "generic_role_id": "Q2285706",
+    "generic_role_name": {
+      "lang:pt-br": "Chefe de governo",
+      "lang:pt": "chefe de governo",
+      "lang:en": "head of government"
+    },
+    "role_level": "Q6256",
+    "role_type": null,
+    "organization_id": "Q5015503",
+    "organization_name": {
+      "lang:pt-br": "Ministério do Brasil",
+      "lang:pt": "Ministério do Brasil",
+      "lang:en": "cabinet of Brazil"
+    }
+  },
+  {
+    "role_id": "Q53739335",
+    "role_name": {
+      "lang:pt-br": "governador do estado de São Paulo",
+      "lang:en": "governor of the state of Sao Paulo"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738322",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado de São Paulo",
+      "lang:en": "cabinet of the governor of the state of Sao Paulo"
+    }
+  },
+  {
+    "role_id": "Q53739337",
+    "role_name": {
+      "lang:pt-br": "governador do estado de Minas Gerais",
+      "lang:en": "governor of the state of Minas Gerais"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738323",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado de Minas Gerais",
+      "lang:en": "cabinet of the governor of the state of Minas Gerais"
+    }
+  },
+  {
+    "role_id": "Q53739338",
+    "role_name": {
+      "lang:pt-br": "governador do estado do Rio de Janeiro",
+      "lang:en": "governor of the state of Rio de Janeiro"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738324",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado do Rio de Janeiro",
+      "lang:en": "cabinet of the governor of the state of Rio de Janeiro"
+    }
+  },
+  {
+    "role_id": "Q53739339",
+    "role_name": {
+      "lang:pt-br": "governador do estado da Bahia",
+      "lang:en": "governor of the state of Bahia"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738327",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado da Bahia",
+      "lang:en": "cabinet of the governor of the state of Bahia"
+    }
+  },
+  {
+    "role_id": "Q53739340",
+    "role_name": {
+      "lang:pt-br": "governador do estado do Rio Grande do Sul",
+      "lang:en": "governor of the state of Rio Grande do Sul"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738329",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado do Rio Grande do Sul",
+      "lang:en": "cabinet of the governor of the state of Rio Grande do Sul"
+    }
+  },
+  {
+    "role_id": "Q53739343",
+    "role_name": {
+      "lang:pt-br": "governador do estado do Paraná",
+      "lang:en": "governor of the state of Parana"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738330",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado do Paraná",
+      "lang:en": "cabinet of the governor of the state of Parana"
+    }
+  },
+  {
+    "role_id": "Q53739344",
+    "role_name": {
+      "lang:pt-br": "governador do estado de Pernambuco",
+      "lang:en": "governor of the state of Pernambuco"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738332",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado de Pernambuco",
+      "lang:en": "cabinet of the governor of the state of Pernambuco"
+    }
+  },
+  {
+    "role_id": "Q53739345",
+    "role_name": {
+      "lang:pt-br": "governador do estado do Ceará",
+      "lang:en": "governor of the state of Ceara"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738333",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado do Ceará",
+      "lang:en": "cabinet of the governor of the state of Ceara"
+    }
+  },
+  {
+    "role_id": "Q53739346",
+    "role_name": {
+      "lang:pt-br": "governador do estado do Pará",
+      "lang:en": "governor of the state of Para"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738335",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado do Pará",
+      "lang:en": "cabinet of the governor of the state of Para"
+    }
+  },
+  {
+    "role_id": "Q53739354",
+    "role_name": {
+      "lang:pt-br": "governador do estado de Santa Catarina",
+      "lang:en": "governor of the state of Santa Catarina"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738342",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado de Santa Catarina",
+      "lang:en": "cabinet of the governor of the state of Santa Catarina"
+    }
+  },
+  {
+    "role_id": "Q53739358",
+    "role_name": {
+      "lang:pt-br": "governador do estado do Maranhão",
+      "lang:en": "governor of the state of Maranhao"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738348",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado do Maranhão",
+      "lang:en": "cabinet of the governor of the state of Maranhao"
+    }
+  },
+  {
+    "role_id": "Q53739360",
+    "role_name": {
+      "lang:pt-br": "governador do estado de Goiás",
+      "lang:en": "governor of the state of Goias"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738350",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado de Goiás",
+      "lang:en": "cabinet of the governor of the state of Goias"
+    }
+  },
+  {
+    "role_id": "Q53739362",
+    "role_name": {
+      "lang:pt-br": "governador do estado do Amazonas",
+      "lang:en": "governor of the state of Amazonas"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738351",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado do Amazonas",
+      "lang:en": "cabinet of the governor of the state of Amazonas"
+    }
+  },
+  {
+    "role_id": "Q53739363",
+    "role_name": {
+      "lang:pt-br": "governador do estado da Paraíba",
+      "lang:en": "governor of the state of Paraiba"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738352",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado da Paraíba",
+      "lang:en": "cabinet of the governor of the state of Paraiba"
+    }
+  },
+  {
+    "role_id": "Q53739364",
+    "role_name": {
+      "lang:pt-br": "governador do estado do Espírito Santo",
+      "lang:en": "governor of the state of Espirito Santo"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738354",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado do Espírito Santo",
+      "lang:en": "cabinet of the governor of the state of Espirito Santo"
+    }
+  },
+  {
+    "role_id": "Q53739366",
+    "role_name": {
+      "lang:pt-br": "governador do estado do Rio Grande do Norte",
+      "lang:en": "governor of the state of Rio Grande do Norte"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738355",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado do Rio Grande do Norte",
+      "lang:en": "cabinet of the governor of the state of Rio Grande do Norte"
+    }
+  },
+  {
+    "role_id": "Q53739367",
+    "role_name": {
+      "lang:pt-br": "governador do estado de Alagoas",
+      "lang:en": "governor of the state of Alagoas"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738356",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado de Alagoas",
+      "lang:en": "cabinet of the governor of the state of Alagoas"
+    }
+  },
+  {
+    "role_id": "Q53739368",
+    "role_name": {
+      "lang:pt-br": "governador do estado de Mato Grosso",
+      "lang:en": "governor of the state of Mato Grosso"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738357",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado de Mato Grosso",
+      "lang:en": "cabinet of the governor of the state of Mato Grosso"
+    }
+  },
+  {
+    "role_id": "Q53739375",
+    "role_name": {
+      "lang:pt-br": "governador do estado do Piauí",
+      "lang:en": "governor of the state of Piaui"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738367",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado do Piauí",
+      "lang:en": "cabinet of the governor of the state of Piaui"
+    }
+  },
+  {
+    "role_id": "Q53739380",
+    "role_name": {
+      "lang:pt-br": "governador do Distrito Federal",
+      "lang:en": "governor of the Federal District"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738372",
+    "organization_name": {
+      "lang:pt-br": "Gabinete do Governador do Distrito Federal",
+      "lang:en": "cabinet of the governor of the Federal District"
+    }
+  },
+  {
+    "role_id": "Q53739381",
+    "role_name": {
+      "lang:pt-br": "governador do estado de Mato Grosso do Sul",
+      "lang:en": "governor of the state of Mato Grosso do Sul"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738373",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado de Mato Grosso do Sul",
+      "lang:en": "cabinet of the governor of the state of Mato Grosso do Sul"
+    }
+  },
+  {
+    "role_id": "Q53739383",
+    "role_name": {
+      "lang:pt-br": "governador do estado de Sergipe",
+      "lang:en": "governor of the state of Sergipe"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738374",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado de Sergipe",
+      "lang:en": "cabinet of the governor of the state of Sergipe"
+    }
+  },
+  {
+    "role_id": "Q53739384",
+    "role_name": {
+      "lang:pt-br": "governador do estado de Rondônia",
+      "lang:en": "governor of the state of Rondonia"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738377",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado de Rondônia",
+      "lang:en": "cabinet of the governor of the state of Rondonia"
+    }
+  },
+  {
+    "role_id": "Q53739385",
+    "role_name": {
+      "lang:pt-br": "governador do estado do Tocantins",
+      "lang:en": "governor of the state of Tocantins"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738378",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado do Tocantins",
+      "lang:en": "cabinet of the governor of the state of Tocantins"
+    }
+  },
+  {
+    "role_id": "Q53739389",
+    "role_name": {
+      "lang:pt-br": "governador do estado do Amapá",
+      "lang:en": "governor of the state of Amapa"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738380",
+    "organization_name": {
+      "lang:pt-br": "cabinete do governador do estado do Amapá",
+      "lang:en": "cabinet of the governor of the state of Amapa"
+    }
+  },
+  {
+    "role_id": "Q53739390",
+    "role_name": {
+      "lang:pt-br": "Governadora do Estado de Roraima",
+      "lang:en": "governor of the state of Roraima"
+    },
+    "generic_role_id": "Q25921469",
+    "generic_role_name": {
+      "lang:pt-br": "Governador do Brasil",
+      "lang:en": "State Governor of Brazil"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q53738381",
+    "organization_name": {
+      "lang:pt-br": "Gabinete da Governadoraa do Estado de Roraima",
+      "lang:en": "cabinet of the governor of the state of Roraima"
+    }
+  },
+  {
+    "role_id": "Q53864923",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de São Paulo",
+      "lang:en": "state deputy of São Paulo"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q4808730",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa de São Paulo",
+      "lang:pt": "Assembleia Legislativa de São Paulo",
+      "lang:en": "Legislative Assembly of São Paulo"
+    }
+  },
+  {
+    "role_id": "Q53864924",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Minas Gerais",
+      "lang:en": "state deputy of Minas Gerais"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q12243888",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado de Minas Gerais",
+      "lang:pt": "Assembleia Legislativa do Estado de Minas Gerais",
+      "lang:en": "Legislative Assembly of Minas Gerais"
+    }
+  },
+  {
+    "role_id": "Q53864925",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Rio de Janeiro",
+      "lang:en": "state deputy of Rio de Janeiro"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q6583209",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado do Rio de Janeiro",
+      "lang:pt": "Assembleia Legislativa do Estado do Rio de Janeiro",
+      "lang:en": "Legislative Assembly of Rio de Janeiro"
+    }
+  },
+  {
+    "role_id": "Q53864926",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Bahia",
+      "lang:en": "state deputy of Bahia"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633175",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado da Bahia",
+      "lang:pt": "Assembleia Legislativa da Bahia",
+      "lang:en": "Legislative Assembly of Bahia"
+    }
+  },
+  {
+    "role_id": "Q53864927",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Rio Grande do Sul",
+      "lang:en": "state deputy of Rio Grande do Sul"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633239",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado do Rio Grande do Sul",
+      "lang:pt": "Assembleia Legislativa do Rio Grande do Sul",
+      "lang:en": "Legislative Assembly of Rio Grande do Sul"
+    }
+  },
+  {
+    "role_id": "Q53864928",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Paraná",
+      "lang:en": "state deputy of Paraná"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633230",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado do Paraná",
+      "lang:pt": "Assembleia Legislativa do Paraná",
+      "lang:en": "Legislative Assembly of Paraná"
+    }
+  },
+  {
+    "role_id": "Q53864929",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Pernambuco",
+      "lang:en": "state deputy of Pernambuco"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633197",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado de Pernambuco",
+      "lang:pt": "Assembleia Legislativa de Pernambuco",
+      "lang:en": "Legislative Assembly of Pernambuco"
+    }
+  },
+  {
+    "role_id": "Q53864930",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Ceará",
+      "lang:en": "state deputy of Ceará"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q13163502",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado do Ceará",
+      "lang:pt": "Assembleia Legislativa do Ceará",
+      "lang:en": "Legislative Assembly of Ceará"
+    }
+  },
+  {
+    "role_id": "Q53864931",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Pará",
+      "lang:en": "state deputy of Pará"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q12469964",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado do Pará",
+      "lang:pt": "Assembleia Legislativa do Pará",
+      "lang:en": "Legislative Assembly of Pará"
+    }
+  },
+  {
+    "role_id": "Q53864932",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Santa Catarina",
+      "lang:en": "state deputy of Santa Catarina"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633207",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado de Santa Catarina",
+      "lang:pt": "Assembleia Legislativa de Santa Catarina",
+      "lang:en": "Legislative Assembly of Santa Catarina"
+    }
+  },
+  {
+    "role_id": "Q53864933",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Maranhão",
+      "lang:en": "state deputy of Maranhão"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633221",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado do Maranhão",
+      "lang:pt": "assembleia Legislativa do Maranhão",
+      "lang:en": "legislative assembly of the state of Maranhao"
+    }
+  },
+  {
+    "role_id": "Q53864934",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Goiás",
+      "lang:en": "state deputy of Goiás"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633183",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado de Goiás",
+      "lang:pt": "Assembleia Legislativa de Goiás",
+      "lang:en": "legislative assembly of the state of Goias"
+    }
+  },
+  {
+    "role_id": "Q53864935",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Amazonas",
+      "lang:en": "state deputy of Amazonas"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q6518202",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado do Amazonas",
+      "lang:pt": "Assembleia Legislativa do Amazonas",
+      "lang:en": "Legislative Assembly of Amazonas"
+    }
+  },
+  {
+    "role_id": "Q53864936",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Paraíba",
+      "lang:en": "state deputy of Paraíba"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633173",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado da Paraíba",
+      "lang:pt": "Assembleia Legislativa da Paraíba",
+      "lang:en": "Legislative Assembly of Paraíba"
+    }
+  },
+  {
+    "role_id": "Q53864937",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Espírito Santo",
+      "lang:en": "state deputy of Espírito Santo"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633218",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado do Espírito Santo",
+      "lang:pt": "Assembleia Legislativa do Espírito Santo",
+      "lang:en": "Legislative Assembly of Espírito Santo"
+    }
+  },
+  {
+    "role_id": "Q53864938",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Rio Grande do Norte",
+      "lang:en": "state deputy of Rio Grande do Norte"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q12270300",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado do Rio Grande do Norte",
+      "lang:pt": "Assembleia Legislativa do Rio Grande do Norte",
+      "lang:en": "Legislative Assembly of Rio Grande do Norte"
+    }
+  },
+  {
+    "role_id": "Q53864939",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Alagoas",
+      "lang:en": "state deputy of Alagoas"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16142313",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado de Alagoas",
+      "lang:pt": "Assembleia Legislativa de Alagoas",
+      "lang:en": "Legislative Assembly of Alagoas"
+    }
+  },
+  {
+    "role_id": "Q53864940",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Mato Grosso",
+      "lang:en": "state deputy of Mato Grosso"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16498710",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado de Mato Grosso",
+      "lang:pt": "Assembleia Legislativa de Mato Grosso",
+      "lang:en": "legislative assembly of the state of Mato Grosso"
+    }
+  },
+  {
+    "role_id": "Q53864941",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Piauí",
+      "lang:en": "state deputy of Piauí"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16494759",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado do Piauí",
+      "lang:pt": "Assembleia Legislativa do Piauí",
+      "lang:en": "legislative assembly of the state of Piaui"
+    }
+  },
+  {
+    "role_id": "Q53864942",
+    "role_name": {
+      "lang:pt-br": "deutado do Distrito Federal",
+      "lang:en": "deputy of the Federal District"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q10262893",
+    "organization_name": {
+      "lang:pt-br": "câmara legislativa do Distrito Federal",
+      "lang:pt": "Câmara Legislativa do Distrito Federal",
+      "lang:en": "Legislative Chamber of Federal District"
+    }
+  },
+  {
+    "role_id": "Q53864943",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Mato Grosso do Sul",
+      "lang:en": "state deputy of Mato Grosso do Sul"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633190",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado de Mato Grosso do Sul",
+      "lang:pt": "Assembleia Legislativa de Mato Grosso do Sul",
+      "lang:en": "legislative assembly of the state of Mato Grosso do Sul"
+    }
+  },
+  {
+    "role_id": "Q53864944",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Sergipe",
+      "lang:en": "state deputy of Sergipe"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633202",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado de Sergipe",
+      "lang:pt": "Assembleia Legislativa de Sergipe",
+      "lang:en": "Legislative Assembly of Sergipe"
+    }
+  },
+  {
+    "role_id": "Q53864945",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Rondônia",
+      "lang:en": "state deputy of Rondônia"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16494760",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado de Rondônia",
+      "lang:pt": "Assembleia Legislativa de Rondônia",
+      "lang:en": "legislative assembly of the state of Rondonia"
+    }
+  },
+  {
+    "role_id": "Q53864946",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Tocantins",
+      "lang:en": "state deputy of Tocantins"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633245",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado do Tocantins",
+      "lang:pt": "Assembleia Legislativa do Tocantins",
+      "lang:en": "legislative assembly of the state of Tocantins"
+    }
+  },
+  {
+    "role_id": "Q53864947",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Acre",
+      "lang:en": "state deputy of Acre"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16142333",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado do Acre",
+      "lang:pt": "Assembleia Legislativa do Acre",
+      "lang:en": "Legislative Assembly of Acre"
+    }
+  },
+  {
+    "role_id": "Q53864948",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Amapá",
+      "lang:en": "state deputy of Amapá"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633212",
+    "organization_name": {
+      "lang:pt-br": "assembleia legislativa do estado do Amapá",
+      "lang:pt": "Assembleia Legislativa do Amapá",
+      "lang:en": "legislative assembly of the state of Amapa"
+    }
+  },
+  {
+    "role_id": "Q53864949",
+    "role_name": {
+      "lang:pt-br": "deutado estadual de Roraima",
+      "lang:en": "state deputy of Roraima"
+    },
+    "generic_role_id": "Q10265290",
+    "generic_role_name": {
+      "lang:pt": "deputado estadual",
+      "lang:en": "state deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633200",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa de Roraima",
+      "lang:pt": "Assembleia Legislativa de Roraima",
+      "lang:en": "Legislative Assembly of Roraima"
+    }
+  },
+  {
+    "role_id": "Q53926032",
+    "role_name": {
+      "lang:pt-br": "Prefeito do Rio de Janeiro",
+      "lang:pt": "prefeito de Rio de Janeiro",
+      "lang:en": "Mayor of Rio de Janeiro"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q53930899",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Rio de Janeiro",
+      "lang:en": "municipal prefecture of Rio de Janeiro"
+    }
+  },
+  {
+    "role_id": "Q53926033",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Fortaleza",
+      "lang:en": "Mayor of Fortaleza"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q53930902",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Fortaleza",
+      "lang:en": "municipal prefecture of Fortaleza"
+    }
+  },
+  {
+    "role_id": "Q53926035",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Belo Horizonte",
+      "lang:en": "Mayor of Belo Horizonte"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q30263897",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Belo Horizonte",
+      "lang:en": "municipal prefecture of Belo Horizonte"
+    }
+  },
+  {
+    "role_id": "Q53926036",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Manaus",
+      "lang:en": "Mayor of Manaus"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q53930905",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Manaus",
+      "lang:en": "municipal prefecture of Manaus"
+    }
+  },
+  {
+    "role_id": "Q53926039",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Curitiba",
+      "lang:en": "Mayor of Curitiba"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q53930907",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Curitiba",
+      "lang:en": "municipal prefecture of Curitiba"
+    }
+  },
+  {
+    "role_id": "Q53926041",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Recife",
+      "lang:en": "Mayor of Recife"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q53930910",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Recife",
+      "lang:en": "municipal prefecture of Recife"
+    }
+  },
+  {
+    "role_id": "Q53926042",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Porto Alegre",
+      "lang:en": "Mayor of Porto Alegre"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q53930913",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Porto Alegre",
+      "lang:en": "municipal prefecture of Porto Alegre"
+    }
+  },
+  {
+    "role_id": "Q53926044",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Goiânia",
+      "lang:en": "Mayor of Goiânia"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q53930914",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Goiânia",
+      "lang:en": "municipal prefecture of Goiânia"
+    }
+  },
+  {
+    "role_id": "Q53926047",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Belém",
+      "lang:en": "Mayor of Belém"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q53930915",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Belém",
+      "lang:en": "municipal prefecture of Belém"
+    }
+  },
+  {
+    "role_id": "Q53926062",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Guarulhos",
+      "lang:en": "Mayor of Guarulhos"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q53930928",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Guarulhos",
+      "lang:en": "municipal prefecture of Guarulhos"
+    }
+  },
+  {
+    "role_id": "Q53926063",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Campinas",
+      "lang:en": "Mayor of Campinas"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q53930937",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Campinas",
+      "lang:en": "municipal prefecture of Campinas"
+    }
+  },
+  {
+    "role_id": "Q53926065",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Sao Luis",
+      "lang:en": "Mayor of São Luís"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q53930939",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Sao Luis",
+      "lang:en": "municipal prefecture of Sao Luis"
+    }
+  },
+  {
+    "role_id": "Q53934877",
+    "role_name": {
+      "lang:pt-br": "Vereador de São Paulo",
+      "lang:en": "Councillor of São Paulo"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q6936217",
+    "organization_name": {
+      "lang:pt-br": "Câmara Municipal de São Paulo",
+      "lang:pt": "Câmara Municipal de São Paulo",
+      "lang:en": "Municipal Chamber of Sao Paulo"
+    }
+  },
+  {
+    "role_id": "Q53934881",
+    "role_name": {
+      "lang:pt-br": "Vereador de Rio de Janeiro",
+      "lang:en": "Councillor of Rio de Janeiro"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q6936214",
+    "organization_name": {
+      "lang:pt-br": "Câmara Municipal do Rio de Janeiro",
+      "lang:pt": "Câmara Municipal do Rio de Janeiro",
+      "lang:en": "Municipal Chamber of Rio de Janeiro"
+    }
+  },
+  {
+    "role_id": "Q53934982",
+    "role_name": {
+      "lang:pt-br": "Vereador de Salvador",
+      "lang:en": "Councillor of Salvador"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q53934981",
+    "organization_name": {
+      "lang:pt-br": "Câmara Municipal de Salvador",
+      "lang:pt": "Câmara Municipal de Salvador",
+      "lang:en": "Municipal Chamber of Salvador"
+    }
+  },
+  {
+    "role_id": "Q53935000",
+    "role_name": {
+      "lang:pt-br": "Vereador de Fortaleza",
+      "lang:en": "Councillor of Fortaleza"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q53934998",
+    "organization_name": {
+      "lang:pt-br": "Câmara Municipal de Fortaleza",
+      "lang:pt": "Câmara Municipal de Fortaleza",
+      "lang:en": "Municipal Chamber of Fortaleza"
+    }
+  },
+  {
+    "role_id": "Q53935007",
+    "role_name": {
+      "lang:pt-br": "Vereador de Belo Horizonte",
+      "lang:en": "Councillor of Belo Horizonte"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q53935004",
+    "organization_name": {
+      "lang:pt-br": "Câmara Municipal do Belo Horizonte",
+      "lang:pt": "Câmara Municipal de Belo Horizonte",
+      "lang:en": "Municipal Chamber of Belo Horizonte"
+    }
+  },
+  {
+    "role_id": "Q53935014",
+    "role_name": {
+      "lang:pt-br": "Vereador de Manaus",
+      "lang:en": "Councillor of Manaus"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q53935013",
+    "organization_name": {
+      "lang:pt-br": "Câmara Municipal de Manaus",
+      "lang:pt": "Câmara Municipal de Manaus",
+      "lang:en": "Municipal Chamber of Manaus"
+    }
+  },
+  {
+    "role_id": "Q53935038",
+    "role_name": {
+      "lang:pt-br": "Vereador de Curitiba",
+      "lang:en": "Councillor of Curitiba"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q53935035",
+    "organization_name": {
+      "lang:pt-br": "Câmara Municipal de Curitiba",
+      "lang:en": "Municipal Chamber of Curitiba"
+    }
+  },
+  {
+    "role_id": "Q53935045",
+    "role_name": {
+      "lang:pt-br": "Vereador de Recife",
+      "lang:en": "Councillor of Recife"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q53935043",
+    "organization_name": {
+      "lang:pt-br": "Câmara Municipal do Recife",
+      "lang:pt": "Câmara Municipal do Recife",
+      "lang:en": "Municipal Chamber of Recife"
+    }
+  },
+  {
+    "role_id": "Q53935050",
+    "role_name": {
+      "lang:pt-br": "Vereador de Porto Alegre",
+      "lang:en": "Councillor of Porto Alegre"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q53935048",
+    "organization_name": {
+      "lang:pt-br": "Câmara Municipal de Porto Alegre",
+      "lang:en": "Municipal Chamber of Porto Alegre"
+    }
+  },
+  {
+    "role_id": "Q53935075",
+    "role_name": {
+      "lang:pt-br": "Vereador de Goiânia",
+      "lang:en": "Councillor of Goiânia"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q53935073",
+    "organization_name": {
+      "lang:pt-br": "Câmara Municipal de Goiânia",
+      "lang:pt": "Câmara Municipal de Goiânia",
+      "lang:en": "Municipal Chamber of Goiânia"
+    }
+  },
+  {
+    "role_id": "Q53935627",
+    "role_name": {
+      "lang:pt-br": "Vereador de Belém",
+      "lang:en": "Councillor of Belém"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q53934974",
+    "organization_name": {
+      "lang:pt-br": "Câmara Municipal do Belém",
+      "lang:en": "Municipal Chamber of Belém"
+    }
+  },
+  {
+    "role_id": "Q53935633",
+    "role_name": {
+      "lang:pt-br": "Vereador de Guarulhos",
+      "lang:en": "Councillor of Guarulhos"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q53934976",
+    "organization_name": {
+      "lang:pt-br": "Câmara Municipal de Guarulhos",
+      "lang:en": "Municipal Chamber of Guarulhos"
+    }
+  },
+  {
+    "role_id": "Q53935638",
+    "role_name": {
+      "lang:pt-br": "Vereador de Campinas",
+      "lang:en": "Councillor of Campinas"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q53934977",
+    "organization_name": {
+      "lang:pt-br": "Câmara Municipal de Campinas",
+      "lang:pt": "Câmara Municipal de Campinas",
+      "lang:en": "Municipal Chamber of Campinas"
+    }
+  },
+  {
+    "role_id": "Q53935641",
+    "role_name": {
+      "lang:pt-br": "Vereador de São Luís",
+      "lang:en": "Councillor of São Luís"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q53934979",
+    "organization_name": {
+      "lang:pt-br": "Câmara Municipal de São Luís",
+      "lang:en": "Municipal Chamber of São Luís"
+    }
+  }
+]

@@ -144,10 +144,11 @@
       "on_behalf_of_id": "Q2054789",
       "organization_id": "Q53930902",
       "area_id": "Q43463",
-      "role_superclass_code": "Q53926033",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:pt-br": "Prefeito de Fortaleza",
-        "lang:en": "Mayor of Fortaleza"
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
       },
       "role_code": "Q53926033",
       "role": {
