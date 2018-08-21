@@ -1137,6 +1137,21 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido Social Democrático",
+        "lang:pt": "Partido Social Democrático",
+        "lang:en": "Social Democratic Party"
+      },
+      "id": "Q2054750",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2054750"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:pt-br": "Partido Socialista Brasileiro",
         "lang:pt": "Partido Socialista Brasileiro",
         "lang:en": "Brazilian Socialist Party"
@@ -1192,20 +1207,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q2626213"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:pt": "Partido Social Democrático",
-        "lang:en": "Social Democratic Party"
-      },
-      "id": "Q2626216",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2626216"
         }
       ]
     },
@@ -1511,7 +1512,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q53726977-41FC03EF-8B31-497A-A60C-0BA36EB67678",
       "person_id": "Q53726977",
-      "on_behalf_of_id": "Q2626216",
+      "on_behalf_of_id": "Q2054750",
       "organization_id": "Q6936217",
       "role_superclass_code": "Q708492",
       "role_superclass": {
@@ -1799,7 +1800,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q56195589-8C6963AD-558E-48A6-92C3-198E1BF97AB2",
       "person_id": "Q56195589",
-      "on_behalf_of_id": "Q2626216",
+      "on_behalf_of_id": "Q2054750",
       "organization_id": "Q6936217",
       "role_superclass_code": "Q708492",
       "role_superclass": {
@@ -2135,7 +2136,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q56195610-AA4F4E74-A045-41F5-A33B-CE821821BEE7",
       "person_id": "Q56195610",
-      "on_behalf_of_id": "Q2626216",
+      "on_behalf_of_id": "Q2054750",
       "organization_id": "Q6936217",
       "role_superclass_code": "Q708492",
       "role_superclass": {
@@ -2151,7 +2152,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q56195612-9EB47831-13AE-47A1-99DD-851D86E52651",
       "person_id": "Q56195612",
-      "on_behalf_of_id": "Q2626216",
+      "on_behalf_of_id": "Q2054750",
       "organization_id": "Q6936217",
       "role_superclass_code": "Q708492",
       "role_superclass": {

@@ -292,15 +292,16 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido Social Democrático",
         "lang:pt": "Partido Social Democrático",
         "lang:en": "Social Democratic Party"
       },
-      "id": "Q2626216",
+      "id": "Q2054750",
       "classification": "party",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q2626216"
+          "identifier": "Q2054750"
         }
       ]
     },
@@ -574,7 +575,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2546210-89ac76a0-4dc2-1bf3-295e-48c7064e37d5",
       "person_id": "Q2546210",
-      "on_behalf_of_id": "Q2626216",
+      "on_behalf_of_id": "Q2054750",
       "organization_id": "Q10351100",
       "area_id": "Q174",
       "role_superclass_code": "Q30185",
