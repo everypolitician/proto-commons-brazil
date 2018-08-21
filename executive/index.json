@@ -1,5 +1,25 @@
 [
   {
+    "comment": "municipal prefecture of São Paulo",
+    "executive_item_id": "Q10351100",
+    "positions": [
+      {
+        "comment": "Mayor of São Paulo",
+        "position_item_id": "Q24255165"
+      }
+    ]
+  },
+  {
+    "comment": "municipal prefecture of Belo Horizonte",
+    "executive_item_id": "Q30263897",
+    "positions": [
+      {
+        "comment": "Mayor of Belo Horizonte",
+        "position_item_id": "Q53926035"
+      }
+    ]
+  },
+  {
     "comment": "cabinet of Brazil",
     "executive_item_id": "Q5015503",
     "positions": [
@@ -276,26 +296,6 @@
       {
         "comment": "governor of the state of Roraima",
         "position_item_id": "Q53739390"
-      }
-    ]
-  },
-  {
-    "comment": "municipal prefecture of São Paulo",
-    "executive_item_id": "Q10351100",
-    "positions": [
-      {
-        "comment": "Mayor of São Paulo",
-        "position_item_id": "Q24255165"
-      }
-    ]
-  },
-  {
-    "comment": "municipal prefecture of Belo Horizonte",
-    "executive_item_id": "Q30263897",
-    "positions": [
-      {
-        "comment": "Mayor of Belo Horizonte",
-        "position_item_id": "Q53926035"
       }
     ]
   },
