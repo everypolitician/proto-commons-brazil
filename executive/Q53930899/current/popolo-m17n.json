@@ -141,11 +141,11 @@
       "organization_id": "Q53930899",
       "area_id": "Q8678",
       "start_date": "2017-01-01",
-      "role_superclass_code": "Q53926032",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:pt-br": "Prefeito do Rio de Janeiro",
-        "lang:pt": "prefeito de Rio de Janeiro",
-        "lang:en": "Mayor of Rio de Janeiro"
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
       },
       "role_code": "Q53926032",
       "role": {

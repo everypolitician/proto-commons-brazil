@@ -4,88 +4,16 @@
   },
   "results" : {
     "bindings" : [ {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q926973"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brazilian Republican Party"
-      },
-      "party_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Partido Republicano Brasileiro"
-      },
-      "party_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Partido Republicano Brasileiro"
+        "value" : "http://www.wikidata.org/entity/statement/Q6756538-874BA129-CE0E-4991-9504-8B4C58AD896A"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6756538"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q8678"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rio de Janeiro"
-      },
-      "district_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Rio de Janeiro"
-      },
-      "district_name_pt_br" : {
+      "name_pt_br" : {
         "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Rio de Janeiro"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53926032"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53926032"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Rio de Janeiro"
-      },
-      "role_superclass_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "prefeito de Rio de Janeiro"
-      },
-      "role_superclass_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Prefeito do Rio de Janeiro"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Rio de Janeiro"
-      },
-      "role_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "prefeito de Rio de Janeiro"
-      },
-      "role_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Prefeito do Rio de Janeiro"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Marcelo Crivellla"
       },
@@ -94,32 +22,67 @@
         "type" : "literal",
         "value" : "Marcelo Crivella"
       },
-      "name_pt_br" : {
-        "xml:lang" : "pt-br",
+      "name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Marcelo Crivellla"
       },
-      "org" : {
+      "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53930899"
+        "value" : "http://www.wikidata.org/entity/Q926973"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipal prefecture of Rio de Janeiro"
-      },
-      "org_pt_br" : {
+      "party_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "prefeitura municipal de Rio de Janeiro"
+        "value" : "Partido Republicano Brasileiro"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6756538-874BA129-CE0E-4991-9504-8B4C58AD896A"
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Republicano Brasileiro"
       },
-      "org_jurisdiction" : {
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian Republican Party"
+      },
+      "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8678"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Rio de Janeiro"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Rio de Janeiro"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rio de Janeiro"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53926032"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Prefeito do Rio de Janeiro"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "prefeito de Rio de Janeiro"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of Rio de Janeiro"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -129,6 +92,43 @@
       "facebook" : {
         "type" : "literal",
         "value" : "marcelocrivella"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeito"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "prefeito"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53930899"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeitura municipal de Rio de Janeiro"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal prefecture of Rio de Janeiro"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8678"
       }
     } ]
   }

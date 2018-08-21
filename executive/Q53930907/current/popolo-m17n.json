@@ -1,9 +1,53 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Rafael Greca",
+        "lang:en": "Rafael Greca"
+      },
+      "id": "Q10357041",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10357041"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Curitiba",
+        "lang:en": "municipal prefecture of Curitiba"
+      },
+      "id": "Q53930907",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53930907"
+        }
+      ],
+      "area_id": "Q4361"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Movimento Democrático Brasileiro",
+        "lang:pt": "Movimento Democrático Brasileiro",
+        "lang:en": "Democratic Movement Party"
+      },
+      "id": "Q1322751",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322751"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +130,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10357041-37A7AF4A-D9B6-4A2B-B793-F005696923DD",
+      "person_id": "Q10357041",
+      "on_behalf_of_id": "Q1322751",
+      "organization_id": "Q53930907",
+      "area_id": "Q4361",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q53926039",
+      "role": {
+        "lang:pt-br": "Prefeito de Curitiba",
+        "lang:en": "Mayor of Curitiba"
+      }
+    }
   ]
 }

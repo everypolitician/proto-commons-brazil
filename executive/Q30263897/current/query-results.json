@@ -4,35 +4,54 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16501287-6C98DBDE-D2EF-42D0-A914-69232CC3B1F8"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16501287"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Alexandre Kalil"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Alexandre Kalil"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alexandre Kalil"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2054789"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brazilian Socialist Party"
-      },
-      "party_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Partido Socialista Brasileiro"
       },
       "party_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Partido Socialista Brasileiro"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16501287"
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Socialista Brasileiro"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian Socialist Party"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q42800"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Belo Horizonte"
       },
@@ -41,8 +60,8 @@
         "type" : "literal",
         "value" : "Belo Horizonte"
       },
-      "district_name_pt_br" : {
-        "xml:lang" : "pt-br",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Belo Horizonte"
       },
@@ -50,16 +69,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53926035"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53926035"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Belo Horizonte"
-      },
-      "role_superclass_pt_br" : {
+      "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Prefeito de Belo Horizonte"
@@ -69,51 +79,46 @@
         "type" : "literal",
         "value" : "Mayor of Belo Horizonte"
       },
-      "role_pt_br" : {
+      "facebook" : {
+        "type" : "literal",
+        "value" : "AlexandreKalilOficial"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "role_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Prefeito de Belo Horizonte"
+        "value" : "prefeito"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alexandre Kalil"
-      },
-      "name_pt" : {
+      "role_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Alexandre Kalil"
+        "value" : "prefeito"
       },
-      "name_pt_br" : {
-        "xml:lang" : "pt-br",
+      "role_superclass_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Alexandre Kalil"
+        "value" : "mayor"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30263897"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipal prefecture of Belo Horizonte"
       },
       "org_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "prefeitura municipal de Belo Horizonte"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16501287-6C98DBDE-D2EF-42D0-A914-69232CC3B1F8"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal prefecture of Belo Horizonte"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q42800"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "AlexandreKalilOficial"
       }
     } ]
   }

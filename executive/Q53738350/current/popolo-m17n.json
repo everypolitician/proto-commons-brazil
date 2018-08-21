@@ -1,9 +1,53 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "José Eliton Júnior",
+        "lang:en": "José Eliton Júnior"
+      },
+      "id": "Q20045903",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20045903"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "cabinete do governador do estado de Goiás",
+        "lang:en": "cabinet of the governor of the state of Goias"
+      },
+      "id": "Q53738350",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738350"
+        }
+      ],
+      "area_id": "Q41587"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
+        "lang:pt": "Partido da Social Democracia Brasileira",
+        "lang:en": "Brazilian Social Democracy Party"
+      },
+      "id": "Q1322897",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322897"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -60,6 +104,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20045903-FC7811BD-BCDA-4CBB-872D-20C221893119",
+      "person_id": "Q20045903",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q53738350",
+      "area_id": "Q41587",
+      "role_superclass_code": "Q25921469",
+      "role_superclass": {
+        "lang:pt-br": "Governador do Brasil",
+        "lang:en": "State Governor of Brazil"
+      },
+      "role_code": "Q53739360",
+      "role": {
+        "lang:pt-br": "governador do estado de Goiás",
+        "lang:en": "governor of the state of Goias"
+      }
+    }
   ]
 }
