@@ -41,6 +41,11 @@
         "type" : "literal",
         "value" : "vereador"
       },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "vereador"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53935000"
