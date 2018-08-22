@@ -2,6 +2,182 @@
   "persons": [
     {
       "name": {
+        "lang:pt": "Soninha Francine",
+        "lang:en": "Soninha Francine"
+      },
+      "id": "Q10373370",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10373370"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/SoninhaFrancine"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Conte Lopes",
+        "lang:pt": "Conte Lopes",
+        "lang:en": "Conte Lopes"
+      },
+      "id": "Q16337297",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16337297"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/contelopesroberval"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Paulo Frange",
+        "lang:pt": "Paulo Frange",
+        "lang:en": "Paulo Frange"
+      },
+      "id": "Q18708088",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18708088"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/paulofrangepress"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Toninho Vespoli",
+        "lang:pt": "Toninho Vespoli",
+        "lang:en": "Toninho Vespoli"
+      },
+      "id": "Q18708135",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18708135"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/toninho.vespoli"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "George Hato",
+        "lang:pt": "George Hato",
+        "lang:en": "George Hato"
+      },
+      "id": "Q19708848",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19708848"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Fernando Holiday",
+        "lang:pt": "Fernando Holiday",
+        "lang:en": "Fernando Holiday"
+      },
+      "id": "Q27836023",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27836023"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/pgfernandoholiday.mbl"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Sâmia Bomfim",
+        "lang:pt": "Sâmia Bomfim",
+        "lang:en": "Sâmia Bomfim"
+      },
+      "id": "Q30931344",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30931344"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/samia.bomfim.psol"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Juliana Cardoso",
+        "lang:pt": "Juliana Cardoso",
+        "lang:en": "Juliana Cardoso"
+      },
+      "id": "Q51882277",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51882277"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/julianacardosopt"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "José Police Neto",
+        "lang:pt": "Police Neto",
+        "lang:en": "José Police Neto"
+      },
+      "id": "Q53726977",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53726977"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/josepoliceneto"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:pt-br": "Milton Leite",
         "lang:en": "Milton Leite"
       },
@@ -16,6 +192,820 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/VereadorMiltonLeite"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Adilson Amadeu",
+        "lang:en": "Adilson Amadeu"
+      },
+      "id": "Q56195573",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195573"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/AdilsonAmadeu"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Adriana Ramalho",
+        "lang:en": "Adriana Ramalho"
+      },
+      "id": "Q56195574",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195574"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ramalhoadriana"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Alessandro Guedes",
+        "lang:en": "Alessandro Guedes"
+      },
+      "id": "Q56195575",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195575"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/alessandroguedesoficial"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Alfredinho",
+        "lang:en": "Alfredinho"
+      },
+      "id": "Q56195576",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195576"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/alfredinhopt"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Amauri da Silva",
+        "lang:en": "Amauri da Silva"
+      },
+      "id": "Q56195577",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195577"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/amaurisilvaoficial"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "André Santos",
+        "lang:en": "André Santos"
+      },
+      "id": "Q56195578",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195578"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/AndreSantosJPMM"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Antonio Donato",
+        "lang:en": "Antonio Donato"
+      },
+      "id": "Q56195579",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195579"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/donatopt"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Arselino Tatto",
+        "lang:en": "Arselino Tatto"
+      },
+      "id": "Q56195580",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195580"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Atilio Francisco",
+        "lang:en": "Atilio Francisco"
+      },
+      "id": "Q56195581",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195581"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/atiliofrancisco.prb"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Aurélio Nomura",
+        "lang:en": "Aurélio Nomura"
+      },
+      "id": "Q56195582",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195582"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/VereadorAurelioNomura"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Caio Miranda Carneiro",
+        "lang:en": "Caio Miranda Carneiro"
+      },
+      "id": "Q56195583",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195583"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/caiomirandacarneiro"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Camilo Cristófaro",
+        "lang:en": "Camilo Cristófaro"
+      },
+      "id": "Q56195584",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195584"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Celso Jatene",
+        "lang:en": "Celso Jatene"
+      },
+      "id": "Q56195585",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195585"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/celsojatene"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Claudinho de Souza",
+        "lang:en": "Claudinho de Souza"
+      },
+      "id": "Q56195586",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195586"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ClaudinhodeSouzaOficial"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Dalton Silvano",
+        "lang:en": "Dalton Silvano"
+      },
+      "id": "Q56195587",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195587"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "David Soares",
+        "lang:en": "David Soares"
+      },
+      "id": "Q56195588",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195588"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Verdavidsoares"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Edir Sales",
+        "lang:en": "Edir Sales"
+      },
+      "id": "Q56195589",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195589"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Eliseu Gabriel",
+        "lang:en": "Eliseu Gabriel"
+      },
+      "id": "Q56195590",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195590"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/VereadorEliseuGabriel"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Fabio Riva",
+        "lang:en": "Fabio Riva"
+      },
+      "id": "Q56195591",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195591"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/fabioassocicao"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Gilson Barreto",
+        "lang:en": "Gilson Barreto"
+      },
+      "id": "Q56195592",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195592"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/gilsonbarretodebate"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Isac Felix",
+        "lang:en": "Isac Felix"
+      },
+      "id": "Q56195593",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195593"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Jair Tatto",
+        "lang:en": "Jair Tatto"
+      },
+      "id": "Q56195594",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195594"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Janaina Lima",
+        "lang:en": "Janaina Lima"
+      },
+      "id": "Q56195595",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195595"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/janainalimaoficial"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "João Jorge",
+        "lang:en": "João Jorge"
+      },
+      "id": "Q56195596",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195596"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/joaojorgesp"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Mario Covas Neto",
+        "lang:en": "Mario Covas Neto"
+      },
+      "id": "Q56195597",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195597"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/mariocovasneto"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Milton Ferreira",
+        "lang:en": "Milton Ferreira"
+      },
+      "id": "Q56195598",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195598"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Natalini",
+        "lang:en": "Natalini"
+      },
+      "id": "Q56195599",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195599"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/gilberto.natalini"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Noemi Nonato",
+        "lang:en": "Noemi Nonato"
+      },
+      "id": "Q56195600",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195600"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Ota",
+        "lang:en": "Ota"
+      },
+      "id": "Q56195601",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195601"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/vereadorota"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Patricia Bezerra",
+        "lang:en": "Patricia Bezerra"
+      },
+      "id": "Q56195602",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195602"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/patriciabezerraoficial"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Claudio Fonseca",
+        "lang:en": "Claudio Fonseca"
+      },
+      "id": "Q56195603",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195603"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ProfessorClaudioFonseca"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Quito Formiga",
+        "lang:en": "Quito Formiga"
+      },
+      "id": "Q56195604",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195604"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/QuitoFormiga"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Reginaldo Tripoli",
+        "lang:en": "Reginaldo Tripoli"
+      },
+      "id": "Q56195605",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195605"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Reis",
+        "lang:en": "Reis"
+      },
+      "id": "Q56195606",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195606"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Ricardo Nunes",
+        "lang:en": "Ricardo Nunes"
+      },
+      "id": "Q56195607",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195607"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Ricardo Teixeira",
+        "lang:en": "Ricardo Teixeira"
+      },
+      "id": "Q56195608",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195608"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Rinaldi Digilio",
+        "lang:en": "Rinaldi Digilio"
+      },
+      "id": "Q56195609",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195609"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/RinaldiDigilioOficial"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Rodrigo Goulart",
+        "lang:en": "Rodrigo Goulart"
+      },
+      "id": "Q56195610",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195610"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/RodrigoGoulartOficial"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Rute Costa",
+        "lang:en": "Rute Costa"
+      },
+      "id": "Q56195612",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195612"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Sandra Tadeu",
+        "lang:en": "Sandra Tadeu"
+      },
+      "id": "Q56195613",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195613"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/VereadoraSandraTadeu"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Senival Moura",
+        "lang:en": "Senival Moura"
+      },
+      "id": "Q56195614",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195614"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Souza Santos",
+        "lang:en": "Souza Santos"
+      },
+      "id": "Q56195615",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195615"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/vereadorsouzasantos"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Toninho Paiva",
+        "lang:en": "Toninho Paiva"
+      },
+      "id": "Q56195616",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195616"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/toninhopaivaoficial"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Zé Turin",
+        "lang:en": "Zé Turin"
+      },
+      "id": "Q56195617",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56195617"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ZeTurinVereador"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Eduardo Suplicy",
+        "lang:pt": "Eduardo Suplicy",
+        "lang:en": "Eduardo Suplicy"
+      },
+      "id": "Q717676",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q717676"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/EduardoSuplicy"
         }
       ]
     }
@@ -52,6 +1042,260 @@
         {
           "scheme": "wikidata",
           "identifier": "Q1185830"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Verde",
+        "lang:pt": "Partido Verde",
+        "lang:en": "Green Party"
+      },
+      "id": "Q1234489",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1234489"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
+        "lang:pt": "Partido da Social Democracia Brasileira",
+        "lang:en": "Brazilian Social Democracy Party"
+      },
+      "id": "Q1322897",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322897"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Republicano da Ordem Social",
+        "lang:pt": "Partido Republicano da Ordem Social",
+        "lang:en": "Republican Party of the Social Order"
+      },
+      "id": "Q15564211",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15564211"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Trabalhista Brasileiro",
+        "lang:pt": "Partido Trabalhista Brasileiro",
+        "lang:en": "Brazilian Labour Party"
+      },
+      "id": "Q1576143",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1576143"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Socialismo e Liberdade",
+        "lang:pt": "Partido Socialismo e Liberdade",
+        "lang:en": "Socialism and Freedom Party"
+      },
+      "id": "Q1754827",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1754827"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Novo",
+        "lang:pt": "Partido Novo",
+        "lang:en": "NOVO"
+      },
+      "id": "Q18552710",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18552710"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Social Democrático",
+        "lang:pt": "Partido Social Democrático",
+        "lang:en": "Social Democratic Party"
+      },
+      "id": "Q2054750",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2054750"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Socialista Brasileiro",
+        "lang:pt": "Partido Socialista Brasileiro",
+        "lang:en": "Brazilian Socialist Party"
+      },
+      "id": "Q2054789",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2054789"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Humanista da Solidariedade",
+        "lang:pt": "Partido Humanista da Solidariedade",
+        "lang:en": "Humanist Party of Solidarity"
+      },
+      "id": "Q2453205",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2453205"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Popular Socialista",
+        "lang:pt": "Partido Popular Socialista",
+        "lang:en": "Popular Socialist Party"
+      },
+      "id": "Q2598527",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2598527"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Social Cristão",
+        "lang:pt": "Partido Social Cristão",
+        "lang:en": "Social Christian Party"
+      },
+      "id": "Q2626213",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2626213"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido da República",
+        "lang:pt": "Partido da República",
+        "lang:en": "Party of the Republic"
+      },
+      "id": "Q2731720",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2731720"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Movimento Democrático Brasileiro",
+        "lang:en": "Brazilian Democratic Movement"
+      },
+      "id": "Q3097751",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3097751"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Podemos",
+        "lang:pt": "Podemos",
+        "lang:en": "Podemos"
+      },
+      "id": "Q3181274",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3181274"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido dos Trabalhadores",
+        "lang:pt": "Partido dos Trabalhadores",
+        "lang:en": "Workers' Party"
+      },
+      "id": "Q657089",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q657089"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Progressista",
+        "lang:pt": "Partido Progressista",
+        "lang:en": "Progressive Party"
+      },
+      "id": "Q732852",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q732852"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Republicano Brasileiro",
+        "lang:pt": "Partido Republicano Brasileiro",
+        "lang:en": "Brazilian Republican Party"
+      },
+      "id": "Q926973",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q926973"
         }
       ]
     }
@@ -138,9 +1382,873 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q10373370-CAB18FE3-6C72-4742-BD6A-CC5018EBE5CD",
+      "person_id": "Q10373370",
+      "on_behalf_of_id": "Q2598527",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16337297-8E7187DB-7D79-4708-AC15-350CB407AA19",
+      "person_id": "Q16337297",
+      "on_behalf_of_id": "Q732852",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18708088-3ED2B36F-B289-4B7E-B5CA-60BBB6210589",
+      "person_id": "Q18708088",
+      "on_behalf_of_id": "Q1576143",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18708135-81D756A4-0CC8-4506-BEA1-D7CEEFB8900A",
+      "person_id": "Q18708135",
+      "on_behalf_of_id": "Q1754827",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19708848-5EC32843-31B2-423B-A8A2-9ED5419554C7",
+      "person_id": "Q19708848",
+      "on_behalf_of_id": "Q3097751",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27836023-7FDC6124-D2D1-45BD-9031-0D2291FBAEDA",
+      "person_id": "Q27836023",
+      "on_behalf_of_id": "Q1185830",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30931344-7707D0D0-41D4-4B8F-B3D4-1637B984601A",
+      "person_id": "Q30931344",
+      "on_behalf_of_id": "Q1754827",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51882277-6CBC4220-4648-4F61-870E-9D3E9AD96BD9",
+      "person_id": "Q51882277",
+      "on_behalf_of_id": "Q657089",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53726977-41FC03EF-8B31-497A-A60C-0BA36EB67678",
+      "person_id": "Q53726977",
+      "on_behalf_of_id": "Q2054750",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q53864959-80E087BD-E9FC-4404-8EE9-3C1B673D4029",
       "person_id": "Q53864959",
       "on_behalf_of_id": "Q1185830",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195573-2384753A-52D9-4631-A8C8-5CD30ADBEB1F",
+      "person_id": "Q56195573",
+      "on_behalf_of_id": "Q1576143",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195574-938C5418-02EF-47BB-A2E4-AC6B37E41A63",
+      "person_id": "Q56195574",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195575-41F17AA1-A639-47BF-8041-54DF3CF98C11",
+      "person_id": "Q56195575",
+      "on_behalf_of_id": "Q657089",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195576-06DD1B50-D7DF-43B4-91A7-1A2C0D041135",
+      "person_id": "Q56195576",
+      "on_behalf_of_id": "Q657089",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195577-C3B3B383-A88C-4CC6-BD6C-443A0A19363B",
+      "person_id": "Q56195577",
+      "on_behalf_of_id": "Q2626213",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195578-F393CE69-6F1A-4E87-BF2E-3E3347A1E402",
+      "person_id": "Q56195578",
+      "on_behalf_of_id": "Q926973",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195579-AD125621-9E26-4B3F-9F87-A263A3C0502D",
+      "person_id": "Q56195579",
+      "on_behalf_of_id": "Q657089",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195580-220B36DE-36A8-4427-9365-488A78B7FC39",
+      "person_id": "Q56195580",
+      "on_behalf_of_id": "Q657089",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195581-BABFA27E-E845-45F6-9300-D0926A8BCE6F",
+      "person_id": "Q56195581",
+      "on_behalf_of_id": "Q926973",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195582-B3EDB1FA-775C-451E-BEA9-2187F0F10F9C",
+      "person_id": "Q56195582",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195583-3B9B4797-ED41-4923-B0A8-BD88FA5D0A5B",
+      "person_id": "Q56195583",
+      "on_behalf_of_id": "Q2054789",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195584-7F5E4C01-05FE-4B44-8F7D-90F2BEEF06A1",
+      "person_id": "Q56195584",
+      "on_behalf_of_id": "Q2054789",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195585-D0D2CA4D-E7AE-4AAF-BBAA-BA126DFDCAEA",
+      "person_id": "Q56195585",
+      "on_behalf_of_id": "Q2731720",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195586-CF3FC203-D8B9-4692-9563-BED88BB3DDA4",
+      "person_id": "Q56195586",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195587-00E30671-2BEB-4C2F-94CA-6C24C4AB9453",
+      "person_id": "Q56195587",
+      "on_behalf_of_id": "Q1185830",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195588-D0303B90-C5C5-4C9C-B741-0227D00F0788",
+      "person_id": "Q56195588",
+      "on_behalf_of_id": "Q1185830",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195589-8C6963AD-558E-48A6-92C3-198E1BF97AB2",
+      "person_id": "Q56195589",
+      "on_behalf_of_id": "Q2054750",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195590-67A2B008-F2B6-46E4-B33C-ADCEF0CDFA01",
+      "person_id": "Q56195590",
+      "on_behalf_of_id": "Q2054789",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195591-779260FC-2C79-40EE-8678-25A2E6CA50DD",
+      "person_id": "Q56195591",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195592-CD1A47C5-2E3E-4458-B315-B21B5DEE4604",
+      "person_id": "Q56195592",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195593-6D27F008-7901-4E91-81DF-8832FC5A10D3",
+      "person_id": "Q56195593",
+      "on_behalf_of_id": "Q2731720",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195594-3857F022-C769-467D-AC82-3FD9C8555BDD",
+      "person_id": "Q56195594",
+      "on_behalf_of_id": "Q657089",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195595-54C35968-1E2C-4F40-B454-509564518DC5",
+      "person_id": "Q56195595",
+      "on_behalf_of_id": "Q18552710",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195596-470B6938-61CC-4855-AD61-F7FA8DE82F56",
+      "person_id": "Q56195596",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195597-1951F9C8-C1CE-4198-9961-AFA704712CB1",
+      "person_id": "Q56195597",
+      "on_behalf_of_id": "Q3181274",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195598-02A09E34-D691-4A34-92C9-0E3DAF0F36A4",
+      "person_id": "Q56195598",
+      "on_behalf_of_id": "Q3181274",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195599-63C47E40-A162-4DE0-B1F6-A06A493C956F",
+      "person_id": "Q56195599",
+      "on_behalf_of_id": "Q1234489",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195600-99CA535A-3C0D-4025-8816-82A66247560D",
+      "person_id": "Q56195600",
+      "on_behalf_of_id": "Q2731720",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195601-2C1393E4-8A28-4E90-8E7B-0E7082B1CA19",
+      "person_id": "Q56195601",
+      "on_behalf_of_id": "Q2054789",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195602-71C123EA-7B1E-4B58-93A5-799AF80FB3C3",
+      "person_id": "Q56195602",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195603-CB07C08E-7F5D-481A-9514-879BBD3CF244",
+      "person_id": "Q56195603",
+      "on_behalf_of_id": "Q2598527",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195604-1935F120-F36E-491D-92C4-8522F4F7E55D",
+      "person_id": "Q56195604",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195605-BA9D7D05-0339-4341-B320-7656D22B63D9",
+      "person_id": "Q56195605",
+      "on_behalf_of_id": "Q1234489",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195606-5193D628-C93F-493C-9029-866196BA7F4D",
+      "person_id": "Q56195606",
+      "on_behalf_of_id": "Q657089",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195607-9FBB5F2A-0319-4DBC-92EB-09C35F5935D3",
+      "person_id": "Q56195607",
+      "on_behalf_of_id": "Q3097751",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195608-0779DC50-0A63-43B4-981A-C028C26BA3AA",
+      "person_id": "Q56195608",
+      "on_behalf_of_id": "Q15564211",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195609-2FB01B0C-A2AF-4596-9A36-08A83EBBC8C4",
+      "person_id": "Q56195609",
+      "on_behalf_of_id": "Q926973",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195610-AA4F4E74-A045-41F5-A33B-CE821821BEE7",
+      "person_id": "Q56195610",
+      "on_behalf_of_id": "Q2054750",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195612-9EB47831-13AE-47A1-99DD-851D86E52651",
+      "person_id": "Q56195612",
+      "on_behalf_of_id": "Q2054750",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195613-31E90C71-E5FF-468C-AF8A-6C9CB8C7485C",
+      "person_id": "Q56195613",
+      "on_behalf_of_id": "Q1185830",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195614-F53A2646-93EB-4A7C-89B7-FCA184AB025B",
+      "person_id": "Q56195614",
+      "on_behalf_of_id": "Q657089",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195615-4A107A8A-A48B-4A2C-B50A-0CDF552F363F",
+      "person_id": "Q56195615",
+      "on_behalf_of_id": "Q926973",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195616-5298B6E8-362B-4EF1-A588-7E103C75E73A",
+      "person_id": "Q56195616",
+      "on_behalf_of_id": "Q2731720",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56195617-72D1D9BC-94AC-427B-9C99-D6F63EC5D913",
+      "person_id": "Q56195617",
+      "on_behalf_of_id": "Q2453205",
+      "organization_id": "Q6936217",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934877",
+      "role": {
+        "lang:pt-br": "Vereador de São Paulo",
+        "lang:en": "Councillor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q717676-D5755D6A-A5FA-46CC-9F78-67454A4492B3",
+      "person_id": "Q717676",
+      "on_behalf_of_id": "Q657089",
       "organization_id": "Q6936217",
       "role_superclass_code": "Q708492",
       "role_superclass": {

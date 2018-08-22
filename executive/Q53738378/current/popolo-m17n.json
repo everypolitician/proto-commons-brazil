@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt-br": "Mauro Carlesse",
+        "lang:pt": "Mauro Carlesse",
+        "lang:en": "Mauro Carlesse"
+      },
+      "id": "Q50844911",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50844911"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "cabinete do governador do estado do Tocantins",
+        "lang:en": "cabinet of the governor of the state of Tocantins"
+      },
+      "id": "Q53738378",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738378"
+        }
+      ],
+      "area_id": "Q43695"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Humanista da Solidariedade",
+        "lang:pt": "Partido Humanista da Solidariedade",
+        "lang:en": "Humanist Party of Solidarity"
+      },
+      "id": "Q2453205",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2453205"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -60,6 +105,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50844911-B3B22E63-CD0E-4C29-BA32-91B3C0C66166",
+      "person_id": "Q50844911",
+      "on_behalf_of_id": "Q2453205",
+      "organization_id": "Q53738378",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q53739385",
+      "role_superclass": {
+        "lang:pt-br": "governador do estado do Tocantins",
+        "lang:en": "governor of the state of Tocantins"
+      },
+      "role_code": "Q53739385",
+      "role": {
+        "lang:pt-br": "governador do estado do Tocantins",
+        "lang:en": "governor of the state of Tocantins"
+      }
+    }
   ]
 }

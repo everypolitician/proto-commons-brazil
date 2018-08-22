@@ -1,9 +1,37 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Eduardo Pinho Moreira"
+      },
+      "id": "Q56126279",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56126279"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "cabinete do governador do estado de Santa Catarina",
+        "lang:en": "cabinet of the governor of the state of Santa Catarina"
+      },
+      "id": "Q53738342",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738342"
+        }
+      ],
+      "area_id": "Q41115"
+    }
   ],
   "areas": [
     {
@@ -60,6 +88,37 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56126279-17B16D59-3C98-435C-9D85-974A4D985648",
+      "person_id": "Q56126279",
+      "organization_id": "Q53738342",
+      "area_id": "Q41115",
+      "role_superclass_code": "Q53739354",
+      "role_superclass": {
+        "lang:pt-br": "governador do estado de Santa Catarina",
+        "lang:en": "governor of the state of Santa Catarina"
+      },
+      "role_code": "Q53739354",
+      "role": {
+        "lang:pt-br": "governador do estado de Santa Catarina",
+        "lang:en": "governor of the state of Santa Catarina"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56126279-1FEDCFCF-7332-48D3-9039-7396D4025920",
+      "person_id": "Q56126279",
+      "organization_id": "Q53738342",
+      "area_id": "Q41115",
+      "role_superclass_code": "Q53739354",
+      "role_superclass": {
+        "lang:pt-br": "governador do estado de Santa Catarina",
+        "lang:en": "governor of the state of Santa Catarina"
+      },
+      "role_code": "Q53739354",
+      "role": {
+        "lang:pt-br": "governador do estado de Santa Catarina",
+        "lang:en": "governor of the state of Santa Catarina"
+      }
+    }
   ]
 }

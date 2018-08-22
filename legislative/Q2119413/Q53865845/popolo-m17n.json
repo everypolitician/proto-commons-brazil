@@ -62,6 +62,22 @@
     },
     {
       "name": {
+        "lang:pt": "Airton Sandoval",
+        "lang:en": "Airton Sandoval"
+      },
+      "id": "Q16144980",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16144980"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:pt-br": "Paulo Bauer",
         "lang:pt": "Paulo Bauer",
         "lang:en": "Paulo Bauer"
@@ -77,6 +93,43 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/paulobauer"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "José Serra",
+        "lang:pt": "José Serra",
+        "lang:en": "José Serra"
+      },
+      "id": "Q379563",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q379563"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Marta Suplicy",
+        "lang:pt": "Marta Suplicy",
+        "lang:en": "Marta Suplicy"
+      },
+      "id": "Q463614",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q463614"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/MartaNossaPrefeita"
         }
       ]
     },
@@ -902,11 +955,65 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16144980-01913B68-9155-44D0-9B11-FADAE34DE10B",
+      "person_id": "Q16144980",
+      "on_behalf_of_id": "Q1322751",
+      "organization_id": "Q2119413",
+      "area_id": "Q53657907",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:pt-br": "Senador",
+        "lang:pt": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18964326",
+      "role": {
+        "lang:pt-br": "Senador",
+        "lang:en": "Member of the Senate of Brazil"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3372822-4C58F0F4-D47A-4632-9710-0E631386A45D",
       "person_id": "Q3372822",
       "on_behalf_of_id": "Q1322897",
       "organization_id": "Q2119413",
       "area_id": "Q53657946",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:pt-br": "Senador",
+        "lang:pt": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18964326",
+      "role": {
+        "lang:pt-br": "Senador",
+        "lang:en": "Member of the Senate of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q379563-CFA63735-BBFC-4FCE-8013-3FDF224DCB9A",
+      "person_id": "Q379563",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q2119413",
+      "area_id": "Q53657907",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:pt-br": "Senador",
+        "lang:pt": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18964326",
+      "role": {
+        "lang:pt-br": "Senador",
+        "lang:en": "Member of the Senate of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q463614-0CA10066-5087-43B9-9B53-4A737EE2B0A7",
+      "person_id": "Q463614",
+      "on_behalf_of_id": "Q1322751",
+      "organization_id": "Q2119413",
+      "area_id": "Q53657907",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:pt-br": "Senador",
