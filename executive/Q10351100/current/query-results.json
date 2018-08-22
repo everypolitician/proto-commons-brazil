@@ -767,7 +767,7 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2626216"
+        "value" : "http://www.wikidata.org/entity/Q2054750"
       },
       "party_name_en" : {
         "xml:lang" : "en",
@@ -866,6 +866,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q174"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido Social Democrático"
       },
       "name_pt_br" : {
         "xml:lang" : "pt-br",
@@ -1209,6 +1214,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Partido Progressista"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Antônio Salim Curiati"
       }
     }, {
       "party" : {
