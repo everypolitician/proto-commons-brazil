@@ -901,6 +901,2001 @@
     }
   },
   {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of sao gonçalo",
+        "position_item_id": "Q56449609"
+      },
+      {
+        "comment": "councillor of sao gonçalo",
+        "position_item_id": "Q56459748"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:sao-goncalo",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of maceio",
+        "position_item_id": "Q56449610"
+      },
+      {
+        "comment": "councillor of maceio",
+        "position_item_id": "Q56459749"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:al/mun:maceio",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of duque de caxias",
+        "position_item_id": "Q56449611"
+      },
+      {
+        "comment": "councillor of duque de caxias",
+        "position_item_id": "Q56459750"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:duque-de-caxias",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of natal",
+        "position_item_id": "Q56449612"
+      },
+      {
+        "comment": "councillor of natal",
+        "position_item_id": "Q56459751"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rn/mun:natal",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of campo grande",
+        "position_item_id": "Q56449613"
+      },
+      {
+        "comment": "councillor of campo grande",
+        "position_item_id": "Q56459752"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:ms/mun:campo-grande",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of teresina",
+        "position_item_id": "Q56449614"
+      },
+      {
+        "comment": "councillor of teresina",
+        "position_item_id": "Q56459753"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pi/mun:teresina",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of sao bernardo do campo",
+        "position_item_id": "Q56449615"
+      },
+      {
+        "comment": "councillor of sao bernardo do campo",
+        "position_item_id": "Q56459754"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-bernardo-do-campo",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of joao pessoa",
+        "position_item_id": "Q56449616"
+      },
+      {
+        "comment": "councillor of joao pessoa",
+        "position_item_id": "Q56459755"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pb/mun:joao-pessoa",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of nova iguaçu",
+        "position_item_id": "Q56449617"
+      },
+      {
+        "comment": "councillor of nova iguaçu",
+        "position_item_id": "Q56459756"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:nova-iguacu",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of santo andré",
+        "position_item_id": "Q56449620"
+      },
+      {
+        "comment": "councillor of santo andré",
+        "position_item_id": "Q56459759"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:santo-andre",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of osasco",
+        "position_item_id": "Q56449621"
+      },
+      {
+        "comment": "councillor of osasco",
+        "position_item_id": "Q56459760"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:osasco",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of são josé dos campos",
+        "position_item_id": "Q56449622"
+      },
+      {
+        "comment": "councillor of são josé dos campos",
+        "position_item_id": "Q56459761"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-jose-dos-campos",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of jaboatão dos guararapes",
+        "position_item_id": "Q56449623"
+      },
+      {
+        "comment": "councillor of jaboatão dos guararapes",
+        "position_item_id": "Q56459762"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pe/mun:jaboatao-dos-guararapes",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of ribeirao preto",
+        "position_item_id": "Q56449624"
+      },
+      {
+        "comment": "councillor of ribeirão preto",
+        "position_item_id": "Q56459763"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:ribeirao-preto",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of uberlandia",
+        "position_item_id": "Q56449625"
+      },
+      {
+        "comment": "councillor of uberlandia",
+        "position_item_id": "Q56459764"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:mg/mun:uberlandia",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of contagem",
+        "position_item_id": "Q56449626"
+      },
+      {
+        "comment": "councillor of contagem",
+        "position_item_id": "Q56459766"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:mg/mun:contagem",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of sorocaba",
+        "position_item_id": "Q56449627"
+      },
+      {
+        "comment": "councillor of sorocaba",
+        "position_item_id": "Q56459767"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sorocaba",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of aracaju",
+        "position_item_id": "Q56449628"
+      },
+      {
+        "comment": "councillor of aracaju",
+        "position_item_id": "Q56459768"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:se/mun:aracaju",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of feira de santana",
+        "position_item_id": "Q56449630"
+      },
+      {
+        "comment": "councillor of feira de santana",
+        "position_item_id": "Q56459769"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:ba/mun:feira-de-santana",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of cuiaba",
+        "position_item_id": "Q56449632"
+      },
+      {
+        "comment": "councillor of cuiabá",
+        "position_item_id": "Q56459770"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:mt/mun:cuiaba",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of joinville",
+        "position_item_id": "Q56449634"
+      },
+      {
+        "comment": "councillor of jionville",
+        "position_item_id": "Q56459771"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sc/mun:joinville",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of juiz de fora",
+        "position_item_id": "Q56449635"
+      },
+      {
+        "comment": "councillor of juiz de fora",
+        "position_item_id": "Q56459772"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:mg/mun:juiz-de-fora",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of londrina",
+        "position_item_id": "Q56449636"
+      },
+      {
+        "comment": "councillor of londrina",
+        "position_item_id": "Q56459773"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pr/mun:londrina",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of aparecida de goiania",
+        "position_item_id": "Q56449637"
+      },
+      {
+        "comment": "councillor of aparecida de goiânia",
+        "position_item_id": "Q56459774"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:go/mun:aparecida-de-goiania",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of porto velho",
+        "position_item_id": "Q56449638"
+      },
+      {
+        "comment": "councillor of porto velho",
+        "position_item_id": "Q56459775"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:ro/mun:porto-velho",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of ananindeua",
+        "position_item_id": "Q56449639"
+      },
+      {
+        "comment": "councillor of ananindeua",
+        "position_item_id": "Q56459776"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pa/mun:ananindeua",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of niteroi",
+        "position_item_id": "Q56449640"
+      },
+      {
+        "comment": "councillor of niterói",
+        "position_item_id": "Q56459777"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:niteroi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of belford roxo",
+        "position_item_id": "Q56449643"
+      },
+      {
+        "comment": "councillor of belford roxo",
+        "position_item_id": "Q56459779"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:belford-roxo",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of serra",
+        "position_item_id": "Q56449644"
+      },
+      {
+        "comment": "councillor of serra",
+        "position_item_id": "Q56459780"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:es/mun:serra",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of campos dos goytacazes",
+        "position_item_id": "Q56449645"
+      },
+      {
+        "comment": "councillor of campos dos goytacazes",
+        "position_item_id": "Q56459782"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:campos-dos-goytacazes",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of vila velha",
+        "position_item_id": "Q56449646"
+      },
+      {
+        "comment": "councillor of vila velha",
+        "position_item_id": "Q56459783"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:es/mun:vila-velha",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of caxias do sul",
+        "position_item_id": "Q56449647"
+      },
+      {
+        "comment": "councillor of caxias do sul",
+        "position_item_id": "Q56459784"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rs/mun:caxias-do-sul",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of florianópolis",
+        "position_item_id": "Q56449648"
+      },
+      {
+        "comment": "councillor of florianópolis",
+        "position_item_id": "Q56459785"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sc/mun:florianopolis",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of macapa",
+        "position_item_id": "Q56449649"
+      },
+      {
+        "comment": "councillor of macapá",
+        "position_item_id": "Q56459786"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:ap/mun:macapa",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of são joão de meriti",
+        "position_item_id": "Q56449650"
+      },
+      {
+        "comment": "councillor of são joão de meriti",
+        "position_item_id": "Q56459787"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:sao-joao-de-meriti",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of mauá",
+        "position_item_id": "Q56449651"
+      },
+      {
+        "comment": "councillor of mauá",
+        "position_item_id": "Q56459788"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:maua",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of são josé do rio preto",
+        "position_item_id": "Q56449652"
+      },
+      {
+        "comment": "councillor of são josé do rio preto",
+        "position_item_id": "Q56459790"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-jose-do-rio-preto",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of santos",
+        "position_item_id": "Q56449653"
+      },
+      {
+        "comment": "councillor of santos",
+        "position_item_id": "Q56459791"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:santos",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of mogi das cruzes",
+        "position_item_id": "Q56449654"
+      },
+      {
+        "comment": "councillor of mogi das cruzes",
+        "position_item_id": "Q56459793"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:mogi-das-cruzes",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of betim",
+        "position_item_id": "Q56449655"
+      },
+      {
+        "comment": "councillor of betim",
+        "position_item_id": "Q56459794"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:mg/mun:betim",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of diadema",
+        "position_item_id": "Q56449656"
+      },
+      {
+        "comment": "councillor of diadema",
+        "position_item_id": "Q56459795"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:diadema",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of campina grande",
+        "position_item_id": "Q56449658"
+      },
+      {
+        "comment": "councillor of campina grande",
+        "position_item_id": "Q56459796"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pb/mun:campina-grande",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of jundiaí",
+        "position_item_id": "Q56449659"
+      },
+      {
+        "comment": "councillor of jundiaí",
+        "position_item_id": "Q56459797"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:jundiai",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of maringá",
+        "position_item_id": "Q56449660"
+      },
+      {
+        "comment": "councillor of maringá",
+        "position_item_id": "Q56459798"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pr/mun:maringa",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of montes claros",
+        "position_item_id": "Q56449661"
+      },
+      {
+        "comment": "councillor of montes claros",
+        "position_item_id": "Q56459799"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:mg/mun:montes-claros",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of carapicuiba",
+        "position_item_id": "Q56449663"
+      },
+      {
+        "comment": "councillor of carapicuíba",
+        "position_item_id": "Q56459800"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:carapicuiba",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor piracicaba",
+        "position_item_id": "Q56449665"
+      },
+      {
+        "comment": "councillor of piracicaba",
+        "position_item_id": "Q56459801"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:piracicaba",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of olinda",
+        "position_item_id": "Q56449666"
+      },
+      {
+        "comment": "councillor of olinda",
+        "position_item_id": "Q56459802"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pe/mun:olinda",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of cariacica",
+        "position_item_id": "Q56449667"
+      },
+      {
+        "comment": "councillor of cariacica",
+        "position_item_id": "Q56459803"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:es/mun:cariacica",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of rio branco",
+        "position_item_id": "Q56449668"
+      },
+      {
+        "comment": "councillor of rio branco",
+        "position_item_id": "Q56459804"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:ac/mun:rio-branco",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of anapolis",
+        "position_item_id": "Q56449669"
+      },
+      {
+        "comment": "councillor of anápolis",
+        "position_item_id": "Q56459806"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:go/mun:anapolis",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of bauru",
+        "position_item_id": "Q56449670"
+      },
+      {
+        "comment": "councillor of bauru",
+        "position_item_id": "Q56459807"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:bauru",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of vitoria",
+        "position_item_id": "Q56449671"
+      },
+      {
+        "comment": "councillor of vitória",
+        "position_item_id": "Q56459808"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:es/mun:vitoria",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of caucaia",
+        "position_item_id": "Q56449672"
+      },
+      {
+        "comment": "councillor of caucaia",
+        "position_item_id": "Q56459809"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:ce/mun:caucaia",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of sao vicente",
+        "position_item_id": "Q56449674"
+      },
+      {
+        "comment": "councillor of são vicente",
+        "position_item_id": "Q56459811"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sao-vicente",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of itaquaquecetuba",
+        "position_item_id": "Q56449675"
+      },
+      {
+        "comment": "councillor of itaquaquecetuba",
+        "position_item_id": "Q56459812"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:itaquaquecetuba",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of caruaru",
+        "position_item_id": "Q56449676"
+      },
+      {
+        "comment": "councillor of caruaru",
+        "position_item_id": "Q56459813"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pe/mun:caruaru",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of vitoria da conquista",
+        "position_item_id": "Q56449677"
+      },
+      {
+        "comment": "councillor of vitória da conquista",
+        "position_item_id": "Q56459815"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:ba/mun:vitoria-da-conquista",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of franca",
+        "position_item_id": "Q56449678"
+      },
+      {
+        "comment": "councillor of franca",
+        "position_item_id": "Q56459816"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:franca",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of blumenau",
+        "position_item_id": "Q56449680"
+      },
+      {
+        "comment": "councillor of blumenau",
+        "position_item_id": "Q56459817"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sc/mun:blumenau",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of pelotas",
+        "position_item_id": "Q56449681"
+      },
+      {
+        "comment": "councillor of pelotas",
+        "position_item_id": "Q56459818"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rs/mun:pelotas",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of canoas",
+        "position_item_id": "Q56449682"
+      },
+      {
+        "comment": "councillor of canoas",
+        "position_item_id": "Q56459819"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rs/mun:canoas",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of ponta grossa",
+        "position_item_id": "Q56449683"
+      },
+      {
+        "comment": "councillor of ponta grossa",
+        "position_item_id": "Q56459820"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pr/mun:ponta-grossa",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of petrolina",
+        "position_item_id": "Q56449686"
+      },
+      {
+        "comment": "councillor of petrolina",
+        "position_item_id": "Q56459822"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pe/mun:petrolina",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of boa vista",
+        "position_item_id": "Q56449687"
+      },
+      {
+        "comment": "councillor of boa vista",
+        "position_item_id": "Q56459823"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rr/mun:boa-vista",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of ribeirado das neves",
+        "position_item_id": "Q56449688"
+      },
+      {
+        "comment": "councillor of ribeirão das neves",
+        "position_item_id": "Q56459824"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:mg/mun:ribeirao-das-neves",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of paulista",
+        "position_item_id": "Q56449689"
+      },
+      {
+        "comment": "councillor of paulista",
+        "position_item_id": "Q56459825"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pe/mun:paulista",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of uberaba",
+        "position_item_id": "Q56449690"
+      },
+      {
+        "comment": "councillor of uberaba",
+        "position_item_id": "Q56459827"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:mg/mun:uberaba",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of cascavel",
+        "position_item_id": "Q56449691"
+      },
+      {
+        "comment": "councillor of cascavel",
+        "position_item_id": "Q56459828"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pr/mun:cascavel",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of guaruja",
+        "position_item_id": "Q56449692"
+      },
+      {
+        "comment": "councillor of guarujá",
+        "position_item_id": "Q56459829"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:guaruja",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of taubaté",
+        "position_item_id": "Q56449693"
+      },
+      {
+        "comment": "councillor of taubaté",
+        "position_item_id": "Q56459830"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:taubate",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of praia grande",
+        "position_item_id": "Q56449694"
+      },
+      {
+        "comment": "councillor of praia grande",
+        "position_item_id": "Q56459831"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:praia-grande",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of são josé dos pinhais",
+        "position_item_id": "Q56449697"
+      },
+      {
+        "comment": "councillor of são josé dos pinhais",
+        "position_item_id": "Q56459834"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pr/mun:sao-jose-dos-pinhais",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of limeira",
+        "position_item_id": "Q56449698"
+      },
+      {
+        "comment": "councillor of limeira",
+        "position_item_id": "Q56459835"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:limeira",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of petrópolis",
+        "position_item_id": "Q56449699"
+      },
+      {
+        "comment": "councillor of petrópolis",
+        "position_item_id": "Q56459836"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:petropolis",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of santarém",
+        "position_item_id": "Q56449700"
+      },
+      {
+        "comment": "councillor of santarém",
+        "position_item_id": "Q56459837"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pa/mun:santarem",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of camaçari",
+        "position_item_id": "Q56449701"
+      },
+      {
+        "comment": "councillor of camaçari",
+        "position_item_id": "Q56459838"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:ba/mun:camacari",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of mossoró",
+        "position_item_id": "Q56449702"
+      },
+      {
+        "comment": "councillor of mossoró",
+        "position_item_id": "Q56459839"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rn/mun:mossoro",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of suzano",
+        "position_item_id": "Q56449703"
+      },
+      {
+        "comment": "councillor of suzano",
+        "position_item_id": "Q56459840"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:suzano",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of palmas",
+        "position_item_id": "Q56449704"
+      },
+      {
+        "comment": "councillor of palmas",
+        "position_item_id": "Q56459841"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:to/mun:palmas",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of governador valadares",
+        "position_item_id": "Q56449705"
+      },
+      {
+        "comment": "councillor of governador valadares",
+        "position_item_id": "Q56459842"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:mg/mun:governador-valadares",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of santa maria",
+        "position_item_id": "Q56449706"
+      },
+      {
+        "comment": "councillor of santa maria",
+        "position_item_id": "Q56459844"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rs/mun:santa-maria",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of taboão da serra",
+        "position_item_id": "Q56449707"
+      },
+      {
+        "comment": "councillor of taboão da serra",
+        "position_item_id": "Q56459845"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:taboao-da-serra",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of gravataí",
+        "position_item_id": "Q56449708"
+      },
+      {
+        "comment": "councillor of gravataí",
+        "position_item_id": "Q56459846"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rs/mun:gravatai",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of várzea grande",
+        "position_item_id": "Q56449709"
+      },
+      {
+        "comment": "councillor of várzea grande",
+        "position_item_id": "Q56459847"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:mt/mun:varzea-grande",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of sumaré",
+        "position_item_id": "Q56449710"
+      },
+      {
+        "comment": "councillor of sumaré",
+        "position_item_id": "Q56459848"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:sumare",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of juazeiro do norte",
+        "position_item_id": "Q56449712"
+      },
+      {
+        "comment": "councillor of juazeiro do norte",
+        "position_item_id": "Q56459849"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:ce/mun:juazeiro-do-norte",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of marabá",
+        "position_item_id": "Q56449713"
+      },
+      {
+        "comment": "councillor of marabá",
+        "position_item_id": "Q56459850"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pa/mun:maraba",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of barueri",
+        "position_item_id": "Q56449714"
+      },
+      {
+        "comment": "councillor of barueri",
+        "position_item_id": "Q56459851"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:barueri",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of embu das artes",
+        "position_item_id": "Q56449715"
+      },
+      {
+        "comment": "councillor of embu das artes",
+        "position_item_id": "Q56459853"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:sp/mun:embu-das-artes",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of foz do iguaçu",
+        "position_item_id": "Q56449717"
+      },
+      {
+        "comment": "councillor of foz do iguaçu",
+        "position_item_id": "Q56459854"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:pr/mun:foz-do-iguacu",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of volta redonda",
+        "position_item_id": "Q56449718"
+      },
+      {
+        "comment": "councillor of volta redonda",
+        "position_item_id": "Q56459855"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:volta-redonda",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of ipatinga",
+        "position_item_id": "Q56449720"
+      },
+      {
+        "comment": "councillor of ipatinga",
+        "position_item_id": "Q56459856"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:mg/mun:ipatinga",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of imperatriz",
+        "position_item_id": "Q56449721"
+      },
+      {
+        "comment": "councillor of imperatriz",
+        "position_item_id": "Q56459857"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:ma/mun:imperatriz",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3184121",
+    "associations": [
+      {
+        "comment": "mayor of viamão",
+        "position_item_id": "Q56449722"
+      },
+      {
+        "comment": "councillor of viamão",
+        "position_item_id": "Q56459858"
+      }
+    ],
+    "name_columns": {
+      "lang:pt": "NOME"
+    },
+    "filter": {
+      "match": "country:br/fed:rs/mun:viamao",
+      "column": "MS_FB"
+    }
+  },
+  {
     "directory": "sao-paulo-subprefectures",
     "area_type_wikidata_item_id": "Q19886676",
     "associations": [
