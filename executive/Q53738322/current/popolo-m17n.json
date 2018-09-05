@@ -2,6 +2,22 @@
   "persons": [
     {
       "name": {
+        "lang:pt": "Márcio França",
+        "lang:en": "Márcio França"
+      },
+      "id": "Q10334305",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10334305"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:pt-br": "Geraldo Alckmin",
         "lang:pt": "Geraldo Alckmin",
         "lang:en": "Geraldo Alckmin"
@@ -49,6 +65,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q1322897"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Socialista Brasileiro",
+        "lang:pt": "Partido Socialista Brasileiro",
+        "lang:en": "Brazilian Socialist Party"
+      },
+      "id": "Q2054789",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2054789"
         }
       ]
     }
@@ -108,6 +139,23 @@
     }
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10334305-A6CA8760-D9A3-4201-BDA0-1E6A4932B52A",
+      "person_id": "Q10334305",
+      "on_behalf_of_id": "Q2054789",
+      "organization_id": "Q53738322",
+      "area_id": "Q175",
+      "role_superclass_code": "Q25921469",
+      "role_superclass": {
+        "lang:pt-br": "Governador do Brasil",
+        "lang:en": "State Governor of Brazil"
+      },
+      "role_code": "Q53739335",
+      "role": {
+        "lang:pt-br": "governador do estado de São Paulo",
+        "lang:en": "governor of the state of Sao Paulo"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q964493-516E4291-D666-48B0-946F-6697B036E524",
       "person_id": "Q964493",

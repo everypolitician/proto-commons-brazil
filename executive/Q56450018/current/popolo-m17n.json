@@ -1,0 +1,91 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q41587",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:go"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41587"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739360",
+        "Q53864934"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Goiás"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q459711",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:go/mun:aparecida-de-goiania"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q459711"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56449637",
+        "Q56459774"
+      ],
+      "type": {
+        "lang:pt-br": "município do Brasil",
+        "lang:pt": "município do Brasil",
+        "lang:en": "municipality of Brazil"
+      },
+      "name": {
+        "lang:pt": "Aparecida de Goiânia"
+      },
+      "parent_id": "Q41587"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

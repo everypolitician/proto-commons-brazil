@@ -3582,6 +3582,28 @@
     }
   },
   {
+    "role_id": "Q56449712",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Juazeiro do Norte",
+      "lang:pt": "Prefeito de Juazeiro do Norte",
+      "lang:en": "Mayor of Juazeiro do Norte"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56450097",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Juazeiro do Norte",
+      "lang:pt": "prefeitura municipal de Juazeiro do Norte",
+      "lang:en": "municipal prefectura of Juazeiro do Norte"
+    }
+  },
+  {
     "role_id": "Q56449713",
     "role_name": {
       "lang:pt-br": "Prefeito de Marabá",
@@ -3689,6 +3711,72 @@
       "lang:pt-br": "prefeitura municipal de Volta Redonda",
       "lang:pt": "prefeitura municipal de Volta Redonda",
       "lang:en": "municipal prefecture of Volta Redonda"
+    }
+  },
+  {
+    "role_id": "Q56449720",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Ipatinga",
+      "lang:pt": "Prefeito de Ipatinga",
+      "lang:en": "Mayor of Ipatinga"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56450105",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Ipatinga",
+      "lang:pt": "prefeitura municipal de Ipatinga",
+      "lang:en": "municipal prefecture of Ipatinga"
+    }
+  },
+  {
+    "role_id": "Q56449721",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Imperatriz",
+      "lang:pt": "Prefeito de Imperatriz",
+      "lang:en": "Mayor of Imperatriz"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56450106",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Imperatriz",
+      "lang:pt": "prefeitura municipal de Imperatriz",
+      "lang:en": "municipal prefecture of Imperatriz"
+    }
+  },
+  {
+    "role_id": "Q56449722",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Viamão",
+      "lang:pt": "Prefeito de Viamão",
+      "lang:en": "Mayor of Viamão"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56450108",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Viamão",
+      "lang:pt": "prefeitura municipal de Viamão",
+      "lang:en": "municipal prefecture of Viamão"
     }
   },
   {
@@ -5584,6 +5672,28 @@
     }
   },
   {
+    "role_id": "Q56459849",
+    "role_name": {
+      "lang:pt-br": "vereador de Juazeiro do Norte",
+      "lang:pt": "vereador de Juazeiro do Norte",
+      "lang:en": "councillor of Juazeiro do Norte"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450305",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Juazeiro do Norte",
+      "lang:pt": "câmara municipal de Juazeiro do Norte",
+      "lang:en": "municipal Chamber of Juazeiro do Norte"
+    }
+  },
+  {
     "role_id": "Q56459850",
     "role_name": {
       "lang:pt-br": "vereador de Marabá",
@@ -5691,6 +5801,72 @@
       "lang:pt-br": "câmara municipal de Volta Redonda",
       "lang:pt": "câmara municipal de Volta Redonda",
       "lang:en": "municipal Chamber of Volta Redonda"
+    }
+  },
+  {
+    "role_id": "Q56459856",
+    "role_name": {
+      "lang:pt-br": "vereador de Ipatinga",
+      "lang:pt": "vereador de Ipatinga",
+      "lang:en": "councillor of Ipatinga"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450311",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Ipatinga",
+      "lang:pt": "câmara municipal de Ipatinga",
+      "lang:en": "municipal Chamber of Ipatinga"
+    }
+  },
+  {
+    "role_id": "Q56459857",
+    "role_name": {
+      "lang:pt-br": "vereador de Imperatriz",
+      "lang:pt": "vereador de Imperatriz",
+      "lang:en": "councillor of Imperatriz"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450313",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Imperatriz",
+      "lang:pt": "câmara municipal de Imperatriz",
+      "lang:en": "municipal Chamber of Imperatriz"
+    }
+  },
+  {
+    "role_id": "Q56459858",
+    "role_name": {
+      "lang:pt-br": "vereador de Viamão",
+      "lang:pt": "vereador de Viamão",
+      "lang:en": "councillor of Viamão"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450314",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Viamão",
+      "lang:pt": "câmara municipal de Viamão",
+      "lang:en": "municipal Chamber of Viamão"
     }
   }
 ]
