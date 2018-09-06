@@ -1408,6 +1408,7 @@
     },
     "generic_role_id": "Q708492",
     "generic_role_name": {
+      "lang:pt-br": "vereador",
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
@@ -1428,6 +1429,7 @@
     },
     "generic_role_id": "Q708492",
     "generic_role_name": {
+      "lang:pt-br": "vereador",
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
@@ -1448,6 +1450,7 @@
     },
     "generic_role_id": "Q708492",
     "generic_role_name": {
+      "lang:pt-br": "vereador",
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
@@ -1468,6 +1471,7 @@
     },
     "generic_role_id": "Q708492",
     "generic_role_name": {
+      "lang:pt-br": "vereador",
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
@@ -1488,6 +1492,7 @@
     },
     "generic_role_id": "Q708492",
     "generic_role_name": {
+      "lang:pt-br": "vereador",
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
@@ -1508,6 +1513,7 @@
     },
     "generic_role_id": "Q708492",
     "generic_role_name": {
+      "lang:pt-br": "vereador",
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
@@ -1528,6 +1534,7 @@
     },
     "generic_role_id": "Q708492",
     "generic_role_name": {
+      "lang:pt-br": "vereador",
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
@@ -1547,6 +1554,7 @@
     },
     "generic_role_id": "Q708492",
     "generic_role_name": {
+      "lang:pt-br": "vereador",
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
@@ -1567,6 +1575,7 @@
     },
     "generic_role_id": "Q708492",
     "generic_role_name": {
+      "lang:pt-br": "vereador",
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
@@ -1586,6 +1595,7 @@
     },
     "generic_role_id": "Q708492",
     "generic_role_name": {
+      "lang:pt-br": "vereador",
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
@@ -1606,6 +1616,7 @@
     },
     "generic_role_id": "Q708492",
     "generic_role_name": {
+      "lang:pt-br": "vereador",
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
@@ -1625,6 +1636,7 @@
     },
     "generic_role_id": "Q708492",
     "generic_role_name": {
+      "lang:pt-br": "vereador",
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
@@ -1644,6 +1656,7 @@
     },
     "generic_role_id": "Q708492",
     "generic_role_name": {
+      "lang:pt-br": "vereador",
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
@@ -1664,6 +1677,7 @@
     },
     "generic_role_id": "Q708492",
     "generic_role_name": {
+      "lang:pt-br": "vereador",
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
@@ -1673,6 +1687,4010 @@
     "organization_name": {
       "lang:pt-br": "Câmara Municipal de São Luís",
       "lang:en": "Municipal Chamber of São Luís"
+    }
+  },
+  {
+    "role_id": "Q56449609",
+    "role_name": {
+      "lang:pt-br": "Prefeito de São Gonçalo",
+      "lang:pt": "Prefeito de São Gonçalo",
+      "lang:en": "Mayor of Sao Gonçalo"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56449987",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de São Gonçalo",
+      "lang:pt": "prefeitura municipal de São Gonçalo",
+      "lang:en": "municipal prefecture of Sao Gonçalo"
+    }
+  },
+  {
+    "role_id": "Q56449610",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Maceió",
+      "lang:pt": "Prefeito de Maceió",
+      "lang:en": "Mayor of Maceio"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56449988",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Maceió",
+      "lang:pt": "prefeitura municipal de Maceió",
+      "lang:en": "municipal prefecture of Maceio"
+    }
+  },
+  {
+    "role_id": "Q56449611",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Duque de Caxias",
+      "lang:pt": "Prefeito de Duque de Caxias",
+      "lang:en": "Mayor of Duque de Caxias"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56449989",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Duque de Caxias",
+      "lang:pt": "prefeitura municipal de Duque de Caxias",
+      "lang:en": "municipal prefecture of Duque de Caxias"
+    }
+  },
+  {
+    "role_id": "Q56449612",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Natal",
+      "lang:pt": "Prefeito de Natal",
+      "lang:en": "Mayor of Natal"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56449990",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Natal",
+      "lang:pt": "prefeitura municipal de Natal",
+      "lang:en": "municipal prefecture of Natal"
+    }
+  },
+  {
+    "role_id": "Q56449613",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Campo Grande",
+      "lang:pt": "Prefeito de Campo Grande",
+      "lang:en": "Mayor of Campo Grande"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56449991",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Campo Grande",
+      "lang:pt": "prefeitura municipal de Campo Grande",
+      "lang:en": "municipal prefecture of Campo Grande"
+    }
+  },
+  {
+    "role_id": "Q56449614",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Teresina",
+      "lang:pt": "Prefeito de Teresina",
+      "lang:en": "Mayor of Teresina"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56449993",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Teresina",
+      "lang:pt": "prefeitura municipal de Teresina",
+      "lang:en": "municipal prefecture of Teresina"
+    }
+  },
+  {
+    "role_id": "Q56449615",
+    "role_name": {
+      "lang:pt-br": "Prefeito de São Bernardo do Campo",
+      "lang:pt": "Prefeito de São Bernardo do Campo",
+      "lang:en": "Mayor of Sao Bernardo do Campo"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56449994",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de São Bernardo do Campo",
+      "lang:pt": "prefeitura municipal de São Bernardo do Campo",
+      "lang:en": "municipal prefecture of Sao Bernardo do Campo"
+    }
+  },
+  {
+    "role_id": "Q56449616",
+    "role_name": {
+      "lang:pt-br": "Prefeito de João Pessoa",
+      "lang:pt": "Prefeito de João Pessoa",
+      "lang:en": "Mayor of Joao Pessoa"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56449995",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de João Pessoa",
+      "lang:pt": "prefeitura municipal de João Pessoa",
+      "lang:en": "municipal prefecture of Joao Pessoa"
+    }
+  },
+  {
+    "role_id": "Q56449617",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Nova Iguaçu",
+      "lang:pt": "Prefeito de Nova Iguaçu",
+      "lang:en": "Mayor of Nova Iguaçu"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56449996",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Nova Iguaçu",
+      "lang:pt": "prefeitura municipal de Nova Iguaçu",
+      "lang:en": "municipal prefecture of Nova Iguaçu"
+    }
+  },
+  {
+    "role_id": "Q56449620",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Santo André",
+      "lang:pt": "Prefeito de Santo André",
+      "lang:en": "Mayor of Santo André"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450000",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Santo André",
+      "lang:pt": "prefeitura municipal de Santo André",
+      "lang:en": "municipal prefecture of Santo André"
+    }
+  },
+  {
+    "role_id": "Q56449621",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Osasco",
+      "lang:pt": "Prefeito de Osasco",
+      "lang:en": "Mayor of Osasco"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450001",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Osasco",
+      "lang:pt": "prefeitura municipal de Osasco",
+      "lang:en": "municipal prefecture of Osasco"
+    }
+  },
+  {
+    "role_id": "Q56449622",
+    "role_name": {
+      "lang:pt-br": "Prefeito de São José dos Campos",
+      "lang:pt": "Prefeito de São José dos Campos",
+      "lang:en": "Mayor of São José dos Campos"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450003",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de São José dos Campos",
+      "lang:pt": "prefeitura municipal de São José dos Campos",
+      "lang:en": "municipal Prefecture of São José dos Campos"
+    }
+  },
+  {
+    "role_id": "Q56449623",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Jaboatão dos Guararapes",
+      "lang:pt": "Prefeito de Jaboatão dos Guararapes",
+      "lang:en": "Mayor of Jaboatão dos Guararapes"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450004",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Jaboatão dos Guararapes",
+      "lang:pt": "prefeitura municipal de Jaboatão dos Guararapes",
+      "lang:en": "municipal prefecture of Jaboatão dos Guararapes"
+    }
+  },
+  {
+    "role_id": "Q56449624",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Ribeirão Preto",
+      "lang:pt": "Prefeito de Ribeirão Preto",
+      "lang:en": "Mayor of Ribeirao Preto"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450005",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Ribeirao Preto",
+      "lang:pt": "prefeitura municipal de Ribeirao Preto",
+      "lang:en": "municipal prefecture of Ribeirao Preto"
+    }
+  },
+  {
+    "role_id": "Q56449625",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Uberlândia",
+      "lang:pt": "Prefeito de Uberlândia",
+      "lang:en": "Mayor of Uberlandia"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450006",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Uberlândia",
+      "lang:pt": "prefeitura municipal de Uberlândia",
+      "lang:en": "municipal prefecture of Uberlandia"
+    }
+  },
+  {
+    "role_id": "Q56449626",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Contagem",
+      "lang:pt": "Prefeito de Contagem",
+      "lang:en": "Mayor of Contagem"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450007",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Contagem",
+      "lang:pt": "prefeitura municipal de Contagem",
+      "lang:en": "municipal prefecture of Contagem"
+    }
+  },
+  {
+    "role_id": "Q56449627",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Sorocaba",
+      "lang:pt": "Prefeito de Sorocaba",
+      "lang:en": "Mayor of Sorocaba"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450008",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Sorocaba",
+      "lang:pt": "prefeitura municipal de Sorocaba",
+      "lang:en": "municipal prefecture of Sorocaba"
+    }
+  },
+  {
+    "role_id": "Q56449628",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Aracaju",
+      "lang:pt": "Prefeito de Aracaju",
+      "lang:en": "Mayor of Aracaju"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450009",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Aracaju",
+      "lang:pt": "prefeitura municipal de Aracaju",
+      "lang:en": "municipal prefecture of Aracaju"
+    }
+  },
+  {
+    "role_id": "Q56449630",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Feira de Santana",
+      "lang:pt": "Prefeito de Feira de Santana",
+      "lang:en": "Mayor of Feira de Santana"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450012",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Feira de Santana",
+      "lang:pt": "prefeitura municipal de Feira de Santana",
+      "lang:en": "municipal prefecture of Feira de Santana"
+    }
+  },
+  {
+    "role_id": "Q56449632",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Cuiabá",
+      "lang:pt": "Prefeito de Cuiabá",
+      "lang:en": "Mayor of Cuiaba"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450013",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Cuiabá",
+      "lang:pt": "prefeitura municipal de Cuiabá",
+      "lang:en": "municipal prefecture of Cuiaba"
+    }
+  },
+  {
+    "role_id": "Q56449634",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Joinville",
+      "lang:pt": "Prefeito de Joinville",
+      "lang:en": "Mayor of Joinville"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450014",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Joinville",
+      "lang:pt": "prefeitura municipal de Joinville",
+      "lang:en": "municipal prefecture of Joinville"
+    }
+  },
+  {
+    "role_id": "Q56449635",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Juiz de Fora",
+      "lang:pt": "Prefeito de Juiz de Fora",
+      "lang:en": "Mayor of Juiz de Fora"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450015",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Juiz de Fora",
+      "lang:pt": "prefeitura municipal de Juiz de Fora",
+      "lang:en": "municipal prefecture of Juiz de Fora"
+    }
+  },
+  {
+    "role_id": "Q56449636",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Londrina",
+      "lang:pt": "Prefeito de Londrina",
+      "lang:en": "Mayor of Londrina"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450017",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Londrina",
+      "lang:pt": "prefeitura municipal de Londrina",
+      "lang:en": "municipal prefecture of Londrina"
+    }
+  },
+  {
+    "role_id": "Q56449637",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Aparecida de Goiânia",
+      "lang:pt": "Prefeito de Aparecida de Goiânia",
+      "lang:en": "Mayor of Aparecida de Goiania"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450018",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Aparecida de Goiânia",
+      "lang:pt": "prefeitura municipal de Aparecida de Goiânia",
+      "lang:en": "municipal prefecture of Aparecida de Goiania"
+    }
+  },
+  {
+    "role_id": "Q56449638",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Porto Velho",
+      "lang:pt": "Prefeito de Porto Velho",
+      "lang:en": "Mayor of Porto Velho"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450019",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Porto Velho",
+      "lang:pt": "prefeitura municipal de Porto Velho",
+      "lang:en": "municipal prefecture of Porto Velho"
+    }
+  },
+  {
+    "role_id": "Q56449639",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Ananindeua",
+      "lang:pt": "Prefeito de Ananindeua",
+      "lang:en": "Mayor of Ananindeua"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450020",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Ananindeua",
+      "lang:pt": "prefeitura municipal de Ananindeua",
+      "lang:en": "municipal prefecture of Ananindeua"
+    }
+  },
+  {
+    "role_id": "Q56449640",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Niterói",
+      "lang:pt": "Prefeito de Niterói",
+      "lang:en": "Mayor of Niteroi"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450021",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Niterói",
+      "lang:pt": "prefeitura municipal de Niterói",
+      "lang:en": "municipal prefecture of Niteroi"
+    }
+  },
+  {
+    "role_id": "Q56449643",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Belford Roxo",
+      "lang:pt": "Prefeito de Belford Roxo",
+      "lang:en": "Mayor of Belford Roxo"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450023",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Belford Roxo",
+      "lang:pt": "prefeitura municipal de Belford Roxo",
+      "lang:en": "municipal prefecture of Belford Roxo"
+    }
+  },
+  {
+    "role_id": "Q56449644",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Serra",
+      "lang:pt": "Prefeito de Serra",
+      "lang:en": "Mayor of Serra"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450024",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Serra",
+      "lang:pt": "prefeitura municipal de Serra",
+      "lang:en": "municipal prefecture of Serra"
+    }
+  },
+  {
+    "role_id": "Q56449645",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Campos dos Goytacazes",
+      "lang:pt": "Prefeito de Campos dos Goytacazes",
+      "lang:en": "Mayor of Campos dos Goytacazes"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450025",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Campos dos Goytacazes",
+      "lang:pt": "prefeitura municipal de Campos dos Goytacazes",
+      "lang:en": "municipal prefecture of Campos dos Goytacazes"
+    }
+  },
+  {
+    "role_id": "Q56449646",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Vila Velha",
+      "lang:pt": "Prefeito de Vila Velha",
+      "lang:en": "Mayor of Vila Velha"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450026",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Vila Velha",
+      "lang:pt": "prefeitura municipal de Vila Velha",
+      "lang:en": "municipal prefecture of Vila Velha"
+    }
+  },
+  {
+    "role_id": "Q56449647",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Caxias do Sul",
+      "lang:pt": "Prefeito de Caxias do Sul",
+      "lang:en": "Mayor of Caxias do Sul"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450027",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Caxias do Sul",
+      "lang:pt": "prefeitura municipal de Caxias do Sul",
+      "lang:en": "municipal prefecture of Caxias dos Sul"
+    }
+  },
+  {
+    "role_id": "Q56449648",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Florianópolis",
+      "lang:pt": "Prefeito de Florianópolis",
+      "lang:en": "Mayor of Florianópolis"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q56450028",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Florianópolis",
+      "lang:pt": "prefeitura municipal de Florianópolis",
+      "lang:en": "municipal prefecture of Florianopolis"
+    }
+  },
+  {
+    "role_id": "Q56449649",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Macapá",
+      "lang:pt": "Prefeito de Macapá",
+      "lang:en": "Mayor of Macapa"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450029",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Macapá",
+      "lang:pt": "prefeitura municipal de Macapá",
+      "lang:en": "municipal prefecture of Macapa"
+    }
+  },
+  {
+    "role_id": "Q56449650",
+    "role_name": {
+      "lang:pt-br": "Prefeito de São João de Meriti",
+      "lang:pt": "Prefeito de São João de Meriti",
+      "lang:en": "Mayor of São João de Meriti"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450030",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de São João de Meriti",
+      "lang:pt": "prefeitura municipal de São João de Meriti",
+      "lang:en": "municipal prefecture of São João de Meriti"
+    }
+  },
+  {
+    "role_id": "Q56449651",
+    "role_name": {
+      "lang:pt-br": "Prefeita de Mauá",
+      "lang:pt": "Prefeita de Mauá",
+      "lang:en": "Mayor of Mauá"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450032",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Mauá",
+      "lang:pt": "prefeitura municipal de Mauá",
+      "lang:en": "municipal prefecture of Mauá"
+    }
+  },
+  {
+    "role_id": "Q56449652",
+    "role_name": {
+      "lang:pt-br": "Prefeito de São José do Rio Preto",
+      "lang:pt": "Prefeito de São José do Rio Preto",
+      "lang:en": "Mayor of São José do Rio Preto"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450034",
+    "organization_name": {
+      "lang:pt-br": "prefeitura de São José do Rio Preto",
+      "lang:pt": "prefeitura de São José do Rio Preto",
+      "lang:en": "municipal prefecture of São José do Rio Preto"
+    }
+  },
+  {
+    "role_id": "Q56449653",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Santos",
+      "lang:pt": "Prefeito de Santos",
+      "lang:en": "Mayor of Santos"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450035",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Santos",
+      "lang:pt": "prefeitura municipal de Santos",
+      "lang:en": "municipal prefecture of Santos"
+    }
+  },
+  {
+    "role_id": "Q56449654",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Mogi das Cruzes",
+      "lang:pt": "Prefeito de Mogi das Cruzes",
+      "lang:en": "Mayor of Mogi das Cruzes"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450036",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Mogi das Cruzes",
+      "lang:pt": "prefeitura municipal de Mogi das Cruzes",
+      "lang:en": "municipal prefecture of Mogi das Cruzes"
+    }
+  },
+  {
+    "role_id": "Q56449655",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Betim",
+      "lang:pt": "Prefeito de Betim",
+      "lang:en": "Mayor of Betim"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450037",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Betim",
+      "lang:pt": "prefeitura municipal de Betim",
+      "lang:en": "municipal prefecture of Betim"
+    }
+  },
+  {
+    "role_id": "Q56449656",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Diadema",
+      "lang:pt": "Prefeito de Diadema",
+      "lang:en": "Mayor of Diadema"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450039",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Diadema",
+      "lang:pt": "prefeitura municipal de Diadema",
+      "lang:en": "municipal prefecture of Diadema"
+    }
+  },
+  {
+    "role_id": "Q56449658",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Campina Grande",
+      "lang:pt": "Prefeito de Campina Grande",
+      "lang:en": "Mayor of Campina Grande"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450040",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Campina Grande",
+      "lang:pt": "prefeitura municipal de Campina Grande",
+      "lang:en": "municipal prefecture of Campina Grande"
+    }
+  },
+  {
+    "role_id": "Q56449659",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Jundiaí",
+      "lang:pt": "Prefeito de Jundiaí",
+      "lang:en": "Mayor of Jundiaí"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450042",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Jundiaí",
+      "lang:pt": "prefeitura municipal de Jundiaí",
+      "lang:en": "municipal prefecture of Jundiaí"
+    }
+  },
+  {
+    "role_id": "Q56449660",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Maringá",
+      "lang:pt": "Prefeito de Maringá",
+      "lang:en": "Mayor of Maringá"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450043",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Maringá",
+      "lang:pt": "prefeitura municipal de Maringá",
+      "lang:en": "municipal prefecture of Maringá"
+    }
+  },
+  {
+    "role_id": "Q56449661",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Montes Claros",
+      "lang:pt": "Prefeito de Montes Claros",
+      "lang:en": "Mayor of Montes Claros"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450044",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Montes Claros",
+      "lang:pt": "prefeitura municipal de Montes Claros",
+      "lang:en": "municipal prefecture of Montes Claros"
+    }
+  },
+  {
+    "role_id": "Q56449663",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Carapicuíba",
+      "lang:pt": "Prefeito de Carapicuíba",
+      "lang:en": "Mayor of Carapicuiba"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450047",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Carapicuíba",
+      "lang:pt": "prefeitura municipal de Carapicuíba",
+      "lang:en": "municipal prefecture of Carapicuiba"
+    }
+  },
+  {
+    "role_id": "Q56449665",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Piracicaba",
+      "lang:pt": "Prefeito de Piracicaba",
+      "lang:en": "Mayor Piracicaba"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450048",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Piracicaba",
+      "lang:pt": "prefeitura municipal de Piracicaba",
+      "lang:en": "municipal prefecture of Piracicaba"
+    }
+  },
+  {
+    "role_id": "Q56449666",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Olinda",
+      "lang:pt": "Prefeito de Olinda",
+      "lang:en": "Mayor of Olinda"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450049",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Olinda",
+      "lang:pt": "prefeitura municipal de Olinda",
+      "lang:en": "municipal prefecture of Olinda"
+    }
+  },
+  {
+    "role_id": "Q56449667",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Cariacica",
+      "lang:pt": "Prefeito de Cariacica",
+      "lang:en": "Mayor of Cariacica"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450050",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Cariacica",
+      "lang:pt": "prefeitura municipal de Cariacica",
+      "lang:en": "municipal prefecture of Cariacica"
+    }
+  },
+  {
+    "role_id": "Q56449668",
+    "role_name": {
+      "lang:pt-br": "Prefeita de Rio Branco",
+      "lang:pt": "Prefeita de Rio Branco",
+      "lang:en": "Mayor of Rio Branco"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450051",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Rio Branco",
+      "lang:pt": "prefeitura municipal de Rio Branco",
+      "lang:en": "municipal prefecture of Rio Branco"
+    }
+  },
+  {
+    "role_id": "Q56449669",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Anápolis",
+      "lang:pt": "Prefeito de Anápolis",
+      "lang:en": "Mayor of Anapolis"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450052",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Anápolis",
+      "lang:pt": "prefeitura municipal de Anápolis",
+      "lang:en": "municipal prefecture de Anapolis"
+    }
+  },
+  {
+    "role_id": "Q56449670",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Bauru",
+      "lang:pt": "Prefeito de Bauru",
+      "lang:en": "Mayor of Bauru"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450053",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Bauru",
+      "lang:pt": "prefeitura municipal de Bauru",
+      "lang:en": "municipal prefecture of Bauru"
+    }
+  },
+  {
+    "role_id": "Q56449671",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Vitória",
+      "lang:pt": "Prefeito de Vitória",
+      "lang:en": "Mayor of Vitoria"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q30263900",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Vitória",
+      "lang:pt": "prefeitura municipal de Vitória",
+      "lang:en": "municipal prefecture of Vitoria"
+    }
+  },
+  {
+    "role_id": "Q56449672",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Caucaia",
+      "lang:pt": "Prefeito de Caucaia",
+      "lang:en": "Mayor of Caucaia"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450054",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Caucaia",
+      "lang:pt": "prefeitura municipal de Caucaia",
+      "lang:en": "municipal prefecture of Caucaia"
+    }
+  },
+  {
+    "role_id": "Q56449674",
+    "role_name": {
+      "lang:pt-br": "Prefeito de São Vicente",
+      "lang:pt": "Prefeito de São Vicente",
+      "lang:en": "Mayor of Sao Vicente"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450055",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de São Vicente",
+      "lang:pt": "prefeitura municipal de São Vicente",
+      "lang:en": "municipal prefecture of Sao Vicente"
+    }
+  },
+  {
+    "role_id": "Q56449675",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Itaquaquecetuba",
+      "lang:pt": "Prefeito de Itaquaquecetuba",
+      "lang:en": "Mayor of Itaquaquecetuba"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450058",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Itaquaquecetuba",
+      "lang:pt": "prefeitura municipal de Itaquaquecetuba",
+      "lang:en": "municipal prefecture of Itaquaquecetuba"
+    }
+  },
+  {
+    "role_id": "Q56449676",
+    "role_name": {
+      "lang:pt-br": "Prefeita de Caruaru",
+      "lang:pt": "Prefeita de Caruaru",
+      "lang:en": "Mayor of Caruaru"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450060",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Caruaru",
+      "lang:pt": "prefeitura municipal de Caruaru",
+      "lang:en": "municipal prefecture of Caruaru"
+    }
+  },
+  {
+    "role_id": "Q56449677",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Vitória da Conquista",
+      "lang:pt": "Prefeito de Vitória da Conquista",
+      "lang:en": "Mayor of Vitoria da Conquista"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450061",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Vitória da Conquista",
+      "lang:pt": "prefeitura municipal de Vitória da Conquista",
+      "lang:en": "municipal prefecture of Vitoria da Conquista"
+    }
+  },
+  {
+    "role_id": "Q56449678",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Franca",
+      "lang:pt": "Prefeito de Franca",
+      "lang:en": "Mayor of Franca"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450063",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Franca",
+      "lang:pt": "prefeitura municipal de Franca",
+      "lang:en": "municipal prefecture of Franca"
+    }
+  },
+  {
+    "role_id": "Q56449680",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Blumenau",
+      "lang:pt": "Prefeito de Blumenau",
+      "lang:en": "Mayor of Blumenau"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q56450064",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Blumenau",
+      "lang:pt": "prefeitura municipal de Blumenau",
+      "lang:en": "municipal prefecture of Blumenau"
+    }
+  },
+  {
+    "role_id": "Q56449681",
+    "role_name": {
+      "lang:pt-br": "Prefeita de Pelotas",
+      "lang:pt": "Prefeita de Pelotas",
+      "lang:en": "Mayor of Pelotas"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450065",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Pelotas",
+      "lang:pt": "prefeitura municipal de Pelotas",
+      "lang:en": "municipal prefecture of Pelotas"
+    }
+  },
+  {
+    "role_id": "Q56449682",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Canoas",
+      "lang:pt": "Prefeito de Canoas",
+      "lang:en": "Mayor of Canoas"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450066",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Canoas",
+      "lang:pt": "prefeitura municipal de Canoas",
+      "lang:en": "municipal prefecture of Canoas"
+    }
+  },
+  {
+    "role_id": "Q56449683",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Ponta Grossa",
+      "lang:pt": "Prefeito de Ponta Grossa",
+      "lang:en": "Mayor of Ponta Grossa"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450067",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Ponta Grossa",
+      "lang:pt": "prefeitura municipal de Ponta Grossa",
+      "lang:en": "municipal prefecture of Ponta Grossa"
+    }
+  },
+  {
+    "role_id": "Q56449686",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Petrolina",
+      "lang:pt": "Prefeito de Petrolina",
+      "lang:en": "Mayor of Petrolina"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450068",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Petrolina",
+      "lang:pt": "prefeitura municipal de Petrolina",
+      "lang:en": "municipal prefecture of Petrolina"
+    }
+  },
+  {
+    "role_id": "Q56449687",
+    "role_name": {
+      "lang:pt-br": "Prefeita de Boa Vista",
+      "lang:pt": "Prefeita de Boa Vista",
+      "lang:en": "Mayor of Boa Vista"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450070",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Boa Vista",
+      "lang:pt": "prefeitura municipal de Boa Vista",
+      "lang:en": "municipal prefecture of Boa Vista"
+    }
+  },
+  {
+    "role_id": "Q56449688",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Ribeirão das Neves",
+      "lang:pt": "Prefeito de Ribeirão das Neves",
+      "lang:en": "Mayor of Ribeirado das Neves"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450071",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Ribeirão das Neves",
+      "lang:pt": "prefeitura municipal de Ribeirão das Neves",
+      "lang:en": "municipal prefecture of Ribeirao das Neves"
+    }
+  },
+  {
+    "role_id": "Q56449689",
+    "role_name": {
+      "lang:pt-br": "Prefeito do Paulista",
+      "lang:pt": "Prefeito do Paulista",
+      "lang:en": "Mayor of Paulista"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450072",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal do Paulista",
+      "lang:pt": "prefeitura municipal do Paulista",
+      "lang:en": "municipal prefecture of Paulista"
+    }
+  },
+  {
+    "role_id": "Q56449690",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Uberaba",
+      "lang:pt": "Prefeito de Uberaba",
+      "lang:en": "Mayor of Uberaba"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450073",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Uberaba",
+      "lang:pt": "prefeitura municipal de Uberaba",
+      "lang:en": "municipal prefecture of Uberaba"
+    }
+  },
+  {
+    "role_id": "Q56449691",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Cascavel",
+      "lang:pt": "Prefeito de Cascavel",
+      "lang:en": "Mayor of Cascavel"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450074",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Cascavel",
+      "lang:pt": "prefeitura municipal de Cascavel",
+      "lang:en": "municipal prefecture of Cascavel"
+    }
+  },
+  {
+    "role_id": "Q56449692",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Guarujá",
+      "lang:pt": "Prefeito de Guarujá",
+      "lang:en": "Mayor of Guaruja"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450076",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Guarujá",
+      "lang:pt": "prefeitura municipal de Guarujá",
+      "lang:en": "municipal prefecture of Guaruja"
+    }
+  },
+  {
+    "role_id": "Q56449693",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Taubaté",
+      "lang:pt": "Prefeito de Taubaté",
+      "lang:en": "Mayor of Taubaté"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450078",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Taubaté",
+      "lang:pt": "prefeitura municipal de Taubaté",
+      "lang:en": "municipal prefecture of Taubaté"
+    }
+  },
+  {
+    "role_id": "Q56449694",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Praia Grande",
+      "lang:pt": "Prefeito de Praia Grande",
+      "lang:en": "Mayor of Praia Grande"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450079",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Praia Grande",
+      "lang:pt": "prefeitura municipal de Praia Grande",
+      "lang:en": "municipal prefecture of Praia Grande"
+    }
+  },
+  {
+    "role_id": "Q56449697",
+    "role_name": {
+      "lang:pt-br": "Prefeito de São José dos Pinhais",
+      "lang:pt": "Prefeito de São José dos Pinhais",
+      "lang:en": "Mayor of São José dos Pinhais"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450080",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de São José dos Pinhais",
+      "lang:pt": "prefeitura municipal de São José dos Pinhais",
+      "lang:en": "municipal prefecture of São José dos Pinhais"
+    }
+  },
+  {
+    "role_id": "Q56449698",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Limeira",
+      "lang:pt": "Prefeito de Limeira",
+      "lang:en": "Mayor of Limeira"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450084",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Limeira",
+      "lang:pt": "prefeitura municipal de Limeira",
+      "lang:en": "municipal prefecture of Limeira"
+    }
+  },
+  {
+    "role_id": "Q56449699",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Petrópolis",
+      "lang:pt": "Prefeito de Petrópolis",
+      "lang:en": "Mayor of Petrópolis"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450085",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Petrópolis",
+      "lang:pt": "prefeitura municipal de Petrópolis",
+      "lang:en": "municipal prefecture of Petrópolis"
+    }
+  },
+  {
+    "role_id": "Q56449700",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Santarém",
+      "lang:pt": "Prefeito de Santarém",
+      "lang:en": "Mayor of Santarém"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450086",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Santarém",
+      "lang:pt": "prefeitura municipal de Santarém",
+      "lang:en": "municipal prefecture of Santarém"
+    }
+  },
+  {
+    "role_id": "Q56449701",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Camaçari",
+      "lang:pt": "Prefeito de Camaçari",
+      "lang:en": "Mayor of Camaçari"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450087",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Camaçari",
+      "lang:pt": "prefeitura municipal de Camaçari",
+      "lang:en": "municipal prefecture of Camaçari"
+    }
+  },
+  {
+    "role_id": "Q56449702",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Mossoró",
+      "lang:pt": "Prefeito de Mossoró",
+      "lang:en": "Mayor of Mossoró"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450088",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Mossoró",
+      "lang:pt": "prefeitura municipal de Mossoró",
+      "lang:en": "municipal prefecture of Mossoró"
+    }
+  },
+  {
+    "role_id": "Q56449703",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Suzano",
+      "lang:pt": "Prefeito de Suzano",
+      "lang:en": "Mayor of Suzano"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450089",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Suzano",
+      "lang:pt": "prefeitura municipal de Suzano",
+      "lang:en": "municipal prefecture of Suzano"
+    }
+  },
+  {
+    "role_id": "Q56449704",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Palmas",
+      "lang:pt": "Prefeito de Palmas",
+      "lang:en": "Mayor of Palmas"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450090",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Palmas",
+      "lang:pt": "prefeitura municipal de Palmas",
+      "lang:en": "municipal prefecture of Palmas"
+    }
+  },
+  {
+    "role_id": "Q56449705",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Governador Valadares",
+      "lang:pt": "Prefeito de Governador Valadares",
+      "lang:en": "Mayor of Governador Valadares"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450091",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal of Governador Valadares",
+      "lang:pt": "prefeitura municipal of Governador Valadares",
+      "lang:en": "municipal prefecture of Governador Valadares"
+    }
+  },
+  {
+    "role_id": "Q56449706",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Santa Maria",
+      "lang:pt": "Prefeito de Santa Maria",
+      "lang:en": "Mayor of Santa Maria"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450092",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Santa Maria",
+      "lang:pt": "prefeitura municipal de Santa Maria",
+      "lang:en": "municipal prefecture of Santa Maria"
+    }
+  },
+  {
+    "role_id": "Q56449707",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Taboão da Serra",
+      "lang:pt": "Prefeito de Taboão da Serra",
+      "lang:en": "Mayor of Taboão da Serra"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450093",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Taboão da Serra",
+      "lang:pt": "prefeitura municipal de Taboão da Serra",
+      "lang:en": "municipal prefecture of Taboão da Serra"
+    }
+  },
+  {
+    "role_id": "Q56449708",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Gravataí",
+      "lang:pt": "Prefeito de Gravataí",
+      "lang:en": "Mayor of Gravataí"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450094",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Gravataí",
+      "lang:pt": "prefeitura municipal de Gravataí",
+      "lang:en": "municipal prefecture of Gravataí"
+    }
+  },
+  {
+    "role_id": "Q56449709",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Várzea Grande",
+      "lang:pt": "Prefeito de Várzea Grande",
+      "lang:en": "Mayor of Várzea Grande"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450095",
+    "organization_name": {
+      "lang:pt-br": "pefeitura municipal de Várzea Grande",
+      "lang:pt": "pefeitura municipal de Várzea Grande",
+      "lang:en": "municipal prefecture of Várzea Grande"
+    }
+  },
+  {
+    "role_id": "Q56449710",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Sumaré",
+      "lang:pt": "Prefeito de Sumaré",
+      "lang:en": "Mayor of Sumaré"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450096",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Sumaré",
+      "lang:pt": "prefeitura municipal de Sumaré",
+      "lang:en": "municipal prefecture of Sumaré"
+    }
+  },
+  {
+    "role_id": "Q56449713",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Marabá",
+      "lang:pt": "Prefeito de Marabá",
+      "lang:en": "Mayor of Marabá"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450098",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Marabá",
+      "lang:pt": "prefeitura municipal de Marabá",
+      "lang:en": "municipal prefecture de Marabá"
+    }
+  },
+  {
+    "role_id": "Q56449714",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Barueri",
+      "lang:pt": "Prefeito de Barueri",
+      "lang:en": "Mayor of Barueri"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450099",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Barueri",
+      "lang:pt": "prefeitura municipal de Barueri",
+      "lang:en": "municipal prefecture of Barueri"
+    }
+  },
+  {
+    "role_id": "Q56449715",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Embu das Artes",
+      "lang:pt": "Prefeito de Embu das Artes",
+      "lang:en": "Mayor of Embu das Artes"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q56450100",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Embu das Artes",
+      "lang:pt": "prefeitura municipal de Embu das Artes",
+      "lang:en": "municipal prefecture of Embu das Artes"
+    }
+  },
+  {
+    "role_id": "Q56449717",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Foz do Iguaçu",
+      "lang:pt": "Prefeito de Foz do Iguaçu",
+      "lang:en": "Mayor of Foz do Iguaçu"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450101",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Foz do Iguaçu",
+      "lang:pt": "prefeitura municipal de Foz do Iguaçu",
+      "lang:en": "municipal prefecture of Foz do Iguaçu"
+    }
+  },
+  {
+    "role_id": "Q56449718",
+    "role_name": {
+      "lang:pt-br": "Prefeito de Volta Redonda",
+      "lang:pt": "Prefeito de Volta Redonda",
+      "lang:en": "Mayor of Volta Redonda"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:pt-br": "prefeito",
+      "lang:pt": "prefeito",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q56450104",
+    "organization_name": {
+      "lang:pt-br": "prefeitura municipal de Volta Redonda",
+      "lang:pt": "prefeitura municipal de Volta Redonda",
+      "lang:en": "municipal prefecture of Volta Redonda"
+    }
+  },
+  {
+    "role_id": "Q56459748",
+    "role_name": {
+      "lang:pt-br": "vereador de São Gonçalo",
+      "lang:pt": "vereador de São Gonçalo",
+      "lang:en": "councillor of Sao Gonçalo"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450220",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de São Gonçalo",
+      "lang:pt": "câmara municipal de São Gonçalo",
+      "lang:en": "municipal chamber of São Gonçalo"
+    }
+  },
+  {
+    "role_id": "Q56459749",
+    "role_name": {
+      "lang:pt-br": "vereador de Maceió",
+      "lang:pt": "vereador de Maceió",
+      "lang:en": "councillor of Maceio"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450221",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Maceió",
+      "lang:pt": "câmara municipal de Maceió",
+      "lang:en": "municipal chamber of Maceio"
+    }
+  },
+  {
+    "role_id": "Q56459750",
+    "role_name": {
+      "lang:pt-br": "vereador de Duque de Caxias",
+      "lang:pt": "vereador de Duque de Caxias",
+      "lang:en": "councillor of Duque de Caxias"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450222",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Duque de Caxias",
+      "lang:pt": "câmara municipal de Duque de Caxias",
+      "lang:en": "municipal chamber of Duque de Caxias"
+    }
+  },
+  {
+    "role_id": "Q56459751",
+    "role_name": {
+      "lang:pt-br": "vereador do Natal",
+      "lang:pt": "vereador do Natal",
+      "lang:en": "councillor of Natal"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q10262911",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Natal",
+      "lang:pt": "câmara municipal de Natal",
+      "lang:en": "municipal chamber of Natal"
+    }
+  },
+  {
+    "role_id": "Q56459752",
+    "role_name": {
+      "lang:pt-br": "vereador do Campo Grande",
+      "lang:pt": "vereador do Campo Grande",
+      "lang:en": "councillor of Campo Grande"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q25418761",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Campo Grande",
+      "lang:pt": "câmara municipal de Campo Grande",
+      "lang:en": "municipal chamber of Campo Grande"
+    }
+  },
+  {
+    "role_id": "Q56459753",
+    "role_name": {
+      "lang:pt-br": "vereador de Teresina",
+      "lang:pt": "vereador de Teresina",
+      "lang:en": "councillor of Teresina"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450223",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Teresina",
+      "lang:pt": "câmara municipal de Teresina",
+      "lang:en": "municipal chamber of Teresina"
+    }
+  },
+  {
+    "role_id": "Q56459754",
+    "role_name": {
+      "lang:pt-br": "vereador de São Bernardo do Campo",
+      "lang:pt": "vereador de São Bernardo do Campo",
+      "lang:en": "councillor of Sao Bernardo do Campo"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450224",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de São Bernardo do Campo",
+      "lang:pt": "câmara municipal de São Bernardo do Campo",
+      "lang:en": "municipal chamber of Sao Bernardo do Campo"
+    }
+  },
+  {
+    "role_id": "Q56459755",
+    "role_name": {
+      "lang:pt-br": "vereador de João Pessoa",
+      "lang:pt": "vereador de João Pessoa",
+      "lang:en": "councillor of Joao Pessoa"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450225",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de João Pessoa",
+      "lang:pt": "câmara municipal de João Pessoa",
+      "lang:en": "municipal chamber of Joao Pessoa"
+    }
+  },
+  {
+    "role_id": "Q56459756",
+    "role_name": {
+      "lang:pt-br": "vereador de Nova Iguaçu",
+      "lang:pt": "vereador de Nova Iguaçu",
+      "lang:en": "councillor of Nova Iguaçu"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q18465412",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Nova Iguaçu",
+      "lang:pt": "câmara municipal de Nova Iguaçu",
+      "lang:en": "municipal chamber of Nova Iguaçu"
+    }
+  },
+  {
+    "role_id": "Q56459759",
+    "role_name": {
+      "lang:pt-br": "vereador de Santo André",
+      "lang:pt": "vereador de Santo André",
+      "lang:en": "councillor of Santo André"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450226",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Santo André",
+      "lang:pt": "câmara municipal de Santo André",
+      "lang:en": "municipal chamber of Santo André"
+    }
+  },
+  {
+    "role_id": "Q56459760",
+    "role_name": {
+      "lang:pt-br": "vereador de Osasco",
+      "lang:pt": "vereador de Osasco",
+      "lang:en": "councillor of Osasco"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450228",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Osasco",
+      "lang:pt": "câmara municipal de Osasco",
+      "lang:en": "municipal chamber of Osasco"
+    }
+  },
+  {
+    "role_id": "Q56459761",
+    "role_name": {
+      "lang:pt-br": "vereador de São José dos Campos",
+      "lang:pt": "vereador de São José dos Campos",
+      "lang:en": "councillor of São José dos Campos"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q30930077",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de São José dos Campos",
+      "lang:pt": "câmara municipal de São José dos Campos",
+      "lang:en": "municipal chamber of Sao Jose dos Campos"
+    }
+  },
+  {
+    "role_id": "Q56459762",
+    "role_name": {
+      "lang:pt-br": "vereador de Jaboatão dos Guarapes",
+      "lang:pt": "vereador de Jaboatão dos Guarapes",
+      "lang:en": "councillor of Jaboatão dos Guararapes"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450229",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Jaboatão dos Guararapes",
+      "lang:pt": "câmara municipal de Jaboatão dos Guararapes",
+      "lang:en": "municipal chamber of Jaboatão dos Guararapes"
+    }
+  },
+  {
+    "role_id": "Q56459763",
+    "role_name": {
+      "lang:pt-br": "vereador de Ribeirão Preto",
+      "lang:pt": "vereador de Ribeirão Preto",
+      "lang:en": "councillor of Ribeirão Preto"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56349614",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Ribeirão Preto",
+      "lang:pt": "câmara municipal de Ribeirão Preto",
+      "lang:en": "municipal chamber of Ribeirão Preto"
+    }
+  },
+  {
+    "role_id": "Q56459764",
+    "role_name": {
+      "lang:pt-br": "vereador de Uberlândia",
+      "lang:pt": "vereador de Uberlândia",
+      "lang:en": "councillor of Uberlandia"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450232",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Uberlândia",
+      "lang:pt": "câmara municipal de Uberlândia",
+      "lang:en": "municipal chamber of Uberlandia"
+    }
+  },
+  {
+    "role_id": "Q56459766",
+    "role_name": {
+      "lang:pt-br": "vereador de Contagem",
+      "lang:pt": "vereador de Contagem",
+      "lang:en": "councillor of Contagem"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450233",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Contagem",
+      "lang:pt": "câmara municipal de Contagem",
+      "lang:en": "municipal chamber of Contagem"
+    }
+  },
+  {
+    "role_id": "Q56459767",
+    "role_name": {
+      "lang:pt-br": "vereador de Sorocaba",
+      "lang:pt": "vereador de Sorocaba",
+      "lang:en": "councillor of Sorocaba"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q10262915",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Sorocaba",
+      "lang:pt": "câmara municipal de Sorocaba",
+      "lang:en": "municipal chamber of Sorocaba"
+    }
+  },
+  {
+    "role_id": "Q56459768",
+    "role_name": {
+      "lang:pt-br": "vereador de Aracaju",
+      "lang:pt": "vereador de Aracaju",
+      "lang:en": "councillor of Aracaju"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450234",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Aracaju",
+      "lang:pt": "câmara municipal de Aracaju",
+      "lang:en": "municipal Chamber of Aracaju"
+    }
+  },
+  {
+    "role_id": "Q56459769",
+    "role_name": {
+      "lang:pt-br": "vereador de Feira de Santana",
+      "lang:pt": "vereador de Feira de Santana",
+      "lang:en": "councillor of Feira de Santana"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450235",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Feira de Santana",
+      "lang:pt": "câmara municipal de Feira de Santana",
+      "lang:en": "municipal chamber of Feira de Santana"
+    }
+  },
+  {
+    "role_id": "Q56459770",
+    "role_name": {
+      "lang:pt-br": "vereador de Cuiabá",
+      "lang:pt": "vereador de Cuiabá",
+      "lang:en": "councillor of Cuiabá"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q20045706",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Cuiabá",
+      "lang:pt": "câmara municipal de Cuiabá",
+      "lang:en": "municipal chamber of Cuiaba"
+    }
+  },
+  {
+    "role_id": "Q56459771",
+    "role_name": {
+      "lang:pt-br": "vereador de Joinville",
+      "lang:pt": "vereador de Joinville",
+      "lang:en": "councillor of Jionville"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450236",
+    "organization_name": {
+      "lang:pt-br": "câmara de vereadores de Joinville",
+      "lang:pt": "câmara de vereadores de Joinville",
+      "lang:en": "municipal chamber of Joinville"
+    }
+  },
+  {
+    "role_id": "Q56459772",
+    "role_name": {
+      "lang:pt-br": "vereador de Juiz de Fora",
+      "lang:pt": "vereador de Juiz de Fora",
+      "lang:en": "councillor of Juiz de Fora"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q18465408",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Juiz de Fora",
+      "lang:pt": "câmara municipal de Juiz de Fora",
+      "lang:en": "municipal chamber of Juiz de Fora"
+    }
+  },
+  {
+    "role_id": "Q56459773",
+    "role_name": {
+      "lang:pt-br": "vereador de Londrina",
+      "lang:pt": "vereador de Londrina",
+      "lang:en": "councillor of Londrina"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450237",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Londrina",
+      "lang:pt": "câmara municipal de Londrina",
+      "lang:en": "municipal chamber of Londrina"
+    }
+  },
+  {
+    "role_id": "Q56459774",
+    "role_name": {
+      "lang:pt-br": "vereador de Aparecida de Goiânia",
+      "lang:pt": "vereador de Aparecida de Goiânia",
+      "lang:en": "councillor of Aparecida de Goiânia"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450238",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Aparecida de Goiânia",
+      "lang:pt": "câmara municipal de Aparecida de Goiânia",
+      "lang:en": "municipal chamber of Aparecida de Goiania"
+    }
+  },
+  {
+    "role_id": "Q56459775",
+    "role_name": {
+      "lang:pt-br": "vereador de Porto Velho",
+      "lang:pt": "vereador de Porto Velho",
+      "lang:en": "councillor of Porto Velho"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450239",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Porto Velho",
+      "lang:pt": "câmara municipal de Porto Velho",
+      "lang:en": "municipal council of Porto Velho"
+    }
+  },
+  {
+    "role_id": "Q56459776",
+    "role_name": {
+      "lang:pt-br": "vereador de Ananindeua",
+      "lang:pt": "vereador de Ananindeua",
+      "lang:en": "councillor of Ananindeua"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450240",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Ananindeua",
+      "lang:pt": "câmara municipal de Ananindeua",
+      "lang:en": "municipal chamber of Ananindeua"
+    }
+  },
+  {
+    "role_id": "Q56459777",
+    "role_name": {
+      "lang:pt-br": "vereador de Niterói",
+      "lang:pt": "vereador de Niterói",
+      "lang:en": "councillor of Niterói"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q10262910",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Niterói",
+      "lang:pt": "câmara municipal de Niterói",
+      "lang:en": "municipal chamber of Niteroi"
+    }
+  },
+  {
+    "role_id": "Q56459779",
+    "role_name": {
+      "lang:pt-br": "vereador de Belford Roxo",
+      "lang:pt": "vereador de Belford Roxo",
+      "lang:en": "councillor of Belford Roxo"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450243",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Belford Roxo",
+      "lang:pt": "câmara municipal de Belford Roxo",
+      "lang:en": "municipal chamber of Belford Roxo"
+    }
+  },
+  {
+    "role_id": "Q56459780",
+    "role_name": {
+      "lang:pt-br": "vereador de Serra",
+      "lang:pt": "vereador de Serra",
+      "lang:en": "councillor of Serra"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450244",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Serra",
+      "lang:pt": "câmara municipal de Serra",
+      "lang:en": "municipal chamber of Serra"
+    }
+  },
+  {
+    "role_id": "Q56459782",
+    "role_name": {
+      "lang:pt-br": "vereador de Campos dos Goytacazes",
+      "lang:pt": "vereador de Campos dos Goytacazes",
+      "lang:en": "councillor of Campos dos Goytacazes"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450246",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Campos dos Goytacazes",
+      "lang:pt": "câmara municipal de Campos dos Goytacazes",
+      "lang:en": "municipal chamber of Campos dos Goytacazes"
+    }
+  },
+  {
+    "role_id": "Q56459783",
+    "role_name": {
+      "lang:pt-br": "vereador de Vila Velha",
+      "lang:pt": "vereador de Vila Velha",
+      "lang:en": "councillor of Vila Velha"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450247",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Vila Velha",
+      "lang:pt": "câmara municipal de Vila Velha",
+      "lang:en": "municipal chamber of Vila Velha"
+    }
+  },
+  {
+    "role_id": "Q56459784",
+    "role_name": {
+      "lang:pt-br": "vereador de Caxias do Sul",
+      "lang:pt": "vereador de Caxias do Sul",
+      "lang:en": "councillor of Caxias do Sul"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450249",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Caxias do Sul",
+      "lang:pt": "câmara municipal de Caxias do Sul",
+      "lang:en": "municipal chamber of Caxias do Sul"
+    }
+  },
+  {
+    "role_id": "Q56459785",
+    "role_name": {
+      "lang:pt-br": "vereador de Florianópolis",
+      "lang:pt": "vereador de Florianópolis",
+      "lang:en": "councillor of Florianópolis"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450250",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Florianópolis",
+      "lang:pt": "câmara municipal de Florianópolis",
+      "lang:en": "municipal chamber of Florianopolis"
+    }
+  },
+  {
+    "role_id": "Q56459786",
+    "role_name": {
+      "lang:pt-br": "vereador de Macapá",
+      "lang:pt": "vereador de Macapá",
+      "lang:en": "councillor of Macapá"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450251",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Macapá",
+      "lang:pt": "câmara municipal de Macapá",
+      "lang:en": "municipal chamber of Macapa"
+    }
+  },
+  {
+    "role_id": "Q56459787",
+    "role_name": {
+      "lang:pt-br": "vereador de São João de Meriti",
+      "lang:pt": "vereador de São João de Meriti",
+      "lang:en": "councillor of São João de Meriti"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450252",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de São João de Meriti",
+      "lang:pt": "câmara municipal de São João de Meriti",
+      "lang:en": "municipal chamber of São João de Meriti"
+    }
+  },
+  {
+    "role_id": "Q56459788",
+    "role_name": {
+      "lang:pt-br": "vereador de Mauá",
+      "lang:pt": "vereador de Mauá",
+      "lang:en": "councillor of Mauá"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450253",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Mauá",
+      "lang:pt": "câmara municipal de Mauá",
+      "lang:en": "municipal chamber of Mauá"
+    }
+  },
+  {
+    "role_id": "Q56459790",
+    "role_name": {
+      "lang:pt-br": "vereador de São José do Rio Preto",
+      "lang:pt": "vereador de São José do Rio Preto",
+      "lang:en": "councillor of São José do Rio Preto"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450254",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de São José do Rio Preto",
+      "lang:pt": "câmara municipal de São José do Rio Preto",
+      "lang:en": "municipal chamber of São José do Rio Preto"
+    }
+  },
+  {
+    "role_id": "Q56459791",
+    "role_name": {
+      "lang:pt-br": "vereador de Santos",
+      "lang:pt": "vereador de Santos",
+      "lang:en": "councillor of Santos"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q18280688",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Santos",
+      "lang:pt": "câmara municipal de Santos",
+      "lang:en": "municipal chamber of Santos"
+    }
+  },
+  {
+    "role_id": "Q56459793",
+    "role_name": {
+      "lang:pt-br": "vereador de Mogi das Cruzes",
+      "lang:pt": "vereador de Mogi das Cruzes",
+      "lang:en": "councillor of Mogi das Cruzes"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450255",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Mogi das Cruzes",
+      "lang:pt": "câmara municipal de Mogi das Cruzes",
+      "lang:en": "municipal chamber of Mogi das Cruzes"
+    }
+  },
+  {
+    "role_id": "Q56459794",
+    "role_name": {
+      "lang:pt-br": "vereador de Betim",
+      "lang:pt": "vereador de Betim",
+      "lang:en": "councillor of Betim"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450256",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Betim",
+      "lang:pt": "câmara municipal de Betim",
+      "lang:en": "municipal chamber of Betim"
+    }
+  },
+  {
+    "role_id": "Q56459795",
+    "role_name": {
+      "lang:pt-br": "vereador de Diadema",
+      "lang:pt": "vereador de Diadema",
+      "lang:en": "councillor of Diadema"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450257",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Diadema",
+      "lang:pt": "câmara municipal de Diadema",
+      "lang:en": "municipal chamber of Diadema"
+    }
+  },
+  {
+    "role_id": "Q56459796",
+    "role_name": {
+      "lang:pt-br": "vereador de Campina Grande",
+      "lang:pt": "vereador de Campina Grande",
+      "lang:en": "councillor of Campina Grande"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450258",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Campina Grande",
+      "lang:pt": "câmara municipal de Campina Grande",
+      "lang:en": "municipal chamber of Campina Grande"
+    }
+  },
+  {
+    "role_id": "Q56459797",
+    "role_name": {
+      "lang:pt-br": "vereador de Jundiaí",
+      "lang:pt": "vereador de Jundiaí",
+      "lang:en": "councillor of Jundiaí"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450259",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Jundiaí",
+      "lang:pt": "câmara municipal de Jundiaí",
+      "lang:en": "municipal chamber of Jundiaí"
+    }
+  },
+  {
+    "role_id": "Q56459798",
+    "role_name": {
+      "lang:pt-br": "vereador de Maringá",
+      "lang:pt": "vereador de Maringá",
+      "lang:en": "councillor of Maringá"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450260",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Maringá",
+      "lang:pt": "câmara municipal de Maringá",
+      "lang:en": "municipal chamber of Maringá"
+    }
+  },
+  {
+    "role_id": "Q56459799",
+    "role_name": {
+      "lang:pt-br": "vereador de Montes Claros",
+      "lang:pt": "vereador de Montes Claros",
+      "lang:en": "councillor of Montes Claros"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450261",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Montes Claros",
+      "lang:pt": "câmara municipal de Montes Claros",
+      "lang:en": "municipal chamber of Montes Claros"
+    }
+  },
+  {
+    "role_id": "Q56459800",
+    "role_name": {
+      "lang:pt-br": "vereador de Carapicuíba",
+      "lang:pt": "vereador de Carapicuíba",
+      "lang:en": "councillor of Carapicuíba"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450262",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Carapicuíba",
+      "lang:pt": "câmara municipal de Carapicuíba",
+      "lang:en": "municipal council of Carapicuíba"
+    }
+  },
+  {
+    "role_id": "Q56459801",
+    "role_name": {
+      "lang:pt-br": "vereador de Piracicaba",
+      "lang:pt": "vereador de Piracicaba",
+      "lang:en": "councillor of Piracicaba"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450265",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Piracicaba",
+      "lang:pt": "câmara municipal de Piracicaba",
+      "lang:en": "municipal chamber of Piracicaba"
+    }
+  },
+  {
+    "role_id": "Q56459802",
+    "role_name": {
+      "lang:pt-br": "vereador de Olinda",
+      "lang:pt": "vereador de Olinda",
+      "lang:en": "councillor of Olinda"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450266",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Olinda",
+      "lang:pt": "câmara municipal de Olinda",
+      "lang:en": "municipal chamber of Olinda"
+    }
+  },
+  {
+    "role_id": "Q56459803",
+    "role_name": {
+      "lang:pt-br": "vereador de Cariacica",
+      "lang:pt": "vereador de Cariacica",
+      "lang:en": "councillor of Cariacica"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450267",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Cariacica",
+      "lang:pt": "câmara municipal de Cariacica",
+      "lang:en": "municipal chamber of Cariacica"
+    }
+  },
+  {
+    "role_id": "Q56459804",
+    "role_name": {
+      "lang:pt-br": "vereador de Rio Branco",
+      "lang:pt": "vereador de Rio Branco",
+      "lang:en": "councillor of Rio Branco"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450268",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Rio Branco",
+      "lang:pt": "câmara municipal de Rio Branco",
+      "lang:en": "municipal chamber of Rio Branco"
+    }
+  },
+  {
+    "role_id": "Q56459806",
+    "role_name": {
+      "lang:pt-br": "vereador de Anápolis",
+      "lang:pt": "vereador de Anápolis",
+      "lang:en": "councillor of Anápolis"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450269",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Anápolis",
+      "lang:pt": "câmara municipal de Anápolis",
+      "lang:en": "municipal council of Anapolis"
+    }
+  },
+  {
+    "role_id": "Q56459807",
+    "role_name": {
+      "lang:pt-br": "vereador de Bauru",
+      "lang:pt": "vereador de Bauru",
+      "lang:en": "councillor of Bauru"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450270",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Bauru",
+      "lang:pt": "câmara municipal de Bauru",
+      "lang:en": "municipal chamber of Bauru"
+    }
+  },
+  {
+    "role_id": "Q56459808",
+    "role_name": {
+      "lang:pt-br": "vereador de Vitória",
+      "lang:pt": "vereador de Vitória",
+      "lang:en": "councillor of Vitória"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q25443954",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Vitória",
+      "lang:pt": "câmara municipal de Vitória",
+      "lang:en": "municipal chamber of Vitoria"
+    }
+  },
+  {
+    "role_id": "Q56459809",
+    "role_name": {
+      "lang:pt-br": "vereador de Caucaia",
+      "lang:pt": "vereador de Caucaia",
+      "lang:en": "councillor of Caucaia"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450271",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Caucaia",
+      "lang:pt": "câmara municipal de Caucaia",
+      "lang:en": "municipal chamber of Caucaia"
+    }
+  },
+  {
+    "role_id": "Q56459811",
+    "role_name": {
+      "lang:pt-br": "vereador de São Vicente",
+      "lang:pt": "vereador de São Vicente",
+      "lang:en": "councillor of São Vicente"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q10262916",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de São Vicente",
+      "lang:pt": "câmara municipal de São Vicente",
+      "lang:en": "municipal chamber of Sao Vicente"
+    }
+  },
+  {
+    "role_id": "Q56459812",
+    "role_name": {
+      "lang:pt-br": "vereador de Itaquaquecetuba",
+      "lang:pt": "vereador de Itaquaquecetuba",
+      "lang:en": "councillor of Itaquaquecetuba"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450272",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Itaquaquecetuba",
+      "lang:pt": "câmara municipal de Itaquaquecetuba",
+      "lang:en": "municipal chamber of Itaquaquecetuba"
+    }
+  },
+  {
+    "role_id": "Q56459813",
+    "role_name": {
+      "lang:pt-br": "vereador de Caruaru",
+      "lang:pt": "vereador de Caruaru",
+      "lang:en": "councillor of Caruaru"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450273",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Caruaru",
+      "lang:pt": "câmara municipal de Caruaru",
+      "lang:en": "municipal chamber of Caruaru"
+    }
+  },
+  {
+    "role_id": "Q56459815",
+    "role_name": {
+      "lang:pt-br": "vereador de Vitória da Conquista",
+      "lang:pt": "vereador de Vitória da Conquista",
+      "lang:en": "councillor of Vitória da Conquista"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450274",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Vitória da Conquista",
+      "lang:pt": "câmara municipal de Vitória da Conquista",
+      "lang:en": "municipal chamber of Vitoria da Conquista"
+    }
+  },
+  {
+    "role_id": "Q56459816",
+    "role_name": {
+      "lang:pt-br": "vereador de Franca",
+      "lang:pt": "vereador de Franca",
+      "lang:en": "councillor of Franca"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450275",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Franca",
+      "lang:pt": "câmara municipal de Franca",
+      "lang:en": "municipal chamber of Franca"
+    }
+  },
+  {
+    "role_id": "Q56459817",
+    "role_name": {
+      "lang:pt-br": "vereador de Blumenau",
+      "lang:pt": "vereador de Blumenau",
+      "lang:en": "councillor of Blumenau"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q20052907",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Blumenau",
+      "lang:pt": "câmara municipal de Blumenau",
+      "lang:en": "municipal chamber of Blumenau"
+    }
+  },
+  {
+    "role_id": "Q56459818",
+    "role_name": {
+      "lang:pt-br": "vereador de Pelotas",
+      "lang:pt": "vereador de Pelotas",
+      "lang:en": "councillor of Pelotas"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450276",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Pelotas",
+      "lang:pt": "câmara municipal de Pelotas",
+      "lang:en": "municipal chamber of Pelotas"
+    }
+  },
+  {
+    "role_id": "Q56459819",
+    "role_name": {
+      "lang:pt-br": "vereador de Canoas",
+      "lang:pt": "vereador de Canoas",
+      "lang:en": "councillor of Canoas"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450277",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Canoas",
+      "lang:pt": "câmara municipal de Canoas",
+      "lang:en": "municipal chamber of Canoas"
+    }
+  },
+  {
+    "role_id": "Q56459820",
+    "role_name": {
+      "lang:pt-br": "vereador de Ponta Grossa",
+      "lang:pt": "vereador de Ponta Grossa",
+      "lang:en": "councillor of Ponta Grossa"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450278",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Ponta Grossa",
+      "lang:pt": "câmara municipal de Ponta Grossa",
+      "lang:en": "municipal chamber of Ponta Grossa"
+    }
+  },
+  {
+    "role_id": "Q56459822",
+    "role_name": {
+      "lang:pt-br": "vereador de Petrolina",
+      "lang:pt": "vereador de Petrolina",
+      "lang:en": "councillor of Petrolina"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450279",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Petrolina",
+      "lang:pt": "câmara municipal de Petrolina",
+      "lang:en": "municipal chamber of Petrolina"
+    }
+  },
+  {
+    "role_id": "Q56459823",
+    "role_name": {
+      "lang:pt-br": "vereador de Boa Vista",
+      "lang:pt": "vereador de Boa Vista",
+      "lang:en": "councillor of Boa Vista"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450280",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Boa Vista",
+      "lang:pt": "câmara municipal de Boa Vista",
+      "lang:en": "municipal chamber of Boa Vista"
+    }
+  },
+  {
+    "role_id": "Q56459824",
+    "role_name": {
+      "lang:pt-br": "vereador de Ribeirão das Neves",
+      "lang:pt": "vereador de Ribeirão das Neves",
+      "lang:en": "councillor of Ribeirão das Neves"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450281",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Ribeirão das Neves",
+      "lang:pt": "câmara municipal de Ribeirão das Neves",
+      "lang:en": "municipal chamber of Ribeirão das Neves"
+    }
+  },
+  {
+    "role_id": "Q56459825",
+    "role_name": {
+      "lang:pt-br": "vereador de Paulista",
+      "lang:pt": "vereador de Paulista",
+      "lang:en": "councillor of Paulista"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450282",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal do Paulista",
+      "lang:pt": "câmara municipal do Paulista",
+      "lang:en": "municipal chamber of Paulista"
+    }
+  },
+  {
+    "role_id": "Q56459827",
+    "role_name": {
+      "lang:pt-br": "vereador de Uberaba",
+      "lang:pt": "vereador de Uberaba",
+      "lang:en": "councillor of Uberaba"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450285",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Uberaba",
+      "lang:pt": "câmara municipal de Uberaba",
+      "lang:en": "municipal chamber of Uberaba"
+    }
+  },
+  {
+    "role_id": "Q56459828",
+    "role_name": {
+      "lang:pt-br": "vereador de Cascavel",
+      "lang:pt": "vereador de Cascavel",
+      "lang:en": "councillor of Cascavel"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450286",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Cascavel",
+      "lang:pt": "câmara municipal de Cascavel",
+      "lang:en": "municipal chamber of Cascavel"
+    }
+  },
+  {
+    "role_id": "Q56459829",
+    "role_name": {
+      "lang:pt-br": "vereador de Guarujá",
+      "lang:pt": "vereador de Guarujá",
+      "lang:en": "councillor of Guarujá"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450287",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Guarujá",
+      "lang:pt": "câmara municipal de Guarujá",
+      "lang:en": "municipal chamber of Guaruja"
+    }
+  },
+  {
+    "role_id": "Q56459830",
+    "role_name": {
+      "lang:pt-br": "vereador de Taubaté",
+      "lang:pt": "vereador de Taubaté",
+      "lang:en": "councillor of Taubaté"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450288",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Taubaté",
+      "lang:pt": "câmara municipal de Taubaté",
+      "lang:en": "municipal chamber of Taubaté"
+    }
+  },
+  {
+    "role_id": "Q56459831",
+    "role_name": {
+      "lang:pt-br": "vereador de Praia Grande",
+      "lang:pt": "vereador de Praia Grande",
+      "lang:en": "councillor of Praia Grande"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450289",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Praia Grande",
+      "lang:pt": "câmara municipal de Praia Grande",
+      "lang:en": "municipal chamber of Praia Grande"
+    }
+  },
+  {
+    "role_id": "Q56459834",
+    "role_name": {
+      "lang:pt-br": "vereador de São José dos Pinhais",
+      "lang:pt": "vereador de São José dos Pinhais",
+      "lang:en": "councillor of São José dos Pinhais"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450290",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de São José dos Pinhais",
+      "lang:pt": "câmara municipal de São José dos Pinhais",
+      "lang:en": "municipal chamber of São José dos Pinhais"
+    }
+  },
+  {
+    "role_id": "Q56459835",
+    "role_name": {
+      "lang:pt-br": "vereador de Limeira",
+      "lang:pt": "vereador de Limeira",
+      "lang:en": "councillor of Limeira"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450291",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Limeira",
+      "lang:pt": "câmara municipal de Limeira",
+      "lang:en": "municipal chamber of Limeira"
+    }
+  },
+  {
+    "role_id": "Q56459836",
+    "role_name": {
+      "lang:pt-br": "vereador de Petrópolis",
+      "lang:pt": "vereador de Petrópolis",
+      "lang:en": "councillor of Petrópolis"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450292",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Petrópolis",
+      "lang:pt": "câmara municipal de Petrópolis",
+      "lang:en": "municipal Chamber of Petrópolis"
+    }
+  },
+  {
+    "role_id": "Q56459837",
+    "role_name": {
+      "lang:pt-br": "vereador de Santarém",
+      "lang:pt": "vereador de Santarém",
+      "lang:en": "councillor of Santarém"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450293",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Sanatrém",
+      "lang:pt": "câmara municipal de Sanatrém",
+      "lang:en": "municipal Chamber of Santarém"
+    }
+  },
+  {
+    "role_id": "Q56459838",
+    "role_name": {
+      "lang:pt-br": "vereador de Camaçari",
+      "lang:pt": "vereador de Camaçari",
+      "lang:en": "councillor of Camaçari"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450295",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Camaçari",
+      "lang:pt": "câmara municipal de Camaçari",
+      "lang:en": "municipal Chamber of Camaçari"
+    }
+  },
+  {
+    "role_id": "Q56459839",
+    "role_name": {
+      "lang:pt-br": "vereador de Mossoró",
+      "lang:pt": "vereador de Mossoró",
+      "lang:en": "councillor of Mossoró"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450296",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Mossoró",
+      "lang:pt": "câmara municipal de Mossoró",
+      "lang:en": "municipal Chamber of Mossoró"
+    }
+  },
+  {
+    "role_id": "Q56459840",
+    "role_name": {
+      "lang:pt-br": "vereador de Suzano",
+      "lang:pt": "vereador de Suzano",
+      "lang:en": "councillor of Suzano"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450298",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Suzano",
+      "lang:pt": "câmara municipal de Suzano",
+      "lang:en": "municipal Chamber of Suzano"
+    }
+  },
+  {
+    "role_id": "Q56459841",
+    "role_name": {
+      "lang:pt-br": "vereador de Palmas",
+      "lang:pt": "vereador de Palmas",
+      "lang:en": "councillor of Palmas"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450299",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Palmas",
+      "lang:pt": "câmara municipal de Palmas",
+      "lang:en": "municipal Chamber of Palmas"
+    }
+  },
+  {
+    "role_id": "Q56459842",
+    "role_name": {
+      "lang:pt-br": "vereador de Governador Valadares",
+      "lang:pt": "vereador de Governador Valadares",
+      "lang:en": "councillor of Governador Valadares"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450300",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Governador Valadares",
+      "lang:pt": "câmara municipal de Governador Valadares",
+      "lang:en": "municipal Chamber of Governador Valadares"
+    }
+  },
+  {
+    "role_id": "Q56459844",
+    "role_name": {
+      "lang:pt-br": "vereador de Santa Maria",
+      "lang:pt": "vereador de Santa Maria",
+      "lang:en": "councillor of Santa Maria"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q10262914",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Santa Maria",
+      "lang:pt": "câmara municipal de Santa Maria",
+      "lang:en": "municipal Chamber de Santa Maria"
+    }
+  },
+  {
+    "role_id": "Q56459845",
+    "role_name": {
+      "lang:pt-br": "vereador de Taboão da Serra",
+      "lang:pt": "vereador de Taboão da Serra",
+      "lang:en": "councillor of Taboão da Serra"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450301",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Taboão da Serra",
+      "lang:pt": "câmara municipal de Taboão da Serra",
+      "lang:en": "municipal Chamber of Taboão da Serra"
+    }
+  },
+  {
+    "role_id": "Q56459846",
+    "role_name": {
+      "lang:pt-br": "vereador de Gravataí",
+      "lang:pt": "vereador de Gravataí",
+      "lang:en": "councillor of Gravataí"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450302",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Gravataí",
+      "lang:pt": "câmara municipal de Gravataí",
+      "lang:en": "municipal Chamber of Gravataí"
+    }
+  },
+  {
+    "role_id": "Q56459847",
+    "role_name": {
+      "lang:pt-br": "vereador de Várzea Grande",
+      "lang:pt": "vereador de Várzea Grande",
+      "lang:en": "councillor of Várzea Grande"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450303",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Várzea Grande",
+      "lang:pt": "câmara municipal de Várzea Grande",
+      "lang:en": "municipal Chamber of Várzea Grande"
+    }
+  },
+  {
+    "role_id": "Q56459848",
+    "role_name": {
+      "lang:pt-br": "vereador de Sumaré",
+      "lang:pt": "vereador de Sumaré",
+      "lang:en": "councillor of Sumaré"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450304",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Sumaré",
+      "lang:pt": "câmara municipal de Sumaré",
+      "lang:en": "municipal Chamber of Sumaré"
+    }
+  },
+  {
+    "role_id": "Q56459850",
+    "role_name": {
+      "lang:pt-br": "vereador de Marabá",
+      "lang:pt": "vereador de Marabá",
+      "lang:en": "councillor of Marabá"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450306",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Marabá",
+      "lang:pt": "câmara municipal de Marabá",
+      "lang:en": "municipal Chamber of Marabá"
+    }
+  },
+  {
+    "role_id": "Q56459851",
+    "role_name": {
+      "lang:pt-br": "vereador de Barueri",
+      "lang:pt": "vereador de Barueri",
+      "lang:en": "councillor of Barueri"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450307",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Barueri",
+      "lang:pt": "câmara municipal de Barueri",
+      "lang:en": "municipal Chamber of Barueri"
+    }
+  },
+  {
+    "role_id": "Q56459853",
+    "role_name": {
+      "lang:pt-br": "vereador de Embu das Artes",
+      "lang:pt": "vereador de Embu das Artes",
+      "lang:en": "councillor of Embu das Artes"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450308",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Embu das Artes",
+      "lang:pt": "câmara municipal de Embu das Artes",
+      "lang:en": "municipal Chamber of Embu das Artes"
+    }
+  },
+  {
+    "role_id": "Q56459854",
+    "role_name": {
+      "lang:pt-br": "vereador de Foz do Iguaçu",
+      "lang:pt": "vereador de Foz do Iguaçu",
+      "lang:en": "councillor of Foz do Iguaçu"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450309",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Foz do Iguaçu",
+      "lang:pt": "câmara municipal de Foz do Iguaçu",
+      "lang:en": "municipal Chamber of Foz do Iguaçu"
+    }
+  },
+  {
+    "role_id": "Q56459855",
+    "role_name": {
+      "lang:pt-br": "vereador de Volta Redonda",
+      "lang:pt": "vereador de Volta Redonda",
+      "lang:en": "councillor of Volta Redonda"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:pt-br": "vereador",
+      "lang:pt": "vereador",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q56450310",
+    "organization_name": {
+      "lang:pt-br": "câmara municipal de Volta Redonda",
+      "lang:pt": "câmara municipal de Volta Redonda",
+      "lang:en": "municipal Chamber of Volta Redonda"
     }
   }
 ]

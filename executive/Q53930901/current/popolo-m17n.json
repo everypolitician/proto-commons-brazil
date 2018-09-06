@@ -56,6 +56,21 @@
     },
     {
       "name": {
+        "lang:pt-br": "Democratas",
+        "lang:pt": "Democratas",
+        "lang:en": "Democrats"
+      },
+      "id": "Q1185830",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1185830"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:pt-br": "Partido Democrático Social",
         "lang:pt": "Partido Democrático Social",
         "lang:en": "Democratic Social Party"
@@ -173,6 +188,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q9621234-19edbd8b-4425-4ae5-1ffe-48270838880f",
       "person_id": "Q9621234",
+      "on_behalf_of_id": "Q1185830",
       "organization_id": "Q53930901",
       "area_id": "Q36947",
       "role_superclass_code": "Q30185",
