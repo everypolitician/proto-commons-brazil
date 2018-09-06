@@ -2039,6 +2039,22 @@
     },
     {
       "name": {
+        "lang:pt": "Felipe Carreras",
+        "lang:en": "Felipe Carreras"
+      },
+      "id": "Q48871894",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48871894"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:pt": "Arlindo Chinaglia",
         "lang:en": "Arlindo Chinaglia"
       },
@@ -5502,6 +5518,23 @@
       "on_behalf_of_id": "Q657089",
       "organization_id": "Q1834804",
       "area_id": "Q53657905",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt-br": "Deputado",
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt-br": "deputado federal",
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48871894-34b7030a-49b5-510f-6fc7-8c67d55b7b7d",
+      "person_id": "Q48871894",
+      "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:pt-br": "Deputado",

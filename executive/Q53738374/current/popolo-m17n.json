@@ -15,6 +15,22 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:pt": "Belivaldo Chagas Silva",
+        "lang:en": "Belivaldo Chagas Silva"
+      },
+      "id": "Q56127336",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56127336"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -108,6 +124,22 @@
       "id": "http://www.wikidata.org/entity/statement/Q10304754-839A494C-9E85-41A1-8820-B1620C644C9B",
       "person_id": "Q10304754",
       "on_behalf_of_id": "Q1322751",
+      "organization_id": "Q53738374",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q25921469",
+      "role_superclass": {
+        "lang:pt-br": "Governador do Brasil",
+        "lang:en": "State Governor of Brazil"
+      },
+      "role_code": "Q53739383",
+      "role": {
+        "lang:pt-br": "governador do estado de Sergipe",
+        "lang:en": "governor of the state of Sergipe"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56127336-797a908d-4620-a307-19be-c64a0db96a00",
+      "person_id": "Q56127336",
       "organization_id": "Q53738374",
       "area_id": "Q43783",
       "role_superclass_code": "Q25921469",
