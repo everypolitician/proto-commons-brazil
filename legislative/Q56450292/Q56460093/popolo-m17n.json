@@ -1,0 +1,91 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q189043",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:rj/mun:petropolis"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q189043"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56449699",
+        "Q56459836"
+      ],
+      "type": {
+        "lang:pt-br": "município do Brasil",
+        "lang:pt": "município do Brasil",
+        "lang:en": "municipality of Brazil"
+      },
+      "name": {
+        "lang:pt": "Petrópolis"
+      },
+      "parent_id": "Q41428"
+    },
+    {
+      "id": "Q41428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:rj"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739338",
+        "Q53864925"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Rio de Janeiro"
+      },
+      "parent_id": "Q155"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

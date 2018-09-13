@@ -1,0 +1,91 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q42824",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:mt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42824"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739368",
+        "Q53864940"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Mato Grosso"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q983884",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:mt/mun:varzea-grande"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q983884"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56449709",
+        "Q56459847"
+      ],
+      "type": {
+        "lang:pt-br": "município do Brasil",
+        "lang:pt": "município do Brasil",
+        "lang:en": "municipality of Brazil"
+      },
+      "name": {
+        "lang:pt": "Várzea Grande"
+      },
+      "parent_id": "Q42824"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

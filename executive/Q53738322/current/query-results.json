@@ -6,16 +6,114 @@
     "bindings" : [ {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q10334305-A6CA8760-D9A3-4201-BDA0-1E6A4932B52A"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10334305"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Márcio França"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Márcio França"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2054789"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido Socialista Brasileiro"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Socialista Brasileiro"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian Socialist Party"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q175"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53739335"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "governador do estado de São Paulo"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor of the state of Sao Paulo"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25921469"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Governador do Brasil"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "State Governor of Brazil"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53738322"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "cabinete do governador do estado de São Paulo"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cabinet of the governor of the state of Sao Paulo"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q175"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q964493-516E4291-D666-48B0-946F-6697B036E524"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q964493"
-      },
-      "name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Geraldo Alckmin"
       },
       "name_pt" : {
         "xml:lang" : "pt",
@@ -79,10 +177,6 @@
         "type" : "literal",
         "value" : "governor of the state of Sao Paulo"
       },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "geraldoalckmin"
-      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q25921469"
@@ -114,6 +208,15 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q175"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Geraldo Alckmin"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "geraldoalckmin"
       }
     } ]
   }

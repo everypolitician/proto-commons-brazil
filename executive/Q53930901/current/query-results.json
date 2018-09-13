@@ -145,6 +145,25 @@
         "type" : "literal",
         "value" : "Antônio Carlos Peixoto de Magalhães Neto"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185830"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Democratas"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Democratas"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democrats"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q36947"

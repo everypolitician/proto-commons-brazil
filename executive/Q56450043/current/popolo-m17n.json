@@ -1,0 +1,91 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q15499",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:pr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15499"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739343",
+        "Q53864928"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Paraná"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q208669",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:pr/mun:maringa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q208669"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56449660",
+        "Q56459798"
+      ],
+      "type": {
+        "lang:pt-br": "município do Brasil",
+        "lang:pt": "município do Brasil",
+        "lang:en": "municipality of Brazil"
+      },
+      "name": {
+        "lang:pt": "Maringá"
+      },
+      "parent_id": "Q15499"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

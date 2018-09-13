@@ -52,6 +52,10 @@ SELECT DISTINCT ?executive ?executiveLabel ?adminArea ?adminAreaLabel ?adminArea
       (wd:Q4675774 4 wd:Q24238356)
       (wd:Q6372512 4 wd:Q24238356)
       (wd:Q28680501 4 wd:Q24238356)
+      (wd:Q817227 4 wd:Q24238356)
+      (wd:Q318314 4 wd:Q24238356)
+      (wd:Q504755 4 wd:Q24238356)
+      (wd:Q732905 4 wd:Q24238356)
     }
   }
 

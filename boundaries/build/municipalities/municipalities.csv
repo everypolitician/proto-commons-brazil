@@ -13,3 +13,98 @@ OBJECTID,NOME,CD_GEOCODI,UF,rgi,nome_rgi,rgint,nome_rgint,WIKIDATA,MS_FB_PARE,MS
 3254,Salvador,2927408,29,290001,Salvador,2901,Salvador,Q36947,country:br/fed:ba,country:br/fed:ba/mun:salvador
 5403,Belém,1501402,15,150001,Belém,1501,Belém,Q47593,country:br/fed:pa,country:br/fed:pa/mun:belem
 4937,São Luís,2111300,21,210001,São Luís,2101,São Luís,Q28441,country:br/fed:ma,country:br/fed:ma/mun:sao-luis
+3376,São Gonçalo,3304904,33,330001,Rio de Janeiro,country:br,Rio de Janeiro,Q83114,country:br/fed:rj,country:br/fed:rj/mun:sao-goncalo
+3876,Maceió,2704302,27,270001,Maceió,country:br,Maceió,Q168888,country:br/fed:al,country:br/fed:al/mun:maceio
+2324,Duque de Caxias,3301702,33,330001,Rio de Janeiro,country:br,Rio de Janeiro,Q193021,country:br/fed:rj,country:br/fed:rj/mun:duque-de-caxias
+4409,Natal,2408102,24,240001,Natal,country:br,Natal,Q131620,country:br/fed:rn,country:br/fed:rn/mun:natal
+448,Campo Grande,5002704,50,500001,Campo Grande,country:br,Campo Grande,Q168929,country:br/fed:ms,country:br/fed:ms/mun:campo-grande
+4690,Teresina,2211001,22,220001,Teresina,country:br,Teresina,Q165341,country:br/fed:pi,country:br/fed:pi/mun:teresina
+1761,São Bernardo do Campo,3548708,35,350001,São Paulo,country:br,São Paulo,Q184403,country:br/fed:sp,country:br/fed:sp/mun:sao-bernardo-do-campo
+4235,João Pessoa,2507507,25,250001,João Pessoa,country:br,João Pessoa,Q167436,country:br/fed:pb,country:br/fed:pb/mun:joao-pessoa
+2299,Nova Iguaçu,3303500,33,330001,Rio de Janeiro,country:br,Rio de Janeiro,Q188897,country:br/fed:rj,country:br/fed:rj/mun:nova-iguacu
+1771,Santo André,3547809,35,350001,São Paulo,country:br,São Paulo,Q191652,country:br/fed:sp,country:br/fed:sp/mun:santo-andre
+1918,Osasco,3534401,35,350001,São Paulo,country:br,São Paulo,Q4035,country:br/fed:sp,country:br/fed:sp/mun:osasco
+1748,São José dos Campos,3549904,35,350049,São José dos Campos,country:br,São José dos Campos,Q191642,country:br/fed:sp,country:br/fed:sp/mun:sao-jose-dos-campos
+4020,Jaboatão dos Guararapes,2607901,26,260001,Recife,country:br,Recife,Q271393,country:br/fed:pe,country:br/fed:pe/mun:jaboatao-dos-guararapes
+1818,Ribeirão Preto,3543402,35,350031,Ribeirão Preto,country:br,Ribeirão Preto,Q188892,country:br/fed:sp,country:br/fed:sp/mun:ribeirao-preto
+2456,Uberlândia,3170206,31,310059,Uberlândia,country:br,Uberlândia,Q194328,country:br/fed:mg,country:br/fed:mg/mun:uberlandia
+2968,Contagem,3118601,31,310001,Belo Horizonte,country:br,Belo Horizonte,Q271333,country:br/fed:mg,country:br/fed:mg/mun:contagem
+1724,Sorocaba,3552205,35,350003,Sorocaba,country:br,Sorocaba,Q188901,country:br/fed:sp,country:br/fed:sp/mun:sorocaba
+3818,Aracaju,2800308,28,280001,Aracaju,country:br,Aracaju,Q170578,country:br/fed:se,country:br/fed:se/mun:aracaju
+3615,Feira de Santana,2910800,29,290029,Feira de Santana,country:br,Feira de Santana,Q194343,country:br/fed:ba,country:br/fed:ba/mun:feira-de-santana
+351,Cuiabá,5103403,51,510001,Cuiabá,country:br,Cuiabá,Q170762,country:br/fed:mt,country:br/fed:mt/mun:cuiaba
+1125,Joinville,4209102,42,420016,Joinville,country:br,Joinville,Q156819,country:br/fed:sc,country:br/fed:sc/mun:joinville
+3418,Juiz de Fora,3136702,31,310027,Juiz de Fora,country:br,Juíz de Fora,Q193019,country:br/fed:mg,country:br/fed:mg/mun:juiz-de-fora
+1470,Londrina,4113700,41,410021,Londrina,country:br,Londrina,Q192387,country:br/fed:pr,country:br/fed:pr/mun:londrina
+229,Aparecida de Goiânia,5201405,52,520001,Goiânia,country:br,Goiânia,Q459711,country:br/fed:go,country:br/fed:go/mun:aparecida-de-goiania
+5556,Porto Velho,1100205,11,110001,Porto Velho,country:br,Porto Velho,Q172512,country:br/fed:ro,country:br/fed:ro/mun:porto-velho
+5412,Ananindeua,1500800,15,150001,Belém,country:br,Belém,Q485887,country:br/fed:pa,country:br/fed:pa/mun:ananindeua
+2301,Niterói,3303302,33,330001,Rio de Janeiro,country:br,Rio de Janeiro,Q178725,country:br/fed:rj,country:br/fed:rj/mun:niteroi
+2340,Belford Roxo,3300456,33,330001,Rio de Janeiro,country:br,Rio de Janeiro,Q737636,country:br/fed:rj,country:br/fed:rj/mun:belford-roxo
+2357,Serra,3205002,32,320001,Vitória,country:br,Vitória,Q927537,country:br/fed:es,country:br/fed:es/mun:serra
+2332,Campos dos Goytacazes,3301009,33,330010,Campos dos Goytacazes,country:br,Campos dos Goytacazes,Q689868,country:br/fed:rj,country:br/fed:rj/mun:campos-dos-goytacazes
+2350,Vila Velha,3205200,32,320001,Vitória,country:br,Vitória,Q334197,country:br/fed:es,country:br/fed:es/mun:vila-velha
+869,Caxias do Sul,4305108,43,430036,Caxias do Sul,country:br,Caxias do Sul,Q110017,country:br/fed:rs,country:br/fed:rs/mun:caxias-do-sul
+1219,Florianópolis,4205407,42,420001,Florianópolis,country:br,Florianópolis,Q132997,country:br/fed:sc,country:br/fed:sc/mun:florianopolis
+5269,Macapá,1600303,16,160001,Macapá,country:br,Macapá,Q180215,country:br/fed:ap,country:br/fed:ap/mun:macapa
+3374,São João de Meriti,3305109,33,330001,Rio de Janeiro,country:br,Rio de Janeiro,Q459690,country:br/fed:rj,country:br/fed:rj/mun:sao-joao-de-meriti
+1975,Mauá,3529401,35,350001,São Paulo,country:br,São Paulo,Q331300,country:br/fed:sp,country:br/fed:sp/mun:maua
+1749,São José do Rio Preto,3549805,35,350025,São José do Rio Preto,country:br,São José do Rio Preto,Q192181,country:br/fed:sp,country:br/fed:sp/mun:sao-jose-do-rio-preto
+1763,Santos,3548500,35,350002,Santos,country:br,São Paulo,Q81882,country:br/fed:sp,country:br/fed:sp/mun:santos
+1962,Mogi das Cruzes,3530607,35,350001,São Paulo,country:br,São Paulo,Q194332,country:br/fed:sp,country:br/fed:sp/mun:mogi-das-cruzes
+3101,Betim,3106705,31,310001,Belo Horizonte,country:br,Belo Horizonte,Q737644,country:br/fed:mg,country:br/fed:mg/mun:betim
+2153,Diadema,3513801,35,350001,São Paulo,country:br,São Paulo,Q651891,country:br/fed:sp,country:br/fed:sp/mun:diadema
+4279,Campina Grande,2504009,25,250005,Campina Grande,country:br,Campina Grande,Q193016,country:br/fed:pb,country:br/fed:pb/mun:campina-grande
+2012,Jundiaí,3525904,35,350039,Jundiaí,country:br,Campinas,Q275109,country:br/fed:sp,country:br/fed:sp/mun:jundiai
+1179,Maringá,4115200,41,410014,Maringá,country:br,Maringá,Q208669,country:br/fed:pr,country:br/fed:pr/mun:maringa
+2780,Montes Claros,3143302,31,310006,Montes Claros,country:br,Montes Claros,Q651906,country:br/fed:mg,country:br/fed:mg/mun:montes-claros
+2184,Carapicuíba,3510609,35,350001,São Paulo,country:br,São Paulo,Q176891,country:br/fed:sp,country:br/fed:sp/mun:carapicuiba
+1872,Piracicaba,3538709,35,350040,Piracicaba,country:br,Campinas,Q330175,country:br/fed:sp,country:br/fed:sp/mun:piracicaba
+3997,Olinda,2609600,26,260001,Recife,country:br,Recife,Q28301,country:br/fed:pe,country:br/fed:pe/mun:olinda
+2410,Cariacica,3201308,32,320001,Vitória,country:br,Vitória,Q841222,country:br/fed:es,country:br/fed:es/mun:cariacica
+5506,Rio Branco,1200401,12,120001,Rio Branco,country:br,Rio Branco,Q171612,country:br/fed:ac,country:br/fed:ac/mun:rio-branco
+232,Anápolis,5201108,52,520002,Anápolis,country:br,Goiânia,Q223422,country:br/fed:go,country:br/fed:go/mun:anapolis
+2238,Bauru,3506003,35,350009,Bauru,country:br,Bauru,Q241645,country:br/fed:sp,country:br/fed:sp/mun:bauru
+2349,Vitória,3205309,32,320001,Vitória,country:br,Vitória,Q168376,country:br/fed:es,country:br/fed:es/mun:vitoria
+4638,Caucaia,2303709,23,230001,Fortaleza,country:br,Fortaleza,Q817233,country:br/fed:ce,country:br/fed:ce/mun:caucaia
+1736,São Vicente,3551009,35,350002,Santos,country:br,São Paulo,Q272254,country:br/fed:sp,country:br/fed:sp/mun:sao-vicente
+2041,Itaquaquecetuba,3523107,35,350001,São Paulo,country:br,São Paulo,Q330202,country:br/fed:sp,country:br/fed:sp/mun:itaquaquecetuba
+4063,Caruaru,2604106,26,260009,Caruaru,country:br,Caruaru,Q622830,country:br/fed:pe,country:br/fed:pe/mun:caruaru
+3177,Vitória da Conquista,2933307,29,290011,Vitória da Conquista,country:br,Vitória da Conquista,Q22062839,country:br/fed:ba,country:br/fed:ba/mun:vitoria-da-conquista
+2120,Franca,3516200,35,350033,Franca,country:br,Ribeirão Preto,Q504587,country:br/fed:sp,country:br/fed:sp/mun:franca
+1270,Blumenau,4202404,42,420019,Blumenau,country:br,Blumenau,Q155557,country:br/fed:sc,country:br/fed:sc/mun:blumenau
+654,Pelotas,4314407,43,430009,Pelotas,country:br,Pelotas,Q109188,country:br/fed:rs,country:br/fed:rs/mun:pelotas
+885,Canoas,4304606,43,430001,Porto Alegre,country:br,Porto Alegre,Q194325,country:br/fed:rs,country:br/fed:rs/mun:canoas
+1431,Ponta Grossa,4119905,41,410027,Ponta Grossa,country:br,Ponta Grossa,Q242906,country:br/fed:pr,country:br/fed:pr/mun:ponta-grossa
+3982,Petrolina,2611101,26,260015,Petrolina,country:br,Petrolina,Q842143,country:br/fed:pe,country:br/fed:pe/mun:petrolina
+5434,Boa Vista,1400100,14,140001,Boa Vista,country:br,Boa Vista,Q181056,country:br/fed:rr,country:br/fed:rr/mun:boa-vista
+2643,Ribeirão das Neves,3154606,31,310001,Belo Horizonte,country:br,Belo Horizonte,Q737689,country:br/fed:mg,country:br/fed:mg/mun:ribeirao-das-neves
+3986,Paulista,2610707,26,260001,Recife,country:br,Recife,Q949833,country:br/fed:pe,country:br/fed:pe/mun:paulista
+2457,Uberaba,3170107,31,310055,Uberaba,country:br,Uberaba,Q381733,country:br/fed:mg,country:br/fed:mg/mun:uberaba
+1592,Cascavel,4104808,41,410006,Cascavel,country:br,Cascavel,Q205681,country:br/fed:pr,country:br/fed:pr/mun:cascavel
+2094,Guarujá,3518701,35,350002,Santos,country:br,São Paulo,Q271374,country:br/fed:sp,country:br/fed:sp/mun:guaruja
+1701,Taubaté,3554102,35,350050,Taubaté - Pindamonhangaba,country:br,São José dos Campos,Q170540,country:br/fed:sp,country:br/fed:sp/mun:taubate
+1846,Praia Grande,3541000,35,350002,Santos,country:br,São Paulo,Q851292,country:br/fed:sp,country:br/fed:sp/mun:praia-grande
+1356,São José dos Pinhais,4125506,41,410001,Curitiba,country:br,Curitiba,Q478818,country:br/fed:pr,country:br/fed:pr/mun:sao-jose-dos-pinhais
+2002,Limeira,3526902,35,350042,Limeira,country:br,Campinas,Q841241,country:br/fed:sp,country:br/fed:sp/mun:limeira
+2294,Petrópolis,3303906,33,330007,Petrópolis,country:br,Petrópolis,Q189043,country:br/fed:rj,country:br/fed:rj/mun:petropolis
+5308,Santarém,1506807,15,150015,Santarém,country:br,Santarém,Q659450,country:br/fed:pa,country:br/fed:pa/mun:santarem
+3675,Camaçari,2905701,29,290001,Salvador,country:br,Salvador,Q1136204,country:br/fed:ba,country:br/fed:ba/mun:camacari
+4410,Mossoró,2408003,24,240009,Mossoró,country:br,Mossoró,Q694845,country:br/fed:rn,country:br/fed:rn/mun:mossoro
+1721,Suzano,3552502,35,350001,São Paulo,country:br,São Paulo,Q737670,country:br/fed:sp,country:br/fed:sp/mun:suzano
+5129,Palmas,1721000,17,170001,Palmas,country:br,Palmas,Q178993,country:br/fed:to,country:br/fed:to/mun:palmas
+2858,Governador Valadares,3127701,31,310020,Governador Valadares,country:br,Governador Valadares,Q462218,country:br/fed:mg,country:br/fed:mg/mun:governador-valadares
+600,Santa Maria,4316907,43,430011,Santa Maria,country:br,Santa Maria,Q740833,country:br/fed:rs,country:br/fed:rs/mun:santa-maria
+1717,Taboão da Serra,3552809,35,350001,São Paulo,country:br,São Paulo,Q841231,country:br/fed:sp,country:br/fed:sp/mun:taboao-da-serra
+779,Gravataí,4309209,43,430001,Porto Alegre,country:br,Porto Alegre,Q694822,country:br/fed:rs,country:br/fed:rs/mun:gravatai
+254,Várzea Grande,5108402,51,510001,Cuiabá,country:br,Cuiabá,Q983884,country:br/fed:mt,country:br/fed:mt/mun:varzea-grande
+1722,Sumaré,3552403,35,350038,Campinas,country:br,Campinas,Q942135,country:br/fed:sp,country:br/fed:sp/mun:sumare
+4583,Juazeiro do Norte,2307304,23,230011,Juazeiro do Norte,country:br,Juazeiro do Norte,Q817227,country:br/fed:ce,country:br/fed:ce/mun:juazeiro-do-norte
+5356,Marabá,1504208,15,150009,Marabá,country:br,Marabá,Q509818,country:br/fed:pa,country:br/fed:pa/mun:maraba
+2241,Barueri,3505708,35,350001,São Paulo,country:br,São Paulo,Q461773,country:br/fed:sp,country:br/fed:sp/mun:barueri
+2138,Embu das Artes,3515004,35,350001,São Paulo,country:br,São Paulo,Q651860,country:br/fed:sp,country:br/fed:sp/mun:embu-das-artes
+1542,Foz do Iguaçu,4108304,41,410007,Foz do Iguaçu,country:br,Cascavel,Q202316,country:br/fed:pr,country:br/fed:pr/mun:foz-do-iguacu
+3357,Volta Redonda,3306305,33,330004,Volta Redonda - Barra Mansa,country:br,Volta Redonda - Barra Mansa,Q276176,country:br/fed:rj,country:br/fed:rj/mun:volta-redonda
+3481,Ipatinga,3131307,31,310024,Ipatinga,country:br,Ipatinga,Q318314,country:br/fed:mg,country:br/fed:mg/mun:ipatinga
+5033,Imperatriz,2105302,21,210019,Imperatriz,country:br,Imperatriz,Q504755,country:br/fed:ma,country:br/fed:ma/mun:imperatriz
+480,Viamão,4323002,43,430001,Porto Alegre,country:br,Porto Alegre,Q732905,country:br/fed:rs,country:br/fed:rs/mun:viamao

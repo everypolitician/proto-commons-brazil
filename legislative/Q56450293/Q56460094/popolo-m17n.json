@@ -1,0 +1,91 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q39517",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:pa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q39517"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739346",
+        "Q53864931"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Pará"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q659450",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:pa/mun:santarem"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q659450"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56449700",
+        "Q56459837"
+      ],
+      "type": {
+        "lang:pt-br": "município do Brasil",
+        "lang:pt": "município do Brasil",
+        "lang:en": "municipality of Brazil"
+      },
+      "name": {
+        "lang:pt": "Santarém"
+      },
+      "parent_id": "Q39517"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

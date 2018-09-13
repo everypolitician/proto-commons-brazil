@@ -1,0 +1,91 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q42362",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:ma"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42362"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739358",
+        "Q53864933"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Maranhão"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q504755",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:ma/mun:imperatriz"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q504755"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56449721",
+        "Q56459857"
+      ],
+      "type": {
+        "lang:pt-br": "município do Brasil",
+        "lang:pt": "município do Brasil",
+        "lang:en": "municipality of Brazil"
+      },
+      "name": {
+        "lang:pt": "Imperatriz"
+      },
+      "parent_id": "Q42362"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

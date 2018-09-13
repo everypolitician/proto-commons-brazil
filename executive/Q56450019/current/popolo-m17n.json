@@ -1,0 +1,91 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q172512",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:ro/mun:porto-velho"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q172512"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56449638",
+        "Q56459775"
+      ],
+      "type": {
+        "lang:pt-br": "município do Brasil",
+        "lang:pt": "município do Brasil",
+        "lang:en": "municipality of Brazil"
+      },
+      "name": {
+        "lang:pt": "Porto Velho"
+      },
+      "parent_id": "Q43235"
+    },
+    {
+      "id": "Q43235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:ro"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q43235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739384",
+        "Q53864945"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Rondônia"
+      },
+      "parent_id": "Q155"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

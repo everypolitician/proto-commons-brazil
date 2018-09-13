@@ -1,0 +1,91 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q175",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q175"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739335",
+        "Q53864923"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "São Paulo"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q184403",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:sp/mun:sao-bernardo-do-campo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q184403"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56449615",
+        "Q56459754"
+      ],
+      "type": {
+        "lang:pt-br": "município do Brasil",
+        "lang:pt": "município do Brasil",
+        "lang:en": "municipality of Brazil"
+      },
+      "name": {
+        "lang:pt": "São Bernardo do Campo"
+      },
+      "parent_id": "Q175"
+    }
+  ],
+  "memberships": [
+
+  ]
+}
