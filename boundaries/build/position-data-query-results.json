@@ -426,22 +426,22 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30461"
+        "value" : "http://www.wikidata.org/entity/Q2285706"
       },
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "presidente"
+        "value" : "Chefe de governo"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "presidente"
+        "value" : "chefe de governo"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "president"
+        "value" : "head of government"
       },
       "body" : {
         "type" : "uri",
@@ -507,22 +507,22 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2285706"
+        "value" : "http://www.wikidata.org/entity/Q30461"
       },
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Chefe de governo"
+        "value" : "presidente"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "chefe de governo"
+        "value" : "presidente"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "head of government"
+        "value" : "president"
       },
       "body" : {
         "type" : "uri",
