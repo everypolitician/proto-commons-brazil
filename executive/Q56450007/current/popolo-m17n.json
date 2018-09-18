@@ -1,9 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Alexis José Ferreira de Freitas"
+      },
+      "id": "Q56613129",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613129"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Contagem",
+        "lang:pt": "prefeitura municipal de Contagem",
+        "lang:en": "municipal prefecture of Contagem"
+      },
+      "id": "Q56450007",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450007"
+        }
+      ],
+      "area_id": "Q271333"
+    }
   ],
   "areas": [
     {
@@ -86,6 +115,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56613129-BD4179BE-3E24-474D-AB83-E7E7A761E728",
+      "person_id": "Q56613129",
+      "organization_id": "Q56450007",
+      "area_id": "Q271333",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449626",
+      "role": {
+        "lang:pt-br": "Prefeito de Contagem",
+        "lang:pt": "Prefeito de Contagem",
+        "lang:en": "Mayor of Contagem"
+      }
+    }
   ]
 }

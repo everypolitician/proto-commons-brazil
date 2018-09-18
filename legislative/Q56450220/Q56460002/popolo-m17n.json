@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de São Gonçalo",
+        "lang:pt": "câmara municipal de São Gonçalo",
+        "lang:en": "municipal chamber of São Gonçalo"
+      },
+      "id": "Q56450220",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450220"
+        }
+      ],
+      "area_id": "Q83114",
+      "seat_counts": {
+        "Q56459748": "27"
+      }
+    }
   ],
   "areas": [
     {

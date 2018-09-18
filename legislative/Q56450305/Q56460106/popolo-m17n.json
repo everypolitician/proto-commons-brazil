@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Juazeiro do Norte",
+        "lang:pt": "câmara municipal de Juazeiro do Norte",
+        "lang:en": "municipal Chamber of Juazeiro do Norte"
+      },
+      "id": "Q56450305",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450305"
+        }
+      ],
+      "area_id": "Q817227",
+      "seat_counts": {
+        "Q56459849": "21"
+      }
+    }
   ],
   "areas": [
     {

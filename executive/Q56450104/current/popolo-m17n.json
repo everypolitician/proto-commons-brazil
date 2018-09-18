@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Volta Redonda",
+        "lang:pt": "prefeitura municipal de Volta Redonda",
+        "lang:en": "municipal prefecture of Volta Redonda"
+      },
+      "id": "Q56450104",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450104"
+        }
+      ],
+      "area_id": "Q276176"
+    }
   ],
   "areas": [
     {

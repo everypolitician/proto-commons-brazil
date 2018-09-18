@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "Gabinete da Governadoraa do Estado de Roraima",
+        "lang:en": "cabinet of the governor of the state of Roraima"
+      },
+      "id": "Q53738381",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738381"
+        }
+      ],
+      "area_id": "Q42508"
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "assembleia legislativa do estado do Piauí",
+        "lang:pt": "Assembleia Legislativa do Piauí",
+        "lang:en": "legislative assembly of the state of Piaui"
+      },
+      "id": "Q16494759",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16494759"
+        }
+      ],
+      "area_id": "Q42722",
+      "seat_counts": {
+        "Q53864941": "30"
+      }
+    }
   ],
   "areas": [
     {

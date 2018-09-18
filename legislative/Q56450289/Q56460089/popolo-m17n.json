@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Praia Grande",
+        "lang:pt": "câmara municipal de Praia Grande",
+        "lang:en": "municipal chamber of Praia Grande"
+      },
+      "id": "Q56450289",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450289"
+        }
+      ],
+      "area_id": "Q851292",
+      "seat_counts": {
+        "Q56459831": "19"
+      }
+    }
   ],
   "areas": [
     {

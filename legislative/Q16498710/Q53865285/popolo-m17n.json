@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "assembleia legislativa do estado de Mato Grosso",
+        "lang:pt": "Assembleia Legislativa de Mato Grosso",
+        "lang:en": "legislative assembly of the state of Mato Grosso"
+      },
+      "id": "Q16498710",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16498710"
+        }
+      ],
+      "area_id": "Q42824",
+      "seat_counts": {
+        "Q53864940": "24"
+      }
+    }
   ],
   "areas": [
     {

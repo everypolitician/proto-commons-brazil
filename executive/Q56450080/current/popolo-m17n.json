@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de São José dos Pinhais",
+        "lang:pt": "prefeitura municipal de São José dos Pinhais",
+        "lang:en": "municipal prefecture of São José dos Pinhais"
+      },
+      "id": "Q56450080",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450080"
+        }
+      ],
+      "area_id": "Q478818"
+    }
   ],
   "areas": [
     {

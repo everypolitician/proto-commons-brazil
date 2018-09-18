@@ -1,9 +1,39 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Marcelo Belinati",
+        "lang:en": "Marcelo Belinati"
+      },
+      "id": "Q18708038",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18708038"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Londrina",
+        "lang:pt": "prefeitura municipal de Londrina",
+        "lang:en": "municipal prefecture of Londrina"
+      },
+      "id": "Q56450017",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450017"
+        }
+      ],
+      "area_id": "Q192387"
+    }
   ],
   "areas": [
     {
@@ -86,6 +116,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18708038-D53D08C8-CF0B-40F2-B35F-E6A201925435",
+      "person_id": "Q18708038",
+      "organization_id": "Q56450017",
+      "area_id": "Q192387",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449636",
+      "role": {
+        "lang:pt-br": "Prefeito de Londrina",
+        "lang:pt": "Prefeito de Londrina",
+        "lang:en": "Mayor of Londrina"
+      }
+    }
   ]
 }

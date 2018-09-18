@@ -1,9 +1,39 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "José Luiz Nanci",
+        "lang:en": "José Luiz Nanci"
+      },
+      "id": "Q27836038",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27836038"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de São Gonçalo",
+        "lang:pt": "prefeitura municipal de São Gonçalo",
+        "lang:en": "municipal prefecture of Sao Gonçalo"
+      },
+      "id": "Q56449987",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56449987"
+        }
+      ],
+      "area_id": "Q83114"
+    }
   ],
   "areas": [
     {
@@ -86,6 +116,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27836038-4D2542BB-FC02-4DF4-9D9F-B369BC2B86C6",
+      "person_id": "Q27836038",
+      "organization_id": "Q56449987",
+      "area_id": "Q83114",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449609",
+      "role": {
+        "lang:pt-br": "Prefeito de São Gonçalo",
+        "lang:pt": "Prefeito de São Gonçalo",
+        "lang:en": "Mayor of Sao Gonçalo"
+      }
+    }
   ]
 }

@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Ulisses Maia",
+        "lang:en": "Ulisses Maia"
+      },
+      "id": "Q27999254",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27999254"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Maringá",
+        "lang:pt": "prefeitura municipal de Maringá",
+        "lang:en": "municipal prefecture of Maringá"
+      },
+      "id": "Q56450043",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450043"
+        }
+      ],
+      "area_id": "Q208669"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Democrático Trabalhista",
+        "lang:pt": "Partido Democrático Trabalhista",
+        "lang:en": "Democratic Labour Party"
+      },
+      "id": "Q1414708",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1414708"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27999254-D9FB2992-EB45-4FDB-A05A-1E17E8C2BABC",
+      "person_id": "Q27999254",
+      "on_behalf_of_id": "Q1414708",
+      "organization_id": "Q56450043",
+      "area_id": "Q208669",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449660",
+      "role": {
+        "lang:pt-br": "Prefeito de Maringá",
+        "lang:pt": "Prefeito de Maringá",
+        "lang:en": "Mayor of Maringá"
+      }
+    }
   ]
 }

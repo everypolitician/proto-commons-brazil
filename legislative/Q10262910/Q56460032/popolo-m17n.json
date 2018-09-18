@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Niterói",
+        "lang:pt": "câmara municipal de Niterói",
+        "lang:en": "municipal chamber of Niteroi"
+      },
+      "id": "Q10262910",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10262910"
+        }
+      ],
+      "area_id": "Q178725",
+      "seat_counts": {
+        "Q56459777": "24"
+      }
+    }
   ],
   "areas": [
     {

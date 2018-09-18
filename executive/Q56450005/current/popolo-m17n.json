@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Ribeirao Preto",
+        "lang:pt": "prefeitura municipal de Ribeirao Preto",
+        "lang:en": "municipal prefecture of Ribeirao Preto"
+      },
+      "id": "Q56450005",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450005"
+        }
+      ],
+      "area_id": "Q188892"
+    }
   ],
   "areas": [
     {

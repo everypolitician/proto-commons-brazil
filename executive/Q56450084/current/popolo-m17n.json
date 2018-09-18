@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Limeira",
+        "lang:pt": "prefeitura municipal de Limeira",
+        "lang:en": "municipal prefecture of Limeira"
+      },
+      "id": "Q56450084",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450084"
+        }
+      ],
+      "area_id": "Q841241"
+    }
   ],
   "areas": [
     {

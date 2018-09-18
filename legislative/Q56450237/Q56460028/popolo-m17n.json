@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Londrina",
+        "lang:pt": "câmara municipal de Londrina",
+        "lang:en": "municipal chamber of Londrina"
+      },
+      "id": "Q56450237",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450237"
+        }
+      ],
+      "area_id": "Q192387",
+      "seat_counts": {
+        "Q56459773": "23"
+      }
+    }
   ],
   "areas": [
     {

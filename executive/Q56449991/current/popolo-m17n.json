@@ -1,9 +1,40 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt-br": "Marquinhos Trad",
+        "lang:pt": "Marquinhos Trad",
+        "lang:en": "Marquinhos Trad"
+      },
+      "id": "Q26692175",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26692175"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Campo Grande",
+        "lang:pt": "prefeitura municipal de Campo Grande",
+        "lang:en": "municipal prefecture of Campo Grande"
+      },
+      "id": "Q56449991",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56449991"
+        }
+      ],
+      "area_id": "Q168929"
+    }
   ],
   "areas": [
     {
@@ -86,6 +117,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26692175-BC91136F-8AAC-4B40-8AED-F423C9D2ECBC",
+      "person_id": "Q26692175",
+      "organization_id": "Q56449991",
+      "area_id": "Q168929",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449613",
+      "role": {
+        "lang:pt-br": "Prefeito de Campo Grande",
+        "lang:pt": "Prefeito de Campo Grande",
+        "lang:en": "Mayor of Campo Grande"
+      }
+    }
   ]
 }

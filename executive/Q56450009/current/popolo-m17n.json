@@ -1,9 +1,39 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Edvaldo Nogueira",
+        "lang:en": "Edvaldo Nogueira"
+      },
+      "id": "Q953472",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q953472"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Aracaju",
+        "lang:pt": "prefeitura municipal de Aracaju",
+        "lang:en": "municipal prefecture of Aracaju"
+      },
+      "id": "Q56450009",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450009"
+        }
+      ],
+      "area_id": "Q170578"
+    }
   ],
   "areas": [
     {
@@ -86,6 +116,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q953472-D084761B-E5A5-43A8-A2BB-A162C23ABCC1",
+      "person_id": "Q953472",
+      "organization_id": "Q56450009",
+      "area_id": "Q170578",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449628",
+      "role": {
+        "lang:pt-br": "Prefeito de Aracaju",
+        "lang:pt": "Prefeito de Aracaju",
+        "lang:en": "Mayor of Aracaju"
+      }
+    }
   ]
 }

@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "assembleia legislativa do estado do Tocantins",
+        "lang:pt": "Assembleia Legislativa do Tocantins",
+        "lang:en": "legislative assembly of the state of Tocantins"
+      },
+      "id": "Q9633245",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9633245"
+        }
+      ],
+      "area_id": "Q43695",
+      "seat_counts": {
+        "Q53864946": "25"
+      }
+    }
   ],
   "areas": [
     {

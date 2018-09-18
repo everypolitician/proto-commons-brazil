@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Petrópolis",
+        "lang:pt": "prefeitura municipal de Petrópolis",
+        "lang:en": "municipal prefecture of Petrópolis"
+      },
+      "id": "Q56450085",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450085"
+        }
+      ],
+      "area_id": "Q189043"
+    }
   ],
   "areas": [
     {

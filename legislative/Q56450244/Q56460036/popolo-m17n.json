@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Serra",
+        "lang:pt": "câmara municipal de Serra",
+        "lang:en": "municipal chamber of Serra"
+      },
+      "id": "Q56450244",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450244"
+        }
+      ],
+      "area_id": "Q927537",
+      "seat_counts": {
+        "Q56459780": "25"
+      }
+    }
   ],
   "areas": [
     {

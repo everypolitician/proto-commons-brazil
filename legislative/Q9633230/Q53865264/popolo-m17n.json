@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "assembleia legislativa do estado do Paraná",
+        "lang:pt": "Assembleia Legislativa do Paraná",
+        "lang:en": "Legislative Assembly of Paraná"
+      },
+      "id": "Q9633230",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9633230"
+        }
+      ],
+      "area_id": "Q15499",
+      "seat_counts": {
+        "Q53864928": "54"
+      }
+    }
   ],
   "areas": [
     {

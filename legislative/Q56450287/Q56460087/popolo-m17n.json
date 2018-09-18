@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Guarujá",
+        "lang:pt": "câmara municipal de Guarujá",
+        "lang:en": "municipal chamber of Guaruja"
+      },
+      "id": "Q56450287",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450287"
+        }
+      ],
+      "area_id": "Q271374",
+      "seat_counts": {
+        "Q56459829": "17"
+      }
+    }
   ],
   "areas": [
     {

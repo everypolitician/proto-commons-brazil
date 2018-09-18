@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "Câmara Municipal do Recife",
+        "lang:pt": "Câmara Municipal do Recife",
+        "lang:en": "Municipal Chamber of Recife"
+      },
+      "id": "Q53935043",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53935043"
+        }
+      ],
+      "area_id": "Q48344",
+      "seat_counts": {
+        "Q53935045": "39"
+      }
+    }
   ],
   "areas": [
     {

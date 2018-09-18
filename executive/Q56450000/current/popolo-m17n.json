@@ -1,9 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Paulo Serra"
+      },
+      "id": "Q56613315",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613315"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Santo André",
+        "lang:pt": "prefeitura municipal de Santo André",
+        "lang:en": "municipal prefecture of Santo André"
+      },
+      "id": "Q56450000",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450000"
+        }
+      ],
+      "area_id": "Q191652"
+    }
   ],
   "areas": [
     {
@@ -86,6 +115,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56613315-87F251DC-2224-464D-B313-F69906BF5631",
+      "person_id": "Q56613315",
+      "organization_id": "Q56450000",
+      "area_id": "Q191652",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449620",
+      "role": {
+        "lang:pt-br": "Prefeito de Santo André",
+        "lang:pt": "Prefeito de Santo André",
+        "lang:en": "Mayor of Santo André"
+      }
+    }
   ]
 }

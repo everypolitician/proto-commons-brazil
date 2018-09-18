@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "assembleia legislativa do estado do Acre",
+        "lang:pt": "Assembleia Legislativa do Acre",
+        "lang:en": "Legislative Assembly of Acre"
+      },
+      "id": "Q16142333",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16142333"
+        }
+      ],
+      "area_id": "Q40780",
+      "seat_counts": {
+        "Q53864947": "24"
+      }
+    }
   ],
   "areas": [
     {

@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Barjas Negri",
+        "lang:en": "Barjas Negri"
+      },
+      "id": "Q16496845",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16496845"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Piracicaba",
+        "lang:pt": "prefeitura municipal de Piracicaba",
+        "lang:en": "municipal prefecture of Piracicaba"
+      },
+      "id": "Q56450048",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450048"
+        }
+      ],
+      "area_id": "Q330175"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
+        "lang:pt": "Partido da Social Democracia Brasileira",
+        "lang:en": "Brazilian Social Democracy Party"
+      },
+      "id": "Q1322897",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322897"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16496845-23B405A4-806C-42F5-A41F-E8102CD081CD",
+      "person_id": "Q16496845",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q56450048",
+      "area_id": "Q330175",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449665",
+      "role": {
+        "lang:pt-br": "Prefeito de Piracicaba",
+        "lang:pt": "Prefeito de Piracicaba",
+        "lang:en": "Mayor Piracicaba"
+      }
+    }
   ]
 }

@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de São Vicente",
+        "lang:pt": "câmara municipal de São Vicente",
+        "lang:en": "municipal chamber of Sao Vicente"
+      },
+      "id": "Q10262916",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10262916"
+        }
+      ],
+      "area_id": "Q272254",
+      "seat_counts": {
+        "Q56459811": "15"
+      }
+    }
   ],
   "areas": [
     {

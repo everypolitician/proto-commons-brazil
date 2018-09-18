@@ -1,9 +1,39 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Anderson Ferreira",
+        "lang:en": "Anderson Ferreira"
+      },
+      "id": "Q16336529",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16336529"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Jaboatão dos Guararapes",
+        "lang:pt": "prefeitura municipal de Jaboatão dos Guararapes",
+        "lang:en": "municipal prefecture of Jaboatão dos Guararapes"
+      },
+      "id": "Q56450004",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450004"
+        }
+      ],
+      "area_id": "Q271393"
+    }
   ],
   "areas": [
     {
@@ -86,6 +116,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16336529-FABE5223-5B5D-4E37-82CE-822D6AA8371B",
+      "person_id": "Q16336529",
+      "organization_id": "Q56450004",
+      "area_id": "Q271393",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449623",
+      "role": {
+        "lang:pt-br": "Prefeito de Jaboatão dos Guararapes",
+        "lang:pt": "Prefeito de Jaboatão dos Guararapes",
+        "lang:en": "Mayor of Jaboatão dos Guararapes"
+      }
+    }
   ]
 }

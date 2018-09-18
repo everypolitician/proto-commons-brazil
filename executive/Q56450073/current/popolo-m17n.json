@@ -1,9 +1,39 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Paulo Piau",
+        "lang:en": "Paulo Piau"
+      },
+      "id": "Q10346743",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10346743"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Uberaba",
+        "lang:pt": "prefeitura municipal de Uberaba",
+        "lang:en": "municipal prefecture of Uberaba"
+      },
+      "id": "Q56450073",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450073"
+        }
+      ],
+      "area_id": "Q381733"
+    }
   ],
   "areas": [
     {
@@ -86,6 +116,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10346743-6A1EEFC4-0A59-4F57-8F8B-17E23DEBFC5C",
+      "person_id": "Q10346743",
+      "organization_id": "Q56450073",
+      "area_id": "Q381733",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449690",
+      "role": {
+        "lang:pt-br": "Prefeito de Uberaba",
+        "lang:pt": "Prefeito de Uberaba",
+        "lang:en": "Mayor of Uberaba"
+      }
+    }
   ]
 }

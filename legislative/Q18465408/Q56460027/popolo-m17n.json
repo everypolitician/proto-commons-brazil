@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Juiz de Fora",
+        "lang:pt": "câmara municipal de Juiz de Fora",
+        "lang:en": "municipal chamber of Juiz de Fora"
+      },
+      "id": "Q18465408",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18465408"
+        }
+      ],
+      "area_id": "Q193019",
+      "seat_counts": {
+        "Q56459772": "19"
+      }
+    }
   ],
   "areas": [
     {

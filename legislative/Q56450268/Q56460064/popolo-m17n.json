@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Rio Branco",
+        "lang:pt": "câmara municipal de Rio Branco",
+        "lang:en": "municipal chamber of Rio Branco"
+      },
+      "id": "Q56450268",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450268"
+        }
+      ],
+      "area_id": "Q171612",
+      "seat_counts": {
+        "Q56459804": "17"
+      }
+    }
   ],
   "areas": [
     {

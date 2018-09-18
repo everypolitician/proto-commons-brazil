@@ -1,9 +1,55 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt-br": "Max Filho",
+        "lang:pt": "Max Filho",
+        "lang:en": "Max Filho"
+      },
+      "id": "Q27862793",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27862793"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Vila Velha",
+        "lang:pt": "prefeitura municipal de Vila Velha",
+        "lang:en": "municipal prefecture of Vila Velha"
+      },
+      "id": "Q56450026",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450026"
+        }
+      ],
+      "area_id": "Q334197"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
+        "lang:pt": "Partido da Social Democracia Brasileira",
+        "lang:en": "Brazilian Social Democracy Party"
+      },
+      "id": "Q1322897",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322897"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +132,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27862793-F373090F-9F53-4202-81BC-99144D757BB8",
+      "person_id": "Q27862793",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q56450026",
+      "area_id": "Q334197",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449646",
+      "role": {
+        "lang:pt-br": "Prefeito de Vila Velha",
+        "lang:pt": "Prefeito de Vila Velha",
+        "lang:en": "Mayor of Vila Velha"
+      }
+    }
   ]
 }

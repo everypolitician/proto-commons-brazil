@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Foz do Iguaçu",
+        "lang:pt": "prefeitura municipal de Foz do Iguaçu",
+        "lang:en": "municipal prefecture of Foz do Iguaçu"
+      },
+      "id": "Q56450101",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450101"
+        }
+      ],
+      "area_id": "Q202316"
+    }
   ],
   "areas": [
     {

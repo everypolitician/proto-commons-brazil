@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Romero Rodrigues Veiga",
+        "lang:en": "Romero Rodrigues Veiga"
+      },
+      "id": "Q10364257",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10364257"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Campina Grande",
+        "lang:pt": "prefeitura municipal de Campina Grande",
+        "lang:en": "municipal prefecture of Campina Grande"
+      },
+      "id": "Q56450040",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450040"
+        }
+      ],
+      "area_id": "Q193016"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
+        "lang:pt": "Partido da Social Democracia Brasileira",
+        "lang:en": "Brazilian Social Democracy Party"
+      },
+      "id": "Q1322897",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322897"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10364257-05ABBDB3-8C9D-47BD-943A-81C0DFF40CB4",
+      "person_id": "Q10364257",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q56450040",
+      "area_id": "Q193016",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449658",
+      "role": {
+        "lang:pt-br": "Prefeito de Campina Grande",
+        "lang:pt": "Prefeito de Campina Grande",
+        "lang:en": "Mayor of Campina Grande"
+      }
+    }
   ]
 }

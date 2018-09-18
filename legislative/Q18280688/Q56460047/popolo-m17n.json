@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Santos",
+        "lang:pt": "câmara municipal de Santos",
+        "lang:en": "municipal chamber of Santos"
+      },
+      "id": "Q18280688",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18280688"
+        }
+      ],
+      "area_id": "Q81882",
+      "seat_counts": {
+        "Q56459791": "21"
+      }
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Blumenau",
+        "lang:pt": "câmara municipal de Blumenau",
+        "lang:en": "municipal chamber of Blumenau"
+      },
+      "id": "Q20052907",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20052907"
+        }
+      ],
+      "area_id": "Q155557",
+      "seat_counts": {
+        "Q56459817": "15"
+      }
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Gravataí",
+        "lang:pt": "câmara municipal de Gravataí",
+        "lang:en": "municipal Chamber of Gravataí"
+      },
+      "id": "Q56450302",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450302"
+        }
+      ],
+      "area_id": "Q694822",
+      "seat_counts": {
+        "Q56459846": "21"
+      }
+    }
   ],
   "areas": [
     {

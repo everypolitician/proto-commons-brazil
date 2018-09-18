@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Sumaré",
+        "lang:pt": "prefeitura municipal de Sumaré",
+        "lang:en": "municipal prefecture of Sumaré"
+      },
+      "id": "Q56450096",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450096"
+        }
+      ],
+      "area_id": "Q942135"
+    }
   ],
   "areas": [
     {

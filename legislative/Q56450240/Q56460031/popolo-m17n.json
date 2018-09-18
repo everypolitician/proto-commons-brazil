@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Ananindeua",
+        "lang:pt": "câmara municipal de Ananindeua",
+        "lang:en": "municipal chamber of Ananindeua"
+      },
+      "id": "Q56450240",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450240"
+        }
+      ],
+      "area_id": "Q485887",
+      "seat_counts": {
+        "Q56459776": "19"
+      }
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Duque de Caxias",
+        "lang:pt": "câmara municipal de Duque de Caxias",
+        "lang:en": "municipal chamber of Duque de Caxias"
+      },
+      "id": "Q56450222",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450222"
+        }
+      ],
+      "area_id": "Q193021",
+      "seat_counts": {
+        "Q56459750": "29"
+      }
+    }
   ],
   "areas": [
     {

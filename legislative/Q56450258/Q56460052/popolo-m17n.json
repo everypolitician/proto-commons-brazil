@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Campina Grande",
+        "lang:pt": "câmara municipal de Campina Grande",
+        "lang:en": "municipal chamber of Campina Grande"
+      },
+      "id": "Q56450258",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450258"
+        }
+      ],
+      "area_id": "Q193016",
+      "seat_counts": {
+        "Q56459796": "24"
+      }
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Mossoró",
+        "lang:pt": "prefeitura municipal de Mossoró",
+        "lang:en": "municipal prefecture of Mossoró"
+      },
+      "id": "Q56450088",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450088"
+        }
+      ],
+      "area_id": "Q694845"
+    }
   ],
   "areas": [
     {
