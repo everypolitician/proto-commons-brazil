@@ -23803,6 +23803,1298 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4175034"
       }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654089"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente do Centro"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendente do Centro"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent of Centro"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654088"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendência do Centro"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendência do Centro"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendency of Centro"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669297"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654258"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "escritório do superintendente do Centro"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "escritório do superintendente do Centro"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the superintendent of Centro"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654091"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente de Campo Grande"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendente de Campo Grande"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent of Campo Grande"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654090"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendência de Campo Grande"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendência de Campo Grande"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendency of Campo Grande"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669297"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654260"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Campo Grande"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Campo Grande"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the superintendent of Campo Grande"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654094"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente de Jacarepaguá"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendente de Jacarepaguá"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent of Jacarepaguá"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654092"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendência de Jacarepaguá"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendência de Jacarepaguá"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendency of Jacarepaguá"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669297"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654261"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Jacarepaguá"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Jacarepaguá"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the superintendent of Jacarepaguá"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654096"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente da Tijuca"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendente da Tijuca"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent of Tijuca"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654095"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendência da Tijuca"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendência da Tijuca"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendency of Tijuca"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669297"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654262"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "escritório do superintendente da Tijuca"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "escritório do superintendente da Tijuca"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the superintendent of Tijuca"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654098"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente da Pavuna"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendente da Pavuna"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent of Pavuna"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654097"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendência da Pavuna"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendência da Pavuna"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendency of Pavuna"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669297"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654263"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "escritório do superintendente da Pavuna"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "escritório do superintendente da Pavuna"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the superintendent of Pavuna"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654100"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente de Ramos"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendente de Ramos"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent of Ramos"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654099"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendência de Ramos"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendência de Ramos"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendency of Ramos"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669297"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654264"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Ramos"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Ramos"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the superintendent of Ramos"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654102"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente de Inhaúma"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendente de Inhaúma"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent of Inhaúma"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654101"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendência de Inhaúma"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendência de Inhaúma"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendency of Inhaúma"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669297"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654265"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Inhaúma"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Inhaúma"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the superintendent of Inhaúma"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654104"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente do Méier"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendente do Méier"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent of Méier"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654103"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendência do Méier"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendência do Méier"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendency of Méier"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669297"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654266"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "escritório do superintendente do Méier"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "escritório do superintendente do Méier"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the superintendent of Méier"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654106"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente de Guaratiba"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendente de Guaratiba"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent of Guaratiba"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654105"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendência de Guaratiba"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendência de Guaratiba"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendency of Guaratiba"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669297"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654267"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Guaratiba"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Guaratiba"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the superintendent of Guaratiba"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654108"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente da Ilha do Governador"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendente da Ilha do Governador"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent of Ilha do Governador"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654107"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendência da Ilha do Governador"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendência da Ilha do Governador"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendency of Ilha do Governador"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669297"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654268"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "escritório do superintendente da Ilha do Governador"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "escritório do superintendente da Ilha do Governador"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the superintendent of Ilha do Governador"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654110"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente da Zona Sul"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendente da Zona Sul"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent of Zona Sul"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654109"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendência da Zona Sul"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendência da Zona Sul"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendency of Zona Sul"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669297"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654269"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "escritório do superintendente da Zona Sul"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "escritório do superintendente da Zona Sul"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the superintendent of Zona Sul"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654112"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente de Santa Cruz"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendente de Santa Cruz"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent of Santa Cruz"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654111"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendência de Santa Cruz"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendência de Santa Cruz"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendency of Santa Cruz"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669297"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654270"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Santa Cruz"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Santa Cruz"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the superintendent of Santa Cruz"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654114"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente de Irajá"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendente de Irajá"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent of Irajá"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654113"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendência de Irajá"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendência de Irajá"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendency of Irajá"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669297"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654271"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Irajá"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Irajá"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the superintendent of Irajá"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654116"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente de Madureira"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendente de Madureira"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent of Madureira"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654115"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendência de Madureira"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendência de Madureira"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendency of Madureira"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669297"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654272"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Madureira"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Madureira"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the superintendent of Madureira"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654118"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente de Bangu"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendente de Bangu"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent of Bangu"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654117"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendência de Bangu"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendência de Bangu"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendency of Bangu"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669297"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654273"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Bangu"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Bangu"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the superintendent of Bangu"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654120"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente do Recreio e Vargens"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendente do Recreio e Vargens"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent of Recreio e Vargens"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654119"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendência do Recreio e Vargens"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendência do Recreio e Vargens"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendency of Recreio e Vargens"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669297"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654274"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "escritório do superintendente do Recreio e Vargens"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "escritório do superintendente do Recreio e Vargens"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the superintendent of Recreio e Vargens"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654122"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente da Barra da Tijuca"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendente da Barra da Tijuca"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent of Barra da Tijuca"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654121"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendência da Barra da Tijuca"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendência da Barra da Tijuca"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendency of Barra da Tijuca"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669297"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654275"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "escritório do superintendente da Barra da Tijuca"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "escritório do superintendente da Barra da Tijuca"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the superintendent of Barra da Tijuca"
+      }
     } ]
   }
 }

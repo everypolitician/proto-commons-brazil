@@ -1,0 +1,107 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_pt_br", "name_pt", "name_en", "party", "party_name_pt_br", "party_name_pt", "party_name_en", "district", "district_name_pt_br", "district_name_pt", "district_name_en", "role", "role_pt_br", "role_pt", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_pt_br", "role_superclass_pt", "role_superclass_en", "org", "org_pt_br", "org_pt", "org_en", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56654420-48D346B8-B0E5-40C6-96C3-C684F5DEAC58"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654420"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Leandro Marques"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Leandro Marques"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leandro Marques"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654092"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendência de Jacarepaguá"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendência de Jacarepaguá"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendency of Jacarepaguá"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654094"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente de Jacarepaguá"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "superintendente de Jacarepaguá"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent of Jacarepaguá"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669297"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "superintendente"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "superintendent"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654261"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Jacarepaguá"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "escritório do superintendente de Jacarepaguá"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the superintendent of Jacarepaguá"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654092"
+      }
+    } ]
+  }
+}

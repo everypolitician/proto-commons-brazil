@@ -1,0 +1,164 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pt-br": "Carlos Alberto Saes Bencardino",
+        "lang:pt": "Carlos Alberto Saes Bencardino",
+        "lang:en": "Carlos Alberto Saes Bencardino"
+      },
+      "id": "Q56654410",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56654410"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:pt-br": "escritório do superintendente do Méier",
+        "lang:pt": "escritório do superintendente do Méier",
+        "lang:en": "office of the superintendent of Méier"
+      },
+      "id": "Q56654266",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56654266"
+        }
+      ],
+      "area_id": "Q56654103"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q41428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:rj"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739338",
+        "Q53864925"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Rio de Janeiro"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q56654103",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:meier"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56654103"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56654104"
+      ],
+      "type": {
+        "lang:pt-br": "superintendência regionais do Rio de Janeiro",
+        "lang:pt": "superintendência regionais do Rio de Janeiro",
+        "lang:en": "regional superintendency of Rio de Janeiro"
+      },
+      "name": {
+        "lang:en": "Superintendência do Méier",
+        "lang:pt": "superintendência do Méier"
+      },
+      "parent_id": "Q8678"
+    },
+    {
+      "id": "Q8678",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:rj/mun:rio-de-janeiro"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8678"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53926032",
+        "Q53934881"
+      ],
+      "type": {
+        "lang:pt-br": "município do Brasil",
+        "lang:pt": "município do Brasil",
+        "lang:en": "municipality of Brazil"
+      },
+      "name": {
+        "lang:pt": "Rio de Janeiro"
+      },
+      "parent_id": "Q41428"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56654410-8470CF6C-ADBF-4854-9F84-1AC608EBB37E",
+      "person_id": "Q56654410",
+      "organization_id": "Q56654266",
+      "area_id": "Q56654103",
+      "role_superclass_code": "Q56669297",
+      "role_superclass": {
+        "lang:pt-br": "superintendente",
+        "lang:en": "superintendent"
+      },
+      "role_code": "Q56654104",
+      "role": {
+        "lang:pt-br": "superintendente do Méier",
+        "lang:pt": "superintendente do Méier",
+        "lang:en": "superintendent of Méier"
+      }
+    }
+  ]
+}
