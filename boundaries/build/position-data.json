@@ -1690,6 +1690,550 @@
     }
   },
   {
+    "role_id": "Q56098344",
+    "role_name": {
+      "lang:en": "Subprefect of Perus"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101002",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Perus"
+    }
+  },
+  {
+    "role_id": "Q56098345",
+    "role_name": {
+      "lang:en": "Subprefect of Pirituba"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101003",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Pirituba"
+    }
+  },
+  {
+    "role_id": "Q56098346",
+    "role_name": {
+      "lang:en": "Subprefect of Freguesia do Ó"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101004",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Freguesia do Ó"
+    }
+  },
+  {
+    "role_id": "Q56098347",
+    "role_name": {
+      "lang:en": "Subprefect of Casa Verde"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101005",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Casa Verde"
+    }
+  },
+  {
+    "role_id": "Q56098348",
+    "role_name": {
+      "lang:en": "Subprefect of Santana-Tucuruvi"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101006",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Santana-Tucuruvi"
+    }
+  },
+  {
+    "role_id": "Q56098349",
+    "role_name": {
+      "lang:en": "Subprefect of Jaçanã/Tremembé"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101007",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Jaçanã/Tremembé"
+    }
+  },
+  {
+    "role_id": "Q56098350",
+    "role_name": {
+      "lang:en": "Subprefect of Vila Maria"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101008",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Vila Maria"
+    }
+  },
+  {
+    "role_id": "Q56098351",
+    "role_name": {
+      "lang:en": "Subprefect of Lapa"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101009",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Lapa"
+    }
+  },
+  {
+    "role_id": "Q56098472",
+    "role_name": {
+      "lang:en": "Subprefect of São Miguel Paulista"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101031",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of São Miguel Paulista"
+    }
+  },
+  {
+    "role_id": "Q56098474",
+    "role_name": {
+      "lang:en": "Subprefect of Itaim Paulista/Vila Curuçá"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101032",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Itaim Paulista/Vila Curuçá"
+    }
+  },
+  {
+    "role_id": "Q56098477",
+    "role_name": {
+      "lang:en": "Subprefect of Mooca"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101033",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Mooca"
+    }
+  },
+  {
+    "role_id": "Q56098479",
+    "role_name": {
+      "lang:en": "Subprefect of Aricanduva/Formosa/Carrão"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101034",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Aricanduva/Formosa/Carrão"
+    }
+  },
+  {
+    "role_id": "Q56098566",
+    "role_name": {
+      "lang:en": "Subprefect of Sé"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101010",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Sé"
+    }
+  },
+  {
+    "role_id": "Q56098567",
+    "role_name": {
+      "lang:en": "Subprefect of Butantã"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101014",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Butantã"
+    }
+  },
+  {
+    "role_id": "Q56098569",
+    "role_name": {
+      "lang:en": "Subprefect of Pinheiros"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101015",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Pinheiros"
+    }
+  },
+  {
+    "role_id": "Q56098571",
+    "role_name": {
+      "lang:en": "Subprefect of Vila Mariana"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101016",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Vila Mariana"
+    }
+  },
+  {
+    "role_id": "Q56098572",
+    "role_name": {
+      "lang:en": "Subprefect of Ipiranga"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101017",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Ipiranga"
+    }
+  },
+  {
+    "role_id": "Q56098573",
+    "role_name": {
+      "lang:en": "Subprefect of Santo Amaro"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101018",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Santo Amaro"
+    }
+  },
+  {
+    "role_id": "Q56098574",
+    "role_name": {
+      "lang:en": "Subprefect of Jabaquara"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101019",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Jabaquara"
+    }
+  },
+  {
+    "role_id": "Q56098575",
+    "role_name": {
+      "lang:en": "Subprefect of Cidade Ademar"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101020",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Cidade Ademar"
+    }
+  },
+  {
+    "role_id": "Q56098600",
+    "role_name": {
+      "lang:en": "Subprefect of Campo Limpo"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101021",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Campo Limpo"
+    }
+  },
+  {
+    "role_id": "Q56098601",
+    "role_name": {
+      "lang:en": "Subprefect of M'Boi Mirim"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101022",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of M'Boi Mirim"
+    }
+  },
+  {
+    "role_id": "Q56098602",
+    "role_name": {
+      "lang:en": "Subprefect of Capela do Socorro"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101026",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Capela do Socorro"
+    }
+  },
+  {
+    "role_id": "Q56098603",
+    "role_name": {
+      "lang:en": "Subprefect of Parelheiros"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101027",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Parelheiros"
+    }
+  },
+  {
+    "role_id": "Q56098604",
+    "role_name": {
+      "lang:en": "Subprefect of Penha"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101028",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Penha"
+    }
+  },
+  {
+    "role_id": "Q56098606",
+    "role_name": {
+      "lang:en": "Subprefect of Ermelino Matarazzo"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101030",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Ermelino Matarazzo"
+    }
+  },
+  {
+    "role_id": "Q56098607",
+    "role_name": {
+      "lang:en": "Subprefect of Itaquera"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101035",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Itaquera"
+    }
+  },
+  {
+    "role_id": "Q56098609",
+    "role_name": {
+      "lang:en": "Subprefect of Guaianases"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101037",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Guaianases"
+    }
+  },
+  {
+    "role_id": "Q56098610",
+    "role_name": {
+      "lang:en": "Subprefect of Vila Prudente"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101038",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Vila Prudente"
+    }
+  },
+  {
+    "role_id": "Q56098612",
+    "role_name": {
+      "lang:en": "Subprefect of São Mateus"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101039",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of São Mateus"
+    }
+  },
+  {
+    "role_id": "Q56098613",
+    "role_name": {
+      "lang:en": "Subprefect of Cidade Tiradentes"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101040",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Cidade Tiradentes"
+    }
+  },
+  {
+    "role_id": "Q56098614",
+    "role_name": {
+      "lang:en": "Subprefect of Sapopemba"
+    },
+    "generic_role_id": "Q7631815",
+    "generic_role_name": {
+      "lang:pt": "subprefeito",
+      "lang:en": "subprefect"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56101041",
+    "organization_name": {
+      "lang:en": "Office of the Subprefect of Sapopemba"
+    }
+  },
+  {
     "role_id": "Q56449609",
     "role_name": {
       "lang:pt-br": "Prefeito de São Gonçalo",

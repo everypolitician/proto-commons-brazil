@@ -143,6 +143,11 @@
       "person_id": "Q56098433",
       "organization_id": "Q56101007",
       "area_id": "Q4274232",
+      "role_superclass_code": "Q7631815",
+      "role_superclass": {
+        "lang:pt": "subprefeito",
+        "lang:en": "subprefect"
+      },
       "role_code": "Q56098349",
       "role": {
         "lang:en": "Subprefect of Jaçanã/Tremembé"

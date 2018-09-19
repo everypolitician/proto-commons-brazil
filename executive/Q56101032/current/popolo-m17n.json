@@ -143,6 +143,11 @@
       "person_id": "Q56098475",
       "organization_id": "Q56101032",
       "area_id": "Q4262095",
+      "role_superclass_code": "Q7631815",
+      "role_superclass": {
+        "lang:pt": "subprefeito",
+        "lang:en": "subprefect"
+      },
       "role_code": "Q56098474",
       "role": {
         "lang:en": "Subprefect of Itaim Paulista/Vila Curuçá"

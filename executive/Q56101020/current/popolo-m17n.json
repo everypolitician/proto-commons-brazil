@@ -143,6 +143,11 @@
       "person_id": "Q56098671",
       "organization_id": "Q56101020",
       "area_id": "Q4675493",
+      "role_superclass_code": "Q7631815",
+      "role_superclass": {
+        "lang:pt": "subprefeito",
+        "lang:en": "subprefect"
+      },
       "role_code": "Q56098575",
       "role": {
         "lang:en": "Subprefect of Cidade Ademar"
