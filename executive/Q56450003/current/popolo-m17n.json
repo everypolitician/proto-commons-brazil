@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Felicio Ramuth",
+        "lang:en": "Felicio Ramuth"
+      },
+      "id": "Q55343900",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55343900"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de São José dos Campos",
+        "lang:pt": "prefeitura municipal de São José dos Campos",
+        "lang:en": "municipal Prefecture of São José dos Campos"
+      },
+      "id": "Q56450003",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450003"
+        }
+      ],
+      "area_id": "Q191642"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
+        "lang:pt": "Partido da Social Democracia Brasileira",
+        "lang:en": "Brazilian Social Democracy Party"
+      },
+      "id": "Q1322897",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322897"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55343900-2043B4F6-8EBB-47CF-9BA1-B54192231749",
+      "person_id": "Q55343900",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q56450003",
+      "area_id": "Q191642",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449622",
+      "role": {
+        "lang:pt-br": "Prefeito de São José dos Campos",
+        "lang:pt": "Prefeito de São José dos Campos",
+        "lang:en": "Mayor of São José dos Campos"
+      }
+    }
   ]
 }

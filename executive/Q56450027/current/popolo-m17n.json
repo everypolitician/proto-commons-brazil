@@ -1,9 +1,39 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Daniel Guerra",
+        "lang:en": "Daniel Guerra"
+      },
+      "id": "Q27999242",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27999242"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Caxias do Sul",
+        "lang:pt": "prefeitura municipal de Caxias do Sul",
+        "lang:en": "municipal prefecture of Caxias dos Sul"
+      },
+      "id": "Q56450027",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450027"
+        }
+      ],
+      "area_id": "Q110017"
+    }
   ],
   "areas": [
     {
@@ -86,6 +116,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27999242-1E759F47-4482-4D5B-9107-59FE94E5AB92",
+      "person_id": "Q27999242",
+      "organization_id": "Q56450027",
+      "area_id": "Q110017",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449647",
+      "role": {
+        "lang:pt-br": "Prefeito de Caxias do Sul",
+        "lang:pt": "Prefeito de Caxias do Sul",
+        "lang:en": "Mayor of Caxias do Sul"
+      }
+    }
   ]
 }

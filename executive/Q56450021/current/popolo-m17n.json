@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Rodrigo Neves",
+        "lang:en": "Rodrigo Neves"
+      },
+      "id": "Q10363915",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10363915"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Niterói",
+        "lang:pt": "prefeitura municipal de Niterói",
+        "lang:en": "municipal prefecture of Niteroi"
+      },
+      "id": "Q56450021",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450021"
+        }
+      ],
+      "area_id": "Q178725"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido dos Trabalhadores",
+        "lang:pt": "Partido dos Trabalhadores",
+        "lang:en": "Workers' Party"
+      },
+      "id": "Q657089",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q657089"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10363915-B3EAB3BA-FF11-4C85-B59B-D907251091F5",
+      "person_id": "Q10363915",
+      "on_behalf_of_id": "Q657089",
+      "organization_id": "Q56450021",
+      "area_id": "Q178725",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449640",
+      "role": {
+        "lang:pt-br": "Prefeito de Niterói",
+        "lang:pt": "Prefeito de Niterói",
+        "lang:en": "Mayor of Niteroi"
+      }
+    }
   ]
 }

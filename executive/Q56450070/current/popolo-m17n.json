@@ -1,9 +1,55 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt-br": "Teresa Surita",
+        "lang:pt": "Teresa Surita",
+        "lang:en": "Teresa Surita"
+      },
+      "id": "Q9086139",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9086139"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Boa Vista",
+        "lang:pt": "prefeitura municipal de Boa Vista",
+        "lang:en": "municipal prefecture of Boa Vista"
+      },
+      "id": "Q56450070",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450070"
+        }
+      ],
+      "area_id": "Q181056"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Democrático Social",
+        "lang:pt": "Partido Democrático Social",
+        "lang:en": "Democratic Social Party"
+      },
+      "id": "Q1713552",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1713552"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +132,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9086139-83DB82C6-2707-4117-9FC6-429FF81FAE5E",
+      "person_id": "Q9086139",
+      "on_behalf_of_id": "Q1713552",
+      "organization_id": "Q56450070",
+      "area_id": "Q181056",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449687",
+      "role": {
+        "lang:pt-br": "Prefeita de Boa Vista",
+        "lang:pt": "Prefeita de Boa Vista",
+        "lang:en": "Mayor of Boa Vista"
+      }
+    }
   ]
 }

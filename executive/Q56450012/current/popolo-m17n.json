@@ -1,9 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Colbert Martins da Silva Filho"
+      },
+      "id": "Q56613296",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613296"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Feira de Santana",
+        "lang:pt": "prefeitura municipal de Feira de Santana",
+        "lang:en": "municipal prefecture of Feira de Santana"
+      },
+      "id": "Q56450012",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450012"
+        }
+      ],
+      "area_id": "Q194343"
+    }
   ],
   "areas": [
     {
@@ -86,6 +115,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56613296-D25DD9E7-3A30-4A05-B81F-39236E5A95F3",
+      "person_id": "Q56613296",
+      "organization_id": "Q56450012",
+      "area_id": "Q194343",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449630",
+      "role": {
+        "lang:pt-br": "Prefeito de Feira de Santana",
+        "lang:pt": "Prefeito de Feira de Santana",
+        "lang:en": "Mayor of Feira de Santana"
+      }
+    }
   ]
 }

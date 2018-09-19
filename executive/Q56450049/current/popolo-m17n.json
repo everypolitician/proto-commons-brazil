@@ -1,9 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Lupércio Carlos do Nascimento"
+      },
+      "id": "Q56612981",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612981"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Olinda",
+        "lang:pt": "prefeitura municipal de Olinda",
+        "lang:en": "municipal prefecture of Olinda"
+      },
+      "id": "Q56450049",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450049"
+        }
+      ],
+      "area_id": "Q28301"
+    }
   ],
   "areas": [
     {
@@ -86,6 +115,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56612981-D67CCAD0-2970-4CC1-BFED-3B2954412E2C",
+      "person_id": "Q56612981",
+      "organization_id": "Q56450049",
+      "area_id": "Q28301",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449666",
+      "role": {
+        "lang:pt-br": "Prefeito de Olinda",
+        "lang:pt": "Prefeito de Olinda",
+        "lang:en": "Mayor of Olinda"
+      }
+    }
   ]
 }

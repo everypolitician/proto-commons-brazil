@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Gilson de Souza",
+        "lang:en": "Gilson de Souza"
+      },
+      "id": "Q30939537",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30939537"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Franca",
+        "lang:pt": "prefeitura municipal de Franca",
+        "lang:en": "municipal prefecture of Franca"
+      },
+      "id": "Q56450063",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450063"
+        }
+      ],
+      "area_id": "Q504587"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Democratas",
+        "lang:pt": "Democratas",
+        "lang:en": "Democrats"
+      },
+      "id": "Q1185830",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1185830"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30939537-1D2F28C6-5B1B-4DF0-BCB6-054FBD2E75AD",
+      "person_id": "Q30939537",
+      "on_behalf_of_id": "Q1185830",
+      "organization_id": "Q56450063",
+      "area_id": "Q504587",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449678",
+      "role": {
+        "lang:pt-br": "Prefeito de Franca",
+        "lang:pt": "Prefeito de Franca",
+        "lang:en": "Mayor of Franca"
+      }
+    }
   ]
 }

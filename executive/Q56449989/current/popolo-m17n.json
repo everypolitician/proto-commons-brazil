@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Washington Reis",
+        "lang:en": "Washington Reis"
+      },
+      "id": "Q10393239",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10393239"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Duque de Caxias",
+        "lang:pt": "prefeitura municipal de Duque de Caxias",
+        "lang:en": "municipal prefecture of Duque de Caxias"
+      },
+      "id": "Q56449989",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56449989"
+        }
+      ],
+      "area_id": "Q193021"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Movimento Democrático Brasileiro",
+        "lang:pt": "Movimento Democrático Brasileiro",
+        "lang:en": "Democratic Movement Party"
+      },
+      "id": "Q1322751",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322751"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10393239-B6C0E0EF-2682-4E83-9679-20061D845F3C",
+      "person_id": "Q10393239",
+      "on_behalf_of_id": "Q1322751",
+      "organization_id": "Q56449989",
+      "area_id": "Q193021",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449611",
+      "role": {
+        "lang:pt-br": "Prefeito de Duque de Caxias",
+        "lang:pt": "Prefeito de Duque de Caxias",
+        "lang:en": "Mayor of Duque de Caxias"
+      }
+    }
   ]
 }

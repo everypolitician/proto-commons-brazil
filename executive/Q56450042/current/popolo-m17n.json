@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Luiz Fernando Machado",
+        "lang:en": "Luiz Fernando Machado"
+      },
+      "id": "Q16337814",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16337814"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Jundiaí",
+        "lang:pt": "prefeitura municipal de Jundiaí",
+        "lang:en": "municipal prefecture of Jundiaí"
+      },
+      "id": "Q56450042",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450042"
+        }
+      ],
+      "area_id": "Q275109"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
+        "lang:pt": "Partido da Social Democracia Brasileira",
+        "lang:en": "Brazilian Social Democracy Party"
+      },
+      "id": "Q1322897",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322897"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16337814-D2C953B2-6953-4E80-80EE-AAF590D4C640",
+      "person_id": "Q16337814",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q56450042",
+      "area_id": "Q275109",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449659",
+      "role": {
+        "lang:pt-br": "Prefeito de Jundiaí",
+        "lang:pt": "Prefeito de Jundiaí",
+        "lang:en": "Mayor of Jundiaí"
+      }
+    }
   ]
 }

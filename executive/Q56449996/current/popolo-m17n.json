@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Rogério Lisboa",
+        "lang:en": "Rogério Lisboa"
+      },
+      "id": "Q10364079",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10364079"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Nova Iguaçu",
+        "lang:pt": "prefeitura municipal de Nova Iguaçu",
+        "lang:en": "municipal prefecture of Nova Iguaçu"
+      },
+      "id": "Q56449996",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56449996"
+        }
+      ],
+      "area_id": "Q188897"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Democratas",
+        "lang:pt": "Democratas",
+        "lang:en": "Democrats"
+      },
+      "id": "Q1185830",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1185830"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10364079-4B51D5C2-E190-45E8-8321-B9D79289517F",
+      "person_id": "Q10364079",
+      "on_behalf_of_id": "Q1185830",
+      "organization_id": "Q56449996",
+      "area_id": "Q188897",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449617",
+      "role": {
+        "lang:pt-br": "Prefeito de Nova Iguaçu",
+        "lang:pt": "Prefeito de Nova Iguaçu",
+        "lang:en": "Mayor of Nova Iguaçu"
+      }
+    }
   ]
 }

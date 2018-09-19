@@ -1,9 +1,39 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Luciano Rezende",
+        "lang:en": "Luciano Rezende"
+      },
+      "id": "Q10320325",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10320325"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Vitória",
+        "lang:pt": "prefeitura municipal de Vitória",
+        "lang:en": "municipal prefecture of Vitoria"
+      },
+      "id": "Q30263900",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30263900"
+        }
+      ],
+      "area_id": "Q168376"
+    }
   ],
   "areas": [
     {
@@ -86,6 +116,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10320325-3AA89038-1E00-4267-BB0E-FAC2A32A378E",
+      "person_id": "Q10320325",
+      "organization_id": "Q30263900",
+      "area_id": "Q168376",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449671",
+      "role": {
+        "lang:pt-br": "Prefeito de Vitória",
+        "lang:pt": "Prefeito de Vitória",
+        "lang:en": "Mayor of Vitoria"
+      }
+    }
   ]
 }
