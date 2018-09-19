@@ -3438,6 +3438,312 @@
       "match": "country:br/fed:sp/mun:sao-paulo/subprefecture:sapopemba",
       "column": "MS_FB"
     }
+  },
+  {
+    "directory": "rio-de-janeiro-regional-superintendencies",
+    "area_type_wikidata_item_id": "Q56652485",
+    "associations": [
+      {
+        "comment": "superintendent of centro",
+        "position_item_id": "Q56654089"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME",
+      "lang:pt": "NAME_PT"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:centro",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "rio-de-janeiro-regional-superintendencies",
+    "area_type_wikidata_item_id": "Q56652485",
+    "associations": [
+      {
+        "comment": "superintendent of campo grande",
+        "position_item_id": "Q56654091"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME",
+      "lang:pt": "NAME_PT"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:campo-grande",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "rio-de-janeiro-regional-superintendencies",
+    "area_type_wikidata_item_id": "Q56652485",
+    "associations": [
+      {
+        "comment": "superintendent of jacarepaguá",
+        "position_item_id": "Q56654094"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME",
+      "lang:pt": "NAME_PT"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:jacarepagua",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "rio-de-janeiro-regional-superintendencies",
+    "area_type_wikidata_item_id": "Q56652485",
+    "associations": [
+      {
+        "comment": "superintendent of tijuca",
+        "position_item_id": "Q56654096"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME",
+      "lang:pt": "NAME_PT"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:tijuca",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "rio-de-janeiro-regional-superintendencies",
+    "area_type_wikidata_item_id": "Q56652485",
+    "associations": [
+      {
+        "comment": "superintendent of pavuna",
+        "position_item_id": "Q56654098"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME",
+      "lang:pt": "NAME_PT"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:pavuna",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "rio-de-janeiro-regional-superintendencies",
+    "area_type_wikidata_item_id": "Q56652485",
+    "associations": [
+      {
+        "comment": "superintendent of ramos",
+        "position_item_id": "Q56654100"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME",
+      "lang:pt": "NAME_PT"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:ramos",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "rio-de-janeiro-regional-superintendencies",
+    "area_type_wikidata_item_id": "Q56652485",
+    "associations": [
+      {
+        "comment": "superintendent of inhaúma",
+        "position_item_id": "Q56654102"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME",
+      "lang:pt": "NAME_PT"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:inhauma",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "rio-de-janeiro-regional-superintendencies",
+    "area_type_wikidata_item_id": "Q56652485",
+    "associations": [
+      {
+        "comment": "superintendent of méier",
+        "position_item_id": "Q56654104"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME",
+      "lang:pt": "NAME_PT"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:meier",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "rio-de-janeiro-regional-superintendencies",
+    "area_type_wikidata_item_id": "Q56652485",
+    "associations": [
+      {
+        "comment": "superintendent of guaratiba",
+        "position_item_id": "Q56654106"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME",
+      "lang:pt": "NAME_PT"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:guaratiba",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "rio-de-janeiro-regional-superintendencies",
+    "area_type_wikidata_item_id": "Q56652485",
+    "associations": [
+      {
+        "comment": "superintendent of ilha do governador",
+        "position_item_id": "Q56654108"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME",
+      "lang:pt": "NAME_PT"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:ilha-do-governador",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "rio-de-janeiro-regional-superintendencies",
+    "area_type_wikidata_item_id": "Q56652485",
+    "associations": [
+      {
+        "comment": "superintendent of zona sul",
+        "position_item_id": "Q56654110"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME",
+      "lang:pt": "NAME_PT"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:zona-sul",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "rio-de-janeiro-regional-superintendencies",
+    "area_type_wikidata_item_id": "Q56652485",
+    "associations": [
+      {
+        "comment": "superintendent of santa cruz",
+        "position_item_id": "Q56654112"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME",
+      "lang:pt": "NAME_PT"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:santa-cruz",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "rio-de-janeiro-regional-superintendencies",
+    "area_type_wikidata_item_id": "Q56652485",
+    "associations": [
+      {
+        "comment": "superintendent of irajá",
+        "position_item_id": "Q56654114"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME",
+      "lang:pt": "NAME_PT"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:iraja",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "rio-de-janeiro-regional-superintendencies",
+    "area_type_wikidata_item_id": "Q56652485",
+    "associations": [
+      {
+        "comment": "superintendent of madureira",
+        "position_item_id": "Q56654116"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME",
+      "lang:pt": "NAME_PT"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:madureira",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "rio-de-janeiro-regional-superintendencies",
+    "area_type_wikidata_item_id": "Q56652485",
+    "associations": [
+      {
+        "comment": "superintendent of bangu",
+        "position_item_id": "Q56654118"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME",
+      "lang:pt": "NAME_PT"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:bangu",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "rio-de-janeiro-regional-superintendencies",
+    "area_type_wikidata_item_id": "Q56652485",
+    "associations": [
+      {
+        "comment": "superintendent of recreio e vargens",
+        "position_item_id": "Q56654120"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME",
+      "lang:pt": "NAME_PT"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:recreio-e-vargens",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "rio-de-janeiro-regional-superintendencies",
+    "area_type_wikidata_item_id": "Q56652485",
+    "associations": [
+      {
+        "comment": "superintendent of barra da tijuca",
+        "position_item_id": "Q56654122"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME",
+      "lang:pt": "NAME_PT"
+    },
+    "filter": {
+      "match": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:barra-da-tijuca",
+      "column": "MS_FB"
+    }
   }
 ]
 
