@@ -1,0 +1,164 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pt-br": "Marcelo Rabelo Rotenberg",
+        "lang:pt": "Marcelo Rabelo Rotenberg",
+        "lang:en": "Marcelo Rabelo Rotenberg"
+      },
+      "id": "Q56654406",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56654406"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:pt-br": "escritório do superintendente do Centro",
+        "lang:pt": "escritório do superintendente do Centro",
+        "lang:en": "office of the superintendent of Centro"
+      },
+      "id": "Q56654258",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56654258"
+        }
+      ],
+      "area_id": "Q56654088"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q41428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:rj"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739338",
+        "Q53864925"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "Federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Rio de Janeiro"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q56654088",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:centro"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56654088"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56654089"
+      ],
+      "type": {
+        "lang:pt-br": "superintendência regionais do Rio de Janeiro",
+        "lang:pt": "superintendência regionais do Rio de Janeiro",
+        "lang:en": "regional superintendency of Rio de Janeiro"
+      },
+      "name": {
+        "lang:en": "Superintendência do Centro",
+        "lang:pt": "superintendência do Centro"
+      },
+      "parent_id": "Q8678"
+    },
+    {
+      "id": "Q8678",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:rj/mun:rio-de-janeiro"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8678"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53926032",
+        "Q53934881"
+      ],
+      "type": {
+        "lang:pt-br": "município do Brasil",
+        "lang:pt": "município do Brasil",
+        "lang:en": "municipality of Brazil"
+      },
+      "name": {
+        "lang:pt": "Rio de Janeiro"
+      },
+      "parent_id": "Q41428"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56654406-A8DCD22D-182E-4FA5-8EDB-5C9AD6D51A5F",
+      "person_id": "Q56654406",
+      "organization_id": "Q56654258",
+      "area_id": "Q56654088",
+      "role_superclass_code": "Q56669297",
+      "role_superclass": {
+        "lang:pt-br": "superintendente",
+        "lang:en": "superintendent"
+      },
+      "role_code": "Q56654089",
+      "role": {
+        "lang:pt-br": "superintendente do Centro",
+        "lang:pt": "superintendente do Centro",
+        "lang:en": "superintendent of Centro"
+      }
+    }
+  ]
+}

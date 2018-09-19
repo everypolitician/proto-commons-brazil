@@ -6412,5 +6412,362 @@
       "lang:pt": "câmara municipal de Viamão",
       "lang:en": "municipal Chamber of Viamão"
     }
+  },
+  {
+    "role_id": "Q56654089",
+    "role_name": {
+      "lang:pt-br": "superintendente do Centro",
+      "lang:pt": "superintendente do Centro",
+      "lang:en": "superintendent of Centro"
+    },
+    "generic_role_id": "Q56669297",
+    "generic_role_name": {
+      "lang:pt-br": "superintendente",
+      "lang:en": "superintendent"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56654258",
+    "organization_name": {
+      "lang:pt-br": "escritório do superintendente do Centro",
+      "lang:pt": "escritório do superintendente do Centro",
+      "lang:en": "office of the superintendent of Centro"
+    }
+  },
+  {
+    "role_id": "Q56654091",
+    "role_name": {
+      "lang:pt-br": "superintendente de Campo Grande",
+      "lang:pt": "superintendente de Campo Grande",
+      "lang:en": "superintendent of Campo Grande"
+    },
+    "generic_role_id": "Q56669297",
+    "generic_role_name": {
+      "lang:pt-br": "superintendente",
+      "lang:en": "superintendent"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56654260",
+    "organization_name": {
+      "lang:pt-br": "escritório do superintendente de Campo Grande",
+      "lang:pt": "escritório do superintendente de Campo Grande",
+      "lang:en": "office of the superintendent of Campo Grande"
+    }
+  },
+  {
+    "role_id": "Q56654094",
+    "role_name": {
+      "lang:pt-br": "superintendente de Jacarepaguá",
+      "lang:pt": "superintendente de Jacarepaguá",
+      "lang:en": "superintendent of Jacarepaguá"
+    },
+    "generic_role_id": "Q56669297",
+    "generic_role_name": {
+      "lang:pt-br": "superintendente",
+      "lang:en": "superintendent"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56654261",
+    "organization_name": {
+      "lang:pt-br": "escritório do superintendente de Jacarepaguá",
+      "lang:pt": "escritório do superintendente de Jacarepaguá",
+      "lang:en": "office of the superintendent of Jacarepaguá"
+    }
+  },
+  {
+    "role_id": "Q56654096",
+    "role_name": {
+      "lang:pt-br": "superintendente da Tijuca",
+      "lang:pt": "superintendente da Tijuca",
+      "lang:en": "superintendent of Tijuca"
+    },
+    "generic_role_id": "Q56669297",
+    "generic_role_name": {
+      "lang:pt-br": "superintendente",
+      "lang:en": "superintendent"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56654262",
+    "organization_name": {
+      "lang:pt-br": "escritório do superintendente da Tijuca",
+      "lang:pt": "escritório do superintendente da Tijuca",
+      "lang:en": "office of the superintendent of Tijuca"
+    }
+  },
+  {
+    "role_id": "Q56654098",
+    "role_name": {
+      "lang:pt-br": "superintendente da Pavuna",
+      "lang:pt": "superintendente da Pavuna",
+      "lang:en": "superintendent of Pavuna"
+    },
+    "generic_role_id": "Q56669297",
+    "generic_role_name": {
+      "lang:pt-br": "superintendente",
+      "lang:en": "superintendent"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56654263",
+    "organization_name": {
+      "lang:pt-br": "escritório do superintendente da Pavuna",
+      "lang:pt": "escritório do superintendente da Pavuna",
+      "lang:en": "office of the superintendent of Pavuna"
+    }
+  },
+  {
+    "role_id": "Q56654100",
+    "role_name": {
+      "lang:pt-br": "superintendente de Ramos",
+      "lang:pt": "superintendente de Ramos",
+      "lang:en": "superintendent of Ramos"
+    },
+    "generic_role_id": "Q56669297",
+    "generic_role_name": {
+      "lang:pt-br": "superintendente",
+      "lang:en": "superintendent"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56654264",
+    "organization_name": {
+      "lang:pt-br": "escritório do superintendente de Ramos",
+      "lang:pt": "escritório do superintendente de Ramos",
+      "lang:en": "office of the superintendent of Ramos"
+    }
+  },
+  {
+    "role_id": "Q56654102",
+    "role_name": {
+      "lang:pt-br": "superintendente de Inhaúma",
+      "lang:pt": "superintendente de Inhaúma",
+      "lang:en": "superintendent of Inhaúma"
+    },
+    "generic_role_id": "Q56669297",
+    "generic_role_name": {
+      "lang:pt-br": "superintendente",
+      "lang:en": "superintendent"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56654265",
+    "organization_name": {
+      "lang:pt-br": "escritório do superintendente de Inhaúma",
+      "lang:pt": "escritório do superintendente de Inhaúma",
+      "lang:en": "office of the superintendent of Inhaúma"
+    }
+  },
+  {
+    "role_id": "Q56654104",
+    "role_name": {
+      "lang:pt-br": "superintendente do Méier",
+      "lang:pt": "superintendente do Méier",
+      "lang:en": "superintendent of Méier"
+    },
+    "generic_role_id": "Q56669297",
+    "generic_role_name": {
+      "lang:pt-br": "superintendente",
+      "lang:en": "superintendent"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56654266",
+    "organization_name": {
+      "lang:pt-br": "escritório do superintendente do Méier",
+      "lang:pt": "escritório do superintendente do Méier",
+      "lang:en": "office of the superintendent of Méier"
+    }
+  },
+  {
+    "role_id": "Q56654106",
+    "role_name": {
+      "lang:pt-br": "superintendente de Guaratiba",
+      "lang:pt": "superintendente de Guaratiba",
+      "lang:en": "superintendent of Guaratiba"
+    },
+    "generic_role_id": "Q56669297",
+    "generic_role_name": {
+      "lang:pt-br": "superintendente",
+      "lang:en": "superintendent"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56654267",
+    "organization_name": {
+      "lang:pt-br": "escritório do superintendente de Guaratiba",
+      "lang:pt": "escritório do superintendente de Guaratiba",
+      "lang:en": "office of the superintendent of Guaratiba"
+    }
+  },
+  {
+    "role_id": "Q56654108",
+    "role_name": {
+      "lang:pt-br": "superintendente da Ilha do Governador",
+      "lang:pt": "superintendente da Ilha do Governador",
+      "lang:en": "superintendent of Ilha do Governador"
+    },
+    "generic_role_id": "Q56669297",
+    "generic_role_name": {
+      "lang:pt-br": "superintendente",
+      "lang:en": "superintendent"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56654268",
+    "organization_name": {
+      "lang:pt-br": "escritório do superintendente da Ilha do Governador",
+      "lang:pt": "escritório do superintendente da Ilha do Governador",
+      "lang:en": "office of the superintendent of Ilha do Governador"
+    }
+  },
+  {
+    "role_id": "Q56654110",
+    "role_name": {
+      "lang:pt-br": "superintendente da Zona Sul",
+      "lang:pt": "superintendente da Zona Sul",
+      "lang:en": "superintendent of Zona Sul"
+    },
+    "generic_role_id": "Q56669297",
+    "generic_role_name": {
+      "lang:pt-br": "superintendente",
+      "lang:en": "superintendent"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56654269",
+    "organization_name": {
+      "lang:pt-br": "escritório do superintendente da Zona Sul",
+      "lang:pt": "escritório do superintendente da Zona Sul",
+      "lang:en": "office of the superintendent of Zona Sul"
+    }
+  },
+  {
+    "role_id": "Q56654112",
+    "role_name": {
+      "lang:pt-br": "superintendente de Santa Cruz",
+      "lang:pt": "superintendente de Santa Cruz",
+      "lang:en": "superintendent of Santa Cruz"
+    },
+    "generic_role_id": "Q56669297",
+    "generic_role_name": {
+      "lang:pt-br": "superintendente",
+      "lang:en": "superintendent"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56654270",
+    "organization_name": {
+      "lang:pt-br": "escritório do superintendente de Santa Cruz",
+      "lang:pt": "escritório do superintendente de Santa Cruz",
+      "lang:en": "office of the superintendent of Santa Cruz"
+    }
+  },
+  {
+    "role_id": "Q56654114",
+    "role_name": {
+      "lang:pt-br": "superintendente de Irajá",
+      "lang:pt": "superintendente de Irajá",
+      "lang:en": "superintendent of Irajá"
+    },
+    "generic_role_id": "Q56669297",
+    "generic_role_name": {
+      "lang:pt-br": "superintendente",
+      "lang:en": "superintendent"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56654271",
+    "organization_name": {
+      "lang:pt-br": "escritório do superintendente de Irajá",
+      "lang:pt": "escritório do superintendente de Irajá",
+      "lang:en": "office of the superintendent of Irajá"
+    }
+  },
+  {
+    "role_id": "Q56654116",
+    "role_name": {
+      "lang:pt-br": "superintendente de Madureira",
+      "lang:pt": "superintendente de Madureira",
+      "lang:en": "superintendent of Madureira"
+    },
+    "generic_role_id": "Q56669297",
+    "generic_role_name": {
+      "lang:pt-br": "superintendente",
+      "lang:en": "superintendent"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56654272",
+    "organization_name": {
+      "lang:pt-br": "escritório do superintendente de Madureira",
+      "lang:pt": "escritório do superintendente de Madureira",
+      "lang:en": "office of the superintendent of Madureira"
+    }
+  },
+  {
+    "role_id": "Q56654118",
+    "role_name": {
+      "lang:pt-br": "superintendente de Bangu",
+      "lang:pt": "superintendente de Bangu",
+      "lang:en": "superintendent of Bangu"
+    },
+    "generic_role_id": "Q56669297",
+    "generic_role_name": {
+      "lang:pt-br": "superintendente",
+      "lang:en": "superintendent"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56654273",
+    "organization_name": {
+      "lang:pt-br": "escritório do superintendente de Bangu",
+      "lang:pt": "escritório do superintendente de Bangu",
+      "lang:en": "office of the superintendent of Bangu"
+    }
+  },
+  {
+    "role_id": "Q56654120",
+    "role_name": {
+      "lang:pt-br": "superintendente do Recreio e Vargens",
+      "lang:pt": "superintendente do Recreio e Vargens",
+      "lang:en": "superintendent of Recreio e Vargens"
+    },
+    "generic_role_id": "Q56669297",
+    "generic_role_name": {
+      "lang:pt-br": "superintendente",
+      "lang:en": "superintendent"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56654274",
+    "organization_name": {
+      "lang:pt-br": "escritório do superintendente do Recreio e Vargens",
+      "lang:pt": "escritório do superintendente do Recreio e Vargens",
+      "lang:en": "office of the superintendent of Recreio e Vargens"
+    }
+  },
+  {
+    "role_id": "Q56654122",
+    "role_name": {
+      "lang:pt-br": "superintendente da Barra da Tijuca",
+      "lang:pt": "superintendente da Barra da Tijuca",
+      "lang:en": "superintendent of Barra da Tijuca"
+    },
+    "generic_role_id": "Q56669297",
+    "generic_role_name": {
+      "lang:pt-br": "superintendente",
+      "lang:en": "superintendent"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56654275",
+    "organization_name": {
+      "lang:pt-br": "escritório do superintendente da Barra da Tijuca",
+      "lang:pt": "escritório do superintendente da Barra da Tijuca",
+      "lang:en": "office of the superintendent of Barra da Tijuca"
+    }
   }
 ]
