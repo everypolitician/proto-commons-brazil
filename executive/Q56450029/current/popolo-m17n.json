@@ -1,9 +1,55 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt-br": "Clécio Luis",
+        "lang:pt": "Clécio Luis",
+        "lang:en": "Clécio Luis"
+      },
+      "id": "Q16337273",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16337273"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Macapá",
+        "lang:pt": "prefeitura municipal de Macapá",
+        "lang:en": "municipal prefecture of Macapa"
+      },
+      "id": "Q56450029",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450029"
+        }
+      ],
+      "area_id": "Q180215"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Socialismo e Liberdade",
+        "lang:pt": "Partido Socialismo e Liberdade",
+        "lang:en": "Socialism and Freedom Party"
+      },
+      "id": "Q1754827",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1754827"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +132,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16337273-BF782002-B1F0-4ACF-89D0-4BC663CDB9AB",
+      "person_id": "Q16337273",
+      "on_behalf_of_id": "Q1754827",
+      "organization_id": "Q56450029",
+      "area_id": "Q180215",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449649",
+      "role": {
+        "lang:pt-br": "Prefeito de Macapá",
+        "lang:pt": "Prefeito de Macapá",
+        "lang:en": "Mayor of Macapa"
+      }
+    }
   ]
 }

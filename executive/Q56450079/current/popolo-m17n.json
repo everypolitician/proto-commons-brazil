@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Alberto Mourão",
+        "lang:en": "Alberto Mourão"
+      },
+      "id": "Q16487034",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16487034"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Praia Grande",
+        "lang:pt": "prefeitura municipal de Praia Grande",
+        "lang:en": "municipal prefecture of Praia Grande"
+      },
+      "id": "Q56450079",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450079"
+        }
+      ],
+      "area_id": "Q851292"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
+        "lang:pt": "Partido da Social Democracia Brasileira",
+        "lang:en": "Brazilian Social Democracy Party"
+      },
+      "id": "Q1322897",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322897"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16487034-F17CC2E6-ECC5-44ED-8456-8F968BB981B0",
+      "person_id": "Q16487034",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q56450079",
+      "area_id": "Q851292",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449694",
+      "role": {
+        "lang:pt-br": "Prefeito de Praia Grande",
+        "lang:pt": "Prefeito de Praia Grande",
+        "lang:en": "Mayor of Praia Grande"
+      }
+    }
   ]
 }

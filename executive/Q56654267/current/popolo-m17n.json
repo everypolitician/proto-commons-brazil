@@ -2,14 +2,15 @@
   "persons": [
     {
       "name": {
-        "lang:pt": "José Luiz Nanci",
-        "lang:en": "José Luiz Nanci"
+        "lang:pt-br": "Lindon Jonhson Martins",
+        "lang:pt": "Lindon Jonhson Martins",
+        "lang:en": "Lindon Jonhson Martins"
       },
-      "id": "Q27836038",
+      "id": "Q56654426",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q27836038"
+          "identifier": "Q56654426"
         }
       ],
       "links": [
@@ -20,19 +21,19 @@
   "organizations": [
     {
       "name": {
-        "lang:pt-br": "prefeitura municipal de São Gonçalo",
-        "lang:pt": "prefeitura municipal de São Gonçalo",
-        "lang:en": "municipal prefecture of Sao Gonçalo"
+        "lang:pt-br": "escritório do superintendente de Guaratiba",
+        "lang:pt": "escritório do superintendente de Guaratiba",
+        "lang:en": "office of the superintendent of Guaratiba"
       },
-      "id": "Q56449987",
+      "id": "Q56654267",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q56449987"
+          "identifier": "Q56654267"
         }
       ],
-      "area_id": "Q83114"
+      "area_id": "Q56654105"
     }
   ],
   "areas": [
@@ -89,20 +90,46 @@
       "parent_id": "Q155"
     },
     {
-      "id": "Q83114",
+      "id": "Q56654105",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:br/fed:rj/mun:sao-goncalo"
+          "identifier": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:guaratiba"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q83114"
+          "identifier": "Q56654105"
         }
       ],
       "associated_wikidata_positions": [
-        "Q56449609",
-        "Q56459748"
+        "Q56654106"
+      ],
+      "type": {
+        "lang:pt-br": "superintendência regionais do Rio de Janeiro",
+        "lang:pt": "superintendência regionais do Rio de Janeiro",
+        "lang:en": "regional superintendency of Rio de Janeiro"
+      },
+      "name": {
+        "lang:en": "Superintendência de Guaratiba",
+        "lang:pt": "superintendência de Guaratiba"
+      },
+      "parent_id": "Q8678"
+    },
+    {
+      "id": "Q8678",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:rj/mun:rio-de-janeiro"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8678"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53926032",
+        "Q53934881"
       ],
       "type": {
         "lang:pt-br": "município do Brasil",
@@ -110,28 +137,22 @@
         "lang:en": "municipality of Brazil"
       },
       "name": {
-        "lang:pt": "São Gonçalo"
+        "lang:pt": "Rio de Janeiro"
       },
       "parent_id": "Q41428"
     }
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q27836038-4D2542BB-FC02-4DF4-9D9F-B369BC2B86C6",
-      "person_id": "Q27836038",
-      "organization_id": "Q56449987",
-      "area_id": "Q83114",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:pt-br": "prefeito",
-        "lang:pt": "prefeito",
-        "lang:en": "mayor"
-      },
-      "role_code": "Q56449609",
+      "id": "http://www.wikidata.org/entity/statement/Q56654426-81B6A0DB-7FFE-4944-824D-C0D4CCD0E787",
+      "person_id": "Q56654426",
+      "organization_id": "Q56654267",
+      "area_id": "Q56654105",
+      "role_code": "Q56654106",
       "role": {
-        "lang:pt-br": "Prefeito de São Gonçalo",
-        "lang:pt": "Prefeito de São Gonçalo",
-        "lang:en": "Mayor of Sao Gonçalo"
+        "lang:pt-br": "superintendente de Guaratiba",
+        "lang:pt": "superintendente de Guaratiba",
+        "lang:en": "superintendent of Guaratiba"
       }
     }
   ]

@@ -2,14 +2,15 @@
   "persons": [
     {
       "name": {
-        "lang:pt": "José Luiz Nanci",
-        "lang:en": "José Luiz Nanci"
+        "lang:pt-br": "Marcelo Maywald",
+        "lang:pt": "Marcelo Maywald",
+        "lang:en": "Marcelo Maywald"
       },
-      "id": "Q27836038",
+      "id": "Q56654407",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q27836038"
+          "identifier": "Q56654407"
         }
       ],
       "links": [
@@ -20,19 +21,19 @@
   "organizations": [
     {
       "name": {
-        "lang:pt-br": "prefeitura municipal de São Gonçalo",
-        "lang:pt": "prefeitura municipal de São Gonçalo",
-        "lang:en": "municipal prefecture of Sao Gonçalo"
+        "lang:pt-br": "escritório do superintendente da Zona Sul",
+        "lang:pt": "escritório do superintendente da Zona Sul",
+        "lang:en": "office of the superintendent of Zona Sul"
       },
-      "id": "Q56449987",
+      "id": "Q56654269",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q56449987"
+          "identifier": "Q56654269"
         }
       ],
-      "area_id": "Q83114"
+      "area_id": "Q56654109"
     }
   ],
   "areas": [
@@ -89,20 +90,46 @@
       "parent_id": "Q155"
     },
     {
-      "id": "Q83114",
+      "id": "Q56654109",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:br/fed:rj/mun:sao-goncalo"
+          "identifier": "country:br/fed:rj/mun:rio-de-janeiro/regional-superintendency:zona-sul"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q83114"
+          "identifier": "Q56654109"
         }
       ],
       "associated_wikidata_positions": [
-        "Q56449609",
-        "Q56459748"
+        "Q56654110"
+      ],
+      "type": {
+        "lang:pt-br": "superintendência regionais do Rio de Janeiro",
+        "lang:pt": "superintendência regionais do Rio de Janeiro",
+        "lang:en": "regional superintendency of Rio de Janeiro"
+      },
+      "name": {
+        "lang:en": "Superintendência da Zona Sul",
+        "lang:pt": "superintendência da Zona Sul"
+      },
+      "parent_id": "Q8678"
+    },
+    {
+      "id": "Q8678",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:rj/mun:rio-de-janeiro"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8678"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53926032",
+        "Q53934881"
       ],
       "type": {
         "lang:pt-br": "município do Brasil",
@@ -110,28 +137,22 @@
         "lang:en": "municipality of Brazil"
       },
       "name": {
-        "lang:pt": "São Gonçalo"
+        "lang:pt": "Rio de Janeiro"
       },
       "parent_id": "Q41428"
     }
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q27836038-4D2542BB-FC02-4DF4-9D9F-B369BC2B86C6",
-      "person_id": "Q27836038",
-      "organization_id": "Q56449987",
-      "area_id": "Q83114",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:pt-br": "prefeito",
-        "lang:pt": "prefeito",
-        "lang:en": "mayor"
-      },
-      "role_code": "Q56449609",
+      "id": "http://www.wikidata.org/entity/statement/Q56654407-5D351E44-13A1-4B12-9AE4-7C5269D09A1B",
+      "person_id": "Q56654407",
+      "organization_id": "Q56654269",
+      "area_id": "Q56654109",
+      "role_code": "Q56654110",
       "role": {
-        "lang:pt-br": "Prefeito de São Gonçalo",
-        "lang:pt": "Prefeito de São Gonçalo",
-        "lang:en": "Mayor of Sao Gonçalo"
+        "lang:pt-br": "superintendente da Zona Sul",
+        "lang:pt": "superintendente da Zona Sul",
+        "lang:en": "superintendent of Zona Sul"
       }
     }
   ]

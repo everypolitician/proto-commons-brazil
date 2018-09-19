@@ -1,9 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Antônio Carlos Guedes Almas"
+      },
+      "id": "Q56613255",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613255"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Juiz de Fora",
+        "lang:pt": "prefeitura municipal de Juiz de Fora",
+        "lang:en": "municipal prefecture of Juiz de Fora"
+      },
+      "id": "Q56450015",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450015"
+        }
+      ],
+      "area_id": "Q193019"
+    }
   ],
   "areas": [
     {
@@ -86,6 +115,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56613255-20B40F50-5A32-4F9B-A37A-B7C56A03CEF3",
+      "person_id": "Q56613255",
+      "organization_id": "Q56450015",
+      "area_id": "Q193019",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449635",
+      "role": {
+        "lang:pt-br": "Prefeito de Juiz de Fora",
+        "lang:pt": "Prefeito de Juiz de Fora",
+        "lang:en": "Mayor of Juiz de Fora"
+      }
+    }
   ]
 }

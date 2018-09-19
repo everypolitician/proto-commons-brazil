@@ -1,9 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Pedro Gouvêa"
+      },
+      "id": "Q56613067",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613067"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de São Vicente",
+        "lang:pt": "prefeitura municipal de São Vicente",
+        "lang:en": "municipal prefecture of Sao Vicente"
+      },
+      "id": "Q56450055",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450055"
+        }
+      ],
+      "area_id": "Q272254"
+    }
   ],
   "areas": [
     {
@@ -86,6 +115,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56613067-ABCB8A45-F3B7-4E6D-8A17-334F3AE7BD9D",
+      "person_id": "Q56613067",
+      "organization_id": "Q56450055",
+      "area_id": "Q272254",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449674",
+      "role": {
+        "lang:pt-br": "Prefeito de São Vicente",
+        "lang:pt": "Prefeito de São Vicente",
+        "lang:en": "Mayor of Sao Vicente"
+      }
+    }
   ]
 }

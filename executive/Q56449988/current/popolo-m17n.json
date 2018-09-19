@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Rui Palmeira",
+        "lang:en": "Rui Palmeira"
+      },
+      "id": "Q10365310",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10365310"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Maceió",
+        "lang:pt": "prefeitura municipal de Maceió",
+        "lang:en": "municipal prefecture of Maceio"
+      },
+      "id": "Q56449988",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56449988"
+        }
+      ],
+      "area_id": "Q168888"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
+        "lang:pt": "Partido da Social Democracia Brasileira",
+        "lang:en": "Brazilian Social Democracy Party"
+      },
+      "id": "Q1322897",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322897"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10365310-9A959D68-4AE6-4A00-A2E1-5601E3ACED62",
+      "person_id": "Q10365310",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q56449988",
+      "area_id": "Q168888",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449610",
+      "role": {
+        "lang:pt-br": "Prefeito de Maceió",
+        "lang:pt": "Prefeito de Maceió",
+        "lang:en": "Mayor of Maceio"
+      }
+    }
   ]
 }

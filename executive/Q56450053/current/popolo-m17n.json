@@ -1,9 +1,39 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Clodoaldo Gazzetta",
+        "lang:en": "Clodoaldo Gazzetta"
+      },
+      "id": "Q28145578",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28145578"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Bauru",
+        "lang:pt": "prefeitura municipal de Bauru",
+        "lang:en": "municipal prefecture of Bauru"
+      },
+      "id": "Q56450053",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450053"
+        }
+      ],
+      "area_id": "Q241645"
+    }
   ],
   "areas": [
     {
@@ -86,6 +116,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28145578-3AE8D18E-B7EC-4525-B6C0-37FC278BDE42",
+      "person_id": "Q28145578",
+      "organization_id": "Q56450053",
+      "area_id": "Q241645",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449670",
+      "role": {
+        "lang:pt-br": "Prefeito de Bauru",
+        "lang:pt": "Prefeito de Bauru",
+        "lang:en": "Mayor of Bauru"
+      }
+    }
   ]
 }

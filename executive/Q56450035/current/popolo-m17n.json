@@ -1,9 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Paulo Alexandre Barbosa"
+      },
+      "id": "Q56613669",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613669"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Santos",
+        "lang:pt": "prefeitura municipal de Santos",
+        "lang:en": "municipal prefecture of Santos"
+      },
+      "id": "Q56450035",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450035"
+        }
+      ],
+      "area_id": "Q81882"
+    }
   ],
   "areas": [
     {
@@ -86,6 +115,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56613669-16D11AA0-5FBC-453F-8D9F-62D851EF7A45",
+      "person_id": "Q56613669",
+      "organization_id": "Q56450035",
+      "area_id": "Q81882",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449653",
+      "role": {
+        "lang:pt-br": "Prefeito de Santos",
+        "lang:pt": "Prefeito de Santos",
+        "lang:en": "Mayor of Santos"
+      }
+    }
   ]
 }
