@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Jundiaí",
+        "lang:pt": "câmara municipal de Jundiaí",
+        "lang:en": "municipal chamber of Jundiaí"
+      },
+      "id": "Q56450259",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450259"
+        }
+      ],
+      "area_id": "Q275109",
+      "seat_counts": {
+        "Q56459797": "19"
+      }
+    }
   ],
   "areas": [
     {

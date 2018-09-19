@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Palmas",
+        "lang:pt": "câmara municipal de Palmas",
+        "lang:en": "municipal Chamber of Palmas"
+      },
+      "id": "Q56450299",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450299"
+        }
+      ],
+      "area_id": "Q178993",
+      "seat_counts": {
+        "Q56459841": "19"
+      }
+    }
   ],
   "areas": [
     {

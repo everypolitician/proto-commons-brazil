@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal of Governador Valadares",
+        "lang:pt": "prefeitura municipal of Governador Valadares",
+        "lang:en": "municipal prefecture of Governador Valadares"
+      },
+      "id": "Q56450091",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450091"
+        }
+      ],
+      "area_id": "Q462218"
+    }
   ],
   "areas": [
     {

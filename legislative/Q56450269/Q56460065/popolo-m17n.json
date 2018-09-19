@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Anápolis",
+        "lang:pt": "câmara municipal de Anápolis",
+        "lang:en": "municipal council of Anapolis"
+      },
+      "id": "Q56450269",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450269"
+        }
+      ],
+      "area_id": "Q223422",
+      "seat_counts": {
+        "Q56459806": "23"
+      }
+    }
   ],
   "areas": [
     {

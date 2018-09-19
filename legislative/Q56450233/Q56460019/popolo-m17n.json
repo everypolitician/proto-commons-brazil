@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Contagem",
+        "lang:pt": "câmara municipal de Contagem",
+        "lang:en": "municipal chamber of Contagem"
+      },
+      "id": "Q56450233",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450233"
+        }
+      ],
+      "area_id": "Q271333",
+      "seat_counts": {
+        "Q56459766": "21"
+      }
+    }
   ],
   "areas": [
     {

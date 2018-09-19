@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Sumaré",
+        "lang:pt": "câmara municipal de Sumaré",
+        "lang:en": "municipal Chamber of Sumaré"
+      },
+      "id": "Q56450304",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450304"
+        }
+      ],
+      "area_id": "Q942135",
+      "seat_counts": {
+        "Q56459848": "21"
+      }
+    }
   ],
   "areas": [
     {

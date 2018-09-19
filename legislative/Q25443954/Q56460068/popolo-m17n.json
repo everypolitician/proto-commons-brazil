@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Vitória",
+        "lang:pt": "câmara municipal de Vitória",
+        "lang:en": "municipal chamber of Vitoria"
+      },
+      "id": "Q25443954",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25443954"
+        }
+      ],
+      "area_id": "Q168376",
+      "seat_counts": {
+        "Q56459808": "19"
+      }
+    }
   ],
   "areas": [
     {

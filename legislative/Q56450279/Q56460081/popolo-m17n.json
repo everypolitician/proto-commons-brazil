@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Petrolina",
+        "lang:pt": "câmara municipal de Petrolina",
+        "lang:en": "municipal chamber of Petrolina"
+      },
+      "id": "Q56450279",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450279"
+        }
+      ],
+      "area_id": "Q842143",
+      "seat_counts": {
+        "Q56459822": "26"
+      }
+    }
   ],
   "areas": [
     {

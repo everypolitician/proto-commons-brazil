@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "cabinete do governador do estado do Amapá",
+        "lang:en": "cabinet of the governor of the state of Amapa"
+      },
+      "id": "Q53738380",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738380"
+        }
+      ],
+      "area_id": "Q40130"
+    }
   ],
   "areas": [
     {

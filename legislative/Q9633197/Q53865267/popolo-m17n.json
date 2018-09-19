@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "assembleia legislativa do estado de Pernambuco",
+        "lang:pt": "Assembleia Legislativa de Pernambuco",
+        "lang:en": "Legislative Assembly of Pernambuco"
+      },
+      "id": "Q9633197",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9633197"
+        }
+      ],
+      "area_id": "Q40942",
+      "seat_counts": {
+        "Q53864929": "49"
+      }
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Aracaju",
+        "lang:pt": "câmara municipal de Aracaju",
+        "lang:en": "municipal Chamber of Aracaju"
+      },
+      "id": "Q56450234",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450234"
+        }
+      ],
+      "area_id": "Q170578",
+      "seat_counts": {
+        "Q56459768": "24"
+      }
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Campos dos Goytacazes",
+        "lang:pt": "prefeitura municipal de Campos dos Goytacazes",
+        "lang:en": "municipal prefecture of Campos dos Goytacazes"
+      },
+      "id": "Q56450025",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450025"
+        }
+      ],
+      "area_id": "Q689868"
+    }
   ],
   "areas": [
     {

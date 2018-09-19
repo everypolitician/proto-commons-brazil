@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Maringá",
+        "lang:pt": "câmara municipal de Maringá",
+        "lang:en": "municipal chamber of Maringá"
+      },
+      "id": "Q56450260",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450260"
+        }
+      ],
+      "area_id": "Q208669",
+      "seat_counts": {
+        "Q56459798": "16"
+      }
+    }
   ],
   "areas": [
     {

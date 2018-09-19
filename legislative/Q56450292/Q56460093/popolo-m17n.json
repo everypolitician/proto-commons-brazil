@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Petrópolis",
+        "lang:pt": "câmara municipal de Petrópolis",
+        "lang:en": "municipal Chamber of Petrópolis"
+      },
+      "id": "Q56450292",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450292"
+        }
+      ],
+      "area_id": "Q189043",
+      "seat_counts": {
+        "Q56459836": "13"
+      }
+    }
   ],
   "areas": [
     {

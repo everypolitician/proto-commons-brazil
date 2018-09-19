@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Caucaia",
+        "lang:pt": "prefeitura municipal de Caucaia",
+        "lang:en": "municipal prefecture of Caucaia"
+      },
+      "id": "Q56450054",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450054"
+        }
+      ],
+      "area_id": "Q817233"
+    }
   ],
   "areas": [
     {

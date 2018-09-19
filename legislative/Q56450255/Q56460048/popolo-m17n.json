@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Mogi das Cruzes",
+        "lang:pt": "câmara municipal de Mogi das Cruzes",
+        "lang:en": "municipal chamber of Mogi das Cruzes"
+      },
+      "id": "Q56450255",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450255"
+        }
+      ],
+      "area_id": "Q194332",
+      "seat_counts": {
+        "Q56459793": "23"
+      }
+    }
   ],
   "areas": [
     {

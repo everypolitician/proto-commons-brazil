@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "assembleia legislativa do estado da Paraíba",
+        "lang:pt": "Assembleia Legislativa da Paraíba",
+        "lang:en": "Legislative Assembly of Paraíba"
+      },
+      "id": "Q9633173",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9633173"
+        }
+      ],
+      "area_id": "Q38088",
+      "seat_counts": {
+        "Q53864936": "36"
+      }
+    }
   ],
   "areas": [
     {

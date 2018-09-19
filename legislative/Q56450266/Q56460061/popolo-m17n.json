@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Olinda",
+        "lang:pt": "câmara municipal de Olinda",
+        "lang:en": "municipal chamber of Olinda"
+      },
+      "id": "Q56450266",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450266"
+        }
+      ],
+      "area_id": "Q28301",
+      "seat_counts": {
+        "Q56459802": "17"
+      }
+    }
   ],
   "areas": [
     {

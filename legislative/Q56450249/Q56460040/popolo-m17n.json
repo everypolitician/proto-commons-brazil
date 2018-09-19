@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Caxias do Sul",
+        "lang:pt": "câmara municipal de Caxias do Sul",
+        "lang:en": "municipal chamber of Caxias do Sul"
+      },
+      "id": "Q56450249",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450249"
+        }
+      ],
+      "area_id": "Q110017",
+      "seat_counts": {
+        "Q56459784": "23"
+      }
+    }
   ],
   "areas": [
     {

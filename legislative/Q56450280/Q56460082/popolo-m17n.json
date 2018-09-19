@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Boa Vista",
+        "lang:pt": "câmara municipal de Boa Vista",
+        "lang:en": "municipal chamber of Boa Vista"
+      },
+      "id": "Q56450280",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450280"
+        }
+      ],
+      "area_id": "Q181056",
+      "seat_counts": {
+        "Q56459823": "23"
+      }
+    }
   ],
   "areas": [
     {

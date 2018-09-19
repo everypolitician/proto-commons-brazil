@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "Câmara Municipal de Guarulhos",
+        "lang:en": "Municipal Chamber of Guarulhos"
+      },
+      "id": "Q53934976",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53934976"
+        }
+      ],
+      "area_id": "Q184409",
+      "seat_counts": {
+        "Q53935633": "37"
+      }
+    }
   ],
   "areas": [
     {

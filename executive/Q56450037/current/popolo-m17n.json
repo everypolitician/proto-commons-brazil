@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Betim",
+        "lang:pt": "prefeitura municipal de Betim",
+        "lang:en": "municipal prefecture of Betim"
+      },
+      "id": "Q56450037",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450037"
+        }
+      ],
+      "area_id": "Q737644"
+    }
   ],
   "areas": [
     {

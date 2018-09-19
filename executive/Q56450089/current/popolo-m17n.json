@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Suzano",
+        "lang:pt": "prefeitura municipal de Suzano",
+        "lang:en": "municipal prefecture of Suzano"
+      },
+      "id": "Q56450089",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450089"
+        }
+      ],
+      "area_id": "Q737670"
+    }
   ],
   "areas": [
     {

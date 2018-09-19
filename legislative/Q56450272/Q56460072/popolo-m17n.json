@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Itaquaquecetuba",
+        "lang:pt": "câmara municipal de Itaquaquecetuba",
+        "lang:en": "municipal chamber of Itaquaquecetuba"
+      },
+      "id": "Q56450272",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450272"
+        }
+      ],
+      "area_id": "Q330202",
+      "seat_counts": {
+        "Q56459812": "19"
+      }
+    }
   ],
   "areas": [
     {

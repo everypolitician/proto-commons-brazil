@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "Câmara Municipal de Porto Alegre",
+        "lang:en": "Municipal Chamber of Porto Alegre"
+      },
+      "id": "Q53935048",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53935048"
+        }
+      ],
+      "area_id": "Q40269",
+      "seat_counts": {
+        "Q53935050": "36"
+      }
+    }
   ],
   "areas": [
     {

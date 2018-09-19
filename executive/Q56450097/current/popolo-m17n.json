@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Juazeiro do Norte",
+        "lang:pt": "prefeitura municipal de Juazeiro do Norte",
+        "lang:en": "municipal prefectura of Juazeiro do Norte"
+      },
+      "id": "Q56450097",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450097"
+        }
+      ],
+      "area_id": "Q817227"
+    }
   ],
   "areas": [
     {

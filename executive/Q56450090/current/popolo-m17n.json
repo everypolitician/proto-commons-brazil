@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Palmas",
+        "lang:pt": "prefeitura municipal de Palmas",
+        "lang:en": "municipal prefecture of Palmas"
+      },
+      "id": "Q56450090",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450090"
+        }
+      ],
+      "area_id": "Q178993"
+    }
   ],
   "areas": [
     {

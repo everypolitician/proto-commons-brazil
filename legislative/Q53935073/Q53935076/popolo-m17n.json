@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "Câmara Municipal de Goiânia",
+        "lang:pt": "Câmara Municipal de Goiânia",
+        "lang:en": "Municipal Chamber of Goiânia"
+      },
+      "id": "Q53935073",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53935073"
+        }
+      ],
+      "area_id": "Q83189",
+      "seat_counts": {
+        "Q53935075": "38"
+      }
+    }
   ],
   "areas": [
     {

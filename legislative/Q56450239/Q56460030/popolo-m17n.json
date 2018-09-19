@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Porto Velho",
+        "lang:pt": "câmara municipal de Porto Velho",
+        "lang:en": "municipal council of Porto Velho"
+      },
+      "id": "Q56450239",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450239"
+        }
+      ],
+      "area_id": "Q172512",
+      "seat_counts": {
+        "Q56459775": "21"
+      }
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Uberlândia",
+        "lang:pt": "câmara municipal de Uberlândia",
+        "lang:en": "municipal chamber of Uberlandia"
+      },
+      "id": "Q56450232",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450232"
+        }
+      ],
+      "area_id": "Q194328",
+      "seat_counts": {
+        "Q56459764": "27"
+      }
+    }
   ],
   "areas": [
     {

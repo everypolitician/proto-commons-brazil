@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Belford Roxo",
+        "lang:pt": "prefeitura municipal de Belford Roxo",
+        "lang:en": "municipal prefecture of Belford Roxo"
+      },
+      "id": "Q56450023",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450023"
+        }
+      ],
+      "area_id": "Q737636"
+    }
   ],
   "areas": [
     {

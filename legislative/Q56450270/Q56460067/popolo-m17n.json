@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Bauru",
+        "lang:pt": "câmara municipal de Bauru",
+        "lang:en": "municipal chamber of Bauru"
+      },
+      "id": "Q56450270",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450270"
+        }
+      ],
+      "area_id": "Q241645",
+      "seat_counts": {
+        "Q56459807": "17"
+      }
+    }
   ],
   "areas": [
     {

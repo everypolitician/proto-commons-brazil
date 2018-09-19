@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Ribeirão Preto",
+        "lang:pt": "câmara municipal de Ribeirão Preto",
+        "lang:en": "municipal chamber of Ribeirão Preto"
+      },
+      "id": "Q56349614",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56349614"
+        }
+      ],
+      "area_id": "Q188892",
+      "seat_counts": {
+        "Q56459763": "27"
+      }
+    }
   ],
   "areas": [
     {

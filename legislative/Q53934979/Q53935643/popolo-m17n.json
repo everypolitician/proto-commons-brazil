@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "Câmara Municipal de São Luís",
+        "lang:en": "Municipal Chamber of São Luís"
+      },
+      "id": "Q53934979",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53934979"
+        }
+      ],
+      "area_id": "Q28441",
+      "seat_counts": {
+        "Q53935641": "31"
+      }
+    }
   ],
   "areas": [
     {

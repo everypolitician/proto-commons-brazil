@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Mossoró",
+        "lang:pt": "câmara municipal de Mossoró",
+        "lang:en": "municipal Chamber of Mossoró"
+      },
+      "id": "Q56450296",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450296"
+        }
+      ],
+      "area_id": "Q694845",
+      "seat_counts": {
+        "Q56459839": "21"
+      }
+    }
   ],
   "areas": [
     {

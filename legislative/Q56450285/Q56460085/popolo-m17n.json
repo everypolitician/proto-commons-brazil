@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Uberaba",
+        "lang:pt": "câmara municipal de Uberaba",
+        "lang:en": "municipal chamber of Uberaba"
+      },
+      "id": "Q56450285",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450285"
+        }
+      ],
+      "area_id": "Q381733",
+      "seat_counts": {
+        "Q56459827": null
+      }
+    }
   ],
   "areas": [
     {

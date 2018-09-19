@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Campos dos Goytacazes",
+        "lang:pt": "câmara municipal de Campos dos Goytacazes",
+        "lang:en": "municipal chamber of Campos dos Goytacazes"
+      },
+      "id": "Q56450246",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450246"
+        }
+      ],
+      "area_id": "Q689868",
+      "seat_counts": {
+        "Q56459782": "26"
+      }
+    }
   ],
   "areas": [
     {

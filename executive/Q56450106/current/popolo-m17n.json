@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Imperatriz",
+        "lang:pt": "prefeitura municipal de Imperatriz",
+        "lang:en": "municipal prefecture of Imperatriz"
+      },
+      "id": "Q56450106",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450106"
+        }
+      ],
+      "area_id": "Q504755"
+    }
   ],
   "areas": [
     {

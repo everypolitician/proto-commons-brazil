@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "Câmara Municipal do Belém",
+        "lang:en": "Municipal Chamber of Belém"
+      },
+      "id": "Q53934974",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53934974"
+        }
+      ],
+      "area_id": "Q47593",
+      "seat_counts": {
+        "Q53935627": "35"
+      }
+    }
   ],
   "areas": [
     {

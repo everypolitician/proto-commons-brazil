@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Foz do Iguaçu",
+        "lang:pt": "câmara municipal de Foz do Iguaçu",
+        "lang:en": "municipal Chamber of Foz do Iguaçu"
+      },
+      "id": "Q56450309",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450309"
+        }
+      ],
+      "area_id": "Q202316",
+      "seat_counts": {
+        "Q56459854": "15"
+      }
+    }
   ],
   "areas": [
     {

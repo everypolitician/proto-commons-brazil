@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "assembleia legislativa do estado de Santa Catarina",
+        "lang:pt": "Assembleia Legislativa de Santa Catarina",
+        "lang:en": "Legislative Assembly of Santa Catarina"
+      },
+      "id": "Q9633207",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9633207"
+        }
+      ],
+      "area_id": "Q41115",
+      "seat_counts": {
+        "Q53864932": "40"
+      }
+    }
   ],
   "areas": [
     {

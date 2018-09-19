@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Várzea Grande",
+        "lang:pt": "câmara municipal de Várzea Grande",
+        "lang:en": "municipal Chamber of Várzea Grande"
+      },
+      "id": "Q56450303",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450303"
+        }
+      ],
+      "area_id": "Q983884",
+      "seat_counts": {
+        "Q56459847": "21"
+      }
+    }
   ],
   "areas": [
     {

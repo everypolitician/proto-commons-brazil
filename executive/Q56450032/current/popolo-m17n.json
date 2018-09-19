@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Mauá",
+        "lang:pt": "prefeitura municipal de Mauá",
+        "lang:en": "municipal prefecture of Mauá"
+      },
+      "id": "Q56450032",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450032"
+        }
+      ],
+      "area_id": "Q331300"
+    }
   ],
   "areas": [
     {

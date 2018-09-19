@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Mauá",
+        "lang:pt": "câmara municipal de Mauá",
+        "lang:en": "municipal chamber of Mauá"
+      },
+      "id": "Q56450253",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450253"
+        }
+      ],
+      "area_id": "Q331300",
+      "seat_counts": {
+        "Q56459788": "23"
+      }
+    }
   ],
   "areas": [
     {

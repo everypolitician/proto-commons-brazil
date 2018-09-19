@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de São José dos Pinhais",
+        "lang:pt": "câmara municipal de São José dos Pinhais",
+        "lang:en": "municipal chamber of São José dos Pinhais"
+      },
+      "id": "Q56450290",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450290"
+        }
+      ],
+      "area_id": "Q478818",
+      "seat_counts": {
+        "Q56459834": "21"
+      }
+    }
   ],
   "areas": [
     {
