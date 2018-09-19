@@ -1,9 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Luiz Carlos Busato"
+      },
+      "id": "Q56613475",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613475"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Canoas",
+        "lang:pt": "prefeitura municipal de Canoas",
+        "lang:en": "municipal prefecture of Canoas"
+      },
+      "id": "Q56450066",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450066"
+        }
+      ],
+      "area_id": "Q194325"
+    }
   ],
   "areas": [
     {
@@ -86,6 +115,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56613475-FB167202-D994-446B-BFD2-C065ED6866EF",
+      "person_id": "Q56613475",
+      "organization_id": "Q56450066",
+      "area_id": "Q194325",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449682",
+      "role": {
+        "lang:pt-br": "Prefeito de Canoas",
+        "lang:pt": "Prefeito de Canoas",
+        "lang:en": "Mayor of Canoas"
+      }
+    }
   ]
 }

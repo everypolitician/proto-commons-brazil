@@ -1,9 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Roberto Naves e Siqueira"
+      },
+      "id": "Q56613080",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613080"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Anápolis",
+        "lang:pt": "prefeitura municipal de Anápolis",
+        "lang:en": "municipal prefecture de Anapolis"
+      },
+      "id": "Q56450052",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450052"
+        }
+      ],
+      "area_id": "Q223422"
+    }
   ],
   "areas": [
     {
@@ -86,6 +115,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56613080-AE023CC3-524B-469B-87BB-AF9525C4421C",
+      "person_id": "Q56613080",
+      "organization_id": "Q56450052",
+      "area_id": "Q223422",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449669",
+      "role": {
+        "lang:pt-br": "Prefeito de Anápolis",
+        "lang:pt": "Prefeito de Anápolis",
+        "lang:en": "Mayor of Anapolis"
+      }
+    }
   ]
 }

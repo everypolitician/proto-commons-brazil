@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Gean Loureiro",
+        "lang:en": "Gean Loureiro"
+      },
+      "id": "Q19607464",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19607464"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Florianópolis",
+        "lang:pt": "prefeitura municipal de Florianópolis",
+        "lang:en": "municipal prefecture of Florianopolis"
+      },
+      "id": "Q56450028",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450028"
+        }
+      ],
+      "area_id": "Q132997"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Movimento Democrático Brasileiro",
+        "lang:pt": "Movimento Democrático Brasileiro",
+        "lang:en": "Democratic Movement Party"
+      },
+      "id": "Q1322751",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322751"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19607464-082834C3-DC07-4E5C-9209-331E23CAA19B",
+      "person_id": "Q19607464",
+      "on_behalf_of_id": "Q1322751",
+      "organization_id": "Q56450028",
+      "area_id": "Q132997",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449648",
+      "role": {
+        "lang:pt-br": "Prefeito de Florianópolis",
+        "lang:pt": "Prefeito de Florianópolis",
+        "lang:en": "Mayor of Florianópolis"
+      }
+    }
   ]
 }

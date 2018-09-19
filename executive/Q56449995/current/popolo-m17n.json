@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Luciano Cartaxo",
+        "lang:en": "Luciano Cartaxo"
+      },
+      "id": "Q10320291",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10320291"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de João Pessoa",
+        "lang:pt": "prefeitura municipal de João Pessoa",
+        "lang:en": "municipal prefecture of Joao Pessoa"
+      },
+      "id": "Q56449995",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56449995"
+        }
+      ],
+      "area_id": "Q167436"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido dos Trabalhadores",
+        "lang:pt": "Partido dos Trabalhadores",
+        "lang:en": "Workers' Party"
+      },
+      "id": "Q657089",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q657089"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10320291-7E30EE3E-3207-4C55-AC8B-D4AA6214B530",
+      "person_id": "Q10320291",
+      "on_behalf_of_id": "Q657089",
+      "organization_id": "Q56449995",
+      "area_id": "Q167436",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449616",
+      "role": {
+        "lang:pt-br": "Prefeito de João Pessoa",
+        "lang:pt": "Prefeito de João Pessoa",
+        "lang:en": "Mayor of Joao Pessoa"
+      }
+    }
   ]
 }

@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Mário Hildebrandt",
+        "lang:en": "Mário Hildebrandt"
+      },
+      "id": "Q18708058",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18708058"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Blumenau",
+        "lang:pt": "prefeitura municipal de Blumenau",
+        "lang:en": "municipal prefecture of Blumenau"
+      },
+      "id": "Q56450064",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450064"
+        }
+      ],
+      "area_id": "Q155557"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Socialista Brasileiro",
+        "lang:pt": "Partido Socialista Brasileiro",
+        "lang:en": "Brazilian Socialist Party"
+      },
+      "id": "Q2054789",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2054789"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18708058-02319382-4BF9-4BD8-93CD-B1A8DDBFA175",
+      "person_id": "Q18708058",
+      "on_behalf_of_id": "Q2054789",
+      "organization_id": "Q56450064",
+      "area_id": "Q155557",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449680",
+      "role": {
+        "lang:pt-br": "Prefeito de Blumenau",
+        "lang:pt": "Prefeito de Blumenau",
+        "lang:en": "Mayor of Blumenau"
+      }
+    }
   ]
 }

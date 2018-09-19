@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Paula Mascarenhas",
+        "lang:en": "Paula Mascarenhas"
+      },
+      "id": "Q27862791",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27862791"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Pelotas",
+        "lang:pt": "prefeitura municipal de Pelotas",
+        "lang:en": "municipal prefecture of Pelotas"
+      },
+      "id": "Q56450065",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450065"
+        }
+      ],
+      "area_id": "Q109188"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
+        "lang:pt": "Partido da Social Democracia Brasileira",
+        "lang:en": "Brazilian Social Democracy Party"
+      },
+      "id": "Q1322897",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322897"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27862791-1D282746-93BA-4E99-82BE-26775F648A2C",
+      "person_id": "Q27862791",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q56450065",
+      "area_id": "Q109188",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449681",
+      "role": {
+        "lang:pt-br": "Prefeita de Pelotas",
+        "lang:pt": "Prefeita de Pelotas",
+        "lang:en": "Mayor of Pelotas"
+      }
+    }
   ]
 }

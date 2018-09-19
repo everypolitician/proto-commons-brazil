@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Socorro Neri",
+        "lang:en": "Socorro Neri"
+      },
+      "id": "Q51882573",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51882573"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Rio Branco",
+        "lang:pt": "prefeitura municipal de Rio Branco",
+        "lang:en": "municipal prefecture of Rio Branco"
+      },
+      "id": "Q56450051",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450051"
+        }
+      ],
+      "area_id": "Q171612"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Socialista Brasileiro",
+        "lang:pt": "Partido Socialista Brasileiro",
+        "lang:en": "Brazilian Socialist Party"
+      },
+      "id": "Q2054789",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2054789"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51882573-A2FC8C46-8C42-4842-908C-708F271C6218",
+      "person_id": "Q51882573",
+      "on_behalf_of_id": "Q2054789",
+      "organization_id": "Q56450051",
+      "area_id": "Q171612",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449668",
+      "role": {
+        "lang:pt-br": "Prefeita de Rio Branco",
+        "lang:pt": "Prefeita de Rio Branco",
+        "lang:en": "Mayor of Rio Branco"
+      }
+    }
   ]
 }

@@ -1,9 +1,53 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Zenaldo Coutinho",
+        "lang:en": "Zenaldo Coutinho"
+      },
+      "id": "Q10395008",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10395008"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Belém",
+        "lang:en": "municipal prefecture of Belém"
+      },
+      "id": "Q53930915",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53930915"
+        }
+      ],
+      "area_id": "Q47593"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Democrático Social",
+        "lang:pt": "Partido Democrático Social",
+        "lang:en": "Democratic Social Party"
+      },
+      "id": "Q1713552",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1713552"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +130,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10395008-5DC97A88-035D-401F-89C3-B22E14044105",
+      "person_id": "Q10395008",
+      "on_behalf_of_id": "Q1713552",
+      "organization_id": "Q53930915",
+      "area_id": "Q47593",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q53926047",
+      "role": {
+        "lang:pt-br": "Prefeito de Belém",
+        "lang:en": "Mayor of Belém"
+      }
+    }
   ]
 }

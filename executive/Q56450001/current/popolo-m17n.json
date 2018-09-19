@@ -1,9 +1,39 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Rogério Lins",
+        "lang:en": "Rogério Lins"
+      },
+      "id": "Q29415821",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29415821"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Osasco",
+        "lang:pt": "prefeitura municipal de Osasco",
+        "lang:en": "municipal prefecture of Osasco"
+      },
+      "id": "Q56450001",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450001"
+        }
+      ],
+      "area_id": "Q4035"
+    }
   ],
   "areas": [
     {
@@ -86,6 +116,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29415821-CEA19C77-CE58-4833-86AB-7C66F5F1FB07",
+      "person_id": "Q29415821",
+      "organization_id": "Q56450001",
+      "area_id": "Q4035",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449621",
+      "role": {
+        "lang:pt-br": "Prefeito de Osasco",
+        "lang:pt": "Prefeito de Osasco",
+        "lang:en": "Mayor of Osasco"
+      }
+    }
   ]
 }

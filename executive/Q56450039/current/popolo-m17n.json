@@ -1,9 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Lauro Michels Sobrinho"
+      },
+      "id": "Q56613356",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613356"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Diadema",
+        "lang:pt": "prefeitura municipal de Diadema",
+        "lang:en": "municipal prefecture of Diadema"
+      },
+      "id": "Q56450039",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450039"
+        }
+      ],
+      "area_id": "Q651891"
+    }
   ],
   "areas": [
     {
@@ -86,6 +115,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56613356-0E0C8F84-EA6F-48C7-BBC6-2CD6905C94F3",
+      "person_id": "Q56613356",
+      "organization_id": "Q56450039",
+      "area_id": "Q651891",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449656",
+      "role": {
+        "lang:pt-br": "Prefeito de Diadema",
+        "lang:pt": "Prefeito de Diadema",
+        "lang:en": "Mayor of Diadema"
+      }
+    }
   ]
 }

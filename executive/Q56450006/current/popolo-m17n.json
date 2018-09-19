@@ -1,9 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Odelmo Leão Carneiro Sobrinho"
+      },
+      "id": "Q56613093",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613093"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Uberlândia",
+        "lang:pt": "prefeitura municipal de Uberlândia",
+        "lang:en": "municipal prefecture of Uberlandia"
+      },
+      "id": "Q56450006",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450006"
+        }
+      ],
+      "area_id": "Q194328"
+    }
   ],
   "areas": [
     {
@@ -86,6 +115,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56613093-2A8D48EB-6976-4CF1-B933-731414407A39",
+      "person_id": "Q56613093",
+      "organization_id": "Q56450006",
+      "area_id": "Q194328",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449625",
+      "role": {
+        "lang:pt-br": "Prefeito de Uberlândia",
+        "lang:pt": "Prefeito de Uberlândia",
+        "lang:en": "Mayor of Uberlandia"
+      }
+    }
   ]
 }

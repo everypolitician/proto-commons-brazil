@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "José Caldini Crespo",
+        "lang:en": "José Caldini Crespo"
+      },
+      "id": "Q10309058",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10309058"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Sorocaba",
+        "lang:pt": "prefeitura municipal de Sorocaba",
+        "lang:en": "municipal prefecture of Sorocaba"
+      },
+      "id": "Q56450008",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450008"
+        }
+      ],
+      "area_id": "Q188901"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Democratas",
+        "lang:pt": "Democratas",
+        "lang:en": "Democrats"
+      },
+      "id": "Q1185830",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1185830"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -86,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10309058-66E27A98-0220-40D3-8078-9B21F01C1AC3",
+      "person_id": "Q10309058",
+      "on_behalf_of_id": "Q1185830",
+      "organization_id": "Q56450008",
+      "area_id": "Q188901",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449627",
+      "role": {
+        "lang:pt-br": "Prefeito de Sorocaba",
+        "lang:pt": "Prefeito de Sorocaba",
+        "lang:en": "Mayor of Sorocaba"
+      }
+    }
   ]
 }
