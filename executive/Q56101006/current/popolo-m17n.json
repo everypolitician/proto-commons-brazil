@@ -143,6 +143,11 @@
       "person_id": "Q56098432",
       "organization_id": "Q56101006",
       "area_id": "Q986015",
+      "role_superclass_code": "Q7631815",
+      "role_superclass": {
+        "lang:pt": "subprefeito",
+        "lang:en": "subprefect"
+      },
       "role_code": "Q56098348",
       "role": {
         "lang:en": "Subprefect of Santana-Tucuruvi"

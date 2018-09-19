@@ -143,6 +143,11 @@
       "person_id": "Q56098431",
       "organization_id": "Q56101005",
       "area_id": "Q6372512",
+      "role_superclass_code": "Q7631815",
+      "role_superclass": {
+        "lang:pt": "subprefeito",
+        "lang:en": "subprefect"
+      },
       "role_code": "Q56098347",
       "role": {
         "lang:en": "Subprefect of Casa Verde"

@@ -143,6 +143,11 @@
       "person_id": "Q56098664",
       "organization_id": "Q56101014",
       "area_id": "Q4352005",
+      "role_superclass_code": "Q7631815",
+      "role_superclass": {
+        "lang:pt": "subprefeito",
+        "lang:en": "subprefect"
+      },
       "role_code": "Q56098567",
       "role": {
         "lang:en": "Subprefect of Butantã"

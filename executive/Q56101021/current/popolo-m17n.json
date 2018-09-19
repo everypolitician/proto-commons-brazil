@@ -143,6 +143,11 @@
       "person_id": "Q56098672",
       "organization_id": "Q56101021",
       "area_id": "Q4502363",
+      "role_superclass_code": "Q7631815",
+      "role_superclass": {
+        "lang:pt": "subprefeito",
+        "lang:en": "subprefect"
+      },
       "role_code": "Q56098600",
       "role": {
         "lang:en": "Subprefect of Campo Limpo"

@@ -50,6 +50,20 @@
         "type" : "literal",
         "value" : "Subprefect of Capela do Socorro"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7631815"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "subprefeito"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "subprefect"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56101026"
