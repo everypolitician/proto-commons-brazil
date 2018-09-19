@@ -88,11 +88,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -106,6 +101,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Aristides César Spínola Zama‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -192,11 +192,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657915"
@@ -205,6 +200,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio Grande do Sul"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -291,11 +291,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -304,6 +299,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Bahia"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -390,11 +390,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657905"
@@ -403,6 +398,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "São Paulo"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -489,11 +489,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657993"
@@ -502,6 +497,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Sergipe"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -588,11 +588,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657915"
@@ -601,6 +596,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio Grande do Sul"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -687,11 +687,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657926"
@@ -700,6 +695,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Paraná"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -786,11 +786,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657981"
@@ -799,6 +794,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Piauí"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -885,11 +885,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657987"
@@ -898,6 +893,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Federal District"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       },
       "district_name_pt" : {
         "xml:lang" : "pt",
@@ -989,11 +989,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657905"
@@ -1002,6 +997,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "São Paulo"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1088,11 +1088,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -1101,6 +1096,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Bahia"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1187,11 +1187,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -1200,6 +1195,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Bahia"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1286,11 +1286,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657911"
@@ -1299,6 +1294,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio de Janeiro"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1385,11 +1385,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -1398,6 +1393,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Bahia"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1484,11 +1484,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657970"
@@ -1497,6 +1492,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Alagoas"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1583,11 +1583,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657970"
@@ -1596,6 +1591,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Alagoas"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1682,11 +1682,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657915"
@@ -1695,6 +1690,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio Grande do Sul"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1781,15 +1781,15 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1991-01-01T00:00:00Z"
-      },
       "name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Jair Bolsonaro"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1991-01-01T00:00:00Z"
       },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1885,11 +1885,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -1898,6 +1893,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Bahia"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1984,11 +1984,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657915"
@@ -1997,6 +1992,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio Grande do Sul"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -2083,11 +2083,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657911"
@@ -2096,6 +2091,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio de Janeiro"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -2182,11 +2182,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657905"
@@ -2195,6 +2190,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "São Paulo"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -2281,11 +2281,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657981"
@@ -2294,6 +2289,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Piauí"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -2380,11 +2380,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657928"
@@ -2393,6 +2388,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pernambuco"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -2479,11 +2479,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657949"
@@ -2492,6 +2487,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Goiás"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -2578,11 +2578,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657905"
@@ -2591,6 +2586,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "São Paulo"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -2677,11 +2677,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657931"
@@ -2690,6 +2685,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Ceará"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -2776,11 +2776,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657942"
@@ -2789,6 +2784,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Santa Catarina"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -2875,11 +2875,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657911"
@@ -2888,6 +2883,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio de Janeiro"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -2974,11 +2974,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -2987,6 +2982,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Minas Gerais"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -3073,11 +3073,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657949"
@@ -3086,6 +3081,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Goiás"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -3172,11 +3172,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657987"
@@ -3185,6 +3180,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Federal District"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       },
       "district_name_pt" : {
         "xml:lang" : "pt",
@@ -3276,11 +3276,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657928"
@@ -3289,6 +3284,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pernambuco"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -3375,11 +3375,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657933"
@@ -3388,6 +3383,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pará"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -3474,11 +3474,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657964"
@@ -3487,6 +3482,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Espírito Santo"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -3573,11 +3573,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657928"
@@ -3586,6 +3581,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pernambuco"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -3672,11 +3672,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657928"
@@ -3685,6 +3680,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pernambuco"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -3771,11 +3771,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -3784,6 +3779,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Minas Gerais"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -3870,11 +3870,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657915"
@@ -3888,6 +3883,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Júlio Prates de Castilhos"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -3974,11 +3974,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657947"
@@ -3987,6 +3982,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Maranhão"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -4073,11 +4073,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657993"
@@ -4086,6 +4081,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Sergipe"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -4172,11 +4172,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657905"
@@ -4185,6 +4180,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "São Paulo"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -4271,11 +4271,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657968"
@@ -4284,6 +4279,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio Grande do Norte"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -4465,11 +4465,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657968"
@@ -4478,6 +4473,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio Grande do Norte"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -4564,11 +4564,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657928"
@@ -4577,6 +4572,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pernambuco"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -4663,11 +4663,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657933"
@@ -4676,6 +4671,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pará"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -4762,11 +4762,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657905"
@@ -4775,6 +4770,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "São Paulo"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -4861,11 +4861,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657933"
@@ -4874,6 +4869,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pará"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -4960,11 +4960,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657987"
@@ -4973,6 +4968,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Federal District"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       },
       "district_name_pt" : {
         "xml:lang" : "pt",
@@ -5064,11 +5064,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657970"
@@ -5077,6 +5072,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Alagoas"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -5163,11 +5163,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657987"
@@ -5176,6 +5171,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Federal District"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       },
       "district_name_pt" : {
         "xml:lang" : "pt",
@@ -5267,11 +5267,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657915"
@@ -5280,6 +5275,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio Grande do Sul"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -5366,11 +5366,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657911"
@@ -5379,6 +5374,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio de Janeiro"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -5465,11 +5465,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657942"
@@ -5483,6 +5478,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Lauro Müller"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -5569,11 +5569,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -5582,6 +5577,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Bahia"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -5668,11 +5668,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657915"
@@ -5681,6 +5676,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio Grande do Sul"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -5767,11 +5767,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657905"
@@ -5780,6 +5775,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "São Paulo"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -5866,11 +5866,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657928"
@@ -5879,6 +5874,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pernambuco"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -5965,11 +5965,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657928"
@@ -5978,6 +5973,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pernambuco"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -6064,11 +6064,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657915"
@@ -6077,6 +6072,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio Grande do Sul"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -6163,11 +6163,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657915"
@@ -6176,6 +6171,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio Grande do Sul"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -6262,11 +6262,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657928"
@@ -6275,6 +6270,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pernambuco"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -6361,11 +6361,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -6374,6 +6369,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Bahia"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -6460,11 +6460,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657931"
@@ -6473,6 +6468,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Ceará"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -6559,11 +6559,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657947"
@@ -6572,6 +6567,106 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Maranhão"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q17489954-4d39ce4f-4645-8de5-d3d6-26cbc8373787"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20058725"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Chamber of Deputies of Brazil"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado federal"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17489954"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Angela Albino"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Angela Albino"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1834804"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chamber of Deputies"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "513"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-10-28T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-01-03T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -6658,11 +6753,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657933"
@@ -6676,6 +6766,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Lauro Sodré"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -6762,11 +6857,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-02-01T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657911"
@@ -6780,6 +6870,30 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Cabo Daciolo"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-02-01T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10345629"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Patriota"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Patriota"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Patriota"
       }
     }, {
       "statement" : {
@@ -6866,11 +6980,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -6879,6 +6988,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Bahia"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -7055,11 +7169,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -7068,6 +7177,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Bahia"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -7154,11 +7268,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657928"
@@ -7167,6 +7276,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pernambuco"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -7343,11 +7457,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-06-21T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657947"
@@ -7356,6 +7465,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Maranhão"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-06-21T00:00:00Z"
       },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -7447,11 +7561,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-05-12T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657947"
@@ -7461,10 +7570,110 @@
         "type" : "literal",
         "value" : "Maranhão"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-05-12T00:00:00Z"
+      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-11-24T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q25440892-71CC7102-4AE0-4574-9931-46886999CBAB"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Deputado"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20058725"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Chamber of Deputies of Brazil"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado do Brasil"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado federal"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25440892"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Val Amélio"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Val Amélio"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1834804"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chamber of Deputies"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados do Brasil"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Câmara dos Deputados"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "513"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-05-25T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-09-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -7551,11 +7760,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657931"
@@ -7569,6 +7773,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "João Lopes Ferreira Filho"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -7655,11 +7864,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-09-03T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -7668,6 +7872,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Minas Gerais"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-09-03T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -7754,11 +7963,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657942"
@@ -7767,6 +7971,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Santa Catarina"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -7853,11 +8062,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -7866,6 +8070,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Minas Gerais"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -7952,11 +8161,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -7965,6 +8169,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Minas Gerais"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -8051,11 +8260,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657953"
@@ -8064,105 +8268,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Paraíba"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q314696-76B2E9B1-53A9-4B03-B1B6-FFD53D432E1A"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1055894"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "deputy"
-      },
-      "role_superclass_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "deputado"
-      },
-      "role_superclass_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Deputado"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20058725"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Chamber of Deputies of Brazil"
-      },
-      "role_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "deputado do Brasil"
-      },
-      "role_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "deputado federal"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q314696"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nilo Peçanha"
-      },
-      "name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Nilo Peçanha"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1834804"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chamber of Deputies"
-      },
-      "org_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Câmara dos Deputados do Brasil"
-      },
-      "org_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Câmara dos Deputados"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q155"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "513"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "1890-11-15T00:00:00Z"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53657911"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rio de Janeiro"
       }
     }, {
       "statement" : {
@@ -8249,11 +8359,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657905"
@@ -8262,6 +8367,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "São Paulo"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -8348,11 +8458,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657905"
@@ -8361,6 +8466,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "São Paulo"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -8537,11 +8647,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657928"
@@ -8555,6 +8660,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "A. A. Pereira de Lyra"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -8641,11 +8751,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -8659,6 +8764,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Alexandre Stockler Pinto de Menezes"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -8745,11 +8855,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657981"
@@ -8763,6 +8868,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Anfriso Fialho"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -8849,11 +8959,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -8867,6 +8972,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Aristides de Araújo Maia"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -8953,11 +9063,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -8971,6 +9076,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Astolfo Pio da Silva Pinto"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -9057,11 +9167,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657911"
@@ -9075,6 +9180,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Augusto de Oliveira Pinto"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -9161,11 +9271,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657928"
@@ -9179,6 +9284,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Belarmino Carneiro"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -9265,11 +9375,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657911"
@@ -9283,6 +9388,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Carlos Antonio de França Carvalho"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -9369,11 +9479,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657942"
@@ -9387,6 +9492,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Carlos Augusto Campos"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -9473,11 +9583,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -9491,6 +9596,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Carlos Justiniano das Chagas"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -9577,11 +9687,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -9595,6 +9700,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Constantino Luiz Paletta"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -9681,11 +9791,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657987"
@@ -9699,6 +9804,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Domingos Jenuíno de AIbuquerque Júnior"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       },
       "district_name_pt" : {
         "xml:lang" : "pt",
@@ -9790,11 +9900,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657926"
@@ -9808,6 +9913,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Eduardo Mendes Gonçalves"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -9894,11 +10004,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657987"
@@ -9912,6 +10017,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "F. P. Mavrink"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       },
       "district_name_pt" : {
         "xml:lang" : "pt",
@@ -10003,11 +10113,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -10021,6 +10126,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Feliciano Augusto de Oliveira Penna"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -10107,11 +10217,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -10125,6 +10230,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Francisco dos Santos Pereira"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -10211,11 +10321,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -10229,6 +10334,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Francisco Luiz da Veiga"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -10315,11 +10425,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657947"
@@ -10333,6 +10438,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Henrique Alves de Carvalho"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -10419,11 +10529,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657993"
@@ -10437,6 +10542,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Ivo do Prado Montes Pires da França"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -10523,11 +10633,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657911"
@@ -10541,6 +10646,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "João Batista da Mota"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -10627,11 +10737,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657953"
@@ -10645,6 +10750,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "João Baptista de Sá Andrade"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -10731,11 +10841,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -10749,6 +10854,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "João das Chagas Lobato"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -10835,11 +10945,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657928"
@@ -10853,6 +10958,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "João de Siqueira Cavalcanti"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -10939,11 +11049,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657911"
@@ -10957,6 +11062,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "João Severiano da Fonseca Hermes"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -11043,11 +11153,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -11061,6 +11166,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Joaquim Gonçalves Ramos"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -11147,11 +11257,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657915"
@@ -11165,6 +11270,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Joaquim Pereira da Costa"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -11251,11 +11361,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657970"
@@ -11269,6 +11374,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Joaquim Pontes de Miranda"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -11355,11 +11465,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -11373,6 +11478,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "José Augusto de Freitas"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -11459,11 +11569,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -11477,6 +11582,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "José Cândido da Costa Senna"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -11563,11 +11673,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -11581,6 +11686,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "José Carlos Ferreira Pires"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -11667,11 +11777,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657933"
@@ -11685,6 +11790,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "José Ferreira Cantão"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -11771,11 +11881,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657911"
@@ -11789,6 +11894,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Luiz Carlos Fróes da Cruz"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -11875,11 +11985,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657928"
@@ -11893,6 +11998,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Luiz de Andrade"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -11979,11 +12089,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657931"
@@ -11997,6 +12102,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Manoel Coelho Bastos do Nascimento"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -12083,11 +12193,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -12101,6 +12206,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Manoel Fulgêncio Alves Pereira"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -12187,11 +12297,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657951"
@@ -12205,6 +12310,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Manoel Uchôa Rodrigues"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -12291,11 +12401,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657926"
@@ -12309,6 +12414,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Marciano Augusto Botelho de Magalhães"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -12395,11 +12505,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -12413,6 +12518,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Marcolino de Moura e Albuquerque"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -12499,11 +12609,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657981"
@@ -12517,6 +12622,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Nelson de Vasconcellos Almeida"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -12603,11 +12713,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657905"
@@ -12621,6 +12726,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Paulino Carlos de Arruda Botelho"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -12707,11 +12817,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -12725,6 +12830,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Polycarpo Rodrigues Víotti"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -12811,11 +12921,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657911"
@@ -12829,6 +12934,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Urbano Marcondes dos Santos Machado"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -12915,11 +13025,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657911"
@@ -12933,6 +13038,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Virgílio de Andrade Pessoa"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -13019,11 +13129,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657987"
@@ -13037,6 +13142,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Alfredo Ernesto Jacques Ourique‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       },
       "district_name_pt" : {
         "xml:lang" : "pt",
@@ -13128,11 +13238,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -13146,6 +13251,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Álvaro Augusto de Andrade Botelho"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -13232,11 +13342,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657905"
@@ -13250,6 +13355,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Ângelo Gomes Pinheiro Machado‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -13336,11 +13446,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -13354,6 +13459,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Antônio Afonso Lamounier Godofredo"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -13440,11 +13550,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657964"
@@ -13458,6 +13563,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Antônio Borges de Ataíde Júnior‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -13544,11 +13654,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657968"
@@ -13562,6 +13667,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Antônio de Amorim Garcia"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -13648,11 +13758,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -13666,6 +13771,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Antonio Dutra Nicácio‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -13752,11 +13862,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -13770,6 +13875,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Antônio Euzébio Gonçalves de Almeida‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -13856,11 +13966,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657953"
@@ -13874,6 +13979,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Antônio Joaquim do Couto Cartaxo‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -13960,11 +14070,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657905"
@@ -13978,6 +14083,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Antônio José da Costa Junior‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -14064,11 +14174,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657926"
@@ -14082,6 +14187,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Belarmino Augusto de Mendonça Lobo‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -14168,11 +14278,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657911"
@@ -14186,6 +14291,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Cirilo de Lemos Nunes Fagundes‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -14272,11 +14382,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657911"
@@ -14290,6 +14395,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Dionísio Manhães Barreto‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -14376,11 +14486,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -14394,6 +14499,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Francisco Correia Ferreira Rabelo‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -14480,11 +14590,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -14498,6 +14603,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Francisco de Paula Oliveira Guimarães‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -14584,11 +14694,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -14602,6 +14707,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Gabriel de Paula Almeida Magalhães‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -14688,11 +14798,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -14706,6 +14811,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Garcia Dias Pires de Carvalho e Albuquerque‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -14792,11 +14902,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -14810,6 +14915,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "João Antonio de Avellar‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -14896,11 +15006,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657987"
@@ -14914,6 +15019,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "João Baptista de Sampaio Ferraz‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       },
       "district_name_pt" : {
         "xml:lang" : "pt",
@@ -15005,11 +15115,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657953"
@@ -15023,6 +15128,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "João da Silva Retumba‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -15109,11 +15219,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657928"
@@ -15127,6 +15232,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "João Juvêncio Ferreira de Aguiar‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -15213,11 +15323,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657905"
@@ -15231,6 +15336,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "João Tomás Carvalhal‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -15317,11 +15427,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -15335,6 +15440,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Joaquim Inácio Tosta‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -15421,11 +15531,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657931"
@@ -15439,6 +15544,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "José Bevilacqua‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -15525,11 +15635,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657905"
@@ -15543,6 +15648,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "José Luis de Almeida Nogueira‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -15629,11 +15739,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657928"
@@ -15647,6 +15752,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "José Vicente Meira de Vasconcelos‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -15733,11 +15843,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -15751,6 +15856,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Leovigildo do Ipiranga Amorim Filgueiras‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -15837,11 +15947,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657915"
@@ -15855,6 +15960,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Manoel Luís da Rocha Osório‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -15941,11 +16051,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -15959,6 +16064,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Pacífico Gonçalves da Silva Mascarenhas‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -16045,11 +16155,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657933"
@@ -16063,6 +16168,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Pedro Leite Chermont‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -16149,11 +16259,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657949"
@@ -16167,6 +16272,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Sebastião Fleury Curado‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -16253,11 +16363,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -16271,6 +16376,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Sebastião Landulfo da Rocha Medrado‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -16357,11 +16467,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657915"
@@ -16375,6 +16480,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Tomás Thompson Flores‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -16461,11 +16571,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657928"
@@ -16479,6 +16584,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Vicente Antônio do Espírito Santo‎"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -16565,11 +16675,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657908"
@@ -16578,6 +16683,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Minas Gerais"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -16759,11 +16869,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657915"
@@ -16777,6 +16882,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Antônio Augusto Borges de Medeiros"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -16863,11 +16973,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657953"
@@ -16881,6 +16986,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Pedro Américo"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -16967,11 +17077,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657968"
@@ -16980,6 +17085,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio Grande do Norte"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -17066,11 +17176,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657931"
@@ -17084,6 +17189,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Justiniano de Serpa"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -17170,11 +17280,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657915"
@@ -17183,6 +17288,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio Grande do Sul"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -17269,11 +17379,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1983-03-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657947"
@@ -17282,6 +17387,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Maranhão"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1983-03-15T00:00:00Z"
       },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -17373,11 +17483,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657911"
@@ -17386,6 +17491,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio de Janeiro"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -17472,11 +17582,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657915"
@@ -17485,6 +17590,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rio Grande do Sul"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -17571,11 +17681,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -17584,6 +17689,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Bahia"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -17670,11 +17780,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657973"
@@ -17683,6 +17788,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mato Grosso"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -17769,11 +17879,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657913"
@@ -17782,6 +17887,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Bahia"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -17868,11 +17978,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657987"
@@ -17881,6 +17986,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Federal District"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       },
       "district_name_pt" : {
         "xml:lang" : "pt",
@@ -17972,11 +18082,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657933"
@@ -17985,6 +18090,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pará"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -18071,11 +18181,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657931"
@@ -18084,6 +18189,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Ceará"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -18170,11 +18280,6 @@
         "type" : "literal",
         "value" : "513"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1890-11-15T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53657973"
@@ -18183,6 +18288,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mato Grosso"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-11-15T00:00:00Z"
       }
     } ]
   }
