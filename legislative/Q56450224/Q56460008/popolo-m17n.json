@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de São Bernardo do Campo",
+        "lang:pt": "câmara municipal de São Bernardo do Campo",
+        "lang:en": "municipal chamber of Sao Bernardo do Campo"
+      },
+      "id": "Q56450224",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450224"
+        }
+      ],
+      "area_id": "Q184403",
+      "seat_counts": {
+        "Q56459754": "28"
+      }
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Porto Velho",
+        "lang:pt": "prefeitura municipal de Porto Velho",
+        "lang:en": "municipal prefecture of Porto Velho"
+      },
+      "id": "Q56450019",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450019"
+        }
+      ],
+      "area_id": "Q172512"
+    }
   ],
   "areas": [
     {

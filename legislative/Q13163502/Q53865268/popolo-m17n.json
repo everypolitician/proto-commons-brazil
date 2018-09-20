@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "assembleia legislativa do estado do Ceará",
+        "lang:pt": "Assembleia Legislativa do Ceará",
+        "lang:en": "Legislative Assembly of Ceará"
+      },
+      "id": "Q13163502",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13163502"
+        }
+      ],
+      "area_id": "Q40123",
+      "seat_counts": {
+        "Q53864930": "46"
+      }
+    }
   ],
   "areas": [
     {

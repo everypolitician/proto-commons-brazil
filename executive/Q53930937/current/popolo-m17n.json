@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Campinas",
+        "lang:en": "municipal prefecture of Campinas"
+      },
+      "id": "Q53930937",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53930937"
+        }
+      ],
+      "area_id": "Q171617"
+    }
   ],
   "areas": [
     {

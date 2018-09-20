@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Embu das Artes",
+        "lang:pt": "prefeitura municipal de Embu das Artes",
+        "lang:en": "municipal prefecture of Embu das Artes"
+      },
+      "id": "Q56450100",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450100"
+        }
+      ],
+      "area_id": "Q651860"
+    }
   ],
   "areas": [
     {

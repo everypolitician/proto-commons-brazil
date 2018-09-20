@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Cariacica",
+        "lang:pt": "prefeitura municipal de Cariacica",
+        "lang:en": "municipal prefecture of Cariacica"
+      },
+      "id": "Q56450050",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450050"
+        }
+      ],
+      "area_id": "Q841222"
+    }
   ],
   "areas": [
     {

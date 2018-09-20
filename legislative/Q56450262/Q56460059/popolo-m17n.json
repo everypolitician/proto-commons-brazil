@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Carapicuíba",
+        "lang:pt": "câmara municipal de Carapicuíba",
+        "lang:en": "municipal council of Carapicuíba"
+      },
+      "id": "Q56450262",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450262"
+        }
+      ],
+      "area_id": "Q176891",
+      "seat_counts": {
+        "Q56459800": "17"
+      }
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "assembleia legislativa do estado do Maranhão",
+        "lang:pt": "assembleia Legislativa do Maranhão",
+        "lang:en": "legislative assembly of the state of Maranhao"
+      },
+      "id": "Q9633221",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9633221"
+        }
+      ],
+      "area_id": "Q42362",
+      "seat_counts": {
+        "Q53864933": "42"
+      }
+    }
   ],
   "areas": [
     {

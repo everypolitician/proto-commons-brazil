@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Teresina",
+        "lang:pt": "prefeitura municipal de Teresina",
+        "lang:en": "municipal prefecture of Teresina"
+      },
+      "id": "Q56449993",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56449993"
+        }
+      ],
+      "area_id": "Q165341"
+    }
   ],
   "areas": [
     {

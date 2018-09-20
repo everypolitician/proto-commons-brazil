@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Camaçari",
+        "lang:pt": "prefeitura municipal de Camaçari",
+        "lang:en": "municipal prefecture of Camaçari"
+      },
+      "id": "Q56450087",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450087"
+        }
+      ],
+      "area_id": "Q1136204"
+    }
   ],
   "areas": [
     {

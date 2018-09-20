@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "cabinete do governador do estado de Rondônia",
+        "lang:en": "cabinet of the governor of the state of Rondonia"
+      },
+      "id": "Q53738377",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738377"
+        }
+      ],
+      "area_id": "Q43235"
+    }
   ],
   "areas": [
     {

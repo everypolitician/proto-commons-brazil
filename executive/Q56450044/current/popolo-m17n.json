@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Montes Claros",
+        "lang:pt": "prefeitura municipal de Montes Claros",
+        "lang:en": "municipal prefecture of Montes Claros"
+      },
+      "id": "Q56450044",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450044"
+        }
+      ],
+      "area_id": "Q651906"
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Guarujá",
+        "lang:pt": "prefeitura municipal de Guarujá",
+        "lang:en": "municipal prefecture of Guaruja"
+      },
+      "id": "Q56450076",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450076"
+        }
+      ],
+      "area_id": "Q271374"
+    }
   ],
   "areas": [
     {

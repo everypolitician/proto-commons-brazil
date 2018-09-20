@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Feira de Santana",
+        "lang:pt": "câmara municipal de Feira de Santana",
+        "lang:en": "municipal chamber of Feira de Santana"
+      },
+      "id": "Q56450235",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450235"
+        }
+      ],
+      "area_id": "Q194343",
+      "seat_counts": {
+        "Q56459769": "20"
+      }
+    }
   ],
   "areas": [
     {

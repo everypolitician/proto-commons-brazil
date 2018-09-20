@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Ponta Grossa",
+        "lang:pt": "câmara municipal de Ponta Grossa",
+        "lang:en": "municipal chamber of Ponta Grossa"
+      },
+      "id": "Q56450278",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450278"
+        }
+      ],
+      "area_id": "Q242906",
+      "seat_counts": {
+        "Q56459820": "23"
+      }
+    }
   ],
   "areas": [
     {

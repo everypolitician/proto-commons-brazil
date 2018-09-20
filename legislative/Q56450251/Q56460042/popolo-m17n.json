@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Macapá",
+        "lang:pt": "câmara municipal de Macapá",
+        "lang:en": "municipal chamber of Macapa"
+      },
+      "id": "Q56450251",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450251"
+        }
+      ],
+      "area_id": "Q180215",
+      "seat_counts": {
+        "Q56459786": "23"
+      }
+    }
   ],
   "areas": [
     {

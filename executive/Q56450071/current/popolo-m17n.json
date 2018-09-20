@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Ribeirão das Neves",
+        "lang:pt": "prefeitura municipal de Ribeirão das Neves",
+        "lang:en": "municipal prefecture of Ribeirao das Neves"
+      },
+      "id": "Q56450071",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450071"
+        }
+      ],
+      "area_id": "Q737689"
+    }
   ],
   "areas": [
     {

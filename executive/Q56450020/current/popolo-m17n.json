@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Ananindeua",
+        "lang:pt": "prefeitura municipal de Ananindeua",
+        "lang:en": "municipal prefecture of Ananindeua"
+      },
+      "id": "Q56450020",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450020"
+        }
+      ],
+      "area_id": "Q485887"
+    }
   ],
   "areas": [
     {

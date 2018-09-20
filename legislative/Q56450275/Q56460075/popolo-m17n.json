@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Franca",
+        "lang:pt": "câmara municipal de Franca",
+        "lang:en": "municipal chamber of Franca"
+      },
+      "id": "Q56450275",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450275"
+        }
+      ],
+      "area_id": "Q504587",
+      "seat_counts": {
+        "Q56459816": "16"
+      }
+    }
   ],
   "areas": [
     {

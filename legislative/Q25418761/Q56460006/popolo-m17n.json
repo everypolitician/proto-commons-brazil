@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Campo Grande",
+        "lang:pt": "câmara municipal de Campo Grande",
+        "lang:en": "municipal chamber of Campo Grande"
+      },
+      "id": "Q25418761",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25418761"
+        }
+      ],
+      "area_id": "Q168929",
+      "seat_counts": {
+        "Q56459752": "29"
+      }
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Aparecida de Goiânia",
+        "lang:pt": "prefeitura municipal de Aparecida de Goiânia",
+        "lang:en": "municipal prefecture of Aparecida de Goiania"
+      },
+      "id": "Q56450018",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450018"
+        }
+      ],
+      "area_id": "Q459711"
+    }
   ],
   "areas": [
     {

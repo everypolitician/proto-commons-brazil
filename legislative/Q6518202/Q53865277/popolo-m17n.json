@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "assembleia legislativa do estado do Amazonas",
+        "lang:pt": "Assembleia Legislativa do Amazonas",
+        "lang:en": "Legislative Assembly of Amazonas"
+      },
+      "id": "Q6518202",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6518202"
+        }
+      ],
+      "area_id": "Q40040",
+      "seat_counts": {
+        "Q53864935": "24"
+      }
+    }
   ],
   "areas": [
     {

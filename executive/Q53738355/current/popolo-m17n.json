@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "cabinete do governador do estado do Rio Grande do Norte",
+        "lang:en": "cabinet of the governor of the state of Rio Grande do Norte"
+      },
+      "id": "Q53738355",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738355"
+        }
+      ],
+      "area_id": "Q43255"
+    }
   ],
   "areas": [
     {

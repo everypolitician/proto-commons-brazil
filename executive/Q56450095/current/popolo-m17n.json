@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "pefeitura municipal de Várzea Grande",
+        "lang:pt": "pefeitura municipal de Várzea Grande",
+        "lang:en": "municipal prefecture of Várzea Grande"
+      },
+      "id": "Q56450095",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450095"
+        }
+      ],
+      "area_id": "Q983884"
+    }
   ],
   "areas": [
     {

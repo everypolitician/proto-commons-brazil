@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Embu das Artes",
+        "lang:pt": "câmara municipal de Embu das Artes",
+        "lang:en": "municipal Chamber of Embu das Artes"
+      },
+      "id": "Q56450308",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450308"
+        }
+      ],
+      "area_id": "Q651860",
+      "seat_counts": {
+        "Q56459853": "17"
+      }
+    }
   ],
   "areas": [
     {

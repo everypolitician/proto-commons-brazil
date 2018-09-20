@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Natal",
+        "lang:pt": "câmara municipal de Natal",
+        "lang:en": "municipal chamber of Natal"
+      },
+      "id": "Q10262911",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10262911"
+        }
+      ],
+      "area_id": "Q131620",
+      "seat_counts": {
+        "Q56459751": "29"
+      }
+    }
   ],
   "areas": [
     {

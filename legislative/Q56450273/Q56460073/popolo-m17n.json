@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Caruaru",
+        "lang:pt": "câmara municipal de Caruaru",
+        "lang:en": "municipal chamber of Caruaru"
+      },
+      "id": "Q56450273",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450273"
+        }
+      ],
+      "area_id": "Q622830",
+      "seat_counts": {
+        "Q56459813": "23"
+      }
+    }
   ],
   "areas": [
     {

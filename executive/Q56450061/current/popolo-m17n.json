@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Vitória da Conquista",
+        "lang:pt": "prefeitura municipal de Vitória da Conquista",
+        "lang:en": "municipal prefecture of Vitoria da Conquista"
+      },
+      "id": "Q56450061",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450061"
+        }
+      ],
+      "area_id": "Q22062839"
+    }
   ],
   "areas": [
     {

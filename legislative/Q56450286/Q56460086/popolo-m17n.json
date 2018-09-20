@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Cascavel",
+        "lang:pt": "câmara municipal de Cascavel",
+        "lang:en": "municipal chamber of Cascavel"
+      },
+      "id": "Q56450286",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450286"
+        }
+      ],
+      "area_id": "Q205681",
+      "seat_counts": {
+        "Q56459828": "21"
+      }
+    }
   ],
   "areas": [
     {

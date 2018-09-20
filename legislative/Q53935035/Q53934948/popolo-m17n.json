@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "Câmara Municipal de Curitiba",
+        "lang:en": "Municipal Chamber of Curitiba"
+      },
+      "id": "Q53935035",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53935035"
+        }
+      ],
+      "area_id": "Q4361",
+      "seat_counts": {
+        "Q53935038": "38"
+      }
+    }
   ],
   "areas": [
     {

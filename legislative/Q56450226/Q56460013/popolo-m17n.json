@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Santo André",
+        "lang:pt": "câmara municipal de Santo André",
+        "lang:en": "municipal chamber of Santo André"
+      },
+      "id": "Q56450226",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450226"
+        }
+      ],
+      "area_id": "Q191652",
+      "seat_counts": {
+        "Q56459759": "21"
+      }
+    }
   ],
   "areas": [
     {

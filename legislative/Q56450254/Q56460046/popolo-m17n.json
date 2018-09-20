@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de São José do Rio Preto",
+        "lang:pt": "câmara municipal de São José do Rio Preto",
+        "lang:en": "municipal chamber of São José do Rio Preto"
+      },
+      "id": "Q56450254",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450254"
+        }
+      ],
+      "area_id": "Q192181",
+      "seat_counts": {
+        "Q56459790": "17"
+      }
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,22 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "prefeitura municipal de Marabá",
+        "lang:pt": "prefeitura municipal de Marabá",
+        "lang:en": "municipal prefecture de Marabá"
+      },
+      "id": "Q56450098",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450098"
+        }
+      ],
+      "area_id": "Q509818"
+    }
   ],
   "areas": [
     {

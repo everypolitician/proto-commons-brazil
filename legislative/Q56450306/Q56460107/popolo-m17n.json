@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Marabá",
+        "lang:pt": "câmara municipal de Marabá",
+        "lang:en": "municipal Chamber of Marabá"
+      },
+      "id": "Q56450306",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450306"
+        }
+      ],
+      "area_id": "Q509818",
+      "seat_counts": {
+        "Q56459850": "20"
+      }
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Maceió",
+        "lang:pt": "câmara municipal de Maceió",
+        "lang:en": "municipal chamber of Maceio"
+      },
+      "id": "Q56450221",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450221"
+        }
+      ],
+      "area_id": "Q168888",
+      "seat_counts": {
+        "Q56459749": "21"
+      }
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de São João de Meriti",
+        "lang:pt": "câmara municipal de São João de Meriti",
+        "lang:en": "municipal chamber of São João de Meriti"
+      },
+      "id": "Q56450252",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450252"
+        }
+      ],
+      "area_id": "Q459690",
+      "seat_counts": {
+        "Q56459787": "21"
+      }
+    }
   ],
   "areas": [
     {

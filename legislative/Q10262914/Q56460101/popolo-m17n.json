@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Santa Maria",
+        "lang:pt": "câmara municipal de Santa Maria",
+        "lang:en": "municipal Chamber de Santa Maria"
+      },
+      "id": "Q10262914",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10262914"
+        }
+      ],
+      "area_id": "Q740833",
+      "seat_counts": {
+        "Q56459844": "21"
+      }
+    }
   ],
   "areas": [
     {

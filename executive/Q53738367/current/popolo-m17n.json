@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "cabinete do governador do estado do Piauí",
+        "lang:en": "cabinet of the governor of the state of Piaui"
+      },
+      "id": "Q53738367",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53738367"
+        }
+      ],
+      "area_id": "Q42722"
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Vila Velha",
+        "lang:pt": "câmara municipal de Vila Velha",
+        "lang:en": "municipal chamber of Vila Velha"
+      },
+      "id": "Q56450247",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450247"
+        }
+      ],
+      "area_id": "Q334197",
+      "seat_counts": {
+        "Q56459783": "17"
+      }
+    }
   ],
   "areas": [
     {

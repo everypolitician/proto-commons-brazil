@@ -3,7 +3,25 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:pt-br": "câmara municipal de Canoas",
+        "lang:pt": "câmara municipal de Canoas",
+        "lang:en": "municipal chamber of Canoas"
+      },
+      "id": "Q56450277",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56450277"
+        }
+      ],
+      "area_id": "Q194325",
+      "seat_counts": {
+        "Q56459819": "21"
+      }
+    }
   ],
   "areas": [
     {
