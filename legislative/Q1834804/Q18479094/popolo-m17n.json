@@ -1926,22 +1926,6 @@
     },
     {
       "name": {
-        "lang:pt": "Marcus Vinícius Caetano Pestana da Silva",
-        "lang:en": "Marcus Pestana"
-      },
-      "id": "Q10325542",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q10325542"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:pt": "Margarida Salomão",
         "lang:en": "Margarida Salomão"
       },
@@ -5637,6 +5621,22 @@
     },
     {
       "name": {
+        "lang:pt": "Flávio Rodrigues Nogueira",
+        "lang:en": "Flávio Rodrigues Nogueira"
+      },
+      "id": "Q23892824",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23892824"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:pt": "Zé Silva",
         "lang:en": "Zé Silva"
       },
@@ -8751,6 +8751,22 @@
     },
     {
       "name": {
+        "lang:pt": "José Augusto Curvo",
+        "lang:en": "José Augusto Curvo"
+      },
+      "id": "Q43192683",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q43192683"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:pt": "Abel Mesquita Júnior",
         "lang:en": "Abel Mesquita Júnior"
       },
@@ -8902,6 +8918,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q48871811"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Elizeu Dionízio"
+      },
+      "id": "Q48871817",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48871817"
         }
       ],
       "links": [
@@ -9273,6 +9304,38 @@
     },
     {
       "name": {
+        "lang:pt": "Nilton Capixaba",
+        "lang:en": "Nilton Capixaba"
+      },
+      "id": "Q48871957",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48871957"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Wilson Beserra",
+        "lang:en": "Wilson Beserra"
+      },
+      "id": "Q48871959",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48871959"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:pt": "Benedita da Silva",
         "lang:en": "Benedita da Silva"
       },
@@ -9383,6 +9446,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q540219"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Raimundo Matos",
+        "lang:en": "Raimundo Matos"
+      },
+      "id": "Q56354249",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56354249"
         }
       ],
       "links": [
@@ -12071,25 +12150,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q10304982-7A1F3BAB-928A-488D-8F7C-6C5D2C77524E",
-      "person_id": "Q10304982",
-      "on_behalf_of_id": "Q2366265",
-      "organization_id": "Q1834804",
-      "area_id": "Q53657911",
-      "role_superclass_code": "Q1055894",
-      "role_superclass": {
-        "lang:pt-br": "Deputado",
-        "lang:pt": "deputado",
-        "lang:en": "deputy"
-      },
-      "role_code": "Q20058725",
-      "role": {
-        "lang:pt-br": "deputado federal",
-        "lang:pt": "deputado do Brasil",
-        "lang:en": "member of the Chamber of Deputies of Brazil"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q10305189-B5D29144-2BFD-4821-9A5C-94F0285FAB27",
       "person_id": "Q10305189",
       "on_behalf_of_id": "Q504000",
@@ -13347,25 +13407,6 @@
       "on_behalf_of_id": "Q1185830",
       "organization_id": "Q1834804",
       "area_id": "Q53657911",
-      "role_superclass_code": "Q1055894",
-      "role_superclass": {
-        "lang:pt-br": "Deputado",
-        "lang:pt": "deputado",
-        "lang:en": "deputy"
-      },
-      "role_code": "Q20058725",
-      "role": {
-        "lang:pt-br": "deputado federal",
-        "lang:pt": "deputado do Brasil",
-        "lang:en": "member of the Chamber of Deputies of Brazil"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q10325542-DC6205F9-4615-4B92-AAD9-EB2FB82EA580",
-      "person_id": "Q10325542",
-      "on_behalf_of_id": "Q1322897",
-      "organization_id": "Q1834804",
-      "area_id": "Q53657908",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:pt-br": "Deputado",
@@ -17651,6 +17692,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q23892824-C8060D25-A34F-43B6-80F9-2672F9F67C48",
+      "person_id": "Q23892824",
+      "organization_id": "Q1834804",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt-br": "Deputado",
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt-br": "deputado federal",
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q23893154-FFF03043-37F3-4B5C-B3D0-4D3D3257737E",
       "person_id": "Q23893154",
       "on_behalf_of_id": "Q20061311",
@@ -21194,6 +21252,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q43192683-e45e2297-4d91-bf8e-7e75-40679b446b7e",
+      "person_id": "Q43192683",
+      "organization_id": "Q1834804",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt-br": "Deputado",
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt-br": "deputado federal",
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q43193064-A53B6D35-09AB-4F41-B615-0D12160A846A",
       "person_id": "Q43193064",
       "on_behalf_of_id": "Q1414708",
@@ -21368,6 +21443,23 @@
       "on_behalf_of_id": "Q732852",
       "organization_id": "Q1834804",
       "area_id": "Q53657973",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt-br": "Deputado",
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt-br": "deputado federal",
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48871817-32386d1a-4d64-f7e5-5b48-41efd96833b3",
+      "person_id": "Q48871817",
+      "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:pt-br": "Deputado",
@@ -21819,6 +21911,42 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q48871957-E3C52FE1-FEF2-4F0E-8EB9-D053DC4331CB",
+      "person_id": "Q48871957",
+      "on_behalf_of_id": "Q1576143",
+      "organization_id": "Q1834804",
+      "area_id": "Q53657996",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt-br": "Deputado",
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt-br": "deputado federal",
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48871959-3bf90c57-4e02-bd39-81b5-89c9e190e14c",
+      "person_id": "Q48871959",
+      "organization_id": "Q1834804",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt-br": "Deputado",
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt-br": "deputado federal",
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q4887390-5A0AC37E-CC26-43AA-B43D-2433EDBEC269",
       "person_id": "Q4887390",
       "on_behalf_of_id": "Q657089",
@@ -21938,6 +22066,25 @@
       "organization_id": "Q1834804",
       "area_id": "Q53657953",
       "start_date": "1890-11-15",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt-br": "Deputado",
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt-br": "deputado federal",
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56354249-F96825FB-2F0E-4828-B34C-262EF2C0891E",
+      "person_id": "Q56354249",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q1834804",
+      "area_id": "Q53657931",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:pt-br": "Deputado",
