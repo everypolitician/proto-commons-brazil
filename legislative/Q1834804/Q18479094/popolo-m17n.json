@@ -1058,7 +1058,7 @@
     {
       "name": {
         "lang:pt": "Jorginho Mello",
-        "lang:en": "Jorginho Mello"
+        "lang:en": "Jorginho Melo"
       },
       "id": "Q10308318",
       "identifiers": [
@@ -1353,6 +1353,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q10310565"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "José de Andrade Maia Filho",
+        "lang:en": "José de Andrade Maia Filho"
+      },
+      "id": "Q10310743",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10310743"
         }
       ],
       "links": [
@@ -1918,6 +1934,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q10325498"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Marcus Vinícius Caetano Pestana da Silva",
+        "lang:en": "Marcus Pestana"
+      },
+      "id": "Q10325542",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10325542"
         }
       ],
       "links": [
@@ -4150,7 +4182,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/bolsonaro.enb"
+        }
       ]
     },
     {
@@ -9053,6 +9088,21 @@
     },
     {
       "name": {
+        "lang:pt": "Beto Salame"
+      },
+      "id": "Q48871858",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48871858"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:pt": "Francisco Chapadinha",
         "lang:en": "Francisco Chapadinha"
       },
@@ -9328,6 +9378,36 @@
         {
           "scheme": "wikidata",
           "identifier": "Q48871959"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Lourival Gomes"
+      },
+      "id": "Q48871961",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48871961"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt": "Silas Brasileiro"
+      },
+      "id": "Q48871962",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48871962"
         }
       ],
       "links": [
@@ -12758,6 +12838,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q10310743-BA982BFD-C2C7-493D-9BE8-FDA2244DF7B5",
+      "person_id": "Q10310743",
+      "organization_id": "Q1834804",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt-br": "Deputado",
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt-br": "deputado federal",
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q10310812-E0697E44-DB3D-4101-A212-AD0B9B8CAF49",
       "person_id": "Q10310812",
       "organization_id": "Q1834804",
@@ -13407,6 +13504,25 @@
       "on_behalf_of_id": "Q1185830",
       "organization_id": "Q1834804",
       "area_id": "Q53657911",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt-br": "Deputado",
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt-br": "deputado federal",
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10325542-DC6205F9-4615-4B92-AAD9-EB2FB82EA580",
+      "person_id": "Q10325542",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q1834804",
+      "area_id": "Q53657908",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:pt-br": "Deputado",
@@ -16019,6 +16135,7 @@
       "on_behalf_of_id": "Q2366265",
       "organization_id": "Q1834804",
       "area_id": "Q53657905",
+      "start_date": "2015-02-01",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:pt-br": "Deputado",
@@ -21607,6 +21724,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q48871858-b609ea37-41c2-3286-4adb-cd234917cb53",
+      "person_id": "Q48871858",
+      "organization_id": "Q1834804",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt-br": "Deputado",
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt-br": "deputado federal",
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q48871859-F3A1098E-4855-48F6-87CE-1D6CE81BFCD7",
       "person_id": "Q48871859",
       "on_behalf_of_id": "Q3181274",
@@ -21932,6 +22066,40 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q48871959-3bf90c57-4e02-bd39-81b5-89c9e190e14c",
       "person_id": "Q48871959",
+      "organization_id": "Q1834804",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt-br": "Deputado",
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt-br": "deputado federal",
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48871961-f67568a1-4a9c-1953-40f8-804e68f339c8",
+      "person_id": "Q48871961",
+      "organization_id": "Q1834804",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt-br": "Deputado",
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt-br": "deputado federal",
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48871962-177be97a-4bf6-1fad-be7a-4709cb0e20a5",
+      "person_id": "Q48871962",
       "organization_id": "Q1834804",
       "role_superclass_code": "Q1055894",
       "role_superclass": {

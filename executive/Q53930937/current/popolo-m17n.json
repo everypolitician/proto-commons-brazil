@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Jonas Donizette",
+        "lang:en": "Jonas Donizette"
+      },
+      "id": "Q10307965",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10307965"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -100,6 +115,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10307965-7b6a148b-4a2b-4434-43bd-29b9767db4b7",
+      "person_id": "Q10307965",
+      "organization_id": "Q53930937",
+      "area_id": "Q171617",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q53926063",
+      "role": {
+        "lang:pt-br": "Prefeito de Campinas",
+        "lang:en": "Mayor of Campinas"
+      }
+    }
   ]
 }
