@@ -1942,6 +1942,22 @@
     },
     {
       "name": {
+        "lang:pt": "Marcus Vinícius Caetano Pestana da Silva",
+        "lang:en": "Marcus Pestana"
+      },
+      "id": "Q10325542",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10325542"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:pt": "Margarida Salomão",
         "lang:en": "Margarida Salomão"
       },
@@ -13488,6 +13504,25 @@
       "on_behalf_of_id": "Q1185830",
       "organization_id": "Q1834804",
       "area_id": "Q53657911",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt-br": "Deputado",
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt-br": "deputado federal",
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10325542-DC6205F9-4615-4B92-AAD9-EB2FB82EA580",
+      "person_id": "Q10325542",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q1834804",
+      "area_id": "Q53657908",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:pt-br": "Deputado",
