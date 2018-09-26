@@ -6,11 +6,11 @@
     "bindings" : [ {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q10395785-939A6A84-798F-49DD-A493-C3E2B49B7203"
+        "value" : "http://www.wikidata.org/entity/statement/Q56751574-4e70e6d4-4c9e-79fa-24df-7933a6358bd8"
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10395785"
+        "value" : "http://www.wikidata.org/entity/Q56751574"
       },
       "name_pt_br" : {
         "xml:lang" : "pt-br",
@@ -26,25 +26,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Álvaro Dias"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1322897"
-      },
-      "party_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Partido da Social Democracia Brasileira"
-      },
-      "party_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Partido da Social Democracia Brasileira"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brazilian Social Democracy Party"
       },
       "district" : {
         "type" : "uri",
@@ -83,10 +64,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mayor of Natal"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "ad.alvarodias"
       },
       "role_superclass" : {
         "type" : "uri",
