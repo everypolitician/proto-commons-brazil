@@ -147,24 +147,6 @@
         "lang:pt-br": "Prefeito de Recife",
         "lang:en": "Mayor of Recife"
       }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5549821-F68EBD70-FD96-45F3-8A6F-244D2A97CE55",
-      "person_id": "Q5549821",
-      "on_behalf_of_id": "Q2054789",
-      "organization_id": "Q53930910",
-      "area_id": "Q48344",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:pt-br": "prefeito",
-        "lang:pt": "prefeito",
-        "lang:en": "mayor"
-      },
-      "role_code": "Q53926041",
-      "role": {
-        "lang:pt-br": "Prefeito de Recife",
-        "lang:en": "Mayor of Recife"
-      }
     }
   ]
 }

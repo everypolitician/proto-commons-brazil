@@ -50,6 +50,23 @@
     },
     {
       "name": {
+        "lang:pt-br": "Edison Lobão",
+        "lang:pt": "Edison Lobão",
+        "lang:en": "Edison Lobão"
+      },
+      "id": "Q10270312",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10270312"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:pt": "Eduardo Amorim",
         "lang:en": "Eduardo Amorim"
       },
@@ -827,6 +844,23 @@
         {
           "scheme": "wikidata",
           "identifier": "Q10357334"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Reditario Cassol",
+        "lang:pt": "Reditario Cassol",
+        "lang:en": "Reditario Cassol"
+      },
+      "id": "Q10358356",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10358356"
         }
       ],
       "links": [
@@ -1798,6 +1832,74 @@
     },
     {
       "name": {
+        "lang:pt-br": "Rudson Leite",
+        "lang:pt": "Rudson Leite",
+        "lang:en": "Rudson Leite"
+      },
+      "id": "Q56348924",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56348924"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "José Amauri",
+        "lang:pt": "José Amauri",
+        "lang:en": "José Amauri"
+      },
+      "id": "Q56350608",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56350608"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Givago Tenório",
+        "lang:pt": "Givago Tenório",
+        "lang:en": "Givago Tenório"
+      },
+      "id": "Q56351300",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56351300"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Ione Guimarães",
+        "lang:pt": "Ione Guimarães",
+        "lang:en": "Ione Guimarães"
+      },
+      "id": "Q56762939",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56762939"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:pt-br": "Randolfe Rodrigues",
         "lang:pt": "Randolfe Rodrigues",
         "lang:en": "Randolfe Rodrigues"
@@ -2129,6 +2231,21 @@
     },
     {
       "name": {
+        "lang:pt-br": "Rede Sustentabilidade",
+        "lang:pt": "Rede Sustentabilidade",
+        "lang:en": "Sustainability Network"
+      },
+      "id": "Q10358279",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10358279"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:pt-br": "Democratas",
         "lang:pt": "Democratas",
         "lang:en": "Democrats"
@@ -2139,6 +2256,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q1185830"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Verde",
+        "lang:pt": "Partido Verde",
+        "lang:en": "Green Party"
+      },
+      "id": "Q1234489",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1234489"
         }
       ]
     },
@@ -2174,6 +2306,141 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido Democrático Trabalhista",
+        "lang:pt": "Partido Democrático Trabalhista",
+        "lang:en": "Democratic Labour Party"
+      },
+      "id": "Q1414708",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1414708"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Republicano da Ordem Social",
+        "lang:pt": "Partido Republicano da Ordem Social",
+        "lang:en": "Republican Party of the Social Order"
+      },
+      "id": "Q15564211",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15564211"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Trabalhista Brasileiro",
+        "lang:pt": "Partido Trabalhista Brasileiro",
+        "lang:en": "Brazilian Labour Party"
+      },
+      "id": "Q1576143",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1576143"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Social Democrático",
+        "lang:pt": "Partido Social Democrático",
+        "lang:en": "Social Democratic Party"
+      },
+      "id": "Q2054750",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2054750"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Socialista Brasileiro",
+        "lang:pt": "Partido Socialista Brasileiro",
+        "lang:en": "Brazilian Socialist Party"
+      },
+      "id": "Q2054789",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2054789"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Trabalhista Cristão",
+        "lang:pt": "Partido Trabalhista Cristão",
+        "lang:en": "Christian Labour Party"
+      },
+      "id": "Q2534868",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2534868"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Popular Socialista",
+        "lang:pt": "Partido Popular Socialista",
+        "lang:en": "Popular Socialist Party"
+      },
+      "id": "Q2598527",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2598527"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido da República",
+        "lang:pt": "Partido da República",
+        "lang:en": "Party of the Republic"
+      },
+      "id": "Q2731720",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2731720"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Podemos",
+        "lang:pt": "Podemos",
+        "lang:en": "Podemos"
+      },
+      "id": "Q3181274",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3181274"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:pt-br": "Partido Comunista do Brasil",
         "lang:pt": "Partido Comunista do Brasil",
         "lang:en": "Communist Party of Brazil"
@@ -2199,6 +2466,36 @@
         {
           "scheme": "wikidata",
           "identifier": "Q657089"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Progressista",
+        "lang:pt": "Partido Progressista",
+        "lang:en": "Progressive Party"
+      },
+      "id": "Q732852",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q732852"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Republicano Brasileiro",
+        "lang:pt": "Partido Republicano Brasileiro",
+        "lang:en": "Brazilian Republican Party"
+      },
+      "id": "Q926973",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q926973"
         }
       ]
     }
@@ -2856,6 +3153,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10264359-5396014A-D8CF-49ED-963B-5D3982F5EA52",
       "person_id": "Q10264359",
+      "on_behalf_of_id": "Q1185830",
       "organization_id": "Q2119413",
       "area_id": "Q53658016",
       "role_superclass_code": "Q15686806",
@@ -2891,8 +3189,27 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10269227-8835C7D1-4548-4313-AD24-B27D0DF98B4B",
       "person_id": "Q10269227",
+      "on_behalf_of_id": "Q1322751",
       "organization_id": "Q2119413",
       "area_id": "Q53657946",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:pt-br": "Senador",
+        "lang:pt": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18964326",
+      "role": {
+        "lang:pt-br": "Senador",
+        "lang:en": "Member of the Senate of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10270312-28344CC9-2BD9-4B4D-9EA6-85EA1E2E33A6",
+      "person_id": "Q10270312",
+      "on_behalf_of_id": "Q1322751",
+      "organization_id": "Q2119413",
+      "area_id": "Q53657948",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:pt-br": "Senador",
@@ -2925,6 +3242,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10270709-4CA2573E-A0F4-4C35-A48D-C6D56F7784E8",
       "person_id": "Q10270709",
+      "on_behalf_of_id": "Q926973",
       "organization_id": "Q2119413",
       "area_id": "Q53657912",
       "role_superclass_code": "Q15686806",
@@ -2960,6 +3278,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10278234-FF648C55-88C0-4721-8176-71AC0800089D",
       "person_id": "Q10278234",
+      "on_behalf_of_id": "Q1322751",
       "organization_id": "Q2119413",
       "area_id": "Q53657932",
       "role_superclass_code": "Q15686806",
@@ -2977,6 +3296,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10281269-43A6CB0A-08DD-4C89-9168-FB8A5CF55870",
       "person_id": "Q10281269",
+      "on_behalf_of_id": "Q1322751",
       "organization_id": "Q2119413",
       "area_id": "Q53657929",
       "role_superclass_code": "Q15686806",
@@ -2994,6 +3314,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10282762-40C7B463-7320-4246-9BAB-EC0E752F9D42",
       "person_id": "Q10282762",
+      "on_behalf_of_id": "Q1322897",
       "organization_id": "Q2119413",
       "area_id": "Q53657934",
       "role_superclass_code": "Q15686806",
@@ -3029,6 +3350,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10286993-CA63EB03-6387-419D-8CEB-3DA41699ABD6",
       "person_id": "Q10286993",
+      "on_behalf_of_id": "Q657089",
       "organization_id": "Q2119413",
       "area_id": "Q53657969",
       "role_superclass_code": "Q15686806",
@@ -3064,6 +3386,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10290029-5C9E5509-0B09-431D-AC18-C436F3363DFA",
       "person_id": "Q10290029",
+      "on_behalf_of_id": "Q732852",
       "organization_id": "Q2119413",
       "area_id": "Q53658013",
       "role_superclass_code": "Q15686806",
@@ -3081,6 +3404,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10298868-C7AE9C07-055F-40AB-9A9F-C991BA564E83",
       "person_id": "Q10298868",
+      "on_behalf_of_id": "Q657089",
       "organization_id": "Q2119413",
       "area_id": "Q53657929",
       "role_superclass_code": "Q15686806",
@@ -3170,6 +3494,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10308706-0FDB4435-DB27-4BC1-81B8-E689A1A23A92",
       "person_id": "Q10308706",
+      "on_behalf_of_id": "Q1185830",
       "organization_id": "Q2119413",
       "area_id": "Q53657969",
       "role_superclass_code": "Q15686806",
@@ -3204,6 +3529,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10308948-C73C5E52-8822-47C0-B387-3084E2E9C360",
       "person_id": "Q10308948",
+      "on_behalf_of_id": "Q657089",
       "organization_id": "Q2119413",
       "area_id": "Q53657932",
       "role_superclass_code": "Q15686806",
@@ -3347,6 +3673,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10311016-9D0A46C0-0088-4914-B07F-346CD5796D88",
       "person_id": "Q10311016",
+      "on_behalf_of_id": "Q1322751",
       "organization_id": "Q2119413",
       "area_id": "Q53657948",
       "role_superclass_code": "Q15686806",
@@ -3436,6 +3763,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10316457-20AF70B0-0B9C-4341-B81B-006210017A63",
       "person_id": "Q10316457",
+      "on_behalf_of_id": "Q2054750",
       "organization_id": "Q2119413",
       "area_id": "Q53657921",
       "role_superclass_code": "Q15686806",
@@ -3507,6 +3835,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10323066-6BB51B3D-0869-4111-A99A-9F0E72D81381",
       "person_id": "Q10323066",
+      "on_behalf_of_id": "Q2731720",
       "organization_id": "Q2119413",
       "area_id": "Q53657965",
       "role_superclass_code": "Q15686806",
@@ -3614,6 +3943,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10326175-4A4874E8-0CFA-4D5E-93B7-51436ED929B4",
       "person_id": "Q10326175",
+      "on_behalf_of_id": "Q1185830",
       "organization_id": "Q2119413",
       "area_id": "Q53657995",
       "role_superclass_code": "Q15686806",
@@ -3631,6 +3961,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10340805-2C7CEF26-A31A-4E07-94C3-652ABEA2B137",
       "person_id": "Q10340805",
+      "on_behalf_of_id": "Q2054750",
       "organization_id": "Q2119413",
       "area_id": "Q53657952",
       "role_superclass_code": "Q15686806",
@@ -3648,6 +3979,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10342495-08295D5D-DB5E-4312-B841-8FB5424CD2CF",
       "person_id": "Q10342495",
+      "on_behalf_of_id": "Q2054750",
       "organization_id": "Q2119413",
       "area_id": "Q53657914",
       "role_superclass_code": "Q15686806",
@@ -3665,6 +3997,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10346792-786866F3-601A-4C53-B767-9113F7BB6EE6",
       "person_id": "Q10346792",
+      "on_behalf_of_id": "Q657089",
       "organization_id": "Q2119413",
       "area_id": "Q53657934",
       "role_superclass_code": "Q15686806",
@@ -3682,6 +4015,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10347393-92F1622A-0B0B-4A01-B38F-9F6F170AA61D",
       "person_id": "Q10347393",
+      "on_behalf_of_id": "Q926973",
       "organization_id": "Q2119413",
       "area_id": "Q53657992",
       "role_superclass_code": "Q15686806",
@@ -3750,8 +4084,27 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q10358356-1FCB42B9-2A9A-4142-9070-34EF67E2ED28",
+      "person_id": "Q10358356",
+      "on_behalf_of_id": "Q732852",
+      "organization_id": "Q2119413",
+      "area_id": "Q53658005",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:pt-br": "Senador",
+        "lang:pt": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18964326",
+      "role": {
+        "lang:pt-br": "Senador",
+        "lang:en": "Member of the Senate of Brazil"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q10361128-A5F51CD7-44DF-4E49-81E4-F4DEA6B4AF6A",
       "person_id": "Q10361128",
+      "on_behalf_of_id": "Q1322897",
       "organization_id": "Q2119413",
       "area_id": "Q53657965",
       "role_superclass_code": "Q15686806",
@@ -3840,6 +4193,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10376208-910095E2-372F-483F-A044-C6C579AB93E8",
       "person_id": "Q10376208",
+      "on_behalf_of_id": "Q2054750",
       "organization_id": "Q2119413",
       "area_id": "Q53658013",
       "role_superclass_code": "Q15686806",
@@ -3911,6 +4265,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10388739-7809D80B-C8E6-4003-95C9-74F343B37D09",
       "person_id": "Q10388739",
+      "on_behalf_of_id": "Q1322751",
       "organization_id": "Q2119413",
       "area_id": "Q53658005",
       "role_superclass_code": "Q15686806",
@@ -3928,6 +4283,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10390313-67F01476-93D9-45E6-8C05-41481BC687B3",
       "person_id": "Q10390313",
+      "on_behalf_of_id": "Q2731720",
       "organization_id": "Q2119413",
       "area_id": "Q53658010",
       "role_superclass_code": "Q15686806",
@@ -3963,6 +4319,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10392934-A62DFD5B-64BF-4493-B387-2411C689F602",
       "person_id": "Q10392934",
+      "on_behalf_of_id": "Q1322751",
       "organization_id": "Q2119413",
       "area_id": "Q53657992",
       "role_superclass_code": "Q15686806",
@@ -3997,6 +4354,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10395785-53091A6E-07EF-4E97-8061-DDB8ED6419B9",
       "person_id": "Q10395785",
+      "on_behalf_of_id": "Q3181274",
       "organization_id": "Q2119413",
       "area_id": "Q53657927",
       "role_superclass_code": "Q15686806",
@@ -4031,6 +4389,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q13491651-6BEF467D-9F84-4BDA-ABBF-8CFFC2ED7E0F",
       "person_id": "Q13491651",
+      "on_behalf_of_id": "Q1414708",
       "organization_id": "Q2119413",
       "area_id": "Q53658005",
       "role_superclass_code": "Q15686806",
@@ -4048,6 +4407,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q15985219-14EB385E-EF1C-4014-994B-ED48E1395BCD",
       "person_id": "Q15985219",
+      "on_behalf_of_id": "Q732852",
       "organization_id": "Q2119413",
       "area_id": "Q53657985",
       "role_superclass_code": "Q15686806",
@@ -4101,6 +4461,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16336706-E78B7986-B8C4-4491-8B06-BBF4A34CB352",
       "person_id": "Q16336706",
+      "on_behalf_of_id": "Q2054789",
       "organization_id": "Q2119413",
       "area_id": "Q53657995",
       "role_superclass_code": "Q15686806",
@@ -4208,6 +4569,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q1699224-00B4D26B-25BF-4A6B-A2B3-9A5792BC34B3",
       "person_id": "Q1699224",
+      "on_behalf_of_id": "Q1322751",
       "organization_id": "Q2119413",
       "area_id": "Q53657927",
       "role_superclass_code": "Q15686806",
@@ -4225,6 +4587,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q17490188-B28D8681-7447-467E-8819-5AD881499044",
       "person_id": "Q17490188",
+      "on_behalf_of_id": "Q2731720",
       "organization_id": "Q2119413",
       "area_id": "Q53657975",
       "role_superclass_code": "Q15686806",
@@ -4242,6 +4605,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q178649-F0309EC4-BB21-49E9-A2AE-97834F4A3B3E",
       "person_id": "Q178649",
+      "on_behalf_of_id": "Q3181274",
       "organization_id": "Q2119413",
       "area_id": "Q53657912",
       "start_date": "2015-02-01",
@@ -4260,6 +4624,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q1789919-F5C9A85C-69C3-4761-825F-6AD593AC7680",
       "person_id": "Q1789919",
+      "on_behalf_of_id": "Q2598527",
       "organization_id": "Q2119413",
       "area_id": "Q53657989",
       "role_superclass_code": "Q15686806",
@@ -4330,6 +4695,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q19710265-B714A5BA-FE98-4024-A347-5440F7E69239",
       "person_id": "Q19710265",
+      "on_behalf_of_id": "Q3181274",
       "organization_id": "Q2119413",
       "area_id": "Q53657975",
       "role_superclass_code": "Q15686806",
@@ -4347,6 +4713,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q20045710-0C3722F8-BA96-4173-AC6D-95E735933440",
       "person_id": "Q20045710",
+      "on_behalf_of_id": "Q1322897",
       "organization_id": "Q2119413",
       "area_id": "Q53657946",
       "role_superclass_code": "Q15686806",
@@ -4364,6 +4731,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q20045819-E135C4B6-D787-428E-8C68-D42202ED2394",
       "person_id": "Q20045819",
+      "on_behalf_of_id": "Q15564211",
       "organization_id": "Q2119413",
       "area_id": "Q53657989",
       "role_superclass_code": "Q15686806",
@@ -4381,6 +4749,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q20046132-F376225D-B841-4193-BAA9-CE28A0D6C7B9",
       "person_id": "Q20046132",
+      "on_behalf_of_id": "Q657089",
       "organization_id": "Q2119413",
       "area_id": "Q53657985",
       "role_superclass_code": "Q15686806",
@@ -4415,6 +4784,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q236503-DD3C3ECB-939D-4DA5-A8E7-E2F2BAECEB8A",
       "person_id": "Q236503",
+      "on_behalf_of_id": "Q2534868",
       "organization_id": "Q2119413",
       "area_id": "Q53657971",
       "role_superclass_code": "Q15686806",
@@ -4450,6 +4820,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q25175927-49B7FE63-2F89-4154-873C-AC7D9B1979A4",
       "person_id": "Q25175927",
+      "on_behalf_of_id": "Q2731720",
       "organization_id": "Q2119413",
       "area_id": "Q53657975",
       "role_superclass_code": "Q15686806",
@@ -4467,6 +4838,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q25175965-9B4DE1B6-9ABB-48B3-9917-96798983E15E",
       "person_id": "Q25175965",
+      "on_behalf_of_id": "Q732852",
       "organization_id": "Q2119413",
       "area_id": "Q53657914",
       "role_superclass_code": "Q15686806",
@@ -4502,6 +4874,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2875339-F1437034-E739-4787-B947-4646CECECD7A",
       "person_id": "Q2875339",
+      "on_behalf_of_id": "Q1322897",
       "organization_id": "Q2119413",
       "area_id": "Q53657910",
       "role_superclass_code": "Q15686806",
@@ -4519,6 +4892,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2881938-94CB75F4-6937-4D19-ABEB-9BC41D610D2B",
       "person_id": "Q2881938",
+      "on_behalf_of_id": "Q1322751",
       "organization_id": "Q2119413",
       "area_id": "Q53658018",
       "role_superclass_code": "Q15686806",
@@ -4608,6 +4982,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3623584-1E1E1601-6736-41A2-A27C-0B386B6855CD",
       "person_id": "Q3623584",
+      "on_behalf_of_id": "Q1322751",
       "organization_id": "Q2119413",
       "area_id": "Q53657971",
       "role_superclass_code": "Q15686806",
@@ -4643,6 +5018,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3806086-9306CD9F-ACA8-4064-B3A8-320E74E46DD9",
       "person_id": "Q3806086",
+      "on_behalf_of_id": "Q1322751",
       "organization_id": "Q2119413",
       "area_id": "Q53657934",
       "role_superclass_code": "Q15686806",
@@ -4678,6 +5054,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q457757-13CAD6FD-9CDF-4526-A2CC-438DCA9CF333",
       "person_id": "Q457757",
+      "on_behalf_of_id": "Q657089",
       "organization_id": "Q2119413",
       "area_id": "Q53657927",
       "role_superclass_code": "Q15686806",
@@ -4713,6 +5090,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4750312-CCAC2823-1813-42FC-84CB-0365FAE92599",
       "person_id": "Q4750312",
+      "on_behalf_of_id": "Q732852",
       "organization_id": "Q2119413",
       "area_id": "Q53657921",
       "role_superclass_code": "Q15686806",
@@ -4730,6 +5108,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4777647-BA8B0832-686A-44A6-880B-34EF29EA2201",
       "person_id": "Q4777647",
+      "on_behalf_of_id": "Q1322897",
       "organization_id": "Q2119413",
       "area_id": "Q53657910",
       "role_superclass_code": "Q15686806",
@@ -4747,6 +5126,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5042029-D02262D8-8699-4129-B9D3-589DE336DC83",
       "person_id": "Q5042029",
+      "on_behalf_of_id": "Q1322751",
       "organization_id": "Q2119413",
       "area_id": "Q53657952",
       "role_superclass_code": "Q15686806",
@@ -4764,6 +5144,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q519264-CB42C56F-7158-4C42-BAC1-918B40D97297",
       "person_id": "Q519264",
+      "on_behalf_of_id": "Q1322751",
       "organization_id": "Q2119413",
       "area_id": "Q53657969",
       "role_superclass_code": "Q15686806",
@@ -4779,8 +5160,81 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q56348924-01BD7D60-CFC8-448F-9AE8-AEEFB0545149",
+      "person_id": "Q56348924",
+      "on_behalf_of_id": "Q1234489",
+      "organization_id": "Q2119413",
+      "area_id": "Q53658018",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:pt-br": "Senador",
+        "lang:pt": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18964326",
+      "role": {
+        "lang:pt-br": "Senador",
+        "lang:en": "Member of the Senate of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56350608-75974B93-6412-4FCB-B5A2-9AAB8FFADCFA",
+      "person_id": "Q56350608",
+      "on_behalf_of_id": "Q3181274",
+      "organization_id": "Q2119413",
+      "area_id": "Q53657985",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:pt-br": "Senador",
+        "lang:pt": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18964326",
+      "role": {
+        "lang:pt-br": "Senador",
+        "lang:en": "Member of the Senate of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56351300-9C036F5E-64BD-4FCD-8DB4-5A63E50D124B",
+      "person_id": "Q56351300",
+      "on_behalf_of_id": "Q732852",
+      "organization_id": "Q2119413",
+      "area_id": "Q53657971",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:pt-br": "Senador",
+        "lang:pt": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18964326",
+      "role": {
+        "lang:pt-br": "Senador",
+        "lang:en": "Member of the Senate of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56762939-D91AF9FB-9DF1-45E1-A337-A9ABB54C4C50",
+      "person_id": "Q56762939",
+      "on_behalf_of_id": "Q1576143",
+      "organization_id": "Q2119413",
+      "area_id": "Q53657950",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:pt-br": "Senador",
+        "lang:pt": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18964326",
+      "role": {
+        "lang:pt-br": "Senador",
+        "lang:en": "Member of the Senate of Brazil"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q6158744-8596CF2E-B8AF-46D8-BFDD-867772684325",
       "person_id": "Q6158744",
+      "on_behalf_of_id": "Q10358279",
       "organization_id": "Q2119413",
       "area_id": "Q53658016",
       "role_superclass_code": "Q15686806",
@@ -4798,6 +5252,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6293085-66770570-4A23-492A-93C6-99F416381731",
       "person_id": "Q6293085",
+      "on_behalf_of_id": "Q1322751",
       "organization_id": "Q2119413",
       "area_id": "Q53657959",
       "role_superclass_code": "Q15686806",
@@ -4815,6 +5270,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7155276-3397015F-A395-49CB-A75C-F231EF5889F1",
       "person_id": "Q7155276",
+      "on_behalf_of_id": "Q657089",
       "organization_id": "Q2119413",
       "area_id": "Q53657921",
       "role_superclass_code": "Q15686806",
@@ -4832,6 +5288,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7638345-895DB3F8-ED0F-489B-94F6-87695A3AF316",
       "person_id": "Q7638345",
+      "on_behalf_of_id": "Q1322897",
       "organization_id": "Q2119413",
       "area_id": "Q53657959",
       "role_superclass_code": "Q15686806",
@@ -4849,6 +5306,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7687655-E5F4C746-3676-4053-8900-C24C6638075A",
       "person_id": "Q7687655",
+      "on_behalf_of_id": "Q1322897",
       "organization_id": "Q2119413",
       "area_id": "Q53657932",
       "role_superclass_code": "Q15686806",
@@ -4864,27 +5322,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q7914656-89F24842-3645-4130-956E-9004913635E1",
+      "id": "http://www.wikidata.org/entity/statement/Q7914656-EEFE29BF-06E3-4BD1-8FF2-980E66D5EF39",
       "person_id": "Q7914656",
       "on_behalf_of_id": "Q504000",
       "organization_id": "Q2119413",
       "area_id": "Q53657952",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:pt-br": "Senador",
-        "lang:pt": "senador",
-        "lang:en": "senator"
-      },
-      "role_code": "Q18964326",
-      "role": {
-        "lang:pt-br": "Senador",
-        "lang:en": "Member of the Senate of Brazil"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q7914656-EEFE29BF-06E3-4BD1-8FF2-980E66D5EF39",
-      "person_id": "Q7914656",
-      "organization_id": "Q2119413",
       "start_date": "2011-01-01",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
@@ -4901,6 +5343,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8069997-ACD4B92F-02D6-4BDF-B656-22F175AFA675",
       "person_id": "Q8069997",
+      "on_behalf_of_id": "Q1322751",
       "organization_id": "Q2119413",
       "area_id": "Q53657910",
       "role_superclass_code": "Q15686806",
@@ -4936,6 +5379,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q9015075-C01B6AF1-0976-4DDD-B563-50DF57DB4A7A",
       "person_id": "Q9015075",
+      "on_behalf_of_id": "Q2054789",
       "organization_id": "Q2119413",
       "area_id": "Q53658016",
       "role_superclass_code": "Q15686806",
@@ -4953,6 +5397,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q9018151-F2ECFF08-F195-45EA-A617-11B35FD2071B",
       "person_id": "Q9018151",
+      "on_behalf_of_id": "Q1414708",
       "organization_id": "Q2119413",
       "area_id": "Q53658010",
       "role_superclass_code": "Q15686806",
@@ -4970,6 +5415,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q9025833-EEC058B1-C41C-4108-9D52-1E47A9E01DD6",
       "person_id": "Q9025833",
+      "on_behalf_of_id": "Q2054789",
       "organization_id": "Q2119413",
       "area_id": "Q53657914",
       "role_superclass_code": "Q15686806",
@@ -5005,6 +5451,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q954775-0328C95F-2EE4-4DCC-8FC7-779CFA80E3DF",
       "person_id": "Q954775",
+      "on_behalf_of_id": "Q657089",
       "organization_id": "Q2119413",
       "area_id": "Q53658013",
       "role_superclass_code": "Q15686806",
@@ -5094,6 +5541,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q9629329-ADDCDD6E-A48A-4FA8-A051-0F01CA1E6090",
       "person_id": "Q9629329",
+      "on_behalf_of_id": "Q1576143",
       "organization_id": "Q2119413",
       "area_id": "Q53657929",
       "role_superclass_code": "Q15686806",
@@ -5111,6 +5559,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q9635925-2B885309-8CAA-48DA-98E5-033543DF83EE",
       "person_id": "Q9635925",
+      "on_behalf_of_id": "Q1322897",
       "organization_id": "Q2119413",
       "area_id": "Q53658010",
       "role_superclass_code": "Q15686806",

@@ -8849,6 +8849,23 @@
     },
     {
       "name": {
+        "lang:pt-br": "Paulo Zarzur",
+        "lang:pt": "Paulo Zarzur",
+        "lang:en": "Paulo Zarzur"
+      },
+      "id": "Q47011443",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47011443"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:pt": "Alfredo Nascimento",
         "lang:en": "Alfredo Nascimento"
       },
@@ -9663,7 +9680,7 @@
     {
       "name": {
         "lang:pt": "Indio da Costa",
-        "lang:en": "Antônio Pedro de Siqueira Indio da Costa"
+        "lang:en": "Indio da Costa"
       },
       "id": "Q771782",
       "identifiers": [
@@ -21427,6 +21444,25 @@
       "id": "http://www.wikidata.org/entity/statement/Q43193703-ae0d193c-4339-9985-30f9-453daabab0e5",
       "person_id": "Q43193703",
       "organization_id": "Q1834804",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:pt-br": "Deputado",
+        "lang:pt": "deputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q20058725",
+      "role": {
+        "lang:pt-br": "deputado federal",
+        "lang:pt": "deputado do Brasil",
+        "lang:en": "member of the Chamber of Deputies of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47011443-64F7743F-08CF-4B91-A53E-37B34671AD3D",
+      "person_id": "Q47011443",
+      "organization_id": "Q1834804",
+      "area_id": "Q53657905",
+      "start_date": "1983-01-02",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:pt-br": "Deputado",

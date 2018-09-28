@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Humberto Souto",
+        "lang:en": "Humberto Souto"
+      },
+      "id": "Q10298891",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10298891"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -18,6 +33,21 @@
         }
       ],
       "area_id": "Q651906"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Democrático Social",
+        "lang:pt": "Partido Democrático Social",
+        "lang:en": "Democratic Social Party"
+      },
+      "id": "Q1713552",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1713552"
+        }
+      ]
     }
   ],
   "areas": [
@@ -101,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10298891-5BD4FFF2-06FE-47F2-859E-35C06E2A76BD",
+      "person_id": "Q10298891",
+      "on_behalf_of_id": "Q1713552",
+      "organization_id": "Q56450044",
+      "area_id": "Q651906",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449661",
+      "role": {
+        "lang:pt-br": "Prefeito de Montes Claros",
+        "lang:pt": "Prefeito de Montes Claros",
+        "lang:en": "Mayor of Montes Claros"
+      }
+    }
   ]
 }
