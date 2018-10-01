@@ -50,23 +50,6 @@
     },
     {
       "name": {
-        "lang:pt-br": "Edison Lobão",
-        "lang:pt": "Edison Lobão",
-        "lang:en": "Edison Lobão"
-      },
-      "id": "Q10270312",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q10270312"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:pt": "Eduardo Amorim",
         "lang:en": "Eduardo Amorim"
       },
@@ -3165,6 +3148,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3183,6 +3167,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3201,30 +3186,14 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
-        "lang:en": "Member of the Senate of Brazil"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q10270312-28344CC9-2BD9-4B4D-9EA6-85EA1E2E33A6",
-      "person_id": "Q10270312",
-      "on_behalf_of_id": "Q1322751",
-      "organization_id": "Q2119413",
-      "area_id": "Q53657948",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:pt-br": "Senador",
-        "lang:pt": "senador",
-        "lang:en": "senator"
-      },
-      "role_code": "Q18964326",
-      "role": {
-        "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10270611-8360E116-719B-4F5F-B7F6-D2E176F2A47F",
       "person_id": "Q10270611",
+      "on_behalf_of_id": "Q1322897",
       "organization_id": "Q2119413",
       "area_id": "Q53657995",
       "role_superclass_code": "Q15686806",
@@ -3236,6 +3205,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3254,6 +3224,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3272,6 +3243,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3290,6 +3262,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3308,6 +3281,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3326,6 +3300,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3344,6 +3319,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3362,6 +3338,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3380,6 +3357,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3398,6 +3376,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3416,6 +3395,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3434,6 +3414,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3452,6 +3433,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3470,6 +3452,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3488,6 +3471,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3506,6 +3490,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3523,6 +3508,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3541,6 +3527,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3559,6 +3546,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3577,6 +3565,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3595,6 +3584,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3613,6 +3603,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3631,6 +3622,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3649,6 +3641,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3667,6 +3660,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3685,6 +3679,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3703,6 +3698,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3721,6 +3717,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3739,6 +3736,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3757,6 +3755,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3775,6 +3774,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3793,6 +3793,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3811,6 +3812,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3829,6 +3831,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3847,6 +3850,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3865,6 +3869,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3883,6 +3888,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3901,6 +3907,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3919,6 +3926,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3937,6 +3945,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3955,6 +3964,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3973,6 +3983,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -3991,6 +4002,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4009,6 +4021,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4027,6 +4040,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4045,12 +4059,14 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10357156-DDF902C4-45FD-42F7-9473-39357853AFD7",
       "person_id": "Q10357156",
+      "on_behalf_of_id": "Q2054750",
       "organization_id": "Q2119413",
       "area_id": "Q53657959",
       "role_superclass_code": "Q15686806",
@@ -4062,6 +4078,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4080,6 +4097,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4098,6 +4116,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4116,6 +4135,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4134,12 +4154,14 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10364598-64E5BD0C-9292-40C4-BB71-E6FAE21E45DC",
       "person_id": "Q10364598",
+      "on_behalf_of_id": "Q3181274",
       "organization_id": "Q2119413",
       "area_id": "Q53657965",
       "role_superclass_code": "Q15686806",
@@ -4151,6 +4173,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4169,6 +4192,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4187,6 +4211,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4205,6 +4230,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4223,6 +4249,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4241,6 +4268,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4259,6 +4287,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4277,6 +4306,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4295,6 +4325,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4313,6 +4344,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4331,12 +4363,14 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10393589-31ED3D6F-9E34-40F4-B84A-D851376A72BD",
       "person_id": "Q10393589",
+      "on_behalf_of_id": "Q1185830",
       "organization_id": "Q2119413",
       "area_id": "Q53657950",
       "role_superclass_code": "Q15686806",
@@ -4348,6 +4382,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4366,12 +4401,14 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10396116-846085C1-42D9-4A34-BA1C-7809320DA693",
       "person_id": "Q10396116",
+      "on_behalf_of_id": "Q1414708",
       "organization_id": "Q2119413",
       "area_id": "Q53658018",
       "role_superclass_code": "Q15686806",
@@ -4383,6 +4420,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4401,6 +4439,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4419,6 +4458,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4437,6 +4477,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4455,6 +4496,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4473,6 +4515,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4491,6 +4534,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4509,6 +4553,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4527,6 +4572,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4545,6 +4591,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4563,6 +4610,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4581,6 +4629,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4599,6 +4648,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4618,6 +4668,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4636,6 +4687,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4654,6 +4706,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4672,12 +4725,14 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q18708106-BC24B057-2DB9-4168-9E70-549CA02C1950",
       "person_id": "Q18708106",
+      "on_behalf_of_id": "Q1322897",
       "organization_id": "Q2119413",
       "area_id": "Q53657948",
       "role_superclass_code": "Q15686806",
@@ -4689,6 +4744,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4707,6 +4763,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4725,6 +4782,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4743,6 +4801,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4761,6 +4820,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4778,6 +4838,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4796,6 +4857,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4814,6 +4876,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4832,6 +4895,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4850,6 +4914,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4868,6 +4933,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4886,6 +4952,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4904,6 +4971,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4922,6 +4990,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4940,6 +5009,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4958,6 +5028,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4976,6 +5047,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -4994,6 +5066,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5012,6 +5085,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5030,6 +5104,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5048,6 +5123,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5066,6 +5142,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5084,6 +5161,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5102,6 +5180,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5120,6 +5199,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5138,6 +5218,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5156,6 +5237,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5174,6 +5256,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5192,6 +5275,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5210,6 +5294,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5228,6 +5313,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5246,6 +5332,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5264,6 +5351,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5282,6 +5370,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5300,6 +5389,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5318,6 +5408,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5337,6 +5428,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5355,6 +5447,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5373,6 +5466,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5391,6 +5485,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5409,6 +5504,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5427,6 +5523,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5445,6 +5542,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5463,6 +5561,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5481,6 +5580,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5499,6 +5599,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5517,6 +5618,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5535,6 +5637,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5553,6 +5656,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     },
@@ -5571,6 +5675,7 @@
       "role_code": "Q18964326",
       "role": {
         "lang:pt-br": "Senador",
+        "lang:pt": "senador do Brasil",
         "lang:en": "Member of the Senate of Brazil"
       }
     }
