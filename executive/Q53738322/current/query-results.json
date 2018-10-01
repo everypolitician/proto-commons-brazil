@@ -12,6 +12,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10334305"
       },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Márcio França"
+      },
       "name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -115,6 +120,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q964493"
       },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Geraldo Alckmin"
+      },
       "name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -208,11 +218,6 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q175"
-      },
-      "name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Geraldo Alckmin"
       },
       "facebook" : {
         "type" : "literal",
