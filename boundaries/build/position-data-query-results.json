@@ -13,6 +13,11 @@
         "type" : "literal",
         "value" : "Senador"
       },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "senador do Brasil"
+      },
       "position_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -93,6 +98,11 @@
         "type" : "literal",
         "value" : "deputado federal"
       },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado do Brasil"
+      },
       "position_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -162,16 +172,16 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chamber of Deputies"
-      },
-      "position_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "deputado do Brasil"
       }
     }, {
       "position" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24255165"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Prefeito de São Paulo"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -238,11 +248,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "municipal prefecture of São Paulo"
-      },
-      "position_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Prefeito de São Paulo"
       }
     }, {
       "position" : {
@@ -251,6 +256,11 @@
       },
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "prefeito de Salvador"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
         "type" : "literal",
         "value" : "prefeito de Salvador"
       },
@@ -314,11 +324,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "municipal prefecture of Salvador"
-      },
-      "position_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "prefeito de Salvador"
       }
     }, {
       "position" : {
@@ -396,84 +401,8 @@
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of Brazil"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q6256"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q155"
-      },
-      "admin_area_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Brasil"
-      },
-      "admin_area_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Brasil"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brazil"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2285706"
-      },
-      "position_superclass_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Chefe de governo"
-      },
-      "position_superclass_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "chefe de governo"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "head of government"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5015503"
-      },
-      "body_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Ministério do Brasil"
-      },
-      "body_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Ministério do Brasil"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "cabinet of Brazil"
-      },
       "position_name_pt" : {
         "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Presidente do Brasil"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5176750"
-      },
-      "position_name_pt_br" : {
-        "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Presidente do Brasil"
       },
@@ -542,11 +471,87 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "cabinet of Brazil"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5176750"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
       },
       "position_name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
         "value" : "Presidente do Brasil"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of Brazil"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazil"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2285706"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Chefe de governo"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "chefe de governo"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "head of government"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5015503"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cabinet of Brazil"
       }
     }, {
       "position" : {
@@ -4299,6 +4304,11 @@
         "type" : "literal",
         "value" : "Prefeito do Rio de Janeiro"
       },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "prefeito de Rio de Janeiro"
+      },
       "position_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4359,11 +4369,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "municipal prefecture of Rio de Janeiro"
-      },
-      "position_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "prefeito de Rio de Janeiro"
       }
     }, {
       "position" : {
