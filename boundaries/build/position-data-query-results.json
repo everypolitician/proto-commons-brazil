@@ -11,12 +11,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Senador"
+        "value" : "senador"
       },
       "position_name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "senador do Brasil"
+        "value" : "senador"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -57,7 +57,7 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Senador"
+        "value" : "senador"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -101,12 +101,12 @@
       "position_name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "deputado do Brasil"
+        "value" : "deputado federal"
       },
       "position_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of the Chamber of Deputies of Brazil"
+        "value" : "Brazilian federal deputy"
       },
       "positionType" : {
         "type" : "uri",
@@ -142,7 +142,7 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Deputado"
+        "value" : "deputado"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -370,12 +370,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -598,12 +603,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -612,7 +622,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "cabinete do governador do estado de São Paulo"
+        "value" : "gabinete do governador do estado de São Paulo"
       },
       "body_en" : {
         "xml:lang" : "en",
@@ -664,12 +674,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -711,7 +726,7 @@
       "admin_area_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Estado do Rio de Janeiro"
+        "value" : "Rio de Janeiro"
       },
       "admin_area_pt" : {
         "xml:lang" : "pt",
@@ -721,7 +736,7 @@
       "admin_area_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Rio de Janeiro State"
+        "value" : "Rio de Janeiro"
       },
       "positionSuperclass" : {
         "type" : "uri",
@@ -730,12 +745,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -796,12 +816,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -862,12 +887,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -928,12 +958,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -994,12 +1029,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -1060,12 +1100,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -1126,12 +1171,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -1192,12 +1242,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -1258,12 +1313,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -1324,12 +1384,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -1390,12 +1455,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -1456,12 +1526,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -1522,12 +1597,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -1588,12 +1668,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -1654,12 +1739,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -1720,12 +1810,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -1786,12 +1881,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -1852,12 +1952,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -1918,12 +2023,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -1984,12 +2094,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -2050,12 +2165,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -2116,12 +2236,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -2182,12 +2307,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -2248,12 +2378,17 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "body" : {
         "type" : "uri",
@@ -2315,6 +2450,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -2323,7 +2463,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -2390,6 +2530,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -2398,7 +2543,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -2449,7 +2594,7 @@
       "admin_area_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Estado do Rio de Janeiro"
+        "value" : "Rio de Janeiro"
       },
       "admin_area_pt" : {
         "xml:lang" : "pt",
@@ -2459,11 +2604,16 @@
       "admin_area_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Rio de Janeiro State"
+        "value" : "Rio de Janeiro"
       },
       "positionSuperclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -2473,7 +2623,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -2540,6 +2690,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -2548,7 +2703,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -2615,6 +2770,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -2623,7 +2783,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -2690,6 +2850,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -2698,7 +2863,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -2765,6 +2930,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -2773,7 +2943,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -2840,6 +3010,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -2848,7 +3023,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -2915,6 +3090,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -2923,7 +3103,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -2990,6 +3170,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -2998,7 +3183,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -3065,6 +3250,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -3073,7 +3263,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -3140,6 +3330,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -3148,7 +3343,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -3215,6 +3410,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -3223,7 +3423,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -3290,6 +3490,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -3298,7 +3503,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -3365,6 +3570,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -3373,7 +3583,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -3440,6 +3650,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -3448,7 +3663,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -3515,6 +3730,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -3523,7 +3743,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -3590,6 +3810,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -3598,7 +3823,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -3665,6 +3890,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -3673,7 +3903,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -3740,6 +3970,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -3748,7 +3983,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -3815,6 +4050,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -3823,7 +4063,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -3890,6 +4130,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -3898,7 +4143,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -3965,6 +4210,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -3973,7 +4223,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -4040,6 +4290,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -4048,7 +4303,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -4115,6 +4370,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -4123,7 +4383,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -4190,6 +4450,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -4198,7 +4463,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -4265,6 +4530,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10265290"
       },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -4273,7 +4543,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "state deputy"
+        "value" : "Brazilian state deputy"
       },
       "body" : {
         "type" : "uri",
@@ -4325,7 +4595,7 @@
       "admin_area_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Cidade do Rio de Janeiro"
+        "value" : "Rio de Janeiro"
       },
       "admin_area_pt" : {
         "xml:lang" : "pt",
@@ -4510,7 +4780,7 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipal prefecture of Belo Horizonte"
+        "value" : "Municipal Prefecture of Belo Horizonte"
       }
     }, {
       "position" : {
@@ -5261,7 +5531,7 @@
       "admin_area_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Cidade do Rio de Janeiro"
+        "value" : "Rio de Janeiro"
       },
       "admin_area_pt" : {
         "xml:lang" : "pt",
@@ -12304,7 +12574,7 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipal prefecture of Vitoria"
+        "value" : "Municipal Prefecture of Vitoria"
       },
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
