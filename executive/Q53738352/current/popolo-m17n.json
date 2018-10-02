@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Ricardo Coutinho",
+        "lang:en": "Ricardo Coutinho"
+      },
+      "id": "Q7322605",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7322605"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -17,6 +32,21 @@
         }
       ],
       "area_id": "Q38088"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Socialista Brasileiro",
+        "lang:pt": "Partido Socialista Brasileiro",
+        "lang:en": "Brazilian Socialist Party"
+      },
+      "id": "Q2054789",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2054789"
+        }
+      ]
     }
   ],
   "areas": [
@@ -74,6 +104,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7322605-9B64B2BA-A2A1-4DB8-BBAA-0B7D628E1B44",
+      "person_id": "Q7322605",
+      "on_behalf_of_id": "Q2054789",
+      "organization_id": "Q53738352",
+      "area_id": "Q38088",
+      "role_superclass_code": "Q25921469",
+      "role_superclass": {
+        "lang:pt-br": "governador",
+        "lang:pt": "governador",
+        "lang:en": "state governor of Brazil"
+      },
+      "role_code": "Q53739363",
+      "role": {
+        "lang:pt-br": "governador do estado da Paraíba",
+        "lang:en": "governor of the state of Paraiba"
+      }
+    }
   ]
 }
