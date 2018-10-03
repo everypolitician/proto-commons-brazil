@@ -1,6 +1,20 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Daniel Pereira"
+      },
+      "id": "Q56843186",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56843186"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -74,6 +88,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56843186-949D9B9D-2A3E-4C85-B29C-6CBAC82086CD",
+      "person_id": "Q56843186",
+      "organization_id": "Q53738377",
+      "area_id": "Q43235",
+      "role_superclass_code": "Q25921469",
+      "role_superclass": {
+        "lang:pt-br": "governador",
+        "lang:pt": "governador",
+        "lang:en": "state governor of Brazil"
+      },
+      "role_code": "Q53739384",
+      "role": {
+        "lang:pt-br": "governador do estado de Rondônia",
+        "lang:en": "governor of the state of Rondonia"
+      }
+    }
   ]
 }

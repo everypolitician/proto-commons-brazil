@@ -62,12 +62,17 @@
       "role_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Governador do Brasil"
+        "value" : "governador"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "governador"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Governor of Brazil"
+        "value" : "state governor of Brazil"
       },
       "org" : {
         "type" : "uri",

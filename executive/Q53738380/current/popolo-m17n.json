@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Waldez Góes",
+        "lang:en": "Waldez Góes"
+      },
+      "id": "Q9095459",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9095459"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -17,6 +32,21 @@
         }
       ],
       "area_id": "Q40130"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Democrático Trabalhista",
+        "lang:pt": "Partido Democrático Trabalhista",
+        "lang:en": "Democratic Labour Party"
+      },
+      "id": "Q1414708",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1414708"
+        }
+      ]
     }
   ],
   "areas": [
@@ -74,6 +104,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9095459-C4680436-2D66-4E5B-B5FB-42A9CEC7ED55",
+      "person_id": "Q9095459",
+      "on_behalf_of_id": "Q1414708",
+      "organization_id": "Q53738380",
+      "area_id": "Q40130",
+      "role_superclass_code": "Q25921469",
+      "role_superclass": {
+        "lang:pt-br": "governador",
+        "lang:pt": "governador",
+        "lang:en": "state governor of Brazil"
+      },
+      "role_code": "Q53739389",
+      "role": {
+        "lang:pt-br": "governador do estado do Amapá",
+        "lang:en": "governor of the state of Amapa"
+      }
+    }
   ]
 }
