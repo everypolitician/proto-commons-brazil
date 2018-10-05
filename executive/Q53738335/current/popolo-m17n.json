@@ -105,29 +105,12 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q7521412-792650E3-2AE8-4698-BD88-1393C9E130B2",
-      "person_id": "Q7521412",
-      "on_behalf_of_id": "Q1322897",
-      "organization_id": "Q53738335",
-      "area_id": "Q39517",
-      "role_superclass_code": "Q25921469",
-      "role_superclass": {
-        "lang:pt-br": "governador",
-        "lang:pt": "governador",
-        "lang:en": "state governor of Brazil"
-      },
-      "role_code": "Q53739346",
-      "role": {
-        "lang:pt-br": "governador do estado do Pará",
-        "lang:en": "governor of the state of Para"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q7521412-871187F3-3572-4A33-A3AA-C98986932C71",
       "person_id": "Q7521412",
       "on_behalf_of_id": "Q1322897",
       "organization_id": "Q53738335",
       "area_id": "Q39517",
+      "start_date": "2011-01-01",
       "role_superclass_code": "Q25921469",
       "role_superclass": {
         "lang:pt-br": "governador",
@@ -137,7 +120,7 @@
       "role_code": "Q53739346",
       "role": {
         "lang:pt-br": "governador do estado do Pará",
-        "lang:en": "governor of the state of Para"
+        "lang:en": "governor of the state of Pará"
       }
     }
   ]
