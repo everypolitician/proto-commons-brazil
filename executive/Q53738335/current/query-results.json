@@ -6,114 +6,6 @@
     "bindings" : [ {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7521412-792650E3-2AE8-4698-BD88-1393C9E130B2"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7521412"
-      },
-      "name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Simão Jatene"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Simão Jatene"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1322897"
-      },
-      "party_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Partido da Social Democracia Brasileira"
-      },
-      "party_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Partido da Social Democracia Brasileira"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brazilian Social Democracy Party"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q39517"
-      },
-      "district_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Pará"
-      },
-      "district_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Pará"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pará"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53739346"
-      },
-      "role_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "governador do estado do Pará"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor of the state of Para"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q25921469"
-      },
-      "role_superclass_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "governador"
-      },
-      "role_superclass_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "governador"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "state governor of Brazil"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53738335"
-      },
-      "org_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "cabinete do governador do estado do Pará"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "cabinet of the governor of the state of Para"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q39517"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7521412-871187F3-3572-4A33-A3AA-C98986932C71"
       },
       "item" : {
@@ -180,7 +72,12 @@
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "governor of the state of Para"
+        "value" : "governor of the state of Pará"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-01-01T00:00:00Z"
       },
       "role_superclass" : {
         "type" : "uri",

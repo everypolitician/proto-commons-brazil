@@ -79,6 +79,11 @@
         "type" : "literal",
         "value" : "governor of the state of Bahia"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-01-01T00:00:00Z"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "ruicostaoficial"
