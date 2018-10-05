@@ -110,24 +110,7 @@
       "on_behalf_of_id": "Q657089",
       "organization_id": "Q53738379",
       "area_id": "Q40780",
-      "role_superclass_code": "Q25921469",
-      "role_superclass": {
-        "lang:pt-br": "governador",
-        "lang:pt": "governador",
-        "lang:en": "state governor of Brazil"
-      },
-      "role_code": "Q47520037",
-      "role": {
-        "lang:pt-br": "Goverdador do Estado do Acre",
-        "lang:en": "Governor of Acre"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q212394-DA78FF05-7C18-493A-8F82-8E291F6BAE2F",
-      "person_id": "Q212394",
-      "on_behalf_of_id": "Q657089",
-      "organization_id": "Q53738379",
-      "area_id": "Q40780",
+      "start_date": "2011-02-01",
       "role_superclass_code": "Q25921469",
       "role_superclass": {
         "lang:pt-br": "governador",

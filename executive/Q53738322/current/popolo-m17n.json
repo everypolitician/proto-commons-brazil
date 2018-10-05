@@ -16,26 +16,6 @@
       "links": [
 
       ]
-    },
-    {
-      "name": {
-        "lang:pt-br": "Geraldo Alckmin",
-        "lang:pt": "Geraldo Alckmin",
-        "lang:en": "Geraldo Alckmin"
-      },
-      "id": "Q964493",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q964493"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/geraldoalckmin"
-        }
-      ]
     }
   ],
   "organizations": [
@@ -53,21 +33,6 @@
         }
       ],
       "area_id": "Q175"
-    },
-    {
-      "name": {
-        "lang:pt-br": "Partido da Social Democracia Brasileira",
-        "lang:pt": "Partido da Social Democracia Brasileira",
-        "lang:en": "Brazilian Social Democracy Party"
-      },
-      "id": "Q1322897",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1322897"
-        }
-      ]
     },
     {
       "name": {
@@ -144,24 +109,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q10334305-A6CA8760-D9A3-4201-BDA0-1E6A4932B52A",
       "person_id": "Q10334305",
       "on_behalf_of_id": "Q2054789",
-      "organization_id": "Q53738322",
-      "area_id": "Q175",
-      "role_superclass_code": "Q25921469",
-      "role_superclass": {
-        "lang:pt-br": "governador",
-        "lang:pt": "governador",
-        "lang:en": "state governor of Brazil"
-      },
-      "role_code": "Q53739335",
-      "role": {
-        "lang:pt-br": "governador do estado de São Paulo",
-        "lang:en": "governor of the state of Sao Paulo"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q964493-516E4291-D666-48B0-946F-6697B036E524",
-      "person_id": "Q964493",
-      "on_behalf_of_id": "Q1322897",
       "organization_id": "Q53738322",
       "area_id": "Q175",
       "role_superclass_code": "Q25921469",

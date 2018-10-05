@@ -2,13 +2,14 @@
   "persons": [
     {
       "name": {
-        "lang:pt": "Eduardo Pinho Moreira"
+        "lang:pt": "Eduardo Pinho Moreira",
+        "lang:en": "Eduardo Pinho Moreira"
       },
-      "id": "Q56126279",
+      "id": "Q3048367",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q56126279"
+          "identifier": "Q3048367"
         }
       ],
       "links": [
@@ -31,6 +32,21 @@
         }
       ],
       "area_id": "Q41115"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Movimento Democrático Brasileiro",
+        "lang:pt": "Movimento Democrático Brasileiro",
+        "lang:en": "Democratic Movement Party"
+      },
+      "id": "Q1322751",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322751"
+        }
+      ]
     }
   ],
   "areas": [
@@ -89,27 +105,12 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q56126279-17B16D59-3C98-435C-9D85-974A4D985648",
-      "person_id": "Q56126279",
+      "id": "http://www.wikidata.org/entity/statement/Q3048367-C678CCAB-AFED-4CDF-9CE6-30894D85DDCC",
+      "person_id": "Q3048367",
+      "on_behalf_of_id": "Q1322751",
       "organization_id": "Q53738342",
       "area_id": "Q41115",
-      "role_superclass_code": "Q25921469",
-      "role_superclass": {
-        "lang:pt-br": "governador",
-        "lang:pt": "governador",
-        "lang:en": "state governor of Brazil"
-      },
-      "role_code": "Q53739354",
-      "role": {
-        "lang:pt-br": "governador do estado de Santa Catarina",
-        "lang:en": "governor of the state of Santa Catarina"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q56126279-1FEDCFCF-7332-48D3-9039-7396D4025920",
-      "person_id": "Q56126279",
-      "organization_id": "Q53738342",
-      "area_id": "Q41115",
+      "start_date": "2018-04-01",
       "role_superclass_code": "Q25921469",
       "role_superclass": {
         "lang:pt-br": "governador",
