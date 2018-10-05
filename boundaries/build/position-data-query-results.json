@@ -3968,22 +3968,22 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10265290"
+        "value" : "http://www.wikidata.org/entity/Q10265289"
       },
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deputado estadual"
+        "value" : "deputato distrital"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "deputado estadual"
+        "value" : "Deputado distrital"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Brazilian state deputy"
+        "value" : "Brazilian District Deputy"
       },
       "body" : {
         "type" : "uri",
