@@ -2213,7 +2213,7 @@
     {
       "name": {
         "lang:pt-br": "Senado Federal",
-        "lang:pt": "Senado Federal do Brasil",
+        "lang:pt": "Senado d0  mundo",
         "lang:en": "Federal Senate of Brazil"
       },
       "id": "Q2119413",
@@ -5435,6 +5435,24 @@
       "on_behalf_of_id": "Q1322897",
       "organization_id": "Q2119413",
       "area_id": "Q53657932",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:pt-br": "senador",
+        "lang:pt": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18964326",
+      "role": {
+        "lang:pt-br": "senador",
+        "lang:pt": "senador",
+        "lang:en": "Member of the Senate of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7914656-5037032A-6680-49AB-A446-35C68BD7A973",
+      "person_id": "Q7914656",
+      "organization_id": "Q2119413",
+      "area_id": "Q53657952",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:pt-br": "senador",
