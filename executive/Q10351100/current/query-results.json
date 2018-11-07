@@ -119,133 +119,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q10311413-bc77641c-4efe-8ba1-36cc-e596d3829b00"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10311413"
-      },
-      "name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "João Doria Júnior"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "João Doria Júnior"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1322897"
-      },
-      "party_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Partido da Social Democracia Brasileira"
-      },
-      "party_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Partido da Social Democracia Brasileira"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brazilian Social Democracy Party"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q174"
-      },
-      "district_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "São Paulo"
-      },
-      "district_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "São Paulo"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "São Paulo"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24255165"
-      },
-      "role_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Prefeito de São Paulo"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of São Paulo"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "prefeito"
-      },
-      "role_superclass_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "prefeito"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10351100"
-      },
-      "org_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "prefeitura municipal de São Paulo"
-      },
-      "org_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Prefeitura do Município de São Paulo"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipal prefecture of São Paulo"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q174"
-      },
-      "name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "João Doria Júnior"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-01-01T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "jdoriajr"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q10353688-40434ce3-46da-1527-9205-804f04496e71"
       },
       "item" : {
@@ -589,7 +462,7 @@
       },
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q732852"
+        "value" : "http://www.wikidata.org/entity/Q25442815"
       },
       "party_name_pt_br" : {
         "xml:lang" : "pt-br",
@@ -599,12 +472,12 @@
       "party_name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Partido Progressista"
+        "value" : "Partido Progressista Brasileiro"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Progressive Party"
+        "value" : "Brazilian Progressive Party"
       },
       "district" : {
         "type" : "uri",
@@ -1034,6 +907,10 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "José Serra"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "JoseSerraOficial"
       }
     }, {
       "statement" : {
@@ -1178,7 +1055,7 @@
       },
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q732852"
+        "value" : "http://www.wikidata.org/entity/Q25442815"
       },
       "party_name_pt_br" : {
         "xml:lang" : "pt-br",
@@ -1188,12 +1065,12 @@
       "party_name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Partido Progressista"
+        "value" : "Partido Progressista Brasileiro"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Progressive Party"
+        "value" : "Brazilian Progressive Party"
       },
       "district" : {
         "type" : "uri",
@@ -1296,7 +1173,7 @@
       },
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q732852"
+        "value" : "http://www.wikidata.org/entity/Q25442815"
       },
       "party_name_pt_br" : {
         "xml:lang" : "pt-br",
@@ -1306,12 +1183,12 @@
       "party_name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Partido Progressista"
+        "value" : "Partido Progressista Brasileiro"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Progressive Party"
+        "value" : "Brazilian Progressive Party"
       },
       "district" : {
         "type" : "uri",
@@ -1619,14 +1496,14 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q174"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "BrunoCovasOficial"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-04-06T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "BrunoCovasOficial"
       }
     } ]
   }

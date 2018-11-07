@@ -52,7 +52,7 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "role_superclass_pt" : {
         "xml:lang" : "pt",
@@ -62,7 +62,7 @@
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "org" : {
         "type" : "uri",
