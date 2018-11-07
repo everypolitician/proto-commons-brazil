@@ -51,6 +51,11 @@
         "type" : "literal",
         "value" : "Marielle Franco"
       },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Marielle Franco"
+      },
       "name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
@@ -87,11 +92,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "51"
-      },
-      "name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Marielle Franco"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
