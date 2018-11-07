@@ -1,6 +1,20 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Plínio Valério"
+      },
+      "id": "Q58237552",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58237552"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -104,6 +118,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58237552-f0ad85ca-4afb-b5fa-d312-03282f0f7b2c",
+      "person_id": "Q58237552",
+      "organization_id": "Q53935013",
+      "start_date": "2013-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt-br": "vereador",
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53935014",
+      "role": {
+        "lang:pt-br": "Vereador de Manaus",
+        "lang:en": "Councillor of Manaus"
+      }
+    }
   ]
 }

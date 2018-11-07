@@ -304,7 +304,7 @@
     "organization_id": "Q53738335",
     "organization_name": {
       "lang:pt-br": "cabinete do governador do estado do Pará",
-      "lang:en": "cabinet of the governor of the state of Para"
+      "lang:en": "cabinet of the governor of the state of Pará"
     }
   },
   {
@@ -705,7 +705,7 @@
     "role_type": "Q4175034",
     "organization_id": "Q6583209",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado do Rio de Janeiro",
+      "lang:pt-br": "Assembleia Legislativa do Estado do Rio de Janeiro",
       "lang:pt": "Assembleia Legislativa do Estado do Rio de Janeiro",
       "lang:en": "Legislative Assembly of Rio de Janeiro"
     }
@@ -1054,7 +1054,7 @@
     },
     "generic_role_id": "Q10265289",
     "generic_role_name": {
-      "lang:pt-br": "deputato distrital",
+      "lang:pt-br": "deputado distrital",
       "lang:pt": "Deputado distrital",
       "lang:en": "Brazilian District Deputy"
     },
@@ -1458,7 +1458,8 @@
   {
     "role_id": "Q53934877",
     "role_name": {
-      "lang:pt-br": "Vereador de São Paulo",
+      "lang:pt-br": "vereador de São Paulo",
+      "lang:pt": "vereador de São Paulo",
       "lang:en": "Councillor of São Paulo"
     },
     "generic_role_id": "Q708492",
@@ -1480,6 +1481,7 @@
     "role_id": "Q53934881",
     "role_name": {
       "lang:pt-br": "Vereador de Rio de Janeiro",
+      "lang:pt": "vereador do Rio de Janeiro",
       "lang:en": "Councillor of Rio de Janeiro"
     },
     "generic_role_id": "Q708492",
@@ -1749,10 +1751,10 @@
     "role_name": {
       "lang:en": "Subprefect of Perus"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1766,10 +1768,10 @@
     "role_name": {
       "lang:en": "Subprefect of Pirituba"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1783,10 +1785,10 @@
     "role_name": {
       "lang:en": "Subprefect of Freguesia do Ó"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1800,10 +1802,10 @@
     "role_name": {
       "lang:en": "Subprefect of Casa Verde"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1817,10 +1819,10 @@
     "role_name": {
       "lang:en": "Subprefect of Santana-Tucuruvi"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1834,10 +1836,10 @@
     "role_name": {
       "lang:en": "Subprefect of Jaçanã/Tremembé"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1851,10 +1853,10 @@
     "role_name": {
       "lang:en": "Subprefect of Vila Maria"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1868,10 +1870,10 @@
     "role_name": {
       "lang:en": "Subprefect of Lapa"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1885,10 +1887,10 @@
     "role_name": {
       "lang:en": "Subprefect of São Miguel Paulista"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1902,10 +1904,10 @@
     "role_name": {
       "lang:en": "Subprefect of Itaim Paulista/Vila Curuçá"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1919,10 +1921,10 @@
     "role_name": {
       "lang:en": "Subprefect of Mooca"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1936,10 +1938,10 @@
     "role_name": {
       "lang:en": "Subprefect of Aricanduva/Formosa/Carrão"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1953,10 +1955,10 @@
     "role_name": {
       "lang:en": "Subprefect of Sé"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1970,10 +1972,10 @@
     "role_name": {
       "lang:en": "Subprefect of Butantã"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1987,10 +1989,10 @@
     "role_name": {
       "lang:en": "Subprefect of Pinheiros"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2004,10 +2006,10 @@
     "role_name": {
       "lang:en": "Subprefect of Vila Mariana"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2021,10 +2023,10 @@
     "role_name": {
       "lang:en": "Subprefect of Ipiranga"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2038,10 +2040,10 @@
     "role_name": {
       "lang:en": "Subprefect of Santo Amaro"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2055,10 +2057,10 @@
     "role_name": {
       "lang:en": "Subprefect of Jabaquara"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2072,10 +2074,10 @@
     "role_name": {
       "lang:en": "Subprefect of Cidade Ademar"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2089,10 +2091,10 @@
     "role_name": {
       "lang:en": "Subprefect of Campo Limpo"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2106,10 +2108,10 @@
     "role_name": {
       "lang:en": "Subprefect of M'Boi Mirim"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2123,10 +2125,10 @@
     "role_name": {
       "lang:en": "Subprefect of Capela do Socorro"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2140,10 +2142,10 @@
     "role_name": {
       "lang:en": "Subprefect of Parelheiros"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2157,10 +2159,10 @@
     "role_name": {
       "lang:en": "Subprefect of Penha"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2174,10 +2176,10 @@
     "role_name": {
       "lang:en": "Subprefect of Ermelino Matarazzo"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2191,10 +2193,10 @@
     "role_name": {
       "lang:en": "Subprefect of Itaquera"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2208,10 +2210,10 @@
     "role_name": {
       "lang:en": "Subprefect of Guaianases"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2225,10 +2227,10 @@
     "role_name": {
       "lang:en": "Subprefect of Vila Prudente"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2242,10 +2244,10 @@
     "role_name": {
       "lang:en": "Subprefect of São Mateus"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2259,10 +2261,10 @@
     "role_name": {
       "lang:en": "Subprefect of Cidade Tiradentes"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2276,10 +2278,10 @@
     "role_name": {
       "lang:en": "Subprefect of Sapopemba"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2389,7 +2391,7 @@
       "lang:pt": "prefeito",
       "lang:en": "mayor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": null,
     "organization_id": "Q56449991",
     "organization_name": {
@@ -2411,7 +2413,7 @@
       "lang:pt": "prefeito",
       "lang:en": "mayor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": null,
     "organization_id": "Q56449993",
     "organization_name": {
@@ -2455,7 +2457,7 @@
       "lang:pt": "prefeito",
       "lang:en": "mayor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": null,
     "organization_id": "Q56449995",
     "organization_name": {
@@ -2675,7 +2677,7 @@
       "lang:pt": "prefeito",
       "lang:en": "mayor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": null,
     "organization_id": "Q56450009",
     "organization_name": {
@@ -2719,7 +2721,7 @@
       "lang:pt": "prefeito",
       "lang:en": "mayor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": null,
     "organization_id": "Q56450013",
     "organization_name": {
@@ -2829,7 +2831,7 @@
       "lang:pt": "prefeito",
       "lang:en": "mayor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": null,
     "organization_id": "Q56450019",
     "organization_name": {
@@ -3027,7 +3029,7 @@
       "lang:pt": "prefeito",
       "lang:en": "mayor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": null,
     "organization_id": "Q56450029",
     "organization_name": {
@@ -3709,7 +3711,7 @@
       "lang:pt": "prefeito",
       "lang:en": "mayor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": null,
     "organization_id": "Q56450070",
     "organization_name": {
@@ -4479,7 +4481,7 @@
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": "Q4175034",
     "organization_id": "Q25418761",
     "organization_name": {
@@ -4501,7 +4503,7 @@
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": "Q4175034",
     "organization_id": "Q56450223",
     "organization_name": {
@@ -4545,7 +4547,7 @@
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": "Q4175034",
     "organization_id": "Q56450225",
     "organization_name": {
@@ -4765,7 +4767,7 @@
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": "Q4175034",
     "organization_id": "Q56450234",
     "organization_name": {
@@ -4809,7 +4811,7 @@
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": "Q4175034",
     "organization_id": "Q20045706",
     "organization_name": {
@@ -4919,7 +4921,7 @@
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": "Q4175034",
     "organization_id": "Q56450239",
     "organization_name": {
@@ -5117,7 +5119,7 @@
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": "Q4175034",
     "organization_id": "Q56450251",
     "organization_name": {
@@ -5799,7 +5801,7 @@
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": "Q4175034",
     "organization_id": "Q56450280",
     "organization_name": {

@@ -1,25 +1,6 @@
 {
   "persons": [
-    {
-      "name": {
-        "lang:pt-br": "Luiza Maia",
-        "lang:pt": "Luiza Maia",
-        "lang:en": "Luiza Maia"
-      },
-      "id": "Q10320900",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q10320900"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/luizamaiaBA"
-        }
-      ]
-    }
+
   ],
   "organizations": [
     {
@@ -40,21 +21,6 @@
       "seat_counts": {
         "Q53864926": "63"
       }
-    },
-    {
-      "name": {
-        "lang:pt-br": "Partido dos Trabalhadores",
-        "lang:pt": "Partido dos Trabalhadores",
-        "lang:en": "Workers' Party"
-      },
-      "id": "Q657089",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q657089"
-        }
-      ]
     }
   ],
   "areas": [
@@ -112,22 +78,6 @@
     }
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q10320900-54C2F938-B2E0-4BC7-B1B9-2966904EAEDD",
-      "person_id": "Q10320900",
-      "on_behalf_of_id": "Q657089",
-      "organization_id": "Q9633175",
-      "role_superclass_code": "Q10265290",
-      "role_superclass": {
-        "lang:pt-br": "deputado estadual",
-        "lang:pt": "deputado estadual",
-        "lang:en": "Brazilian state deputy"
-      },
-      "role_code": "Q53864926",
-      "role": {
-        "lang:pt-br": "deutado estadual de Bahia",
-        "lang:en": "state deputy of Bahia"
-      }
-    }
+
   ]
 }

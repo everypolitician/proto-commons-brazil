@@ -18,26 +18,6 @@
     },
     {
       "name": {
-        "lang:pt-br": "João Doria Júnior",
-        "lang:pt": "João Doria Júnior",
-        "lang:en": "João Doria Júnior"
-      },
-      "id": "Q10311413",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q10311413"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/jdoriajr"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:pt": "Prestes Maia",
         "lang:en": "Francisco Prestes Maia"
       },
@@ -150,7 +130,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/JoseSerraOficial"
+        }
       ]
     },
     {
@@ -307,6 +290,21 @@
     },
     {
       "name": {
+        "lang:pt-br": "Partido Progressista",
+        "lang:pt": "Partido Progressista Brasileiro",
+        "lang:en": "Brazilian Progressive Party"
+      },
+      "id": "Q25442815",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25442815"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:pt-br": "Aliança Renovadora Nacionalista",
         "lang:pt": "Aliança Renovadora Nacional",
         "lang:en": "National Renewal Alliance Party"
@@ -332,21 +330,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q657089"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:pt-br": "Partido Progressista",
-        "lang:pt": "Partido Progressista",
-        "lang:en": "Progressive Party"
-      },
-      "id": "Q732852",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q732852"
         }
       ]
     },
@@ -465,25 +448,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q10311413-bc77641c-4efe-8ba1-36cc-e596d3829b00",
-      "person_id": "Q10311413",
-      "on_behalf_of_id": "Q1322897",
-      "organization_id": "Q10351100",
-      "area_id": "Q174",
-      "start_date": "2017-01-01",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:pt-br": "prefeito",
-        "lang:pt": "prefeito",
-        "lang:en": "mayor"
-      },
-      "role_code": "Q24255165",
-      "role": {
-        "lang:pt": "Prefeito de São Paulo",
-        "lang:en": "Mayor of São Paulo"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q10353688-40434ce3-46da-1527-9205-804f04496e71",
       "person_id": "Q10353688",
       "organization_id": "Q10351100",
@@ -539,7 +503,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q1857846-CC5BB7B8-B3FC-41EB-8601-BD3155AC966B",
       "person_id": "Q1857846",
-      "on_behalf_of_id": "Q732852",
+      "on_behalf_of_id": "Q25442815",
       "organization_id": "Q10351100",
       "area_id": "Q174",
       "role_superclass_code": "Q30185",
@@ -629,7 +593,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4776958-59f99f30-48a4-5208-f510-7f67e5754329",
       "person_id": "Q4776958",
-      "on_behalf_of_id": "Q732852",
+      "on_behalf_of_id": "Q25442815",
       "organization_id": "Q10351100",
       "area_id": "Q174",
       "role_superclass_code": "Q30185",
@@ -647,7 +611,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q549835-40204e52-41f1-dcbb-aaad-92ebc258da14",
       "person_id": "Q549835",
-      "on_behalf_of_id": "Q732852",
+      "on_behalf_of_id": "Q25442815",
       "organization_id": "Q10351100",
       "area_id": "Q174",
       "role_superclass_code": "Q30185",
