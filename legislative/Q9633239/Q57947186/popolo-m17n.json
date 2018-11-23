@@ -1,25 +1,6 @@
 {
   "persons": [
-    {
-      "name": {
-        "lang:pt-br": "Marlon Santos",
-        "lang:pt": "Marlon Santos",
-        "lang:en": "Marlon Santos"
-      },
-      "id": "Q10326642",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q10326642"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/MarlonSantosCachoeira"
-        }
-      ]
-    }
+
   ],
   "organizations": [
     {
@@ -40,21 +21,6 @@
       "seat_counts": {
         "Q53864927": "55"
       }
-    },
-    {
-      "name": {
-        "lang:pt-br": "Partido Democrático Trabalhista",
-        "lang:pt": "Partido Democrático Trabalhista",
-        "lang:en": "Democratic Labour Party"
-      },
-      "id": "Q1414708",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1414708"
-        }
-      ]
     }
   ],
   "areas": [
@@ -112,22 +78,6 @@
     }
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q10326642-F45A9183-649D-4AEF-8155-579C65C7EB58",
-      "person_id": "Q10326642",
-      "on_behalf_of_id": "Q1414708",
-      "organization_id": "Q9633239",
-      "role_superclass_code": "Q10265290",
-      "role_superclass": {
-        "lang:pt-br": "deputado estadual",
-        "lang:pt": "deputado estadual",
-        "lang:en": "Brazilian state deputy"
-      },
-      "role_code": "Q53864927",
-      "role": {
-        "lang:pt-br": "deutado estadual de Rio Grande do Sul",
-        "lang:en": "state deputy of Rio Grande do Sul"
-      }
-    }
+
   ]
 }

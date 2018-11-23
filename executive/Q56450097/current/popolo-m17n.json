@@ -1,6 +1,22 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt-br": "Padre Cícero",
+        "lang:pt": "Padre Cícero",
+        "lang:en": "Cícero Romão Batista"
+      },
+      "id": "Q1789888",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1789888"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -18,6 +34,20 @@
         }
       ],
       "area_id": "Q817227"
+    },
+    {
+      "name": {
+        "lang:pt": "Partido Republicano Conservador",
+        "lang:en": "Conservative Republican Party"
+      },
+      "id": "Q5163092",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5163092"
+        }
+      ]
     }
   ],
   "areas": [
@@ -101,6 +131,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1789888-905c3a8b-4183-1bd9-0438-aaf2dcc4f7c0",
+      "person_id": "Q1789888",
+      "on_behalf_of_id": "Q5163092",
+      "organization_id": "Q56450097",
+      "area_id": "Q817227",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449712",
+      "role": {
+        "lang:pt-br": "Prefeito de Juazeiro do Norte",
+        "lang:pt": "Prefeito de Juazeiro do Norte",
+        "lang:en": "Mayor of Juazeiro do Norte"
+      }
+    }
   ]
 }

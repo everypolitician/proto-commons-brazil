@@ -2,6 +2,26 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Jair Bolsonaro",
+        "lang:pt": "Jair Bolsonaro",
+        "lang:en": "Jair Bolsonaro"
+      },
+      "id": "Q10304982",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10304982"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/jairmessias.bolsonaro"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:pt-br": "Tancredo Neves",
         "lang:pt": "Tancredo Neves",
         "lang:en": "Tancredo Neves"
@@ -69,6 +89,35 @@
           "identifier": "Q1322751"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:pt": "Partido Progressista",
+        "lang:en": "Progressive Party"
+      },
+      "id": "Q17152116",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17152116"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Social Liberal",
+        "lang:pt": "Partido Social Liberal",
+        "lang:en": "Social Liberal Party"
+      },
+      "id": "Q2366265",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2366265"
+        }
+      ]
     }
   ],
   "areas": [
@@ -100,6 +149,86 @@
     }
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10304982-aa9dba23-4aca-8e9b-fc97-269d7d5f969b",
+      "person_id": "Q10304982",
+      "on_behalf_of_id": "Q17152116",
+      "organization_id": "Q5015503",
+      "area_id": "Q155",
+      "start_date": "2019-01-01",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:pt-br": "Chefe de governo",
+        "lang:pt": "chefe de governo",
+        "lang:en": "head of government"
+      },
+      "role_code": "Q5176750",
+      "role": {
+        "lang:pt-br": "Presidente do Brasil",
+        "lang:pt": "Presidente do Brasil",
+        "lang:en": "President of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10304982-aa9dba23-4aca-8e9b-fc97-269d7d5f969b",
+      "person_id": "Q10304982",
+      "on_behalf_of_id": "Q17152116",
+      "organization_id": "Q5015503",
+      "area_id": "Q155",
+      "start_date": "2019-01-01",
+      "role_superclass_code": "Q30461",
+      "role_superclass": {
+        "lang:pt-br": "presidente",
+        "lang:pt": "presidente",
+        "lang:en": "president"
+      },
+      "role_code": "Q5176750",
+      "role": {
+        "lang:pt-br": "Presidente do Brasil",
+        "lang:pt": "Presidente do Brasil",
+        "lang:en": "President of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10304982-aa9dba23-4aca-8e9b-fc97-269d7d5f969b",
+      "person_id": "Q10304982",
+      "on_behalf_of_id": "Q2366265",
+      "organization_id": "Q5015503",
+      "area_id": "Q155",
+      "start_date": "2019-01-01",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:pt-br": "Chefe de governo",
+        "lang:pt": "chefe de governo",
+        "lang:en": "head of government"
+      },
+      "role_code": "Q5176750",
+      "role": {
+        "lang:pt-br": "Presidente do Brasil",
+        "lang:pt": "Presidente do Brasil",
+        "lang:en": "President of Brazil"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10304982-aa9dba23-4aca-8e9b-fc97-269d7d5f969b",
+      "person_id": "Q10304982",
+      "on_behalf_of_id": "Q2366265",
+      "organization_id": "Q5015503",
+      "area_id": "Q155",
+      "start_date": "2019-01-01",
+      "role_superclass_code": "Q30461",
+      "role_superclass": {
+        "lang:pt-br": "presidente",
+        "lang:pt": "presidente",
+        "lang:en": "president"
+      },
+      "role_code": "Q5176750",
+      "role": {
+        "lang:pt-br": "Presidente do Brasil",
+        "lang:pt": "Presidente do Brasil",
+        "lang:en": "President of Brazil"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q273264-15AC7416-699F-4937-B12D-6F1743DBAE0F",
       "person_id": "Q273264",

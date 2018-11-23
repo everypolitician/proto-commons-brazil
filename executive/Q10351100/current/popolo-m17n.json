@@ -18,26 +18,6 @@
     },
     {
       "name": {
-        "lang:pt-br": "João Doria Júnior",
-        "lang:pt": "João Doria Júnior",
-        "lang:en": "João Doria Júnior"
-      },
-      "id": "Q10311413",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q10311413"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/jdoriajr"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:pt": "Prestes Maia",
         "lang:en": "Francisco Prestes Maia"
       },
@@ -150,7 +130,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/JoseSerraOficial"
+        }
       ]
     },
     {
@@ -246,9 +229,9 @@
   "organizations": [
     {
       "name": {
-        "lang:pt-br": "prefeitura municipal de São Paulo",
-        "lang:pt": "Prefeitura do Município de São Paulo",
-        "lang:en": "municipal prefecture of São Paulo"
+        "lang:pt-br": "Prefeitura de São Paulo",
+        "lang:pt": "Prefeitura de São Paulo",
+        "lang:en": "Prefeitura de São Paulo"
       },
       "id": "Q10351100",
       "classification": "branch",
@@ -452,25 +435,6 @@
       "on_behalf_of_id": "Q2745857",
       "organization_id": "Q10351100",
       "area_id": "Q174",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:pt-br": "prefeito",
-        "lang:pt": "prefeito",
-        "lang:en": "mayor"
-      },
-      "role_code": "Q24255165",
-      "role": {
-        "lang:pt": "Prefeito de São Paulo",
-        "lang:en": "Mayor of São Paulo"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q10311413-bc77641c-4efe-8ba1-36cc-e596d3829b00",
-      "person_id": "Q10311413",
-      "on_behalf_of_id": "Q1322897",
-      "organization_id": "Q10351100",
-      "area_id": "Q174",
-      "start_date": "2017-01-01",
       "role_superclass_code": "Q30185",
       "role_superclass": {
         "lang:pt-br": "prefeito",

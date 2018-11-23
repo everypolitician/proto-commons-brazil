@@ -32,6 +32,21 @@
         }
       ],
       "area_id": "Q15499"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Progressista",
+        "lang:pt": "Partido Progressista",
+        "lang:en": "Progressive Party"
+      },
+      "id": "Q732852",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q732852"
+        }
+      ]
     }
   ],
   "areas": [
@@ -92,6 +107,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q9757510-261A849E-A906-417E-81A2-ABD14234B824",
       "person_id": "Q9757510",
+      "on_behalf_of_id": "Q732852",
       "organization_id": "Q53738330",
       "area_id": "Q15499",
       "role_superclass_code": "Q25921469",
