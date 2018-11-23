@@ -24,22 +24,22 @@
       },
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1713552"
+        "value" : "http://www.wikidata.org/entity/Q1322897"
       },
       "party_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Partido Democrático Social"
+        "value" : "Partido da Social Democracia Brasileira"
       },
       "party_name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Partido Democrático Social"
+        "value" : "Partido da Social Democracia Brasileira"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Democratic Social Party"
+        "value" : "Brazilian Social Democracy Party"
       },
       "district" : {
         "type" : "uri",
@@ -100,12 +100,17 @@
       "org_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "prefeitura municipal de Belém"
+        "value" : "Prefeitura de Belém"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Prefeitura de Belém"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipal prefecture of Belém"
+        "value" : "Prefeitura de Belém"
       },
       "org_jurisdiction" : {
         "type" : "uri",

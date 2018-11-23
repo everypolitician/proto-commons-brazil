@@ -1,0 +1,1593 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_pt_br", "name_pt", "name_en", "party", "party_name_pt_br", "party_name_pt", "party_name_en", "district", "district_name_pt_br", "district_name_pt", "district_name_en", "role", "role_pt_br", "role_pt", "role_en", "role_superclass", "role_superclass_pt_br", "role_superclass_pt", "role_superclass_en", "start", "end", "facebook", "org", "org_pt_br", "org_pt", "org_en", "org_jurisdiction", "org_seat_count" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10285176"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q10285176-ABC2599D-0C4C-4FAB-A51F-DA4399394E3E"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Francisco Tenório"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Francisco Tenório"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29415800"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q29415800-E50C04CA-D45D-459D-9FAB-E56CBBEB4235"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ricardo Nezinho"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ricardo Nezinho"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55396433"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55396433-746F73AD-C659-4374-9DA0-A45F56387953"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antonio Albuquerque"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58735182"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58735182-357CC4AB-A940-4789-BCF1-51391D7BC4B7"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Breno Albuquerque"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58735270"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58735270-3EE2317D-7860-47D1-BAC0-AA6A1B3AAE08"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Marcos Barbosa"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58735366"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58735366-84507B91-D3D6-464B-BC0B-7346B72EA76A"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Cabo Bebeto"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58735389"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58735389-BF4141B8-8568-433B-858D-023374C8FD4B"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Marcelo Beltrão"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58735409"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58735409-A3CB2D76-2DE8-4DC5-A551-58CD8973AB07"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Yvan Beltrão"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58735432"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58735432-48D09972-0036-4F41-A4E2-24751EACDC8C"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Silvio Camelo"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58735451"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58735451-2236E7E0-4B59-47D0-AEFC-9B1C41FD35FE"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Fátima Canuto"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58735494"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58735494-7A436E39-C07A-4859-A725-E43F61D25164"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Flávia Cavalcante"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58735514"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58735514-CBB7A41D-CC6D-415A-8C7B-B31582CFAB9E"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Paulo Dantas"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58735532"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58735532-7B2477FC-D835-4E72-BDD2-F17CD1F5B379"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Davi Davino Filho"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58735736"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58735736-9AFAEA69-E240-43BB-82D6-8541DEE42E18"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Leo Loureiro"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58735764"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58735764-1ABE651E-3E6C-4FD6-B313-0AB2CB789E11"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Cibele Moura"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58735935"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58735935-D6D3FF41-175A-4495-A1C2-E34C7C5777E3"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Galba Novaes"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58736000"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58736000-36BC4818-3776-46C9-BA50-A690CF0A3D17"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Olavo"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58736028"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58736028-118AD58E-3630-4D4B-A0BE-700F2997D58A"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Jo Pereira"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58736064"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58736064-EAA18687-7C05-445C-AFFC-8A8A0F3F7895"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Dudu Ronalsa"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58736112"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58736112-056B20CC-B8D4-45F0-9A59-A622A00E02DC"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Bruno Toledo"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10265290"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazilian state deputy"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deputado estadual"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53864939"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state deputy of Alagoas"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "deutado estadual de Alagoas"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58736139"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "assembleia legislativa do estado de Alagoas"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58736139-0BB5687D-F236-4C26-9FBA-6F9345779F73"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Marcelo Victor"
+      }
+    } ]
+  }
+}

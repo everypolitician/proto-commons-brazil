@@ -6,6 +6,524 @@
     "bindings" : [ {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q10304982-aa9dba23-4aca-8e9b-fc97-269d7d5f969b"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10304982"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Jair Bolsonaro"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Jair Bolsonaro"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jair Bolsonaro"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17152116"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Progressista"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Progressive Party"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazil"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5176750"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of Brazil"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2019-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "jairmessias.bolsonaro"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2285706"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Chefe de governo"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "chefe de governo"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "head of government"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5015503"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cabinet of Brazil"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q10304982-aa9dba23-4aca-8e9b-fc97-269d7d5f969b"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10304982"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Jair Bolsonaro"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Jair Bolsonaro"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jair Bolsonaro"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2366265"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Social Liberal"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Social Liberal Party"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazil"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5176750"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of Brazil"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2019-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "jairmessias.bolsonaro"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2285706"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Chefe de governo"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "chefe de governo"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "head of government"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5015503"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cabinet of Brazil"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido Social Liberal"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q10304982-aa9dba23-4aca-8e9b-fc97-269d7d5f969b"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10304982"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Jair Bolsonaro"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Jair Bolsonaro"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jair Bolsonaro"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17152116"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Progressista"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Progressive Party"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazil"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5176750"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of Brazil"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2019-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "jairmessias.bolsonaro"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30461"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5015503"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cabinet of Brazil"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q10304982-aa9dba23-4aca-8e9b-fc97-269d7d5f969b"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10304982"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Jair Bolsonaro"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Jair Bolsonaro"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jair Bolsonaro"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2366265"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Social Liberal"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Social Liberal Party"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazil"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5176750"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Presidente do Brasil"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of Brazil"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2019-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "jairmessias.bolsonaro"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30461"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5015503"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "org_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ministério do Brasil"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cabinet of Brazil"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido Social Liberal"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q273264-15AC7416-699F-4937-B12D-6F1743DBAE0F"
       },
       "item" : {
@@ -30,11 +548,6 @@
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1322751"
-      },
-      "party_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Movimento Democrático Brasileiro"
       },
       "party_name_pt" : {
         "xml:lang" : "pt",
@@ -125,6 +638,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Movimento Democrático Brasileiro"
       }
     }, {
       "statement" : {
@@ -153,11 +671,6 @@
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1322751"
-      },
-      "party_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Movimento Democrático Brasileiro"
       },
       "party_name_pt" : {
         "xml:lang" : "pt",
@@ -248,6 +761,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Movimento Democrático Brasileiro"
       }
     }, {
       "statement" : {
@@ -276,11 +794,6 @@
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1322751"
-      },
-      "party_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Movimento Democrático Brasileiro"
       },
       "party_name_pt" : {
         "xml:lang" : "pt",
@@ -329,6 +842,15 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "President of Brazil"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-08-31T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "MichelTemer"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -372,14 +894,10 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q155"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "2016-08-31T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "MichelTemer"
+        "value" : "Movimento Democrático Brasileiro"
       }
     }, {
       "statement" : {
@@ -408,11 +926,6 @@
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1322751"
-      },
-      "party_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Movimento Democrático Brasileiro"
       },
       "party_name_pt" : {
         "xml:lang" : "pt",
@@ -462,6 +975,15 @@
         "type" : "literal",
         "value" : "President of Brazil"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-08-31T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "MichelTemer"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30461"
@@ -504,14 +1026,10 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q155"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "2016-08-31T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "MichelTemer"
+        "value" : "Movimento Democrático Brasileiro"
       }
     } ]
   }
