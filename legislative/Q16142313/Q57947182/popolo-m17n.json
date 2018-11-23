@@ -2,22 +2,6 @@
   "persons": [
     {
       "name": {
-        "lang:pt": "Francisco Tenório",
-        "lang:en": "Francisco Tenório"
-      },
-      "id": "Q10285176",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q10285176"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:pt": "Ricardo Nezinho",
         "lang:en": "Ricardo Nezinho"
       },
@@ -49,51 +33,6 @@
     },
     {
       "name": {
-        "lang:pt": "Breno Albuquerque"
-      },
-      "id": "Q58735182",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58735182"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:pt": "Marcos Barbosa"
-      },
-      "id": "Q58735270",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58735270"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:pt": "Cabo Bebeto"
-      },
-      "id": "Q58735366",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58735366"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:pt": "Marcelo Beltrão"
       },
       "id": "Q58735389",
@@ -109,103 +48,13 @@
     },
     {
       "name": {
-        "lang:pt": "Yvan Beltrão"
+        "lang:pt": "Davi Maia"
       },
-      "id": "Q58735409",
+      "id": "Q58735748",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q58735409"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:pt": "Silvio Camelo"
-      },
-      "id": "Q58735432",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58735432"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:pt": "Fátima Canuto"
-      },
-      "id": "Q58735451",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58735451"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:pt": "Flávia Cavalcante"
-      },
-      "id": "Q58735494",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58735494"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:pt": "Paulo Dantas"
-      },
-      "id": "Q58735514",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58735514"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:pt": "Davi Davino Filho"
-      },
-      "id": "Q58735532",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58735532"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:pt": "Leo Loureiro"
-      },
-      "id": "Q58735736",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58735736"
+          "identifier": "Q58735748"
         }
       ],
       "links": [
@@ -229,66 +78,6 @@
     },
     {
       "name": {
-        "lang:pt": "Galba Novaes"
-      },
-      "id": "Q58735935",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58735935"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:pt": "Olavo"
-      },
-      "id": "Q58736000",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58736000"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:pt": "Jo Pereira"
-      },
-      "id": "Q58736028",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58736028"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:pt": "Dudu Ronalsa"
-      },
-      "id": "Q58736064",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58736064"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:pt": "Bruno Toledo"
       },
       "id": "Q58736112",
@@ -296,21 +85,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q58736112"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:pt": "Marcelo Victor"
-      },
-      "id": "Q58736139",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58736139"
         }
       ],
       "links": [
@@ -395,22 +169,6 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q10285176-ABC2599D-0C4C-4FAB-A51F-DA4399394E3E",
-      "person_id": "Q10285176",
-      "organization_id": "Q16142313",
-      "role_superclass_code": "Q10265290",
-      "role_superclass": {
-        "lang:pt-br": "deputado estadual",
-        "lang:pt": "deputado estadual",
-        "lang:en": "Brazilian state deputy"
-      },
-      "role_code": "Q53864939",
-      "role": {
-        "lang:pt-br": "deutado estadual de Alagoas",
-        "lang:en": "state deputy of Alagoas"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q29415800-E50C04CA-D45D-459D-9FAB-E56CBBEB4235",
       "person_id": "Q29415800",
       "organization_id": "Q16142313",
@@ -443,54 +201,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58735182-357CC4AB-A940-4789-BCF1-51391D7BC4B7",
-      "person_id": "Q58735182",
-      "organization_id": "Q16142313",
-      "role_superclass_code": "Q10265290",
-      "role_superclass": {
-        "lang:pt-br": "deputado estadual",
-        "lang:pt": "deputado estadual",
-        "lang:en": "Brazilian state deputy"
-      },
-      "role_code": "Q53864939",
-      "role": {
-        "lang:pt-br": "deutado estadual de Alagoas",
-        "lang:en": "state deputy of Alagoas"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58735270-3EE2317D-7860-47D1-BAC0-AA6A1B3AAE08",
-      "person_id": "Q58735270",
-      "organization_id": "Q16142313",
-      "role_superclass_code": "Q10265290",
-      "role_superclass": {
-        "lang:pt-br": "deputado estadual",
-        "lang:pt": "deputado estadual",
-        "lang:en": "Brazilian state deputy"
-      },
-      "role_code": "Q53864939",
-      "role": {
-        "lang:pt-br": "deutado estadual de Alagoas",
-        "lang:en": "state deputy of Alagoas"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58735366-84507B91-D3D6-464B-BC0B-7346B72EA76A",
-      "person_id": "Q58735366",
-      "organization_id": "Q16142313",
-      "role_superclass_code": "Q10265290",
-      "role_superclass": {
-        "lang:pt-br": "deputado estadual",
-        "lang:pt": "deputado estadual",
-        "lang:en": "Brazilian state deputy"
-      },
-      "role_code": "Q53864939",
-      "role": {
-        "lang:pt-br": "deutado estadual de Alagoas",
-        "lang:en": "state deputy of Alagoas"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q58735389-BF4141B8-8568-433B-858D-023374C8FD4B",
       "person_id": "Q58735389",
       "organization_id": "Q16142313",
@@ -507,104 +217,8 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58735409-A3CB2D76-2DE8-4DC5-A551-58CD8973AB07",
-      "person_id": "Q58735409",
-      "organization_id": "Q16142313",
-      "role_superclass_code": "Q10265290",
-      "role_superclass": {
-        "lang:pt-br": "deputado estadual",
-        "lang:pt": "deputado estadual",
-        "lang:en": "Brazilian state deputy"
-      },
-      "role_code": "Q53864939",
-      "role": {
-        "lang:pt-br": "deutado estadual de Alagoas",
-        "lang:en": "state deputy of Alagoas"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58735432-48D09972-0036-4F41-A4E2-24751EACDC8C",
-      "person_id": "Q58735432",
-      "organization_id": "Q16142313",
-      "role_superclass_code": "Q10265290",
-      "role_superclass": {
-        "lang:pt-br": "deputado estadual",
-        "lang:pt": "deputado estadual",
-        "lang:en": "Brazilian state deputy"
-      },
-      "role_code": "Q53864939",
-      "role": {
-        "lang:pt-br": "deutado estadual de Alagoas",
-        "lang:en": "state deputy of Alagoas"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58735451-2236E7E0-4B59-47D0-AEFC-9B1C41FD35FE",
-      "person_id": "Q58735451",
-      "organization_id": "Q16142313",
-      "role_superclass_code": "Q10265290",
-      "role_superclass": {
-        "lang:pt-br": "deputado estadual",
-        "lang:pt": "deputado estadual",
-        "lang:en": "Brazilian state deputy"
-      },
-      "role_code": "Q53864939",
-      "role": {
-        "lang:pt-br": "deutado estadual de Alagoas",
-        "lang:en": "state deputy of Alagoas"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58735494-7A436E39-C07A-4859-A725-E43F61D25164",
-      "person_id": "Q58735494",
-      "organization_id": "Q16142313",
-      "role_superclass_code": "Q10265290",
-      "role_superclass": {
-        "lang:pt-br": "deputado estadual",
-        "lang:pt": "deputado estadual",
-        "lang:en": "Brazilian state deputy"
-      },
-      "role_code": "Q53864939",
-      "role": {
-        "lang:pt-br": "deutado estadual de Alagoas",
-        "lang:en": "state deputy of Alagoas"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58735514-CBB7A41D-CC6D-415A-8C7B-B31582CFAB9E",
-      "person_id": "Q58735514",
-      "organization_id": "Q16142313",
-      "role_superclass_code": "Q10265290",
-      "role_superclass": {
-        "lang:pt-br": "deputado estadual",
-        "lang:pt": "deputado estadual",
-        "lang:en": "Brazilian state deputy"
-      },
-      "role_code": "Q53864939",
-      "role": {
-        "lang:pt-br": "deutado estadual de Alagoas",
-        "lang:en": "state deputy of Alagoas"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58735532-7B2477FC-D835-4E72-BDD2-F17CD1F5B379",
-      "person_id": "Q58735532",
-      "organization_id": "Q16142313",
-      "role_superclass_code": "Q10265290",
-      "role_superclass": {
-        "lang:pt-br": "deputado estadual",
-        "lang:pt": "deputado estadual",
-        "lang:en": "Brazilian state deputy"
-      },
-      "role_code": "Q53864939",
-      "role": {
-        "lang:pt-br": "deutado estadual de Alagoas",
-        "lang:en": "state deputy of Alagoas"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58735736-9AFAEA69-E240-43BB-82D6-8541DEE42E18",
-      "person_id": "Q58735736",
+      "id": "http://www.wikidata.org/entity/statement/Q58735748-37669684-4CAC-4D10-862A-CF17DBC9108D",
+      "person_id": "Q58735748",
       "organization_id": "Q16142313",
       "role_superclass_code": "Q10265290",
       "role_superclass": {
@@ -635,88 +249,8 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58735935-D6D3FF41-175A-4495-A1C2-E34C7C5777E3",
-      "person_id": "Q58735935",
-      "organization_id": "Q16142313",
-      "role_superclass_code": "Q10265290",
-      "role_superclass": {
-        "lang:pt-br": "deputado estadual",
-        "lang:pt": "deputado estadual",
-        "lang:en": "Brazilian state deputy"
-      },
-      "role_code": "Q53864939",
-      "role": {
-        "lang:pt-br": "deutado estadual de Alagoas",
-        "lang:en": "state deputy of Alagoas"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58736000-36BC4818-3776-46C9-BA50-A690CF0A3D17",
-      "person_id": "Q58736000",
-      "organization_id": "Q16142313",
-      "role_superclass_code": "Q10265290",
-      "role_superclass": {
-        "lang:pt-br": "deputado estadual",
-        "lang:pt": "deputado estadual",
-        "lang:en": "Brazilian state deputy"
-      },
-      "role_code": "Q53864939",
-      "role": {
-        "lang:pt-br": "deutado estadual de Alagoas",
-        "lang:en": "state deputy of Alagoas"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58736028-118AD58E-3630-4D4B-A0BE-700F2997D58A",
-      "person_id": "Q58736028",
-      "organization_id": "Q16142313",
-      "role_superclass_code": "Q10265290",
-      "role_superclass": {
-        "lang:pt-br": "deputado estadual",
-        "lang:pt": "deputado estadual",
-        "lang:en": "Brazilian state deputy"
-      },
-      "role_code": "Q53864939",
-      "role": {
-        "lang:pt-br": "deutado estadual de Alagoas",
-        "lang:en": "state deputy of Alagoas"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58736064-EAA18687-7C05-445C-AFFC-8A8A0F3F7895",
-      "person_id": "Q58736064",
-      "organization_id": "Q16142313",
-      "role_superclass_code": "Q10265290",
-      "role_superclass": {
-        "lang:pt-br": "deputado estadual",
-        "lang:pt": "deputado estadual",
-        "lang:en": "Brazilian state deputy"
-      },
-      "role_code": "Q53864939",
-      "role": {
-        "lang:pt-br": "deutado estadual de Alagoas",
-        "lang:en": "state deputy of Alagoas"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q58736112-056B20CC-B8D4-45F0-9A59-A622A00E02DC",
       "person_id": "Q58736112",
-      "organization_id": "Q16142313",
-      "role_superclass_code": "Q10265290",
-      "role_superclass": {
-        "lang:pt-br": "deputado estadual",
-        "lang:pt": "deputado estadual",
-        "lang:en": "Brazilian state deputy"
-      },
-      "role_code": "Q53864939",
-      "role": {
-        "lang:pt-br": "deutado estadual de Alagoas",
-        "lang:en": "state deputy of Alagoas"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58736139-0BB5687D-F236-4C26-9FBA-6F9345779F73",
-      "person_id": "Q58736139",
       "organization_id": "Q16142313",
       "role_superclass_code": "Q10265290",
       "role_superclass": {
