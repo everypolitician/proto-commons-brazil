@@ -1,0 +1,863 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pt-br": "Wilson Pereira dos Santos",
+        "lang:pt": "Wilson Pereira dos Santos",
+        "lang:en": "Wilson Pereira dos Santos"
+      },
+      "id": "Q10393813",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10393813"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Janaína Riva",
+        "lang:pt": "Janaína Riva",
+        "lang:en": "Janaína Riva"
+      },
+      "id": "Q28466348",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28466348"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Valdir Barranco",
+        "lang:pt": "Valdir Barranco",
+        "lang:en": "Valdir Barranco"
+      },
+      "id": "Q30938401",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30938401"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Prof Allan",
+        "lang:pt": "Prof Allan",
+        "lang:en": "Prof Allan"
+      },
+      "id": "Q59245174",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245174"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Paulo Araujo",
+        "lang:pt": "Paulo Araujo",
+        "lang:en": "Paulo Araujo"
+      },
+      "id": "Q59245200",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245200"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Eduardo Botelho",
+        "lang:pt": "Eduardo Botelho",
+        "lang:en": "Eduardo Botelho"
+      },
+      "id": "Q59245222",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245222"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Ludio Cabral",
+        "lang:pt": "Ludio Cabral",
+        "lang:en": "Ludio Cabral"
+      },
+      "id": "Q59245230",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245230"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Delegado Claudinei",
+        "lang:pt": "Delegado Claudinei",
+        "lang:en": "Delegado Claudinei"
+      },
+      "id": "Q59245237",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245237"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Dilmar Dal Bosco",
+        "lang:pt": "Dilmar Dal Bosco",
+        "lang:en": "Dilmar Dal Bosco"
+      },
+      "id": "Q59245246",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245246"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Xuxu Dal Molin",
+        "lang:pt": "Xuxu Dal Molin",
+        "lang:en": "Xuxu Dal Molin"
+      },
+      "id": "Q59245254",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245254"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Dr. Eugênio",
+        "lang:pt": "Dr. Eugênio",
+        "lang:en": "Dr. Eugênio"
+      },
+      "id": "Q59245268",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245268"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Faissal",
+        "lang:pt": "Faissal",
+        "lang:en": "Faissal"
+      },
+      "id": "Q59245272",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245272"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Silvio Favero",
+        "lang:pt": "Silvio Favero",
+        "lang:en": "Silvio Favero"
+      },
+      "id": "Q59245275",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245275"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Dr. Gimenez",
+        "lang:pt": "Dr. Gimenez",
+        "lang:en": "Dr. Gimenez"
+      },
+      "id": "Q59245279",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245279"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Guilherme Maluf",
+        "lang:pt": "Guilherme Maluf",
+        "lang:en": "Guilherme Maluf"
+      },
+      "id": "Q59245283",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245283"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Ulysses Moraes",
+        "lang:pt": "Ulysses Moraes",
+        "lang:en": "Ulysses Moraes"
+      },
+      "id": "Q59245289",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245289"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Valmir Moretto",
+        "lang:pt": "Valmir Moretto",
+        "lang:en": "Valmir Moretto"
+      },
+      "id": "Q59245294",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245294"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Elizeu Nascimento",
+        "lang:pt": "Elizeu Nascimento",
+        "lang:en": "Elizeu Nascimento"
+      },
+      "id": "Q59245298",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245298"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Nininho",
+        "lang:pt": "Nininho",
+        "lang:en": "Nininho"
+      },
+      "id": "Q59245305",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245305"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Eng..sebastião Machado Rezende",
+        "lang:pt": "Eng..sebastião Machado Rezende",
+        "lang:en": "Eng..sebastião Machado Rezende"
+      },
+      "id": "Q59245309",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245309"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Max Russi",
+        "lang:pt": "Max Russi",
+        "lang:en": "Max Russi"
+      },
+      "id": "Q59245314",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245314"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Thiago Silva",
+        "lang:pt": "Thiago Silva",
+        "lang:en": "Thiago Silva"
+      },
+      "id": "Q59245327",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245327"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "João Batista Do Sindspen",
+        "lang:pt": "João Batista Do Sindspen",
+        "lang:en": "João Batista Do Sindspen"
+      },
+      "id": "Q59245331",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59245331"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:pt-br": "Assembleia Legislativa do Mato Grosso",
+        "lang:pt": "Assembleia Legislativa do Mato Grosso",
+        "lang:en": "Legislative Assembly of Mato Grosso"
+      },
+      "id": "Q16498710",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16498710"
+        }
+      ],
+      "area_id": "Q42824",
+      "seat_counts": {
+        "Q53864940": "24"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q42824",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:mt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42824"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739368",
+        "Q53864940"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Mato Grosso"
+      },
+      "parent_id": "Q155"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10393813-105CBADB-702E-4913-900C-D2FC65D07702",
+      "person_id": "Q10393813",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28466348-FB1AAF6C-D7B3-489F-A691-3686F50A5EC7",
+      "person_id": "Q28466348",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30938401-45240B8E-F0DA-404D-8C37-0A6107455F65",
+      "person_id": "Q30938401",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245174-C96A0715-728F-41B2-970A-24E51B898B32",
+      "person_id": "Q59245174",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245200-05222D85-CE86-497F-AE53-51DB4AB85D94",
+      "person_id": "Q59245200",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245222-838D540F-D6AD-4F92-B7C1-7C3999EBE164",
+      "person_id": "Q59245222",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245230-5C0A96DC-6C76-4B9D-A322-EC8DB11B5C92",
+      "person_id": "Q59245230",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245237-ABF66D9A-B213-494D-BA20-F9EFD4A9B647",
+      "person_id": "Q59245237",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245246-34403439-6A83-45B4-B93A-46580C9F5C1C",
+      "person_id": "Q59245246",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245254-A925B53F-CD1B-4950-A9C0-E17198FE4AFF",
+      "person_id": "Q59245254",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245268-EB09E12D-868B-4FEC-8256-CA0496D2E18A",
+      "person_id": "Q59245268",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245272-2A66BF6D-AD3C-4676-B2EF-2FD209FE1BA9",
+      "person_id": "Q59245272",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245275-54E63F5D-7861-4614-A6B8-4F7745E26DF7",
+      "person_id": "Q59245275",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245279-A6A9FEEC-CB05-456E-816C-A83E2B751A45",
+      "person_id": "Q59245279",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245283-C27A4A5A-0E6C-4A8E-902F-DA3F3E895637",
+      "person_id": "Q59245283",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245289-607CD811-C124-46E3-8B53-C4548938C578",
+      "person_id": "Q59245289",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245294-EA9D4E70-18F2-4CEC-90FE-1F28D9E104D5",
+      "person_id": "Q59245294",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245298-9503AC8E-4EE5-4EF4-B01E-54D133353878",
+      "person_id": "Q59245298",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245305-F9822CDC-36BB-4565-9B29-F93FF3488752",
+      "person_id": "Q59245305",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245309-46522AF0-6CDA-4ADC-819B-3E9C25ACEC94",
+      "person_id": "Q59245309",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245314-5CC114EB-5724-49B8-907A-EB1735BFA7C0",
+      "person_id": "Q59245314",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245327-669EC707-B09B-4461-B029-B4FD93F98A31",
+      "person_id": "Q59245327",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59245331-81B8C0D8-8775-4DB4-9BC2-404D50AF0C4F",
+      "person_id": "Q59245331",
+      "organization_id": "Q16498710",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864940",
+      "role": {
+        "lang:pt-br": "deputado estadual de Mato Grosso",
+        "lang:pt": "deputado estadual de Mato Grosso",
+        "lang:en": "state deputy of Mato Grosso"
+      }
+    }
+  ]
+}

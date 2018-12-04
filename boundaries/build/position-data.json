@@ -3,8 +3,8 @@
     "role_id": "Q18964326",
     "role_name": {
       "lang:pt-br": "senador",
-      "lang:pt": "senador",
-      "lang:en": "Member of the Senate of Brazil"
+      "lang:pt": "senador do Brasil",
+      "lang:en": "Brazilian senator"
     },
     "generic_role_id": "Q15686806",
     "generic_role_name": {
@@ -59,9 +59,9 @@
     "role_type": null,
     "organization_id": "Q10351100",
     "organization_name": {
-      "lang:pt-br": "prefeitura municipal de São Paulo",
-      "lang:pt": "Prefeitura do Município de São Paulo",
-      "lang:en": "municipal prefecture of São Paulo"
+      "lang:pt-br": "Prefeitura de São Paulo",
+      "lang:pt": "Prefeitura de São Paulo",
+      "lang:en": "Prefeitura de São Paulo"
     }
   },
   {
@@ -114,7 +114,7 @@
     },
     "generic_role_id": "Q2285706",
     "generic_role_name": {
-      "lang:pt-br": "Chefe de governo",
+      "lang:pt-br": "chefe de governo",
       "lang:pt": "chefe de governo",
       "lang:en": "head of government"
     },
@@ -304,7 +304,7 @@
     "organization_id": "Q53738335",
     "organization_name": {
       "lang:pt-br": "cabinete do governador do estado do Pará",
-      "lang:en": "cabinet of the governor of the state of Para"
+      "lang:en": "cabinet of the governor of the state of Pará"
     }
   },
   {
@@ -650,7 +650,8 @@
   {
     "role_id": "Q53864923",
     "role_name": {
-      "lang:pt-br": "deutado estadual de São Paulo",
+      "lang:pt-br": "deputado estadual de São Paulo",
+      "lang:pt": "deputado estadual de São Paulo",
       "lang:en": "state deputy of São Paulo"
     },
     "generic_role_id": "Q10265290",
@@ -671,7 +672,8 @@
   {
     "role_id": "Q53864924",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Minas Gerais",
+      "lang:pt-br": "deputado estadual de Minas Gerais",
+      "lang:pt": "deputado estadual de Minas Gerais",
       "lang:en": "state deputy of Minas Gerais"
     },
     "generic_role_id": "Q10265290",
@@ -684,15 +686,16 @@
     "role_type": "Q4175034",
     "organization_id": "Q12243888",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado de Minas Gerais",
-      "lang:pt": "Assembleia Legislativa do Estado de Minas Gerais",
+      "lang:pt-br": "Assembleia Legislativa de Minas Gerais",
+      "lang:pt": "Assembleia Legislativa de Minas Gerais",
       "lang:en": "Legislative Assembly of Minas Gerais"
     }
   },
   {
     "role_id": "Q53864925",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Rio de Janeiro",
+      "lang:pt-br": "deputado estadual do Rio de Janeiro",
+      "lang:pt": "deputado estadual do Rio de Janeiro",
       "lang:en": "state deputy of Rio de Janeiro"
     },
     "generic_role_id": "Q10265290",
@@ -705,15 +708,16 @@
     "role_type": "Q4175034",
     "organization_id": "Q6583209",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado do Rio de Janeiro",
-      "lang:pt": "Assembleia Legislativa do Estado do Rio de Janeiro",
+      "lang:pt-br": "Assembleia Legislativa do Rio de Janeiro",
+      "lang:pt": "Assembleia Legislativa do Rio de Janeiro",
       "lang:en": "Legislative Assembly of Rio de Janeiro"
     }
   },
   {
     "role_id": "Q53864926",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Bahia",
+      "lang:pt-br": "deputado estadual da Bahia",
+      "lang:pt": "deputado estadual da Bahia",
       "lang:en": "state deputy of Bahia"
     },
     "generic_role_id": "Q10265290",
@@ -726,7 +730,7 @@
     "role_type": "Q4175034",
     "organization_id": "Q9633175",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado da Bahia",
+      "lang:pt-br": "Assembleia Legislativa da Bahia",
       "lang:pt": "Assembleia Legislativa da Bahia",
       "lang:en": "Legislative Assembly of Bahia"
     }
@@ -734,7 +738,8 @@
   {
     "role_id": "Q53864927",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Rio Grande do Sul",
+      "lang:pt-br": "deputado estadual do Rio Grande do Sul",
+      "lang:pt": "deputado estadual do Rio Grande do Sul",
       "lang:en": "state deputy of Rio Grande do Sul"
     },
     "generic_role_id": "Q10265290",
@@ -747,7 +752,7 @@
     "role_type": "Q4175034",
     "organization_id": "Q9633239",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado do Rio Grande do Sul",
+      "lang:pt-br": "Assembleia Legislativa do Rio Grande do Sul",
       "lang:pt": "Assembleia Legislativa do Rio Grande do Sul",
       "lang:en": "Legislative Assembly of Rio Grande do Sul"
     }
@@ -755,7 +760,8 @@
   {
     "role_id": "Q53864928",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Paraná",
+      "lang:pt-br": "deputado estadual do Paraná",
+      "lang:pt": "deputado estadual do Paraná",
       "lang:en": "state deputy of Paraná"
     },
     "generic_role_id": "Q10265290",
@@ -768,7 +774,7 @@
     "role_type": "Q4175034",
     "organization_id": "Q9633230",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado do Paraná",
+      "lang:pt-br": "Assembleia Legislativa do Paraná",
       "lang:pt": "Assembleia Legislativa do Paraná",
       "lang:en": "Legislative Assembly of Paraná"
     }
@@ -776,7 +782,8 @@
   {
     "role_id": "Q53864929",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Pernambuco",
+      "lang:pt-br": "deputado estadual de Pernambuco",
+      "lang:pt": "deputado estadual de Pernambuco",
       "lang:en": "state deputy of Pernambuco"
     },
     "generic_role_id": "Q10265290",
@@ -789,7 +796,7 @@
     "role_type": "Q4175034",
     "organization_id": "Q9633197",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado de Pernambuco",
+      "lang:pt-br": "Assembleia Legislativa de Pernambuco",
       "lang:pt": "Assembleia Legislativa de Pernambuco",
       "lang:en": "Legislative Assembly of Pernambuco"
     }
@@ -797,7 +804,8 @@
   {
     "role_id": "Q53864930",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Ceará",
+      "lang:pt-br": "deputado estadual do Ceará",
+      "lang:pt": "deputado estadual do Ceará",
       "lang:en": "state deputy of Ceará"
     },
     "generic_role_id": "Q10265290",
@@ -810,7 +818,7 @@
     "role_type": "Q4175034",
     "organization_id": "Q13163502",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado do Ceará",
+      "lang:pt-br": "Assembleia Legislativa do Ceará",
       "lang:pt": "Assembleia Legislativa do Ceará",
       "lang:en": "Legislative Assembly of Ceará"
     }
@@ -818,7 +826,8 @@
   {
     "role_id": "Q53864931",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Pará",
+      "lang:pt-br": "deputado estadual do Pará",
+      "lang:pt": "deputado estadual do Pará",
       "lang:en": "state deputy of Pará"
     },
     "generic_role_id": "Q10265290",
@@ -831,7 +840,7 @@
     "role_type": "Q4175034",
     "organization_id": "Q12469964",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado do Pará",
+      "lang:pt-br": "Assembleia Legislativa do Pará",
       "lang:pt": "Assembleia Legislativa do Pará",
       "lang:en": "Legislative Assembly of Pará"
     }
@@ -839,7 +848,8 @@
   {
     "role_id": "Q53864932",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Santa Catarina",
+      "lang:pt-br": "deputado estadual de Santa Catarina",
+      "lang:pt": "deputado estadual de Santa Catarina",
       "lang:en": "state deputy of Santa Catarina"
     },
     "generic_role_id": "Q10265290",
@@ -852,7 +862,7 @@
     "role_type": "Q4175034",
     "organization_id": "Q9633207",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado de Santa Catarina",
+      "lang:pt-br": "Assembleia Legislativa de Santa Catarina",
       "lang:pt": "Assembleia Legislativa de Santa Catarina",
       "lang:en": "Legislative Assembly of Santa Catarina"
     }
@@ -860,7 +870,8 @@
   {
     "role_id": "Q53864933",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Maranhão",
+      "lang:pt-br": "deputado estadual do Maranhão",
+      "lang:pt": "deputado estadual do Maranhão",
       "lang:en": "state deputy of Maranhão"
     },
     "generic_role_id": "Q10265290",
@@ -873,15 +884,16 @@
     "role_type": "Q4175034",
     "organization_id": "Q9633221",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado do Maranhão",
-      "lang:pt": "assembleia Legislativa do Maranhão",
-      "lang:en": "legislative assembly of the state of Maranhao"
+      "lang:pt-br": "Assembleia Legislativa do Maranhão",
+      "lang:pt": "Assembleia Legislativa do Maranhão",
+      "lang:en": "Legislative Assembly of Maranhão"
     }
   },
   {
     "role_id": "Q53864934",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Goiás",
+      "lang:pt-br": "deputado estadual de Goiás",
+      "lang:pt": "deputado estadual de Goiás",
       "lang:en": "state deputy of Goiás"
     },
     "generic_role_id": "Q10265290",
@@ -894,15 +906,16 @@
     "role_type": "Q4175034",
     "organization_id": "Q9633183",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado de Goiás",
+      "lang:pt-br": "Assembleia Legislativa de Goiás",
       "lang:pt": "Assembleia Legislativa de Goiás",
-      "lang:en": "legislative assembly of the state of Goias"
+      "lang:en": "Legislative Assembly of Goiás"
     }
   },
   {
     "role_id": "Q53864935",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Amazonas",
+      "lang:pt-br": "deputado estadual do Amazonas",
+      "lang:pt": "deputado estadual do Amazonas",
       "lang:en": "state deputy of Amazonas"
     },
     "generic_role_id": "Q10265290",
@@ -915,7 +928,7 @@
     "role_type": "Q4175034",
     "organization_id": "Q6518202",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado do Amazonas",
+      "lang:pt-br": "Assembleia Legislativa do Amazonas",
       "lang:pt": "Assembleia Legislativa do Amazonas",
       "lang:en": "Legislative Assembly of Amazonas"
     }
@@ -923,7 +936,8 @@
   {
     "role_id": "Q53864936",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Paraíba",
+      "lang:pt-br": "deputado estadual da Paraíba",
+      "lang:pt": "deputado estadual da Paraíba",
       "lang:en": "state deputy of Paraíba"
     },
     "generic_role_id": "Q10265290",
@@ -936,7 +950,7 @@
     "role_type": "Q4175034",
     "organization_id": "Q9633173",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado da Paraíba",
+      "lang:pt-br": "Assembleia Legislativa da Paraíba",
       "lang:pt": "Assembleia Legislativa da Paraíba",
       "lang:en": "Legislative Assembly of Paraíba"
     }
@@ -944,7 +958,8 @@
   {
     "role_id": "Q53864937",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Espírito Santo",
+      "lang:pt-br": "deputado estadual do Espírito Santo",
+      "lang:pt": "deputado estadual do Espírito Santo",
       "lang:en": "state deputy of Espírito Santo"
     },
     "generic_role_id": "Q10265290",
@@ -957,7 +972,7 @@
     "role_type": "Q4175034",
     "organization_id": "Q9633218",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado do Espírito Santo",
+      "lang:pt-br": "Assembleia Legislativa do Espírito Santo",
       "lang:pt": "Assembleia Legislativa do Espírito Santo",
       "lang:en": "Legislative Assembly of Espírito Santo"
     }
@@ -965,7 +980,8 @@
   {
     "role_id": "Q53864938",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Rio Grande do Norte",
+      "lang:pt-br": "deputado estadual do Rio Grande do Norte",
+      "lang:pt": "deputado estadual do Rio Grande do Norte",
       "lang:en": "state deputy of Rio Grande do Norte"
     },
     "generic_role_id": "Q10265290",
@@ -978,7 +994,7 @@
     "role_type": "Q4175034",
     "organization_id": "Q12270300",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado do Rio Grande do Norte",
+      "lang:pt-br": "Assembleia Legislativa do Rio Grande do Norte",
       "lang:pt": "Assembleia Legislativa do Rio Grande do Norte",
       "lang:en": "Legislative Assembly of Rio Grande do Norte"
     }
@@ -986,7 +1002,8 @@
   {
     "role_id": "Q53864939",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Alagoas",
+      "lang:pt-br": "deputado estadual de Alagoas",
+      "lang:pt": "deputado estadual de Alagoas",
       "lang:en": "state deputy of Alagoas"
     },
     "generic_role_id": "Q10265290",
@@ -999,7 +1016,7 @@
     "role_type": "Q4175034",
     "organization_id": "Q16142313",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado de Alagoas",
+      "lang:pt-br": "Assembleia Legislativa de Alagoas",
       "lang:pt": "Assembleia Legislativa de Alagoas",
       "lang:en": "Legislative Assembly of Alagoas"
     }
@@ -1007,7 +1024,8 @@
   {
     "role_id": "Q53864940",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Mato Grosso",
+      "lang:pt-br": "deputado estadual de Mato Grosso",
+      "lang:pt": "deputado estadual de Mato Grosso",
       "lang:en": "state deputy of Mato Grosso"
     },
     "generic_role_id": "Q10265290",
@@ -1020,15 +1038,16 @@
     "role_type": "Q4175034",
     "organization_id": "Q16498710",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado de Mato Grosso",
-      "lang:pt": "Assembleia Legislativa de Mato Grosso",
-      "lang:en": "legislative assembly of the state of Mato Grosso"
+      "lang:pt-br": "Assembleia Legislativa do Mato Grosso",
+      "lang:pt": "Assembleia Legislativa do Mato Grosso",
+      "lang:en": "Legislative Assembly of Mato Grosso"
     }
   },
   {
     "role_id": "Q53864941",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Piauí",
+      "lang:pt-br": "deputado estadual do Piauí",
+      "lang:pt": "deputado estadual do Piauí",
       "lang:en": "state deputy of Piauí"
     },
     "generic_role_id": "Q10265290",
@@ -1041,28 +1060,29 @@
     "role_type": "Q4175034",
     "organization_id": "Q16494759",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado do Piauí",
+      "lang:pt-br": "Assembleia Legislativa do Piauí",
       "lang:pt": "Assembleia Legislativa do Piauí",
-      "lang:en": "legislative assembly of the state of Piaui"
+      "lang:en": "Legislative Assembly of Piauí"
     }
   },
   {
     "role_id": "Q53864942",
     "role_name": {
-      "lang:pt-br": "deutado do Distrito Federal",
-      "lang:en": "deputy of the Federal District"
+      "lang:pt-br": "deputado distrital do Distrito Federal",
+      "lang:pt": "deputado distrital do Distrito Federal",
+      "lang:en": "district deputy of the Federal District"
     },
     "generic_role_id": "Q10265289",
     "generic_role_name": {
-      "lang:pt-br": "deputato distrital",
-      "lang:pt": "Deputado distrital",
+      "lang:pt-br": "deputado distrital",
+      "lang:pt": "deputado distrital",
       "lang:en": "Brazilian District Deputy"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
     "organization_id": "Q10262893",
     "organization_name": {
-      "lang:pt-br": "câmara legislativa do Distrito Federal",
+      "lang:pt-br": "Câmara Legislativa do Distrito Federal",
       "lang:pt": "Câmara Legislativa do Distrito Federal",
       "lang:en": "Legislative Chamber of Federal District"
     }
@@ -1070,7 +1090,8 @@
   {
     "role_id": "Q53864943",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Mato Grosso do Sul",
+      "lang:pt-br": "deputado estadual de Mato Grosso do Sul",
+      "lang:pt": "deputado estadual de Mato Grosso do Sul",
       "lang:en": "state deputy of Mato Grosso do Sul"
     },
     "generic_role_id": "Q10265290",
@@ -1083,15 +1104,16 @@
     "role_type": "Q4175034",
     "organization_id": "Q9633190",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado de Mato Grosso do Sul",
-      "lang:pt": "Assembleia Legislativa de Mato Grosso do Sul",
-      "lang:en": "legislative assembly of the state of Mato Grosso do Sul"
+      "lang:pt-br": "Assembleia Legislativa do Mato Grosso do Sul",
+      "lang:pt": "Assembleia Legislativa do Mato Grosso do Sul",
+      "lang:en": "Legislative Assembly of Mato Grosso do Sul"
     }
   },
   {
     "role_id": "Q53864944",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Sergipe",
+      "lang:pt-br": "deputado estadual de Sergipe",
+      "lang:pt": "deputado estadual de Sergipe",
       "lang:en": "state deputy of Sergipe"
     },
     "generic_role_id": "Q10265290",
@@ -1104,7 +1126,7 @@
     "role_type": "Q4175034",
     "organization_id": "Q9633202",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado de Sergipe",
+      "lang:pt-br": "Assembleia Legislativa de Sergipe",
       "lang:pt": "Assembleia Legislativa de Sergipe",
       "lang:en": "Legislative Assembly of Sergipe"
     }
@@ -1112,7 +1134,8 @@
   {
     "role_id": "Q53864945",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Rondônia",
+      "lang:pt-br": "deputado estadual de Rondônia",
+      "lang:pt": "deputado estadual de Rondônia",
       "lang:en": "state deputy of Rondônia"
     },
     "generic_role_id": "Q10265290",
@@ -1125,15 +1148,16 @@
     "role_type": "Q4175034",
     "organization_id": "Q16494760",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado de Rondônia",
+      "lang:pt-br": "Assembleia Legislativa de Rondônia",
       "lang:pt": "Assembleia Legislativa de Rondônia",
-      "lang:en": "legislative assembly of the state of Rondonia"
+      "lang:en": "Legislative Assembly of Rondônia"
     }
   },
   {
     "role_id": "Q53864946",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Tocantins",
+      "lang:pt-br": "deputado estadual do Tocantins",
+      "lang:pt": "deputado estadual do Tocantins",
       "lang:en": "state deputy of Tocantins"
     },
     "generic_role_id": "Q10265290",
@@ -1146,15 +1170,16 @@
     "role_type": "Q4175034",
     "organization_id": "Q9633245",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado do Tocantins",
+      "lang:pt-br": "Assembleia Legislativa do Tocantins",
       "lang:pt": "Assembleia Legislativa do Tocantins",
-      "lang:en": "legislative assembly of the state of Tocantins"
+      "lang:en": "Legislative Assembly of Tocantins"
     }
   },
   {
     "role_id": "Q53864947",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Acre",
+      "lang:pt-br": "deputado estadual do Acre",
+      "lang:pt": "deputado estadual do Acre",
       "lang:en": "state deputy of Acre"
     },
     "generic_role_id": "Q10265290",
@@ -1167,7 +1192,7 @@
     "role_type": "Q4175034",
     "organization_id": "Q16142333",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado do Acre",
+      "lang:pt-br": "Assembleia Legislativa do Acre",
       "lang:pt": "Assembleia Legislativa do Acre",
       "lang:en": "Legislative Assembly of Acre"
     }
@@ -1175,7 +1200,8 @@
   {
     "role_id": "Q53864948",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Amapá",
+      "lang:pt-br": "deputado estadual do Amapá",
+      "lang:pt": "deputado estadual do Amapá",
       "lang:en": "state deputy of Amapá"
     },
     "generic_role_id": "Q10265290",
@@ -1188,15 +1214,16 @@
     "role_type": "Q4175034",
     "organization_id": "Q9633212",
     "organization_name": {
-      "lang:pt-br": "assembleia legislativa do estado do Amapá",
+      "lang:pt-br": "Assembleia Legislativa do Amapá",
       "lang:pt": "Assembleia Legislativa do Amapá",
-      "lang:en": "legislative assembly of the state of Amapa"
+      "lang:en": "Legislative Assembly of Amapá"
     }
   },
   {
     "role_id": "Q53864949",
     "role_name": {
-      "lang:pt-br": "deutado estadual de Roraima",
+      "lang:pt-br": "deputado estadual de Roraima",
+      "lang:pt": "deputado estadual de Roraima",
       "lang:en": "state deputy of Roraima"
     },
     "generic_role_id": "Q10265290",
@@ -1391,8 +1418,9 @@
     "role_type": null,
     "organization_id": "Q53930915",
     "organization_name": {
-      "lang:pt-br": "prefeitura municipal de Belém",
-      "lang:en": "municipal prefecture of Belém"
+      "lang:pt-br": "Prefeitura de Belém",
+      "lang:pt": "Prefeitura de Belém",
+      "lang:en": "Prefeitura de Belém"
     }
   },
   {
@@ -1458,7 +1486,8 @@
   {
     "role_id": "Q53934877",
     "role_name": {
-      "lang:pt-br": "Vereador de São Paulo",
+      "lang:pt-br": "vereador de São Paulo",
+      "lang:pt": "vereador de São Paulo",
       "lang:en": "Councillor of São Paulo"
     },
     "generic_role_id": "Q708492",
@@ -1480,6 +1509,7 @@
     "role_id": "Q53934881",
     "role_name": {
       "lang:pt-br": "Vereador de Rio de Janeiro",
+      "lang:pt": "vereador do Rio de Janeiro",
       "lang:en": "Councillor of Rio de Janeiro"
     },
     "generic_role_id": "Q708492",
@@ -1749,10 +1779,10 @@
     "role_name": {
       "lang:en": "Subprefect of Perus"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1766,10 +1796,10 @@
     "role_name": {
       "lang:en": "Subprefect of Pirituba"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1783,10 +1813,10 @@
     "role_name": {
       "lang:en": "Subprefect of Freguesia do Ó"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1800,10 +1830,10 @@
     "role_name": {
       "lang:en": "Subprefect of Casa Verde"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1817,10 +1847,10 @@
     "role_name": {
       "lang:en": "Subprefect of Santana-Tucuruvi"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1834,10 +1864,10 @@
     "role_name": {
       "lang:en": "Subprefect of Jaçanã/Tremembé"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1851,10 +1881,10 @@
     "role_name": {
       "lang:en": "Subprefect of Vila Maria"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1868,10 +1898,10 @@
     "role_name": {
       "lang:en": "Subprefect of Lapa"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1885,10 +1915,10 @@
     "role_name": {
       "lang:en": "Subprefect of São Miguel Paulista"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1902,10 +1932,10 @@
     "role_name": {
       "lang:en": "Subprefect of Itaim Paulista/Vila Curuçá"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1919,10 +1949,10 @@
     "role_name": {
       "lang:en": "Subprefect of Mooca"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1936,10 +1966,10 @@
     "role_name": {
       "lang:en": "Subprefect of Aricanduva/Formosa/Carrão"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1953,10 +1983,10 @@
     "role_name": {
       "lang:en": "Subprefect of Sé"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1970,10 +2000,10 @@
     "role_name": {
       "lang:en": "Subprefect of Butantã"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -1987,10 +2017,10 @@
     "role_name": {
       "lang:en": "Subprefect of Pinheiros"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2004,10 +2034,10 @@
     "role_name": {
       "lang:en": "Subprefect of Vila Mariana"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2021,10 +2051,10 @@
     "role_name": {
       "lang:en": "Subprefect of Ipiranga"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2038,10 +2068,10 @@
     "role_name": {
       "lang:en": "Subprefect of Santo Amaro"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2055,10 +2085,10 @@
     "role_name": {
       "lang:en": "Subprefect of Jabaquara"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2072,10 +2102,10 @@
     "role_name": {
       "lang:en": "Subprefect of Cidade Ademar"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2089,10 +2119,10 @@
     "role_name": {
       "lang:en": "Subprefect of Campo Limpo"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2106,10 +2136,10 @@
     "role_name": {
       "lang:en": "Subprefect of M'Boi Mirim"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2123,10 +2153,10 @@
     "role_name": {
       "lang:en": "Subprefect of Capela do Socorro"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2140,10 +2170,10 @@
     "role_name": {
       "lang:en": "Subprefect of Parelheiros"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2157,10 +2187,10 @@
     "role_name": {
       "lang:en": "Subprefect of Penha"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2174,10 +2204,10 @@
     "role_name": {
       "lang:en": "Subprefect of Ermelino Matarazzo"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2191,10 +2221,10 @@
     "role_name": {
       "lang:en": "Subprefect of Itaquera"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2208,10 +2238,10 @@
     "role_name": {
       "lang:en": "Subprefect of Guaianases"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2225,10 +2255,10 @@
     "role_name": {
       "lang:en": "Subprefect of Vila Prudente"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2242,10 +2272,10 @@
     "role_name": {
       "lang:en": "Subprefect of São Mateus"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2259,10 +2289,10 @@
     "role_name": {
       "lang:en": "Subprefect of Cidade Tiradentes"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2276,10 +2306,10 @@
     "role_name": {
       "lang:en": "Subprefect of Sapopemba"
     },
-    "generic_role_id": "Q7631815",
+    "generic_role_id": "Q3382119",
     "generic_role_name": {
       "lang:pt": "subprefeito",
-      "lang:en": "subprefect"
+      "lang:en": "sub-prefect"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -2389,7 +2419,7 @@
       "lang:pt": "prefeito",
       "lang:en": "mayor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": null,
     "organization_id": "Q56449991",
     "organization_name": {
@@ -2411,7 +2441,7 @@
       "lang:pt": "prefeito",
       "lang:en": "mayor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": null,
     "organization_id": "Q56449993",
     "organization_name": {
@@ -2455,7 +2485,7 @@
       "lang:pt": "prefeito",
       "lang:en": "mayor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": null,
     "organization_id": "Q56449995",
     "organization_name": {
@@ -2675,7 +2705,7 @@
       "lang:pt": "prefeito",
       "lang:en": "mayor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": null,
     "organization_id": "Q56450009",
     "organization_name": {
@@ -2719,7 +2749,7 @@
       "lang:pt": "prefeito",
       "lang:en": "mayor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": null,
     "organization_id": "Q56450013",
     "organization_name": {
@@ -2829,7 +2859,7 @@
       "lang:pt": "prefeito",
       "lang:en": "mayor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": null,
     "organization_id": "Q56450019",
     "organization_name": {
@@ -3027,7 +3057,7 @@
       "lang:pt": "prefeito",
       "lang:en": "mayor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": null,
     "organization_id": "Q56450029",
     "organization_name": {
@@ -3709,7 +3739,7 @@
       "lang:pt": "prefeito",
       "lang:en": "mayor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": null,
     "organization_id": "Q56450070",
     "organization_name": {
@@ -4479,7 +4509,7 @@
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": "Q4175034",
     "organization_id": "Q25418761",
     "organization_name": {
@@ -4501,7 +4531,7 @@
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": "Q4175034",
     "organization_id": "Q56450223",
     "organization_name": {
@@ -4545,7 +4575,7 @@
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": "Q4175034",
     "organization_id": "Q56450225",
     "organization_name": {
@@ -4765,7 +4795,7 @@
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": "Q4175034",
     "organization_id": "Q56450234",
     "organization_name": {
@@ -4809,7 +4839,7 @@
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": "Q4175034",
     "organization_id": "Q20045706",
     "organization_name": {
@@ -4919,7 +4949,7 @@
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": "Q4175034",
     "organization_id": "Q56450239",
     "organization_name": {
@@ -5117,7 +5147,7 @@
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": "Q4175034",
     "organization_id": "Q56450251",
     "organization_name": {
@@ -5799,7 +5829,7 @@
       "lang:pt": "vereador",
       "lang:en": "councillor"
     },
-    "role_level": "Q15284",
+    "role_level": "Q15284 Q515",
     "role_type": "Q4175034",
     "organization_id": "Q56450280",
     "organization_name": {
@@ -6823,6 +6853,578 @@
       "lang:pt-br": "escritório do superintendente da Barra da Tijuca",
       "lang:pt": "escritório do superintendente da Barra da Tijuca",
       "lang:en": "office of the superintendent of Barra da Tijuca"
+    }
+  },
+  {
+    "role_id": "Q59383885",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa do Acre",
+      "lang:pt": "presidente da Assembléia Legislativa do Acre",
+      "lang:en": "president of the Legislative Assembly of Acre"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16142333",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa do Acre",
+      "lang:pt": "Assembleia Legislativa do Acre",
+      "lang:en": "Legislative Assembly of Acre"
+    }
+  },
+  {
+    "role_id": "Q59383886",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa de Alagoas",
+      "lang:pt": "presidente da Assembléia Legislativa de Alagoas",
+      "lang:en": "president of the Legislative Assembly of Alagoas"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16142313",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa de Alagoas",
+      "lang:pt": "Assembleia Legislativa de Alagoas",
+      "lang:en": "Legislative Assembly of Alagoas"
+    }
+  },
+  {
+    "role_id": "Q59383887",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa do Amapá",
+      "lang:pt": "presidente da Assembléia Legislativa do Amapá",
+      "lang:en": "president of the Legislative Assembly of Amapá"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633212",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa do Amapá",
+      "lang:pt": "Assembleia Legislativa do Amapá",
+      "lang:en": "Legislative Assembly of Amapá"
+    }
+  },
+  {
+    "role_id": "Q59383888",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa do Amazonas",
+      "lang:pt": "presidente da Assembléia Legislativa do Amazonas",
+      "lang:en": "president of the Legislative Assembly of Amazonas"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q6518202",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa do Amazonas",
+      "lang:pt": "Assembleia Legislativa do Amazonas",
+      "lang:en": "Legislative Assembly of Amazonas"
+    }
+  },
+  {
+    "role_id": "Q59383889",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa da Bahia",
+      "lang:pt": "presidente da Assembléia Legislativa da Bahia",
+      "lang:en": "president of the Legislative Assembly of Bahia"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633175",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa da Bahia",
+      "lang:pt": "Assembleia Legislativa da Bahia",
+      "lang:en": "Legislative Assembly of Bahia"
+    }
+  },
+  {
+    "role_id": "Q59383890",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa do Ceará",
+      "lang:pt": "presidente da Assembléia Legislativa do Ceará",
+      "lang:en": "president of the Legislative Assembly of Ceará"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q13163502",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa do Ceará",
+      "lang:pt": "Assembleia Legislativa do Ceará",
+      "lang:en": "Legislative Assembly of Ceará"
+    }
+  },
+  {
+    "role_id": "Q59383891",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa do Espírito Santo",
+      "lang:pt": "presidente da Assembléia Legislativa do Espírito Santo",
+      "lang:en": "president of the Legislative Assembly of Espírito Santo"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633218",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa do Espírito Santo",
+      "lang:pt": "Assembleia Legislativa do Espírito Santo",
+      "lang:en": "Legislative Assembly of Espírito Santo"
+    }
+  },
+  {
+    "role_id": "Q59383892",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa de Goiás",
+      "lang:pt": "presidente da Assembléia Legislativa de Goiás",
+      "lang:en": "president of the Legislative Assembly of Goiás"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633183",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa de Goiás",
+      "lang:pt": "Assembleia Legislativa de Goiás",
+      "lang:en": "Legislative Assembly of Goiás"
+    }
+  },
+  {
+    "role_id": "Q59383893",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa do Maranhão",
+      "lang:pt": "presidente da Assembléia Legislativa do Maranhão",
+      "lang:en": "president of the Legislative Assembly of Maranhão"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633221",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa do Maranhão",
+      "lang:pt": "Assembleia Legislativa do Maranhão",
+      "lang:en": "Legislative Assembly of Maranhão"
+    }
+  },
+  {
+    "role_id": "Q59383894",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa de Mato Grosso",
+      "lang:pt": "presidente da Assembléia Legislativa de Mato Grosso",
+      "lang:en": "president of the Legislative Assembly of Mato Grosso"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16498710",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa do Mato Grosso",
+      "lang:pt": "Assembleia Legislativa do Mato Grosso",
+      "lang:en": "Legislative Assembly of Mato Grosso"
+    }
+  },
+  {
+    "role_id": "Q59383896",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa de Mato Grosso do Sul",
+      "lang:pt": "presidente da Assembléia Legislativa de Mato Grosso do Sul",
+      "lang:en": "president of the Legislative Assembly of Mato Grosso do Sul"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633190",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa do Mato Grosso do Sul",
+      "lang:pt": "Assembleia Legislativa do Mato Grosso do Sul",
+      "lang:en": "Legislative Assembly of Mato Grosso do Sul"
+    }
+  },
+  {
+    "role_id": "Q59383897",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa de Minas Gerais",
+      "lang:pt": "presidente da Assembléia Legislativa de Minas Gerais",
+      "lang:en": "president of the Legislative Assembly of Minas Gerais"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q12243888",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa de Minas Gerais",
+      "lang:pt": "Assembleia Legislativa de Minas Gerais",
+      "lang:en": "Legislative Assembly of Minas Gerais"
+    }
+  },
+  {
+    "role_id": "Q59383898",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa do Pará",
+      "lang:pt": "presidente da Assembléia Legislativa do Pará",
+      "lang:en": "president of the Legislative Assembly of Pará"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q12469964",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa do Pará",
+      "lang:pt": "Assembleia Legislativa do Pará",
+      "lang:en": "Legislative Assembly of Pará"
+    }
+  },
+  {
+    "role_id": "Q59383899",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa da Paraíba",
+      "lang:pt": "presidente da Assembléia Legislativa da Paraíba",
+      "lang:en": "president of the Legislative Assembly of Paraíba"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633173",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa da Paraíba",
+      "lang:pt": "Assembleia Legislativa da Paraíba",
+      "lang:en": "Legislative Assembly of Paraíba"
+    }
+  },
+  {
+    "role_id": "Q59383900",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa do Paraná",
+      "lang:pt": "presidente da Assembléia Legislativa do Paraná",
+      "lang:en": "president of the Legislative Assembly of Paraná"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633230",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa do Paraná",
+      "lang:pt": "Assembleia Legislativa do Paraná",
+      "lang:en": "Legislative Assembly of Paraná"
+    }
+  },
+  {
+    "role_id": "Q59383901",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa de Pernambuco",
+      "lang:pt": "presidente da Assembléia Legislativa de Pernambuco",
+      "lang:en": "president of the Legislative Assembly of Pernambuco"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633197",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa de Pernambuco",
+      "lang:pt": "Assembleia Legislativa de Pernambuco",
+      "lang:en": "Legislative Assembly of Pernambuco"
+    }
+  },
+  {
+    "role_id": "Q59383902",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa do Piauí",
+      "lang:pt": "presidente da Assembléia Legislativa do Piauí",
+      "lang:en": "president of the Legislative Assembly of Piauí"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16494759",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa do Piauí",
+      "lang:pt": "Assembleia Legislativa do Piauí",
+      "lang:en": "Legislative Assembly of Piauí"
+    }
+  },
+  {
+    "role_id": "Q59383903",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa do Rio de Janeiro",
+      "lang:pt": "presidente da Assembléia Legislativa do Rio de Janeiro",
+      "lang:en": "president of the Legislative Assembly of Rio de Janeiro"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q6583209",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa do Rio de Janeiro",
+      "lang:pt": "Assembleia Legislativa do Rio de Janeiro",
+      "lang:en": "Legislative Assembly of Rio de Janeiro"
+    }
+  },
+  {
+    "role_id": "Q59383904",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa do Rio Grande do Norte",
+      "lang:pt": "presidente da Assembléia Legislativa do Rio Grande do Norte",
+      "lang:en": "president of the Legislative Assembly of Rio Grande do Norte"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q12270300",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa do Rio Grande do Norte",
+      "lang:pt": "Assembleia Legislativa do Rio Grande do Norte",
+      "lang:en": "Legislative Assembly of Rio Grande do Norte"
+    }
+  },
+  {
+    "role_id": "Q59383905",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa do Rio Grande do Sul",
+      "lang:pt": "presidente da Assembléia Legislativa do Rio Grande do Sul",
+      "lang:en": "president of the Legislative Assembly of Rio Grande do Sul"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633239",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa do Rio Grande do Sul",
+      "lang:pt": "Assembleia Legislativa do Rio Grande do Sul",
+      "lang:en": "Legislative Assembly of Rio Grande do Sul"
+    }
+  },
+  {
+    "role_id": "Q59383907",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa de Rondônia",
+      "lang:pt": "presidente da Assembléia Legislativa de Rondônia",
+      "lang:en": "president of the Legislative Assembly of Rondônia"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16494760",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa de Rondônia",
+      "lang:pt": "Assembleia Legislativa de Rondônia",
+      "lang:en": "Legislative Assembly of Rondônia"
+    }
+  },
+  {
+    "role_id": "Q59383908",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa de Roraima",
+      "lang:pt": "presidente da Assembléia Legislativa de Roraima",
+      "lang:en": "president of the Legislative Assembly of Roraima"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633200",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa de Roraima",
+      "lang:pt": "Assembleia Legislativa de Roraima",
+      "lang:en": "Legislative Assembly of Roraima"
+    }
+  },
+  {
+    "role_id": "Q59383909",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa de Santa Catarina",
+      "lang:pt": "presidente da Assembléia Legislativa de Santa Catarina",
+      "lang:en": "president of the Legislative Assembly of Santa Catarina"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633207",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa de Santa Catarina",
+      "lang:pt": "Assembleia Legislativa de Santa Catarina",
+      "lang:en": "Legislative Assembly of Santa Catarina"
+    }
+  },
+  {
+    "role_id": "Q59383910",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa de São Paulo",
+      "lang:pt": "presidente da Assembléia Legislativa de São Paulo",
+      "lang:en": "president of the Legislative Assembly of São Paulo"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q4808730",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa de São Paulo",
+      "lang:pt": "Assembleia Legislativa de São Paulo",
+      "lang:en": "Legislative Assembly of São Paulo"
+    }
+  },
+  {
+    "role_id": "Q59383911",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa de Sergipe",
+      "lang:pt": "presidente da Assembléia Legislativa de Sergipe",
+      "lang:en": "president of the Legislative Assembly of Sergipe"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633202",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa de Sergipe",
+      "lang:pt": "Assembleia Legislativa de Sergipe",
+      "lang:en": "Legislative Assembly of Sergipe"
+    }
+  },
+  {
+    "role_id": "Q59383912",
+    "role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa do Tocantins",
+      "lang:pt": "presidente da Assembléia Legislativa do Tocantins",
+      "lang:en": "president of the Legislative Assembly of Tocantins"
+    },
+    "generic_role_id": "Q59362585",
+    "generic_role_name": {
+      "lang:pt-br": "presidente da Assembléia Legislativa",
+      "lang:pt": "presidente da Assembléia Legislativa",
+      "lang:en": "president of a Brazilian Legislative Assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9633245",
+    "organization_name": {
+      "lang:pt-br": "Assembleia Legislativa do Tocantins",
+      "lang:pt": "Assembleia Legislativa do Tocantins",
+      "lang:en": "Legislative Assembly of Tocantins"
     }
   }
 ]

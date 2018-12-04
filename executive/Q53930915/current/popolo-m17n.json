@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Zenaldo Coutinho",
         "lang:pt": "Zenaldo Coutinho",
         "lang:en": "Zenaldo Coutinho"
       },
@@ -20,8 +21,9 @@
   "organizations": [
     {
       "name": {
-        "lang:pt-br": "prefeitura municipal de Belém",
-        "lang:en": "municipal prefecture of Belém"
+        "lang:pt-br": "Prefeitura de Belém",
+        "lang:pt": "Prefeitura de Belém",
+        "lang:en": "Prefeitura de Belém"
       },
       "id": "Q53930915",
       "classification": "branch",
@@ -31,25 +33,51 @@
           "identifier": "Q53930915"
         }
       ],
-      "area_id": "Q47593"
+      "area_id": "Q12829733"
     },
     {
       "name": {
-        "lang:pt-br": "Partido Democrático Social",
-        "lang:pt": "Partido Democrático Social",
-        "lang:en": "Democratic Social Party"
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
+        "lang:pt": "Partido da Social Democracia Brasileira",
+        "lang:en": "Brazilian Social Democracy Party"
       },
-      "id": "Q1713552",
+      "id": "Q1322897",
       "classification": "party",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q1713552"
+          "identifier": "Q1322897"
         }
       ]
     }
   ],
   "areas": [
+    {
+      "id": "Q12829733",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:pa/mun:belem"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12829733"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53926047",
+        "Q53935627"
+      ],
+      "type": {
+        "lang:pt-br": "município do Brasil",
+        "lang:pt": "município do Brasil",
+        "lang:en": "municipality of Brazil"
+      },
+      "name": {
+        "lang:pt": "Belém"
+      },
+      "parent_id": "Q39517"
+    },
     {
       "id": "Q155",
       "identifiers": [
@@ -95,47 +123,21 @@
       "type": {
         "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
-        "lang:en": "Federative unit of Brazil"
+        "lang:en": "federative unit of Brazil"
       },
       "name": {
         "lang:pt": "Pará"
       },
       "parent_id": "Q155"
-    },
-    {
-      "id": "Q47593",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:br/fed:pa/mun:belem"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47593"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q53926047",
-        "Q53935627"
-      ],
-      "type": {
-        "lang:pt-br": "município do Brasil",
-        "lang:pt": "município do Brasil",
-        "lang:en": "municipality of Brazil"
-      },
-      "name": {
-        "lang:pt": "Belém"
-      },
-      "parent_id": "Q39517"
     }
   ],
   "memberships": [
     {
       "id": "http://www.wikidata.org/entity/statement/Q10395008-5DC97A88-035D-401F-89C3-B22E14044105",
       "person_id": "Q10395008",
-      "on_behalf_of_id": "Q1713552",
+      "on_behalf_of_id": "Q1322897",
       "organization_id": "Q53930915",
-      "area_id": "Q47593",
+      "area_id": "Q12829733",
       "role_superclass_code": "Q30185",
       "role_superclass": {
         "lang:pt-br": "prefeito",
