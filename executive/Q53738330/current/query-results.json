@@ -12,6 +12,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9757510"
       },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Cida Borghetti"
+      },
       "name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -21,6 +26,25 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Cida Borghetti"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q732852"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido Progressista"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Progressista"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Progressive Party"
       },
       "district" : {
         "type" : "uri",

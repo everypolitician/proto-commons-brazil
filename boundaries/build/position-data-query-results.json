@@ -16,12 +16,12 @@
       "position_name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "senador"
+        "value" : "senador do Brasil"
       },
       "position_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Member of the Senate of Brazil"
+        "value" : "Brazilian senator"
       },
       "positionType" : {
         "type" : "uri",
@@ -237,17 +237,17 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "prefeitura municipal de São Paulo"
+        "value" : "Prefeitura de São Paulo"
       },
       "body_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Prefeitura do Município de São Paulo"
+        "value" : "Prefeitura de São Paulo"
       },
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipal prefecture of São Paulo"
+        "value" : "Prefeitura de São Paulo"
       }
     }, {
       "position" : {
@@ -441,22 +441,22 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30461"
+        "value" : "http://www.wikidata.org/entity/Q2285706"
       },
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "presidente"
+        "value" : "chefe de governo"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "presidente"
+        "value" : "chefe de governo"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "president"
+        "value" : "head of government"
       },
       "body" : {
         "type" : "uri",
@@ -522,22 +522,22 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2285706"
+        "value" : "http://www.wikidata.org/entity/Q30461"
       },
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Chefe de governo"
+        "value" : "presidente"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "chefe de governo"
+        "value" : "presidente"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "head of government"
+        "value" : "president"
       },
       "body" : {
         "type" : "uri",
@@ -1195,7 +1195,7 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "cabinet of the governor of the state of Para"
+        "value" : "cabinet of the governor of the state of Pará"
       }
     }, {
       "position" : {
@@ -2412,7 +2412,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de São Paulo"
+        "value" : "deputado estadual de São Paulo"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual de São Paulo"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -2492,7 +2497,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Minas Gerais"
+        "value" : "deputado estadual de Minas Gerais"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual de Minas Gerais"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -2552,12 +2562,12 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado de Minas Gerais"
+        "value" : "Assembleia Legislativa de Minas Gerais"
       },
       "body_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Assembleia Legislativa do Estado de Minas Gerais"
+        "value" : "Assembleia Legislativa de Minas Gerais"
       },
       "body_en" : {
         "xml:lang" : "en",
@@ -2572,7 +2582,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Rio de Janeiro"
+        "value" : "deputado estadual do Rio de Janeiro"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual do Rio de Janeiro"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -2632,12 +2647,12 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado do Rio de Janeiro"
+        "value" : "Assembleia Legislativa do Rio de Janeiro"
       },
       "body_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Assembleia Legislativa do Estado do Rio de Janeiro"
+        "value" : "Assembleia Legislativa do Rio de Janeiro"
       },
       "body_en" : {
         "xml:lang" : "en",
@@ -2652,7 +2667,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Bahia"
+        "value" : "deputado estadual da Bahia"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual da Bahia"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -2712,7 +2732,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado da Bahia"
+        "value" : "Assembleia Legislativa da Bahia"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -2732,7 +2752,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Rio Grande do Sul"
+        "value" : "deputado estadual do Rio Grande do Sul"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual do Rio Grande do Sul"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -2792,7 +2817,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado do Rio Grande do Sul"
+        "value" : "Assembleia Legislativa do Rio Grande do Sul"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -2812,7 +2837,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Paraná"
+        "value" : "deputado estadual do Paraná"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual do Paraná"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -2872,7 +2902,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado do Paraná"
+        "value" : "Assembleia Legislativa do Paraná"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -2892,7 +2922,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Pernambuco"
+        "value" : "deputado estadual de Pernambuco"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual de Pernambuco"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -2952,7 +2987,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado de Pernambuco"
+        "value" : "Assembleia Legislativa de Pernambuco"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -2972,7 +3007,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Ceará"
+        "value" : "deputado estadual do Ceará"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual do Ceará"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -3032,7 +3072,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado do Ceará"
+        "value" : "Assembleia Legislativa do Ceará"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -3052,7 +3092,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Pará"
+        "value" : "deputado estadual do Pará"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual do Pará"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -3112,7 +3157,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado do Pará"
+        "value" : "Assembleia Legislativa do Pará"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -3132,7 +3177,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Santa Catarina"
+        "value" : "deputado estadual de Santa Catarina"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual de Santa Catarina"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -3192,7 +3242,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado de Santa Catarina"
+        "value" : "Assembleia Legislativa de Santa Catarina"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -3212,7 +3262,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Maranhão"
+        "value" : "deputado estadual do Maranhão"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual do Maranhão"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -3272,17 +3327,17 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado do Maranhão"
+        "value" : "Assembleia Legislativa do Maranhão"
       },
       "body_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "assembleia Legislativa do Maranhão"
+        "value" : "Assembleia Legislativa do Maranhão"
       },
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "legislative assembly of the state of Maranhao"
+        "value" : "Legislative Assembly of Maranhão"
       }
     }, {
       "position" : {
@@ -3292,7 +3347,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Goiás"
+        "value" : "deputado estadual de Goiás"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual de Goiás"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -3352,7 +3412,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado de Goiás"
+        "value" : "Assembleia Legislativa de Goiás"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -3362,7 +3422,7 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "legislative assembly of the state of Goias"
+        "value" : "Legislative Assembly of Goiás"
       }
     }, {
       "position" : {
@@ -3372,7 +3432,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Amazonas"
+        "value" : "deputado estadual do Amazonas"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual do Amazonas"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -3432,7 +3497,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado do Amazonas"
+        "value" : "Assembleia Legislativa do Amazonas"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -3452,7 +3517,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Paraíba"
+        "value" : "deputado estadual da Paraíba"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual da Paraíba"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -3512,7 +3582,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado da Paraíba"
+        "value" : "Assembleia Legislativa da Paraíba"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -3532,7 +3602,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Espírito Santo"
+        "value" : "deputado estadual do Espírito Santo"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual do Espírito Santo"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -3592,7 +3667,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado do Espírito Santo"
+        "value" : "Assembleia Legislativa do Espírito Santo"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -3612,7 +3687,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Rio Grande do Norte"
+        "value" : "deputado estadual do Rio Grande do Norte"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual do Rio Grande do Norte"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -3672,7 +3752,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado do Rio Grande do Norte"
+        "value" : "Assembleia Legislativa do Rio Grande do Norte"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -3692,7 +3772,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Alagoas"
+        "value" : "deputado estadual de Alagoas"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual de Alagoas"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -3752,7 +3837,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado de Alagoas"
+        "value" : "Assembleia Legislativa de Alagoas"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -3772,7 +3857,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Mato Grosso"
+        "value" : "deputado estadual de Mato Grosso"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual de Mato Grosso"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -3832,17 +3922,17 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado de Mato Grosso"
+        "value" : "Assembleia Legislativa do Mato Grosso"
       },
       "body_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Assembleia Legislativa de Mato Grosso"
+        "value" : "Assembleia Legislativa do Mato Grosso"
       },
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "legislative assembly of the state of Mato Grosso"
+        "value" : "Legislative Assembly of Mato Grosso"
       }
     }, {
       "position" : {
@@ -3852,7 +3942,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Piauí"
+        "value" : "deputado estadual do Piauí"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual do Piauí"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -3912,7 +4007,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado do Piauí"
+        "value" : "Assembleia Legislativa do Piauí"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -3922,7 +4017,7 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "legislative assembly of the state of Piaui"
+        "value" : "Legislative Assembly of Piauí"
       }
     }, {
       "position" : {
@@ -3932,12 +4027,17 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado do Distrito Federal"
+        "value" : "deputado distrital do Distrito Federal"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado distrital do Distrito Federal"
       },
       "position_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "deputy of the Federal District"
+        "value" : "district deputy of the Federal District"
       },
       "positionType" : {
         "type" : "uri",
@@ -3973,12 +4073,12 @@
       "position_superclass_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deputato distrital"
+        "value" : "deputado distrital"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Deputado distrital"
+        "value" : "deputado distrital"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
@@ -3992,7 +4092,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "câmara legislativa do Distrito Federal"
+        "value" : "Câmara Legislativa do Distrito Federal"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -4012,7 +4112,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Mato Grosso do Sul"
+        "value" : "deputado estadual de Mato Grosso do Sul"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual de Mato Grosso do Sul"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -4072,17 +4177,17 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado de Mato Grosso do Sul"
+        "value" : "Assembleia Legislativa do Mato Grosso do Sul"
       },
       "body_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Assembleia Legislativa de Mato Grosso do Sul"
+        "value" : "Assembleia Legislativa do Mato Grosso do Sul"
       },
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "legislative assembly of the state of Mato Grosso do Sul"
+        "value" : "Legislative Assembly of Mato Grosso do Sul"
       }
     }, {
       "position" : {
@@ -4092,7 +4197,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Sergipe"
+        "value" : "deputado estadual de Sergipe"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual de Sergipe"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -4152,7 +4262,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado de Sergipe"
+        "value" : "Assembleia Legislativa de Sergipe"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -4172,7 +4282,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Rondônia"
+        "value" : "deputado estadual de Rondônia"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual de Rondônia"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -4232,7 +4347,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado de Rondônia"
+        "value" : "Assembleia Legislativa de Rondônia"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -4242,7 +4357,7 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "legislative assembly of the state of Rondonia"
+        "value" : "Legislative Assembly of Rondônia"
       }
     }, {
       "position" : {
@@ -4252,7 +4367,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Tocantins"
+        "value" : "deputado estadual do Tocantins"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual do Tocantins"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -4312,7 +4432,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado do Tocantins"
+        "value" : "Assembleia Legislativa do Tocantins"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -4322,7 +4442,7 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "legislative assembly of the state of Tocantins"
+        "value" : "Legislative Assembly of Tocantins"
       }
     }, {
       "position" : {
@@ -4332,7 +4452,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Acre"
+        "value" : "deputado estadual do Acre"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual do Acre"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -4392,7 +4517,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado do Acre"
+        "value" : "Assembleia Legislativa do Acre"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -4412,7 +4537,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Amapá"
+        "value" : "deputado estadual do Amapá"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual do Amapá"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -4472,7 +4602,7 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "assembleia legislativa do estado do Amapá"
+        "value" : "Assembleia Legislativa do Amapá"
       },
       "body_pt" : {
         "xml:lang" : "pt",
@@ -4482,7 +4612,7 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "legislative assembly of the state of Amapa"
+        "value" : "Legislative Assembly of Amapá"
       }
     }, {
       "position" : {
@@ -4492,7 +4622,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "deutado estadual de Roraima"
+        "value" : "deputado estadual de Roraima"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "deputado estadual de Roraima"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -5158,7 +5293,7 @@
       },
       "adminArea" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47593"
+        "value" : "http://www.wikidata.org/entity/Q12829733"
       },
       "admin_area_pt_br" : {
         "xml:lang" : "pt-br",
@@ -5201,12 +5336,17 @@
       "body_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "prefeitura municipal de Belém"
+        "value" : "Prefeitura de Belém"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Prefeitura de Belém"
       },
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipal prefecture of Belém"
+        "value" : "Prefeitura de Belém"
       }
     }, {
       "position" : {
@@ -5429,7 +5569,12 @@
       "position_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -5510,6 +5655,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Vereador de Rio de Janeiro"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador do Rio de Janeiro"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -6236,7 +6386,7 @@
       },
       "adminArea" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47593"
+        "value" : "http://www.wikidata.org/entity/Q12829733"
       },
       "admin_area_pt_br" : {
         "xml:lang" : "pt-br",
@@ -6551,7 +6701,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -6561,7 +6711,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -6607,7 +6757,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -6617,7 +6767,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -6663,7 +6813,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -6673,7 +6823,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -6719,7 +6869,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -6729,7 +6879,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -6775,7 +6925,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -6785,7 +6935,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -6831,7 +6981,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -6841,7 +6991,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -6887,7 +7037,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -6897,7 +7047,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -6943,7 +7093,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -6953,7 +7103,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -6999,7 +7149,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -7009,7 +7159,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -7055,7 +7205,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -7065,7 +7215,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -7111,7 +7261,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -7121,7 +7271,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -7167,7 +7317,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -7177,7 +7327,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -7223,7 +7373,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -7233,7 +7383,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -7279,7 +7429,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -7289,7 +7439,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -7335,7 +7485,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -7345,7 +7495,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -7391,7 +7541,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -7401,7 +7551,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -7447,7 +7597,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -7457,7 +7607,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -7503,7 +7653,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -7513,7 +7663,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -7559,7 +7709,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -7569,7 +7719,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -7615,7 +7765,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -7625,7 +7775,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -7671,7 +7821,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -7681,7 +7831,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -7727,7 +7877,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -7737,7 +7887,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -7783,7 +7933,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -7793,7 +7943,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -7839,7 +7989,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -7849,7 +7999,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -7895,7 +8045,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -7905,7 +8055,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -7951,7 +8101,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -7961,7 +8111,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -8007,7 +8157,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -8017,7 +8167,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -8063,7 +8213,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -8073,7 +8223,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -8119,7 +8269,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -8129,7 +8279,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -8175,7 +8325,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -8185,7 +8335,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -8231,7 +8381,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -8241,7 +8391,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -8287,7 +8437,7 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "position_superclass_pt" : {
         "xml:lang" : "pt",
@@ -8297,7 +8447,7 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "body" : {
         "type" : "uri",
@@ -8644,7 +8794,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q15284"
+        "value" : "Q15284 Q515"
       },
       "adminArea" : {
         "type" : "uri",
@@ -8725,7 +8875,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q15284"
+        "value" : "Q15284 Q515"
       },
       "adminArea" : {
         "type" : "uri",
@@ -8887,7 +9037,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q15284"
+        "value" : "Q15284 Q515"
       },
       "adminArea" : {
         "type" : "uri",
@@ -9697,7 +9847,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q15284"
+        "value" : "Q15284 Q515"
       },
       "adminArea" : {
         "type" : "uri",
@@ -9859,7 +10009,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q15284"
+        "value" : "Q15284 Q515"
       },
       "adminArea" : {
         "type" : "uri",
@@ -10264,7 +10414,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q15284"
+        "value" : "Q15284 Q515"
       },
       "adminArea" : {
         "type" : "uri",
@@ -10993,7 +11143,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q15284"
+        "value" : "Q15284 Q515"
       },
       "adminArea" : {
         "type" : "uri",
@@ -13504,7 +13654,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q15284"
+        "value" : "Q15284 Q515"
       },
       "adminArea" : {
         "type" : "uri",
@@ -16365,7 +16515,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q15284"
+        "value" : "Q15284 Q515"
       },
       "adminArea" : {
         "type" : "uri",
@@ -16450,7 +16600,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q15284"
+        "value" : "Q15284 Q515"
       },
       "adminArea" : {
         "type" : "uri",
@@ -16620,7 +16770,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q15284"
+        "value" : "Q15284 Q515"
       },
       "adminArea" : {
         "type" : "uri",
@@ -17470,7 +17620,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q15284"
+        "value" : "Q15284 Q515"
       },
       "adminArea" : {
         "type" : "uri",
@@ -17640,7 +17790,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q15284"
+        "value" : "Q15284 Q515"
       },
       "adminArea" : {
         "type" : "uri",
@@ -18065,7 +18215,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q15284"
+        "value" : "Q15284 Q515"
       },
       "adminArea" : {
         "type" : "uri",
@@ -18830,7 +18980,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q15284"
+        "value" : "Q15284 Q515"
       },
       "adminArea" : {
         "type" : "uri",
@@ -21465,7 +21615,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q15284"
+        "value" : "Q15284 Q515"
       },
       "adminArea" : {
         "type" : "uri",
@@ -23418,6 +23568,10 @@
         "type" : "literal",
         "value" : "councillor of Marabá"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q15284"
@@ -23478,10 +23632,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "municipal Chamber of Marabá"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -23502,6 +23652,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "councillor of Barueri"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -23563,10 +23717,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "municipal Chamber of Barueri"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -23587,6 +23737,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "councillor of Embu das Artes"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -23648,10 +23802,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "municipal Chamber of Embu das Artes"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -23672,6 +23822,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "councillor of Foz do Iguaçu"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -23733,10 +23887,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "municipal Chamber of Foz do Iguaçu"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -23757,6 +23907,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "councillor of Volta Redonda"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -23818,10 +23972,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "municipal Chamber of Volta Redonda"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -23842,6 +23992,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "councillor of Ipatinga"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -23903,10 +24057,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "municipal Chamber of Ipatinga"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -23927,6 +24077,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "councillor of Imperatriz"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -23988,10 +24142,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "municipal Chamber of Imperatriz"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -24012,6 +24162,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "councillor of Viamão"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -24073,10 +24227,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "municipal Chamber of Viamão"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -25369,6 +25519,2216 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "office of the superintendent of Barra da Tijuca"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383885"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Acre"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Acre"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Acre"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40780"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Acre"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Acre"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acre"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142333"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Acre"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Acre"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Acre"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383886"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Alagoas"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Alagoas"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Alagoas"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40885"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Alagoas"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Alagoas"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alagoas"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16142313"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Alagoas"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Alagoas"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383887"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Amapá"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Amapá"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Amapá"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40130"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Amapá"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Amapá"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Amapá"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9633212"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Amapá"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Amapá"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Amapá"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383888"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Amazonas"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Amazonas"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Amazonas"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40040"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Amazonas"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Amazonas"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Amazonas"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6518202"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Amazonas"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Amazonas"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Amazonas"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383889"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa da Bahia"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa da Bahia"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Bahia"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40430"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Bahia"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Bahia"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bahia"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9633175"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa da Bahia"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa da Bahia"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Bahia"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383890"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Ceará"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Ceará"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Ceará"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40123"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Ceará"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ceará"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ceará"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13163502"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Ceará"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Ceará"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ceará"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383891"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Espírito Santo"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Espírito Santo"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Espírito Santo"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43233"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Espírito Santo"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Espírito Santo"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Espírito Santo"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9633218"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Espírito Santo"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Espírito Santo"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Espírito Santo"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383892"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Goiás"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Goiás"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Goiás"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41587"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Goiás"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Goiás"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Goiás"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9633183"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Goiás"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Goiás"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Goiás"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383893"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Maranhão"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Maranhão"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Maranhão"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42362"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Maranhão"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Maranhão"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maranhão"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9633221"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Maranhão"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Maranhão"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Maranhão"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383894"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Mato Grosso"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Mato Grosso"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Mato Grosso"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42824"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Mato Grosso"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Mato Grosso"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mato Grosso"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16498710"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Mato Grosso"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Mato Grosso"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Mato Grosso"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383896"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Mato Grosso do Sul"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Mato Grosso do Sul"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Mato Grosso do Sul"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43319"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Mato Grosso do Sul"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Mato Grosso do Sul"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mato Grosso do Sul"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9633190"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Mato Grosso do Sul"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Mato Grosso do Sul"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Mato Grosso do Sul"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383897"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Minas Gerais"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Minas Gerais"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Minas Gerais"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39109"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Minas Gerais"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Minas Gerais"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Minas Gerais"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12243888"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Minas Gerais"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Minas Gerais"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Minas Gerais"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383898"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Pará"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Pará"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Pará"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39517"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Pará"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Pará"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pará"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12469964"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Pará"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Pará"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Pará"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383899"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa da Paraíba"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa da Paraíba"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Paraíba"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38088"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Paraíba"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Paraíba"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paraíba"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9633173"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa da Paraíba"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa da Paraíba"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Paraíba"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383900"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Paraná"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Paraná"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Paraná"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15499"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Paraná"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Paraná"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paraná"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9633230"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Paraná"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Paraná"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Paraná"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383901"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Pernambuco"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Pernambuco"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Pernambuco"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40942"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Pernambuco"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Pernambuco"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pernambuco"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9633197"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Pernambuco"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Pernambuco"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Pernambuco"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383902"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Piauí"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Piauí"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Piauí"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42722"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Piauí"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Piauí"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Piauí"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16494759"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Piauí"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Piauí"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Piauí"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383903"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Rio de Janeiro"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Rio de Janeiro"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Rio de Janeiro"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41428"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Rio de Janeiro"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Rio de Janeiro"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rio de Janeiro"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6583209"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Rio de Janeiro"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Rio de Janeiro"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Rio de Janeiro"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383904"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Rio Grande do Norte"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Rio Grande do Norte"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Rio Grande do Norte"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43255"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Rio Grande do Norte"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Rio Grande do Norte"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rio Grande do Norte"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12270300"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Rio Grande do Norte"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Rio Grande do Norte"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Rio Grande do Norte"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383905"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Rio Grande do Sul"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Rio Grande do Sul"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Rio Grande do Sul"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40030"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Rio Grande do Sul"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Rio Grande do Sul"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rio Grande do Sul"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9633239"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Rio Grande do Sul"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Rio Grande do Sul"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Rio Grande do Sul"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383907"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Rondônia"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Rondônia"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Rondônia"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43235"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Rondônia"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Rondônia"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rondônia"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16494760"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Rondônia"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Rondônia"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Rondônia"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383908"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Roraima"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Roraima"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Roraima"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42508"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Roraima"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Roraima"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roraima"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9633200"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Roraima"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Roraima"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Roraima"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383909"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Santa Catarina"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Santa Catarina"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Santa Catarina"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41115"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Santa Catarina"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Santa Catarina"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Santa Catarina"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9633207"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Santa Catarina"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Santa Catarina"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Santa Catarina"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383910"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de São Paulo"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de São Paulo"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of São Paulo"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q175"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "São Paulo"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4808730"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de São Paulo"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de São Paulo"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of São Paulo"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383911"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Sergipe"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa de Sergipe"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Sergipe"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43783"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Sergipe"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Sergipe"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sergipe"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9633202"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Sergipe"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa de Sergipe"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Sergipe"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59383912"
+      },
+      "position_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Tocantins"
+      },
+      "position_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa do Tocantins"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Legislative Assembly of Tocantins"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43695"
+      },
+      "admin_area_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Tocantins"
+      },
+      "admin_area_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Tocantins"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tocantins"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59362585"
+      },
+      "position_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "presidente da Assembléia Legislativa"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of a Brazilian Legislative Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9633245"
+      },
+      "body_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Tocantins"
+      },
+      "body_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Assembleia Legislativa do Tocantins"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Tocantins"
       }
     } ]
   }

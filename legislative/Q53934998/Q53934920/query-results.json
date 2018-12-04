@@ -64,11 +64,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53939228"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "João Salmito Filho"
-      },
       "name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
@@ -101,6 +96,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "43"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "João Salmito Filho"
       },
       "facebook" : {
         "type" : "literal",
