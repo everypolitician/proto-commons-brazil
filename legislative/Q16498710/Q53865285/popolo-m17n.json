@@ -1,0 +1,83 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:pt-br": "Assembleia Legislativa do Mato Grosso",
+        "lang:pt": "Assembleia Legislativa do Mato Grosso",
+        "lang:en": "Legislative Assembly of Mato Grosso"
+      },
+      "id": "Q16498710",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16498710"
+        }
+      ],
+      "area_id": "Q42824",
+      "seat_counts": {
+        "Q53864940": "24"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q42824",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:mt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42824"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739368",
+        "Q53864940"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Mato Grosso"
+      },
+      "parent_id": "Q155"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

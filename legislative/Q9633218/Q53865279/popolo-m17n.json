@@ -1,0 +1,83 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:pt-br": "Assembleia Legislativa do Espírito Santo",
+        "lang:pt": "Assembleia Legislativa do Espírito Santo",
+        "lang:en": "Legislative Assembly of Espírito Santo"
+      },
+      "id": "Q9633218",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9633218"
+        }
+      ],
+      "area_id": "Q43233",
+      "seat_counts": {
+        "Q53864937": "30"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q43233",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:es"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q43233"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739364",
+        "Q53864937"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Espírito Santo"
+      },
+      "parent_id": "Q155"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

@@ -2,20 +2,21 @@
   "persons": [
     {
       "name": {
-        "lang:pt-br": "João Salmito Filho",
-        "lang:en": "João Salmito Filho"
+        "lang:pt-br": "Cidinha Campos",
+        "lang:pt": "Cidinha Campos",
+        "lang:en": "Cidinha Campos"
       },
-      "id": "Q53939228",
+      "id": "Q9759994",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q53939228"
+          "identifier": "Q9759994"
         }
       ],
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/SalmitoOficial"
+          "url": "https://www.facebook.com/cidinhacamposoficial"
         }
       ]
     }
@@ -23,21 +24,21 @@
   "organizations": [
     {
       "name": {
-        "lang:pt-br": "Câmara Municipal de Fortaleza",
-        "lang:pt": "Câmara Municipal de Fortaleza",
-        "lang:en": "Municipal Chamber of Fortaleza"
+        "lang:pt-br": "Assembleia Legislativa do Rio de Janeiro",
+        "lang:pt": "Assembleia Legislativa do Rio de Janeiro",
+        "lang:en": "Legislative Assembly of Rio de Janeiro"
       },
-      "id": "Q53934998",
+      "id": "Q6583209",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q53934998"
+          "identifier": "Q6583209"
         }
       ],
-      "area_id": "Q43463",
+      "area_id": "Q41428",
       "seat_counts": {
-        "Q53935000": "43"
+        "Q53864925": "70"
       }
     },
     {
@@ -84,20 +85,20 @@
       "parent_id": null
     },
     {
-      "id": "Q40123",
+      "id": "Q41428",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:br/fed:ce"
+          "identifier": "country:br/fed:rj"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q40123"
+          "identifier": "Q41428"
         }
       ],
       "associated_wikidata_positions": [
-        "Q53739345",
-        "Q53864930"
+        "Q53739338",
+        "Q53864925"
       ],
       "type": {
         "lang:pt-br": "unidade federativa do Brasil",
@@ -105,55 +106,30 @@
         "lang:en": "federative unit of Brazil"
       },
       "name": {
-        "lang:pt": "Ceará"
+        "lang:pt": "Rio de Janeiro"
       },
       "parent_id": "Q155"
-    },
-    {
-      "id": "Q43463",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:br/fed:ce/mun:fortaleza"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q43463"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q53926033",
-        "Q53935000"
-      ],
-      "type": {
-        "lang:pt-br": "município do Brasil",
-        "lang:pt": "município do Brasil",
-        "lang:en": "municipality of Brazil"
-      },
-      "name": {
-        "lang:pt": "Fortaleza"
-      },
-      "parent_id": "Q40123"
     }
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q53939228-DBCD6031-3592-4846-BC68-DD58FB6BA36E",
-      "person_id": "Q53939228",
+      "id": "http://www.wikidata.org/entity/statement/Q9759994-BC2A0F12-B7A9-4ACB-95E0-B5CD23CE1390",
+      "person_id": "Q9759994",
       "on_behalf_of_id": "Q1414708",
-      "organization_id": "Q53934998",
-      "role_superclass_code": "Q708492",
+      "organization_id": "Q6583209",
+      "role_superclass_code": "Q10265290",
       "role_superclass": {
-        "lang:pt-br": "vereador",
-        "lang:pt": "vereador",
-        "lang:en": "councillor"
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
       },
-      "role_code": "Q53935000",
+      "role_code": "Q53864925",
       "role": {
-        "lang:pt-br": "Vereador de Fortaleza",
-        "lang:en": "Councillor of Fortaleza"
+        "lang:pt-br": "deputado estadual do Rio de Janeiro",
+        "lang:pt": "deputado estadual do Rio de Janeiro",
+        "lang:en": "state deputy of Rio de Janeiro"
       },
-      "term_id": "Q53934920"
+      "term_id": "Q53865261"
     }
   ]
 }

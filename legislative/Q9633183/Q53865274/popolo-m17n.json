@@ -1,0 +1,83 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:pt-br": "Assembleia Legislativa de Goiás",
+        "lang:pt": "Assembleia Legislativa de Goiás",
+        "lang:en": "Legislative Assembly of Goiás"
+      },
+      "id": "Q9633183",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9633183"
+        }
+      ],
+      "area_id": "Q41587",
+      "seat_counts": {
+        "Q53864934": "41"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q41587",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:go"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41587"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739360",
+        "Q53864934"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Goiás"
+      },
+      "parent_id": "Q155"
+    }
+  ],
+  "memberships": [
+
+  ]
+}
