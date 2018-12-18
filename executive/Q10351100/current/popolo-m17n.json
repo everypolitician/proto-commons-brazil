@@ -18,26 +18,6 @@
     },
     {
       "name": {
-        "lang:pt-br": "João Doria Júnior",
-        "lang:pt": "João Doria Júnior",
-        "lang:en": "João Doria Júnior"
-      },
-      "id": "Q10311413",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q10311413"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/jdoriajr"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:pt": "Prestes Maia",
         "lang:en": "Francisco Prestes Maia"
       },
@@ -54,6 +34,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Mário Covas",
         "lang:pt": "Mário Covas",
         "lang:en": "Mário Covas"
       },
@@ -150,7 +131,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/JoseSerraOficial"
+        }
       ]
     },
     {
@@ -204,11 +188,15 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/paulosmaluf"
+        }
       ]
     },
     {
       "name": {
+        "lang:pt-br": "Régis de Oliveira",
         "lang:pt": "Régis de Oliveira",
         "lang:en": "Régis de Oliveira"
       },
@@ -225,6 +213,7 @@
     },
     {
       "name": {
+        "lang:pt-br": "Bruno Covas",
         "lang:pt": "Bruno Covas",
         "lang:en": "Bruno Covas"
       },
@@ -246,9 +235,9 @@
   "organizations": [
     {
       "name": {
-        "lang:pt-br": "prefeitura municipal de São Paulo",
-        "lang:pt": "Prefeitura do Município de São Paulo",
-        "lang:en": "municipal prefecture of São Paulo"
+        "lang:pt-br": "Prefeitura de São Paulo",
+        "lang:pt": "Prefeitura de São Paulo",
+        "lang:en": "Prefecture of São Paulo"
       },
       "id": "Q10351100",
       "classification": "branch",
@@ -437,7 +426,7 @@
       "type": {
         "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
-        "lang:en": "Federative unit of Brazil"
+        "lang:en": "federative unit of Brazil"
       },
       "name": {
         "lang:pt": "São Paulo"
@@ -446,6 +435,24 @@
     }
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10310619-4e0ac4d9-4d48-190c-f216-0896918b6134",
+      "person_id": "Q10310619",
+      "on_behalf_of_id": "Q2745857",
+      "organization_id": "Q10351100",
+      "area_id": "Q174",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:pt-br": "chefe de governo",
+        "lang:pt": "chefe de governo",
+        "lang:en": "head of government"
+      },
+      "role_code": "Q24255165",
+      "role": {
+        "lang:pt": "Prefeito de São Paulo",
+        "lang:en": "Mayor of São Paulo"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10310619-4e0ac4d9-4d48-190c-f216-0896918b6134",
       "person_id": "Q10310619",
@@ -465,17 +472,15 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q10311413-bc77641c-4efe-8ba1-36cc-e596d3829b00",
-      "person_id": "Q10311413",
-      "on_behalf_of_id": "Q1322897",
+      "id": "http://www.wikidata.org/entity/statement/Q10353688-40434ce3-46da-1527-9205-804f04496e71",
+      "person_id": "Q10353688",
       "organization_id": "Q10351100",
       "area_id": "Q174",
-      "start_date": "2017-01-01",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q2285706",
       "role_superclass": {
-        "lang:pt-br": "prefeito",
-        "lang:pt": "prefeito",
-        "lang:en": "mayor"
+        "lang:pt-br": "chefe de governo",
+        "lang:pt": "chefe de governo",
+        "lang:en": "head of government"
       },
       "role_code": "Q24255165",
       "role": {
@@ -493,6 +498,24 @@
         "lang:pt-br": "prefeito",
         "lang:pt": "prefeito",
         "lang:en": "mayor"
+      },
+      "role_code": "Q24255165",
+      "role": {
+        "lang:pt": "Prefeito de São Paulo",
+        "lang:en": "Mayor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1669473-56b0ba3f-4f4a-570f-a540-c7a98affe667",
+      "person_id": "Q1669473",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q10351100",
+      "area_id": "Q174",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:pt-br": "chefe de governo",
+        "lang:pt": "chefe de governo",
+        "lang:en": "head of government"
       },
       "role_code": "Q24255165",
       "role": {
@@ -524,11 +547,47 @@
       "on_behalf_of_id": "Q1185830",
       "organization_id": "Q10351100",
       "area_id": "Q174",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:pt-br": "chefe de governo",
+        "lang:pt": "chefe de governo",
+        "lang:en": "head of government"
+      },
+      "role_code": "Q24255165",
+      "role": {
+        "lang:pt": "Prefeito de São Paulo",
+        "lang:en": "Mayor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1797226-ed143384-4d62-ad26-61b3-776d8d3c29c6",
+      "person_id": "Q1797226",
+      "on_behalf_of_id": "Q1185830",
+      "organization_id": "Q10351100",
+      "area_id": "Q174",
       "role_superclass_code": "Q30185",
       "role_superclass": {
         "lang:pt-br": "prefeito",
         "lang:pt": "prefeito",
         "lang:en": "mayor"
+      },
+      "role_code": "Q24255165",
+      "role": {
+        "lang:pt": "Prefeito de São Paulo",
+        "lang:en": "Mayor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1857846-CC5BB7B8-B3FC-41EB-8601-BD3155AC966B",
+      "person_id": "Q1857846",
+      "on_behalf_of_id": "Q732852",
+      "organization_id": "Q10351100",
+      "area_id": "Q174",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:pt-br": "chefe de governo",
+        "lang:pt": "chefe de governo",
+        "lang:en": "head of government"
       },
       "role_code": "Q24255165",
       "role": {
@@ -560,11 +619,47 @@
       "on_behalf_of_id": "Q7550752",
       "organization_id": "Q10351100",
       "area_id": "Q174",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:pt-br": "chefe de governo",
+        "lang:pt": "chefe de governo",
+        "lang:en": "head of government"
+      },
+      "role_code": "Q24255165",
+      "role": {
+        "lang:pt": "Prefeito de São Paulo",
+        "lang:en": "Mayor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q199624-1a4ee03c-4e73-bb6b-374c-9c689ec81a1a",
+      "person_id": "Q199624",
+      "on_behalf_of_id": "Q7550752",
+      "organization_id": "Q10351100",
+      "area_id": "Q174",
       "role_superclass_code": "Q30185",
       "role_superclass": {
         "lang:pt-br": "prefeito",
         "lang:pt": "prefeito",
         "lang:en": "mayor"
+      },
+      "role_code": "Q24255165",
+      "role": {
+        "lang:pt": "Prefeito de São Paulo",
+        "lang:en": "Mayor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2546210-89ac76a0-4dc2-1bf3-295e-48c7064e37d5",
+      "person_id": "Q2546210",
+      "on_behalf_of_id": "Q2054750",
+      "organization_id": "Q10351100",
+      "area_id": "Q174",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:pt-br": "chefe de governo",
+        "lang:pt": "chefe de governo",
+        "lang:en": "head of government"
       },
       "role_code": "Q24255165",
       "role": {
@@ -596,11 +691,47 @@
       "on_behalf_of_id": "Q1322897",
       "organization_id": "Q10351100",
       "area_id": "Q174",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:pt-br": "chefe de governo",
+        "lang:pt": "chefe de governo",
+        "lang:en": "head of government"
+      },
+      "role_code": "Q24255165",
+      "role": {
+        "lang:pt": "Prefeito de São Paulo",
+        "lang:en": "Mayor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q379563-FF17F8FE-E53B-4D49-9605-CBCB504259D0",
+      "person_id": "Q379563",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q10351100",
+      "area_id": "Q174",
       "role_superclass_code": "Q30185",
       "role_superclass": {
         "lang:pt-br": "prefeito",
         "lang:pt": "prefeito",
         "lang:en": "mayor"
+      },
+      "role_code": "Q24255165",
+      "role": {
+        "lang:pt": "Prefeito de São Paulo",
+        "lang:en": "Mayor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q463614-5ed0d655-48e1-1477-fc37-dc2a3b89be26",
+      "person_id": "Q463614",
+      "on_behalf_of_id": "Q657089",
+      "organization_id": "Q10351100",
+      "area_id": "Q174",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:pt-br": "chefe de governo",
+        "lang:pt": "chefe de governo",
+        "lang:en": "head of government"
       },
       "role_code": "Q24255165",
       "role": {
@@ -632,11 +763,47 @@
       "on_behalf_of_id": "Q732852",
       "organization_id": "Q10351100",
       "area_id": "Q174",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:pt-br": "chefe de governo",
+        "lang:pt": "chefe de governo",
+        "lang:en": "head of government"
+      },
+      "role_code": "Q24255165",
+      "role": {
+        "lang:pt": "Prefeito de São Paulo",
+        "lang:en": "Mayor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4776958-59f99f30-48a4-5208-f510-7f67e5754329",
+      "person_id": "Q4776958",
+      "on_behalf_of_id": "Q732852",
+      "organization_id": "Q10351100",
+      "area_id": "Q174",
       "role_superclass_code": "Q30185",
       "role_superclass": {
         "lang:pt-br": "prefeito",
         "lang:pt": "prefeito",
         "lang:en": "mayor"
+      },
+      "role_code": "Q24255165",
+      "role": {
+        "lang:pt": "Prefeito de São Paulo",
+        "lang:en": "Mayor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q549835-40204e52-41f1-dcbb-aaad-92ebc258da14",
+      "person_id": "Q549835",
+      "on_behalf_of_id": "Q732852",
+      "organization_id": "Q10351100",
+      "area_id": "Q174",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:pt-br": "chefe de governo",
+        "lang:pt": "chefe de governo",
+        "lang:en": "head of government"
       },
       "role_code": "Q24255165",
       "role": {
@@ -668,11 +835,48 @@
       "on_behalf_of_id": "Q1322897",
       "organization_id": "Q10351100",
       "area_id": "Q174",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:pt-br": "chefe de governo",
+        "lang:pt": "chefe de governo",
+        "lang:en": "head of government"
+      },
+      "role_code": "Q24255165",
+      "role": {
+        "lang:pt": "Prefeito de São Paulo",
+        "lang:en": "Mayor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7386110-157a2661-4eaf-e4af-64af-7866b799c5a7",
+      "person_id": "Q7386110",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q10351100",
+      "area_id": "Q174",
       "role_superclass_code": "Q30185",
       "role_superclass": {
         "lang:pt-br": "prefeito",
         "lang:pt": "prefeito",
         "lang:en": "mayor"
+      },
+      "role_code": "Q24255165",
+      "role": {
+        "lang:pt": "Prefeito de São Paulo",
+        "lang:en": "Mayor of São Paulo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9667541-b81a26af-4fbd-25a4-9ee5-223ae2cf5683",
+      "person_id": "Q9667541",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q10351100",
+      "area_id": "Q174",
+      "start_date": "2018-04-06",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:pt-br": "chefe de governo",
+        "lang:pt": "chefe de governo",
+        "lang:en": "head of government"
       },
       "role_code": "Q24255165",
       "role": {

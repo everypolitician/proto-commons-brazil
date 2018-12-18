@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Marcelo Belinati",
         "lang:pt": "Marcelo Belinati",
         "lang:en": "Marcelo Belinati"
       },
@@ -49,13 +50,13 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q53739343",
+        "Q18176235",
         "Q53864928"
       ],
       "type": {
         "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
-        "lang:en": "Federative unit of Brazil"
+        "lang:en": "federative unit of Brazil"
       },
       "name": {
         "lang:pt": "Paraná"

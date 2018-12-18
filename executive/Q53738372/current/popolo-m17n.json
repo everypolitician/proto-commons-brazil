@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Rodrigo Rollemberg",
         "lang:pt": "Rodrigo Rollemberg",
         "lang:en": "Rodrigo Rollemberg"
       },
@@ -70,8 +71,8 @@
         "Q53864942"
       ],
       "type": {
-        "lang:pt": "distrito federal",
-        "lang:en": "federal district"
+        "lang:pt": "distrito federal do Brasil",
+        "lang:en": "federal district of Brazil"
       },
       "name": {
         "lang:pt": "Distrito Federal"

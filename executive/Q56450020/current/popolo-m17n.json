@@ -1,6 +1,20 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Manoel Carlos Antunes"
+      },
+      "id": "Q57072824",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57072824"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -66,7 +80,7 @@
       "type": {
         "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
-        "lang:en": "Federative unit of Brazil"
+        "lang:en": "federative unit of Brazil"
       },
       "name": {
         "lang:pt": "Pará"
@@ -101,6 +115,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57072824-9A330F87-8E89-42C4-9817-F42F92F445E4",
+      "person_id": "Q57072824",
+      "organization_id": "Q56450020",
+      "area_id": "Q485887",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449639",
+      "role": {
+        "lang:pt-br": "Prefeito de Ananindeua",
+        "lang:pt": "Prefeito de Ananindeua",
+        "lang:en": "Mayor of Ananindeua"
+      }
+    }
   ]
 }

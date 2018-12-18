@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Jorge Pozzobom",
+        "lang:en": "Jorge Pozzobom"
+      },
+      "id": "Q10308218",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10308218"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -18,6 +33,21 @@
         }
       ],
       "area_id": "Q740833"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido da Social Democracia Brasileira",
+        "lang:pt": "Partido da Social Democracia Brasileira",
+        "lang:en": "Brazilian Social Democracy Party"
+      },
+      "id": "Q1322897",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322897"
+        }
+      ]
     }
   ],
   "areas": [
@@ -66,7 +96,7 @@
       "type": {
         "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
-        "lang:en": "Federative unit of Brazil"
+        "lang:en": "federative unit of Brazil"
       },
       "name": {
         "lang:pt": "Rio Grande do Sul"
@@ -101,6 +131,25 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10308218-b0a60c0f-43c9-d479-5dfa-cb1b6f5158b3",
+      "person_id": "Q10308218",
+      "on_behalf_of_id": "Q1322897",
+      "organization_id": "Q56450092",
+      "area_id": "Q740833",
+      "start_date": "2017-01-01",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449706",
+      "role": {
+        "lang:pt-br": "Prefeito de Santa Maria",
+        "lang:pt": "Prefeito de Santa Maria",
+        "lang:en": "Mayor of Santa Maria"
+      }
+    }
   ]
 }
