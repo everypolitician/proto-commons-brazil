@@ -1,102 +1,134 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_pt_br", "name_pt", "name_en", "party", "party_name_pt_br", "party_name_pt", "party_name_en", "district", "district_name_pt_br", "district_name_pt", "district_name_en", "role", "role_pt_br", "role_pt", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_pt_br", "role_superclass_pt", "role_superclass_en", "org", "org_pt_br", "org_pt", "org_en", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_pt_br",
+      "name_pt",
+      "name_en",
+      "party",
+      "party_name_pt_br",
+      "party_name_pt",
+      "party_name_en",
+      "district",
+      "district_name_pt_br",
+      "district_name_pt",
+      "district_name_en",
+      "role",
+      "role_pt_br",
+      "role_pt",
+      "role_en",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_pt_br",
+      "role_superclass_pt",
+      "role_superclass_en",
+      "org",
+      "org_pt_br",
+      "org_pt",
+      "org_en",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q57072824-9A330F87-8E89-42C4-9817-F42F92F445E4"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57072824"
-      },
-      "name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Manoel Carlos Antunes"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q485887"
-      },
-      "district_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Ananindeua"
-      },
-      "district_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Ananindeua, Pará"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ananindeua, Pará"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56449639"
-      },
-      "role_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Prefeito de Ananindeua"
-      },
-      "role_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Prefeito de Ananindeua"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Ananindeua"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "prefeito"
-      },
-      "role_superclass_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "prefeito"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56450020"
-      },
-      "org_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "prefeitura municipal de Ananindeua"
-      },
-      "org_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "prefeitura municipal de Ananindeua"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipal prefecture of Ananindeua"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q485887"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q57072824-9A330F87-8E89-42C4-9817-F42F92F445E4"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q57072824"
+        },
+        "name_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Manoel Carlos Antunes"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q485887"
+        },
+        "district_name_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "Ananindeua"
+        },
+        "district_name_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Ananindeua, Pará"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ananindeua, Pará"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56449639"
+        },
+        "role_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "Prefeito de Ananindeua"
+        },
+        "role_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Prefeito de Ananindeua"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Ananindeua"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "prefeito"
+        },
+        "role_superclass_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "prefeito"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56450020"
+        },
+        "org_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "prefeitura municipal de Ananindeua"
+        },
+        "org_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "prefeitura municipal de Ananindeua"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "municipal prefecture of Ananindeua"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q485887"
+        }
       }
-    } ]
+    ]
   }
 }

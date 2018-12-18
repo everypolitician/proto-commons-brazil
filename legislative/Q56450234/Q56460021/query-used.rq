@@ -6,6 +6,7 @@ SELECT ?statement
        ?role_superclass ?role_superclass_pt_br ?role_superclass_pt ?role_superclass_en
        ?start ?end ?facebook
        ?org ?org_pt_br ?org_pt ?org_en ?org_jurisdiction ?org_seat_count
+       ?linkedToTerm
 WHERE {
   BIND(wd:Q56459768 as ?role) .
   BIND(wd:Q56459768 as ?specific_role) .
@@ -42,8 +43,9 @@ OPTIONAL {
   # it overlaps it. In the latter case, the P39 and term must each have a start date (2), and either
   #  * starts before it and either doesn't end, or ends after the term start (3), or
   #  * starts after the term, and if the term ends, starts before it ends (4)
+  BIND ((EXISTS { ?statement pq:P2937 wd:Q56460021 }) AS ?linkedToTerm)
   FILTER (
-    (EXISTS { ?statement pq:P2937 wd:Q56460021 })               # (1)
+    ?linkedToTerm                                                        # (1)
     ||
     (BOUND(?start) && BOUND(?termStart) && (                             # (2)
       (?start <= ?termStart && (!BOUND(?end) || ?end > ?termStart))      # (4)

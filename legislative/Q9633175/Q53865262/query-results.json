@@ -1,0 +1,160 @@
+{
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_pt_br",
+      "name_pt",
+      "name_en",
+      "party",
+      "party_name_pt_br",
+      "party_name_pt",
+      "party_name_en",
+      "district",
+      "district_name_pt_br",
+      "district_name_pt",
+      "district_name_en",
+      "role",
+      "role_pt_br",
+      "role_pt",
+      "role_en",
+      "role_superclass",
+      "role_superclass_pt_br",
+      "role_superclass_pt",
+      "role_superclass_en",
+      "start",
+      "end",
+      "facebook",
+      "org",
+      "org_pt_br",
+      "org_pt",
+      "org_en",
+      "org_jurisdiction",
+      "org_seat_count",
+      "linkedToTerm"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q10320900-54C2F938-B2E0-4BC7-B1B9-2966904EAEDD"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10320900"
+        },
+        "name_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "Luiza Maia"
+        },
+        "name_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Luiza Maia"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Luiza Maia"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q657089"
+        },
+        "party_name_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "Partido dos Trabalhadores"
+        },
+        "party_name_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Partido dos Trabalhadores"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Workers' Party"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53864926"
+        },
+        "role_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "deputado estadual da Bahia"
+        },
+        "role_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "deputado estadual da Bahia"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "state deputy of Bahia"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10265290"
+        },
+        "role_superclass_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "deputado estadual"
+        },
+        "role_superclass_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "deputado estadual"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Brazilian state deputy"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "luizamaiaBA"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9633175"
+        },
+        "org_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "Assembleia Legislativa da Bahia"
+        },
+        "org_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Assembleia Legislativa da Bahia"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Bahia"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q40430"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "63"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        }
+      }
+    ]
+  }
+}

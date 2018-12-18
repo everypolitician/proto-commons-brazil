@@ -1,126 +1,158 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_pt_br", "name_pt", "name_en", "party", "party_name_pt_br", "party_name_pt", "party_name_en", "district", "district_name_pt_br", "district_name_pt", "district_name_en", "role", "role_pt_br", "role_pt", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_pt_br", "role_superclass_pt", "role_superclass_en", "org", "org_pt_br", "org_pt", "org_en", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_pt_br",
+      "name_pt",
+      "name_en",
+      "party",
+      "party_name_pt_br",
+      "party_name_pt",
+      "party_name_en",
+      "district",
+      "district_name_pt_br",
+      "district_name_pt",
+      "district_name_en",
+      "role",
+      "role_pt_br",
+      "role_pt",
+      "role_en",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_pt_br",
+      "role_superclass_pt",
+      "role_superclass_en",
+      "org",
+      "org_pt_br",
+      "org_pt",
+      "org_en",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q10320291-7E30EE3E-3207-4C55-AC8B-D4AA6214B530"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10320291"
-      },
-      "name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Luciano Cartaxo"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luciano Cartaxo"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q657089"
-      },
-      "party_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Partido dos Trabalhadores"
-      },
-      "party_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Partido dos Trabalhadores"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Workers' Party"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q167436"
-      },
-      "district_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "João Pessoa"
-      },
-      "district_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "João Pessoa"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "João Pessoa"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56449616"
-      },
-      "role_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Prefeito de João Pessoa"
-      },
-      "role_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Prefeito de João Pessoa"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Joao Pessoa"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "prefeito"
-      },
-      "role_superclass_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "prefeito"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56449995"
-      },
-      "org_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "prefeitura municipal de João Pessoa"
-      },
-      "org_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "prefeitura municipal de João Pessoa"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipal prefecture of Joao Pessoa"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q167436"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q10320291-7E30EE3E-3207-4C55-AC8B-D4AA6214B530"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10320291"
+        },
+        "name_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Luciano Cartaxo"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Luciano Cartaxo"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q657089"
+        },
+        "party_name_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "Partido dos Trabalhadores"
+        },
+        "party_name_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Partido dos Trabalhadores"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Workers' Party"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q167436"
+        },
+        "district_name_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "João Pessoa"
+        },
+        "district_name_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "João Pessoa"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "João Pessoa"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56449616"
+        },
+        "role_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "Prefeito de João Pessoa"
+        },
+        "role_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Prefeito de João Pessoa"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Joao Pessoa"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "prefeito"
+        },
+        "role_superclass_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "prefeito"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56449995"
+        },
+        "org_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "prefeitura municipal de João Pessoa"
+        },
+        "org_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "prefeitura municipal de João Pessoa"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "municipal prefecture of Joao Pessoa"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q167436"
+        }
       }
-    } ]
+    ]
   }
 }

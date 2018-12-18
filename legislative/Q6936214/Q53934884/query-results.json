@@ -1,220 +1,265 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_pt_br", "name_pt", "name_en", "party", "party_name_pt_br", "party_name_pt", "party_name_en", "district", "district_name_pt_br", "district_name_pt", "district_name_en", "role", "role_pt_br", "role_pt", "role_en", "role_superclass", "role_superclass_pt_br", "role_superclass_pt", "role_superclass_en", "start", "end", "facebook", "org", "org_pt_br", "org_pt", "org_en", "org_jurisdiction", "org_seat_count" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_pt_br",
+      "name_pt",
+      "name_en",
+      "party",
+      "party_name_pt_br",
+      "party_name_pt",
+      "party_name_en",
+      "district",
+      "district_name_pt_br",
+      "district_name_pt",
+      "district_name_en",
+      "role",
+      "role_pt_br",
+      "role_pt",
+      "role_en",
+      "role_superclass",
+      "role_superclass_pt_br",
+      "role_superclass_pt",
+      "role_superclass_en",
+      "start",
+      "end",
+      "facebook",
+      "org",
+      "org_pt_br",
+      "org_pt",
+      "org_en",
+      "org_jurisdiction",
+      "org_seat_count",
+      "linkedToTerm"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q50542097-12ecbe6b-41f9-7851-bc08-dfec2325dbb4"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50542097"
+        },
+        "name_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "Marielle Franco"
+        },
+        "name_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Marielle Franco"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Marielle Franco"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53934881"
+        },
+        "role_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "Vereador de Rio de Janeiro"
+        },
+        "role_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "vereador do Rio de Janeiro"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Councillor of Rio de Janeiro"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "vereador"
+        },
+        "role_superclass_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "vereador"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-01-01T00:00:00Z"
+        },
+        "end": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-03-14T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "MarielleFrancoPSOL"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6936214"
+        },
+        "org_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "Câmara Municipal do Rio de Janeiro"
+        },
+        "org_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Câmara Municipal do Rio de Janeiro"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Municipal Chamber of Rio de Janeiro"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8678"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "51"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        }
       },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role_superclass_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "vereador"
-      },
-      "role_superclass_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "vereador"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53934881"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Councillor of Rio de Janeiro"
-      },
-      "role_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "vereador do Rio de Janeiro"
-      },
-      "role_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Vereador de Rio de Janeiro"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50542097"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Marielle Franco"
-      },
-      "name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Marielle Franco"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6936214"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Municipal Chamber of Rio de Janeiro"
-      },
-      "org_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Câmara Municipal do Rio de Janeiro"
-      },
-      "org_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Câmara Municipal do Rio de Janeiro"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50542097-12ecbe6b-41f9-7851-bc08-dfec2325dbb4"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q8678"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "51"
-      },
-      "name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Marielle Franco"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-01-01T00:00:00Z"
-      },
-      "end" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-14T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "MarielleFrancoPSOL"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q53939223-443364D7-D507-4145-BF51-5BB632E69839"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53939223"
+        },
+        "name_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "Tânia Bastos"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tânia Bastos"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q926973"
+        },
+        "party_name_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "Partido Republicano Brasileiro"
+        },
+        "party_name_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Partido Republicano Brasileiro"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Brazilian Republican Party"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53934881"
+        },
+        "role_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "Vereador de Rio de Janeiro"
+        },
+        "role_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "vereador do Rio de Janeiro"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Councillor of Rio de Janeiro"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "vereador"
+        },
+        "role_superclass_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "vereador"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "vereadorataniabastos"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6936214"
+        },
+        "org_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "Câmara Municipal do Rio de Janeiro"
+        },
+        "org_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Câmara Municipal do Rio de Janeiro"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Municipal Chamber of Rio de Janeiro"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8678"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "51"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        }
       }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role_superclass_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "vereador"
-      },
-      "role_superclass_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "vereador"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53934881"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Councillor of Rio de Janeiro"
-      },
-      "role_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "vereador do Rio de Janeiro"
-      },
-      "role_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Vereador de Rio de Janeiro"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53939223"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tânia Bastos"
-      },
-      "name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Tânia Bastos"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6936214"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Municipal Chamber of Rio de Janeiro"
-      },
-      "org_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Câmara Municipal do Rio de Janeiro"
-      },
-      "org_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Câmara Municipal do Rio de Janeiro"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q53939223-443364D7-D507-4145-BF51-5BB632E69839"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q8678"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "51"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "vereadorataniabastos"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q926973"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brazilian Republican Party"
-      },
-      "party_name_pt" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Partido Republicano Brasileiro"
-      },
-      "party_name_pt_br" : {
-        "xml:lang" : "pt-br",
-        "type" : "literal",
-        "value" : "Partido Republicano Brasileiro"
-      }
-    } ]
+    ]
   }
 }

@@ -1,0 +1,160 @@
+{
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_pt_br",
+      "name_pt",
+      "name_en",
+      "party",
+      "party_name_pt_br",
+      "party_name_pt",
+      "party_name_en",
+      "district",
+      "district_name_pt_br",
+      "district_name_pt",
+      "district_name_en",
+      "role",
+      "role_pt_br",
+      "role_pt",
+      "role_en",
+      "role_superclass",
+      "role_superclass_pt_br",
+      "role_superclass_pt",
+      "role_superclass_en",
+      "start",
+      "end",
+      "facebook",
+      "org",
+      "org_pt_br",
+      "org_pt",
+      "org_en",
+      "org_jurisdiction",
+      "org_seat_count",
+      "linkedToTerm"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q9759994-BC2A0F12-B7A9-4ACB-95E0-B5CD23CE1390"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9759994"
+        },
+        "name_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "Cidinha Campos"
+        },
+        "name_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Cidinha Campos"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cidinha Campos"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1414708"
+        },
+        "party_name_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "Partido Democrático Trabalhista"
+        },
+        "party_name_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Partido Democrático Trabalhista"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Democratic Labour Party"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53864925"
+        },
+        "role_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "deputado estadual do Rio de Janeiro"
+        },
+        "role_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "deputado estadual do Rio de Janeiro"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "state deputy of Rio de Janeiro"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10265290"
+        },
+        "role_superclass_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "deputado estadual"
+        },
+        "role_superclass_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "deputado estadual"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Brazilian state deputy"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "cidinhacamposoficial"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6583209"
+        },
+        "org_pt_br": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "Assembleia Legislativa do Rio de Janeiro"
+        },
+        "org_pt": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Assembleia Legislativa do Rio de Janeiro"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Rio de Janeiro"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41428"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "70"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        }
+      }
+    ]
+  }
+}
