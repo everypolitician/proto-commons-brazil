@@ -12,6 +12,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9757510"
       },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Cida Borghetti"
+      },
       "name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -21,6 +26,25 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Cida Borghetti"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q732852"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido Progressista"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Progressista"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Progressive Party"
       },
       "district" : {
         "type" : "uri",
@@ -43,17 +67,140 @@
       },
       "role" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53739343"
+        "value" : "http://www.wikidata.org/entity/Q18176235"
       },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "governador do estado do Paraná"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Governador do Paraná"
+      },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "governor of the state of Parana"
+        "value" : "Governor of Paraná"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2285706"
+      },
+      "role_superclass_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "chefe de governo"
+      },
+      "role_superclass_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "chefe de governo"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "head of government"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53738330"
+      },
+      "org_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "cabinete do governador do estado do Paraná"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cabinet of the governor of the state of Parana"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15499"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q9757510-261A849E-A906-417E-81A2-ABD14234B824"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9757510"
+      },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Cida Borghetti"
+      },
+      "name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Cida Borghetti"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cida Borghetti"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q732852"
+      },
+      "party_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Partido Progressista"
+      },
+      "party_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Partido Progressista"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Progressive Party"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15499"
+      },
+      "district_name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Paraná"
+      },
+      "district_name_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Paraná"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paraná"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18176235"
+      },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "governador do estado do Paraná"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Governador do Paraná"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Paraná"
       },
       "role_superclass" : {
         "type" : "uri",
