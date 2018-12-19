@@ -24,7 +24,7 @@
   "organizations": [
     {
       "name": {
-        "lang:pt-br": "assembleia legislativa do estado da Bahia",
+        "lang:pt-br": "Assembleia Legislativa da Bahia",
         "lang:pt": "Assembleia Legislativa da Bahia",
         "lang:en": "Legislative Assembly of Bahia"
       },
@@ -103,7 +103,7 @@
       "type": {
         "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
-        "lang:en": "Federative unit of Brazil"
+        "lang:en": "federative unit of Brazil"
       },
       "name": {
         "lang:pt": "Bahia"
@@ -125,9 +125,11 @@
       },
       "role_code": "Q53864926",
       "role": {
-        "lang:pt-br": "deutado estadual de Bahia",
+        "lang:pt-br": "deputado estadual da Bahia",
+        "lang:pt": "deputado estadual da Bahia",
         "lang:en": "state deputy of Bahia"
-      }
+      },
+      "term_id": "Q53865262"
     }
   ]
 }

@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Alberto Mourão",
         "lang:pt": "Alberto Mourão",
         "lang:en": "Alberto Mourão"
       },
@@ -96,7 +97,7 @@
       "type": {
         "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
-        "lang:en": "Federative unit of Brazil"
+        "lang:en": "federative unit of Brazil"
       },
       "name": {
         "lang:pt": "São Paulo"

@@ -105,7 +105,7 @@
       "type": {
         "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
-        "lang:en": "Federative unit of Brazil"
+        "lang:en": "federative unit of Brazil"
       },
       "name": {
         "lang:pt": "São Paulo"
@@ -143,14 +143,16 @@
       "person_id": "Q56098433",
       "organization_id": "Q56101007",
       "area_id": "Q4274232",
-      "role_superclass_code": "Q7631815",
+      "role_superclass_code": "Q3382119",
       "role_superclass": {
         "lang:pt": "subprefeito",
-        "lang:en": "subprefect"
+        "lang:en": "sub-prefect"
       },
       "role_code": "Q56098349",
       "role": {
-        "lang:en": "Subprefect of Jaçanã/Tremembé"
+        "lang:pt-br": "subprefeito de Jaçanã/Tremembé",
+        "lang:pt": "subprefeito de Jaçanã/Tremembé",
+        "lang:en": "subprefect of Jaçanã/Tremembé"
       }
     }
   ]

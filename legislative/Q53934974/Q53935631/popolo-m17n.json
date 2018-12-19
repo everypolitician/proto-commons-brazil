@@ -16,13 +16,39 @@
           "identifier": "Q53934974"
         }
       ],
-      "area_id": "Q47593",
+      "area_id": "Q12829733",
       "seat_counts": {
         "Q53935627": "35"
       }
     }
   ],
   "areas": [
+    {
+      "id": "Q12829733",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:pa/mun:belem"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12829733"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53926047",
+        "Q53935627"
+      ],
+      "type": {
+        "lang:pt-br": "município do Brasil",
+        "lang:pt": "município do Brasil",
+        "lang:en": "municipality of Brazil"
+      },
+      "name": {
+        "lang:pt": "Belém"
+      },
+      "parent_id": "Q39517"
+    },
     {
       "id": "Q155",
       "identifiers": [
@@ -68,38 +94,12 @@
       "type": {
         "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
-        "lang:en": "Federative unit of Brazil"
+        "lang:en": "federative unit of Brazil"
       },
       "name": {
         "lang:pt": "Pará"
       },
       "parent_id": "Q155"
-    },
-    {
-      "id": "Q47593",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:br/fed:pa/mun:belem"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47593"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q53926047",
-        "Q53935627"
-      ],
-      "type": {
-        "lang:pt-br": "município do Brasil",
-        "lang:pt": "município do Brasil",
-        "lang:en": "municipality of Brazil"
-      },
-      "name": {
-        "lang:pt": "Belém"
-      },
-      "parent_id": "Q39517"
     }
   ],
   "memberships": [

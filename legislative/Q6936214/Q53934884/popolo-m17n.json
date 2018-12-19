@@ -2,6 +2,26 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Marielle Franco",
+        "lang:pt": "Marielle Franco",
+        "lang:en": "Marielle Franco"
+      },
+      "id": "Q50542097",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50542097"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/MarielleFrancoPSOL"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:pt-br": "Tânia Bastos",
         "lang:en": "Tânia Bastos"
       },
@@ -102,7 +122,7 @@
       "type": {
         "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
-        "lang:en": "Federative unit of Brazil"
+        "lang:en": "federative unit of Brazil"
       },
       "name": {
         "lang:pt": "Rio de Janeiro"
@@ -138,6 +158,25 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q50542097-12ecbe6b-41f9-7851-bc08-dfec2325dbb4",
+      "person_id": "Q50542097",
+      "organization_id": "Q6936214",
+      "start_date": "2017-01-01",
+      "end_date": "2018-03-14",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:pt-br": "vereador",
+        "lang:pt": "vereador",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53934881",
+      "role": {
+        "lang:pt-br": "Vereador de Rio de Janeiro",
+        "lang:pt": "vereador do Rio de Janeiro",
+        "lang:en": "Councillor of Rio de Janeiro"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q53939223-443364D7-D507-4145-BF51-5BB632E69839",
       "person_id": "Q53939223",
       "on_behalf_of_id": "Q926973",
@@ -151,8 +190,10 @@
       "role_code": "Q53934881",
       "role": {
         "lang:pt-br": "Vereador de Rio de Janeiro",
+        "lang:pt": "vereador do Rio de Janeiro",
         "lang:en": "Councillor of Rio de Janeiro"
-      }
+      },
+      "term_id": "Q53934884"
     }
   ]
 }

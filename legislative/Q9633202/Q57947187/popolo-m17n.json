@@ -1,0 +1,945 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pt-br": "Iran Barbosa",
+        "lang:pt": "Iran Barbosa",
+        "lang:en": "Iran Barbosa"
+      },
+      "id": "Q10303550",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10303550"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Goretti Reis",
+        "lang:pt": "Goretti Reis",
+        "lang:en": "Goretti Reis"
+      },
+      "id": "Q23893587",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23893587"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Diná Almeida",
+        "lang:pt": "Diná Almeida",
+        "lang:en": "Diná Almeida"
+      },
+      "id": "Q59247751",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247751"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Jeferson Andrade",
+        "lang:pt": "Jeferson Andrade",
+        "lang:en": "Jeferson Andrade"
+      },
+      "id": "Q59247752",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247752"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Luciano Bispo",
+        "lang:pt": "Luciano Bispo",
+        "lang:en": "Luciano Bispo"
+      },
+      "id": "Q59247756",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247756"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Gilmar Carvalho",
+        "lang:pt": "Gilmar Carvalho",
+        "lang:en": "Gilmar Carvalho"
+      },
+      "id": "Q59247757",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247757"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Dr Samuel Carvalho",
+        "lang:pt": "Dr Samuel Carvalho",
+        "lang:en": "Dr Samuel Carvalho"
+      },
+      "id": "Q59247760",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247760"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Dilson De Agripino",
+        "lang:pt": "Dilson De Agripino",
+        "lang:en": "Dilson De Agripino"
+      },
+      "id": "Q59247762",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247762"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Talysson De Valmir",
+        "lang:pt": "Talysson De Valmir",
+        "lang:en": "Talysson De Valmir"
+      },
+      "id": "Q59247763",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247763"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Francisco Gualberto",
+        "lang:pt": "Francisco Gualberto",
+        "lang:en": "Francisco Gualberto"
+      },
+      "id": "Q59247765",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247765"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Zezinho Guimarães",
+        "lang:pt": "Zezinho Guimarães",
+        "lang:en": "Zezinho Guimarães"
+      },
+      "id": "Q59247766",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247766"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Kitty Lima",
+        "lang:pt": "Kitty Lima",
+        "lang:en": "Kitty Lima"
+      },
+      "id": "Q59247768",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247768"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Adailton Martins",
+        "lang:pt": "Adailton Martins",
+        "lang:en": "Adailton Martins"
+      },
+      "id": "Q59247770",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247770"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Garibalde Mendonça",
+        "lang:pt": "Garibalde Mendonça",
+        "lang:en": "Garibalde Mendonça"
+      },
+      "id": "Q59247772",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247772"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Maria Mendonça",
+        "lang:pt": "Maria Mendonça",
+        "lang:en": "Maria Mendonça"
+      },
+      "id": "Q59247773",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247773"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Maisa Mitidieri",
+        "lang:pt": "Maisa Mitidieri",
+        "lang:en": "Maisa Mitidieri"
+      },
+      "id": "Q59247774",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247774"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Ibrain Monteiro",
+        "lang:pt": "Ibrain Monteiro",
+        "lang:en": "Ibrain Monteiro"
+      },
+      "id": "Q59247775",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247775"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Janier Mota",
+        "lang:pt": "Janier Mota",
+        "lang:en": "Janier Mota"
+      },
+      "id": "Q59247779",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247779"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Georgeo Passos",
+        "lang:pt": "Georgeo Passos",
+        "lang:en": "Georgeo Passos"
+      },
+      "id": "Q59247780",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247780"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Luciano Pimentel",
+        "lang:pt": "Luciano Pimentel",
+        "lang:en": "Luciano Pimentel"
+      },
+      "id": "Q59247782",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247782"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Capitão Samuel",
+        "lang:pt": "Capitão Samuel",
+        "lang:en": "Capitão Samuel"
+      },
+      "id": "Q59247787",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247787"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Zezinho Sobral",
+        "lang:pt": "Zezinho Sobral",
+        "lang:en": "Zezinho Sobral"
+      },
+      "id": "Q59247788",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247788"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Rodrigo Valadares",
+        "lang:pt": "Rodrigo Valadares",
+        "lang:en": "Rodrigo Valadares"
+      },
+      "id": "Q59247791",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247791"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Dr. Vanderbal",
+        "lang:pt": "Dr. Vanderbal",
+        "lang:en": "Dr. Vanderbal"
+      },
+      "id": "Q59247792",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247792"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:pt-br": "Assembleia Legislativa de Sergipe",
+        "lang:pt": "Assembleia Legislativa de Sergipe",
+        "lang:en": "Legislative Assembly of Sergipe"
+      },
+      "id": "Q9633202",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9633202"
+        }
+      ],
+      "area_id": "Q43783",
+      "seat_counts": {
+        "Q53864944": "24"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q43783",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:se"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q43783"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739383",
+        "Q53864944"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Sergipe"
+      },
+      "parent_id": "Q155"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10303550-34AED47D-8660-48FC-A7D8-7E1E0F74A9A1",
+      "person_id": "Q10303550",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23893587-E911F798-7AB1-4FEE-99F8-9F52E07949A5",
+      "person_id": "Q23893587",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247751-3949B9AE-240C-4C2D-B23F-C269393D9887",
+      "person_id": "Q59247751",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247752-6A33689D-EE96-48D6-960C-1F7A9BFAAA60",
+      "person_id": "Q59247752",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247756-0EE32635-83CC-4C10-841E-3483A4A3BE14",
+      "person_id": "Q59247756",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247757-EEEA330D-6F55-47EA-8B73-43A7F76A25B1",
+      "person_id": "Q59247757",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247760-A3548C32-50F2-4A7F-91D6-C4AFF48B7B1B",
+      "person_id": "Q59247760",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247762-0BC63FD0-7EE2-4202-BE57-6D3E47F562A2",
+      "person_id": "Q59247762",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247763-75BF9968-1FCD-4672-9C35-F86B5176C50A",
+      "person_id": "Q59247763",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247765-55B6E216-0EE7-4774-9222-0EC3C7261733",
+      "person_id": "Q59247765",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247766-C4E4CD55-2166-4C3D-8D07-6A1D15D315EC",
+      "person_id": "Q59247766",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247768-C3B141D6-CEA2-4B83-8E79-00E9BA46BB70",
+      "person_id": "Q59247768",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247770-BBDD0380-63C2-48F0-A3ED-2B3777119C4C",
+      "person_id": "Q59247770",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247772-9573CFD3-B662-4644-B66D-F5C71E9E80C2",
+      "person_id": "Q59247772",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247773-F4995289-75F2-4B3E-B9A1-AD9F46303328",
+      "person_id": "Q59247773",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247774-939DA8A4-B68B-40A1-93AB-A109D7DFECA2",
+      "person_id": "Q59247774",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247775-65FFC93C-6E35-484E-A17D-94DD9D5CEFFE",
+      "person_id": "Q59247775",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247779-2A084FF1-4573-47CE-8240-2A24C0453F15",
+      "person_id": "Q59247779",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247780-4928E3B5-CC8C-4A29-BF5B-207718BCBFFA",
+      "person_id": "Q59247780",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247782-8E983A5A-752F-40A8-96F0-0F1D611C70E7",
+      "person_id": "Q59247782",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247787-8E4628D4-F580-4FCA-9E14-A83789761FBF",
+      "person_id": "Q59247787",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247788-F8EB7EA8-571B-406B-A7B9-6D3F1AB33C9D",
+      "person_id": "Q59247788",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247791-34B7348C-43C4-4BEB-BC5A-4132F887A5D6",
+      "person_id": "Q59247791",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247792-85308B3E-E4D4-4484-AD04-4C88604580BF",
+      "person_id": "Q59247792",
+      "organization_id": "Q9633202",
+      "area_id": "Q43783",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864944",
+      "role": {
+        "lang:pt-br": "deputado estadual de Sergipe",
+        "lang:pt": "deputado estadual de Sergipe",
+        "lang:en": "state deputy of Sergipe"
+      },
+      "term_id": "Q57947187"
+    }
+  ]
+}

@@ -24,8 +24,8 @@
   "organizations": [
     {
       "name": {
-        "lang:pt-br": "assembleia legislativa do estado do Rio de Janeiro",
-        "lang:pt": "Assembleia Legislativa do Estado do Rio de Janeiro",
+        "lang:pt-br": "Assembleia Legislativa do Rio de Janeiro",
+        "lang:pt": "Assembleia Legislativa do Rio de Janeiro",
         "lang:en": "Legislative Assembly of Rio de Janeiro"
       },
       "id": "Q6583209",
@@ -38,7 +38,7 @@
       ],
       "area_id": "Q41428",
       "seat_counts": {
-        "Q53864925": "71"
+        "Q53864925": "70"
       }
     },
     {
@@ -103,7 +103,7 @@
       "type": {
         "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
-        "lang:en": "Federative unit of Brazil"
+        "lang:en": "federative unit of Brazil"
       },
       "name": {
         "lang:pt": "Rio de Janeiro"
@@ -125,9 +125,11 @@
       },
       "role_code": "Q53864925",
       "role": {
-        "lang:pt-br": "deutado estadual de Rio de Janeiro",
+        "lang:pt-br": "deputado estadual do Rio de Janeiro",
+        "lang:pt": "deputado estadual do Rio de Janeiro",
         "lang:en": "state deputy of Rio de Janeiro"
-      }
+      },
+      "term_id": "Q53865261"
     }
   ]
 }

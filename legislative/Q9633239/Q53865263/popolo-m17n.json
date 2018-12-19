@@ -24,7 +24,7 @@
   "organizations": [
     {
       "name": {
-        "lang:pt-br": "assembleia legislativa do estado do Rio Grande do Sul",
+        "lang:pt-br": "Assembleia Legislativa do Rio Grande do Sul",
         "lang:pt": "Assembleia Legislativa do Rio Grande do Sul",
         "lang:en": "Legislative Assembly of Rio Grande do Sul"
       },
@@ -103,7 +103,7 @@
       "type": {
         "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
-        "lang:en": "Federative unit of Brazil"
+        "lang:en": "federative unit of Brazil"
       },
       "name": {
         "lang:pt": "Rio Grande do Sul"
@@ -125,9 +125,11 @@
       },
       "role_code": "Q53864927",
       "role": {
-        "lang:pt-br": "deutado estadual de Rio Grande do Sul",
+        "lang:pt-br": "deputado estadual do Rio Grande do Sul",
+        "lang:pt": "deputado estadual do Rio Grande do Sul",
         "lang:en": "state deputy of Rio Grande do Sul"
-      }
+      },
+      "term_id": "Q53865263"
     }
   ]
 }

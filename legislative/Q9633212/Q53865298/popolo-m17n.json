@@ -5,9 +5,9 @@
   "organizations": [
     {
       "name": {
-        "lang:pt-br": "assembleia legislativa do estado do Amapá",
+        "lang:pt-br": "Assembleia Legislativa do Amapá",
         "lang:pt": "Assembleia Legislativa do Amapá",
-        "lang:en": "legislative assembly of the state of Amapa"
+        "lang:en": "Legislative Assembly of Amapá"
       },
       "id": "Q9633212",
       "classification": "branch",
@@ -19,7 +19,7 @@
       ],
       "area_id": "Q40130",
       "seat_counts": {
-        "Q53864948": "22"
+        "Q53864948": "24"
       }
     }
   ],
@@ -69,7 +69,7 @@
       "type": {
         "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
-        "lang:en": "Federative unit of Brazil"
+        "lang:en": "federative unit of Brazil"
       },
       "name": {
         "lang:pt": "Amapá"
