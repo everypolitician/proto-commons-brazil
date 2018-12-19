@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:pt-br": "Cida Borghetti",
         "lang:pt": "Cida Borghetti",
         "lang:en": "Cida Borghetti"
       },
@@ -32,6 +33,21 @@
         }
       ],
       "area_id": "Q15499"
+    },
+    {
+      "name": {
+        "lang:pt-br": "Partido Progressista",
+        "lang:pt": "Partido Progressista",
+        "lang:en": "Progressive Party"
+      },
+      "id": "Q732852",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q732852"
+        }
+      ]
     }
   ],
   "areas": [
@@ -48,13 +64,13 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q53739343",
+        "Q18176235",
         "Q53864928"
       ],
       "type": {
         "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
-        "lang:en": "Federative unit of Brazil"
+        "lang:en": "federative unit of Brazil"
       },
       "name": {
         "lang:pt": "Paraná"
@@ -92,6 +108,26 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q9757510-261A849E-A906-417E-81A2-ABD14234B824",
       "person_id": "Q9757510",
+      "on_behalf_of_id": "Q732852",
+      "organization_id": "Q53738330",
+      "area_id": "Q15499",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:pt-br": "chefe de governo",
+        "lang:pt": "chefe de governo",
+        "lang:en": "head of government"
+      },
+      "role_code": "Q18176235",
+      "role": {
+        "lang:pt-br": "governador do estado do Paraná",
+        "lang:pt": "Governador do Paraná",
+        "lang:en": "Governor of Paraná"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9757510-261A849E-A906-417E-81A2-ABD14234B824",
+      "person_id": "Q9757510",
+      "on_behalf_of_id": "Q732852",
       "organization_id": "Q53738330",
       "area_id": "Q15499",
       "role_superclass_code": "Q25921469",
@@ -100,10 +136,11 @@
         "lang:pt": "governador",
         "lang:en": "state governor of Brazil"
       },
-      "role_code": "Q53739343",
+      "role_code": "Q18176235",
       "role": {
         "lang:pt-br": "governador do estado do Paraná",
-        "lang:en": "governor of the state of Parana"
+        "lang:pt": "Governador do Paraná",
+        "lang:en": "Governor of Paraná"
       }
     }
   ]

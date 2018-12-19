@@ -105,7 +105,7 @@
       "type": {
         "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
-        "lang:en": "Federative unit of Brazil"
+        "lang:en": "federative unit of Brazil"
       },
       "name": {
         "lang:pt": "São Paulo"
@@ -143,14 +143,16 @@
       "person_id": "Q56098429",
       "organization_id": "Q56101003",
       "area_id": "Q4274227",
-      "role_superclass_code": "Q7631815",
+      "role_superclass_code": "Q3382119",
       "role_superclass": {
         "lang:pt": "subprefeito",
-        "lang:en": "subprefect"
+        "lang:en": "sub-prefect"
       },
       "role_code": "Q56098345",
       "role": {
-        "lang:en": "Subprefect of Pirituba"
+        "lang:pt-br": "subprefeito de Pirituba",
+        "lang:pt": "subprefeito de Pirituba",
+        "lang:en": "subprefect of Pirituba"
       }
     }
   ]

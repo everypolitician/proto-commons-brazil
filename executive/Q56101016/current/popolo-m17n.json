@@ -105,7 +105,7 @@
       "type": {
         "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
-        "lang:en": "Federative unit of Brazil"
+        "lang:en": "federative unit of Brazil"
       },
       "name": {
         "lang:pt": "São Paulo"
@@ -143,14 +143,16 @@
       "person_id": "Q56098666",
       "organization_id": "Q56101016",
       "area_id": "Q4409869",
-      "role_superclass_code": "Q7631815",
+      "role_superclass_code": "Q3382119",
       "role_superclass": {
         "lang:pt": "subprefeito",
-        "lang:en": "subprefect"
+        "lang:en": "sub-prefect"
       },
       "role_code": "Q56098571",
       "role": {
-        "lang:en": "Subprefect of Vila Mariana"
+        "lang:pt-br": "subprefeito da Vila Mariana",
+        "lang:pt": "subprefeito da Vila Mariana",
+        "lang:en": "subprefect of Vila Mariana"
       }
     }
   ]

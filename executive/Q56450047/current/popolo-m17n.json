@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:pt": "Marcos Neves",
+        "lang:en": "Marcos Neves"
+      },
+      "id": "Q47539918",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47539918"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -66,7 +81,7 @@
       "type": {
         "lang:pt-br": "unidade federativa do Brasil",
         "lang:pt": "unidade federativa do Brasil",
-        "lang:en": "Federative unit of Brazil"
+        "lang:en": "federative unit of Brazil"
       },
       "name": {
         "lang:pt": "São Paulo"
@@ -101,6 +116,25 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47539918-CAF21F4F-4CC4-4F8F-845C-DBC9C573048F",
+      "person_id": "Q47539918",
+      "organization_id": "Q56450047",
+      "area_id": "Q176891",
+      "start_date": "2017-01-01",
+      "end_date": "2020-12-31",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:pt-br": "prefeito",
+        "lang:pt": "prefeito",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56449663",
+      "role": {
+        "lang:pt-br": "Prefeito de Carapicuíba",
+        "lang:pt": "Prefeito de Carapicuíba",
+        "lang:en": "Mayor of Carapicuiba"
+      }
+    }
   ]
 }

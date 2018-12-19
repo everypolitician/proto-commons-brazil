@@ -1,0 +1,921 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pt-br": "Eduardo Siqueira Campos",
+        "lang:pt": "Eduardo Siqueira Campos",
+        "lang:en": "Eduardo Siqueira Campos"
+      },
+      "id": "Q10270782",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10270782"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Toinho Andrade",
+        "lang:pt": "Toinho Andrade",
+        "lang:en": "Toinho Andrade"
+      },
+      "id": "Q59247797",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247797"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Ricardo Ayres",
+        "lang:pt": "Ricardo Ayres",
+        "lang:en": "Ricardo Ayres"
+      },
+      "id": "Q59247798",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247798"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Leo Barbosa",
+        "lang:pt": "Leo Barbosa",
+        "lang:en": "Leo Barbosa"
+      },
+      "id": "Q59247799",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247799"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Valderez Castelo Branco",
+        "lang:pt": "Valderez Castelo Branco",
+        "lang:en": "Valderez Castelo Branco"
+      },
+      "id": "Q59247801",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247801"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Cleiton Cardoso",
+        "lang:pt": "Cleiton Cardoso",
+        "lang:en": "Cleiton Cardoso"
+      },
+      "id": "Q59247804",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247804"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Amelio Cayres",
+        "lang:pt": "Amelio Cayres",
+        "lang:en": "Amelio Cayres"
+      },
+      "id": "Q59247805",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247805"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Elenil Da Penha",
+        "lang:pt": "Elenil Da Penha",
+        "lang:en": "Elenil Da Penha"
+      },
+      "id": "Q59247807",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247807"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Ivory De Lira",
+        "lang:pt": "Ivory De Lira",
+        "lang:en": "Ivory De Lira"
+      },
+      "id": "Q59247809",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247809"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Vilmar De Oliveira",
+        "lang:pt": "Vilmar De Oliveira",
+        "lang:en": "Vilmar De Oliveira"
+      },
+      "id": "Q59247811",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247811"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Eduardo Do Dertins",
+        "lang:pt": "Eduardo Do Dertins",
+        "lang:en": "Eduardo Do Dertins"
+      },
+      "id": "Q59247815",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247815"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Jair Farias",
+        "lang:pt": "Jair Farias",
+        "lang:en": "Jair Farias"
+      },
+      "id": "Q59247816",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247816"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Nilton Franco",
+        "lang:pt": "Nilton Franco",
+        "lang:en": "Nilton Franco"
+      },
+      "id": "Q59247819",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247819"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Jorge Frederico",
+        "lang:pt": "Jorge Frederico",
+        "lang:en": "Jorge Frederico"
+      },
+      "id": "Q59247821",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247821"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Professor Junior Geo",
+        "lang:pt": "Professor Junior Geo",
+        "lang:en": "Professor Junior Geo"
+      },
+      "id": "Q59247823",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247823"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Fabion Gomes",
+        "lang:pt": "Fabion Gomes",
+        "lang:en": "Fabion Gomes"
+      },
+      "id": "Q59247824",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247824"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Issam",
+        "lang:pt": "Issam",
+        "lang:en": "Issam"
+      },
+      "id": "Q59247826",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247826"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Valdemar Junior",
+        "lang:pt": "Valdemar Junior",
+        "lang:en": "Valdemar Junior"
+      },
+      "id": "Q59247827",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247827"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Claudia Lelis",
+        "lang:pt": "Claudia Lelis",
+        "lang:en": "Claudia Lelis"
+      },
+      "id": "Q59247829",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247829"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Vanda Monteiro",
+        "lang:pt": "Vanda Monteiro",
+        "lang:en": "Vanda Monteiro"
+      },
+      "id": "Q59247831",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247831"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Olyntho Neto",
+        "lang:pt": "Olyntho Neto",
+        "lang:en": "Olyntho Neto"
+      },
+      "id": "Q59247832",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247832"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Luana Ribeiro",
+        "lang:pt": "Luana Ribeiro",
+        "lang:en": "Luana Ribeiro"
+      },
+      "id": "Q59247834",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247834"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Zé Roberto",
+        "lang:pt": "Zé Roberto",
+        "lang:en": "Zé Roberto"
+      },
+      "id": "Q59247835",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247835"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pt-br": "Amalia Santana",
+        "lang:pt": "Amalia Santana",
+        "lang:en": "Amalia Santana"
+      },
+      "id": "Q59247837",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59247837"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:pt-br": "Assembleia Legislativa do Tocantins",
+        "lang:pt": "Assembleia Legislativa do Tocantins",
+        "lang:en": "Legislative Assembly of Tocantins"
+      },
+      "id": "Q9633245",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9633245"
+        }
+      ],
+      "area_id": "Q43695",
+      "seat_counts": {
+        "Q53864946": "24"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q43695",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:to"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q43695"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739385",
+        "Q53864946"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Tocantins"
+      },
+      "parent_id": "Q155"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10270782-5CF57E15-FBF6-49C1-BE4F-EA529AAD41E2",
+      "person_id": "Q10270782",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247797-B6ACE99D-615A-4DC7-AC98-506D137C962D",
+      "person_id": "Q59247797",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247798-811FF2C6-F05C-4E18-8958-CD4ECE7B4AF5",
+      "person_id": "Q59247798",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247799-C94E355B-E89F-4A44-A795-D5D7230C3B8F",
+      "person_id": "Q59247799",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247801-A4C02B29-5FB6-44A6-930B-6C5BF19F775F",
+      "person_id": "Q59247801",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247804-08CBBFE1-A35D-49EA-A320-ED99755E8DDB",
+      "person_id": "Q59247804",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247805-FC2606A8-5A7C-4AF3-AD32-3DA2E177C1D1",
+      "person_id": "Q59247805",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247807-860ADD13-C7C0-4A34-ABCA-756FA52AFAF3",
+      "person_id": "Q59247807",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247809-BF9C26AF-9CA5-402E-AEC3-293451578A6E",
+      "person_id": "Q59247809",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247811-36382C79-7281-4BA1-B2ED-398F29C38960",
+      "person_id": "Q59247811",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247815-77484412-9BBC-4FEC-8427-68007644773E",
+      "person_id": "Q59247815",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247816-C8EFE1E1-62A1-440D-A16A-5948329FD175",
+      "person_id": "Q59247816",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247819-18E779ED-8921-4529-813C-134623726C65",
+      "person_id": "Q59247819",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247821-2441BC67-A68F-4A45-8DC0-2B02391FC5D6",
+      "person_id": "Q59247821",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247823-FC313D71-C9B9-4AED-BBA3-9D0B06C2DD10",
+      "person_id": "Q59247823",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247824-A78E41EF-8277-43A9-B7E9-F2387D5887F6",
+      "person_id": "Q59247824",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247826-17244708-B4D1-4754-A81F-4ADB260F8340",
+      "person_id": "Q59247826",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247827-A0F797A7-49BF-4097-AC54-B3E5668B1177",
+      "person_id": "Q59247827",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247829-39C13321-95EC-4B43-B49D-B0A2A9AFB2B3",
+      "person_id": "Q59247829",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247831-D647B534-5BCF-452C-BCE7-4B1232238C62",
+      "person_id": "Q59247831",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247832-3F38241F-7BA1-4E2F-BED1-1353C1FB02FD",
+      "person_id": "Q59247832",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247834-CAD5AB3F-8173-4C31-8B0C-BD9A2908EF3A",
+      "person_id": "Q59247834",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247835-C5986312-7CCC-4E67-900F-0B97C1875FF3",
+      "person_id": "Q59247835",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59247837-5916A136-2920-441C-99EB-E203CC091513",
+      "person_id": "Q59247837",
+      "organization_id": "Q9633245",
+      "area_id": "Q43695",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864946",
+      "role": {
+        "lang:pt-br": "deputado estadual do Tocantins",
+        "lang:pt": "deputado estadual do Tocantins",
+        "lang:en": "state deputy of Tocantins"
+      }
+    }
+  ]
+}
