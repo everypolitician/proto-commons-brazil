@@ -12,6 +12,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10359235"
       },
+      "name_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Renan Filho"
+      },
       "name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
@@ -73,6 +78,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "governor of the state of Alagoas"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "RenanFilhoAL"
       },
       "role_superclass" : {
         "type" : "uri",

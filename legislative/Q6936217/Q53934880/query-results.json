@@ -55,10 +55,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -158,10 +163,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -266,10 +276,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -374,10 +389,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -477,10 +497,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -581,10 +606,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -689,10 +719,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -744,6 +779,11 @@
         "xml:lang" : "pt-br",
         "type" : "literal",
         "value" : "Sâmia Bomfim"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-01-01T00:00:00Z"
       }
     }, {
       "party" : {
@@ -797,10 +837,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -905,10 +950,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -1013,10 +1063,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -1116,10 +1171,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -1219,10 +1279,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -1322,10 +1387,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -1425,10 +1495,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -1528,10 +1603,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -1631,10 +1711,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -1734,10 +1819,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -1837,10 +1927,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -1936,10 +2031,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -2039,10 +2139,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -2142,10 +2247,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -2245,10 +2355,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -2344,10 +2459,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -2447,10 +2567,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -2550,10 +2675,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -2649,10 +2779,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -2752,10 +2887,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -2851,10 +2991,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -2954,10 +3099,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -3057,10 +3207,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -3160,10 +3315,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -3259,10 +3419,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -3358,10 +3523,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -3461,10 +3631,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -3564,10 +3739,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -3667,10 +3847,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -3766,10 +3951,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -3869,10 +4059,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -3968,10 +4163,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -4071,10 +4271,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -4174,10 +4379,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -4277,10 +4487,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -4380,10 +4595,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -4479,10 +4699,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -4573,10 +4798,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -4672,10 +4902,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -4771,10 +5006,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -4874,10 +5114,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -4977,10 +5222,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -5076,10 +5326,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -5179,10 +5434,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -5278,10 +5538,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -5381,10 +5646,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -5484,10 +5754,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",
@@ -5587,10 +5862,15 @@
         "type" : "literal",
         "value" : "Councillor of São Paulo"
       },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "vereador de São Paulo"
+      },
       "role_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Vereador de São Paulo"
+        "value" : "vereador de São Paulo"
       },
       "item" : {
         "type" : "uri",

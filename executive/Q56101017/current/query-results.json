@@ -29,12 +29,12 @@
       "district_name_pt_br" : {
         "xml:lang" : "pt-br",
         "type" : "literal",
-        "value" : "Subprefeitura do Ipiranga"
+        "value" : "subprefeitura do Ipiranga"
       },
       "district_name_pt" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Subprefeitura do Ipiranga"
+        "value" : "subprefeitura do Ipiranga"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -45,14 +45,24 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56098572"
       },
+      "role_pt_br" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "subprefeito do Ipiranga"
+      },
+      "role_pt" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "subprefeito do Ipiranga"
+      },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Subprefect of Ipiranga"
+        "value" : "subprefect of Ipiranga"
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631815"
+        "value" : "http://www.wikidata.org/entity/Q3382119"
       },
       "role_superclass_pt" : {
         "xml:lang" : "pt",
@@ -62,7 +72,7 @@
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "subprefect"
+        "value" : "sub-prefect"
       },
       "org" : {
         "type" : "uri",
