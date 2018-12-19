@@ -665,26 +665,6 @@
     },
     {
       "name": {
-        "lang:pt-br": "Romário",
-        "lang:pt": "Romário",
-        "lang:en": "Romário"
-      },
-      "id": "Q178649",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q178649"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/romariodesouzafaria"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:pt-br": "Joaquim Saldanha Marinho",
         "lang:pt": "Joaquim Saldanha Marinho",
         "lang:en": "Joaquim Saldanha Marinho"
@@ -858,26 +838,6 @@
     },
     {
       "name": {
-        "lang:pt-br": "Vanessa Grazziotin",
-        "lang:pt": "Vanessa Grazziotin",
-        "lang:en": "Vanessa Grazziotin"
-      },
-      "id": "Q7914656",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7914656"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/VanessaGrazziotin"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:pt-br": "Ruy Barbosa",
         "lang:pt": "Ruy Barbosa",
         "lang:en": "Rui Barbosa"
@@ -981,36 +941,6 @@
       "seat_counts": {
         "Q18964326": "81"
       }
-    },
-    {
-      "name": {
-        "lang:pt-br": "Podemos",
-        "lang:pt": "Podemos",
-        "lang:en": "Podemos"
-      },
-      "id": "Q3181274",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3181274"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:pt-br": "Partido Comunista do Brasil",
-        "lang:pt": "Partido Comunista do Brasil",
-        "lang:en": "Communist Party of Brazil"
-      },
-      "id": "Q504000",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q504000"
-        }
-      ]
     }
   ],
   "areas": [
@@ -2405,26 +2335,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q178649-F0309EC4-BB21-49E9-A2AE-97834F4A3B3E",
-      "person_id": "Q178649",
-      "on_behalf_of_id": "Q3181274",
-      "organization_id": "Q2119413",
-      "area_id": "Q53657912",
-      "start_date": "2015-02-01",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:pt-br": "senador",
-        "lang:pt": "senador",
-        "lang:en": "senator"
-      },
-      "role_code": "Q18964326",
-      "role": {
-        "lang:pt-br": "senador",
-        "lang:pt": "senador do Brasil",
-        "lang:en": "Brazilian senator"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q1791265-7C639C5E-0EBC-44F4-B81C-9AA242D5BAF5",
       "person_id": "Q1791265",
       "organization_id": "Q2119413",
@@ -2599,26 +2509,6 @@
       "person_id": "Q58237552",
       "organization_id": "Q2119413",
       "start_date": "2019-01-01",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:pt-br": "senador",
-        "lang:pt": "senador",
-        "lang:en": "senator"
-      },
-      "role_code": "Q18964326",
-      "role": {
-        "lang:pt-br": "senador",
-        "lang:pt": "senador do Brasil",
-        "lang:en": "Brazilian senator"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q7914656-EEFE29BF-06E3-4BD1-8FF2-980E66D5EF39",
-      "person_id": "Q7914656",
-      "on_behalf_of_id": "Q504000",
-      "organization_id": "Q2119413",
-      "area_id": "Q53657952",
-      "start_date": "2011-01-01",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:pt-br": "senador",

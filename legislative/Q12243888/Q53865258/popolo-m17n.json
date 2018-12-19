@@ -1,0 +1,135 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pt-br": "Gustavo Corrêa",
+        "lang:pt": "Gustavo de Faria Dias Corrêa",
+        "lang:en": "Gustavo Corrêa"
+      },
+      "id": "Q10293157",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10293157"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/gustavocorreamg"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:pt-br": "Assembleia Legislativa de Minas Gerais",
+        "lang:pt": "Assembleia Legislativa de Minas Gerais",
+        "lang:en": "Legislative Assembly of Minas Gerais"
+      },
+      "id": "Q12243888",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12243888"
+        }
+      ],
+      "area_id": "Q39109",
+      "seat_counts": {
+        "Q53864924": "77"
+      }
+    },
+    {
+      "name": {
+        "lang:pt-br": "Democratas",
+        "lang:pt": "Democratas",
+        "lang:en": "Democrats"
+      },
+      "id": "Q1185830",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1185830"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q39109",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:mg"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q39109"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739337",
+        "Q53864924"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Minas Gerais"
+      },
+      "parent_id": "Q155"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10293157-3F81BDAE-0D2F-4E19-8531-32C4C3111E20",
+      "person_id": "Q10293157",
+      "on_behalf_of_id": "Q1185830",
+      "organization_id": "Q12243888",
+      "role_superclass_code": "Q10265290",
+      "role_superclass": {
+        "lang:pt-br": "deputado estadual",
+        "lang:pt": "deputado estadual",
+        "lang:en": "Brazilian state deputy"
+      },
+      "role_code": "Q53864924",
+      "role": {
+        "lang:pt-br": "deputado estadual de Minas Gerais",
+        "lang:pt": "deputado estadual de Minas Gerais",
+        "lang:en": "state deputy of Minas Gerais"
+      },
+      "term_id": "Q53865258"
+    }
+  ]
+}

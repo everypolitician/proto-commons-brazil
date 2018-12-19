@@ -2083,23 +2083,6 @@
     },
     {
       "name": {
-        "lang:pt-br": "Tereza Cristina Corrêa da Costa Dias",
-        "lang:pt": "Tereza Cristina Corrêa da Costa Dias",
-        "lang:en": "Tereza Cristina"
-      },
-      "id": "Q10380562",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q10380562"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:pt-br": "Teófilo Fernandes dos Santos",
         "lang:pt": "Teófilo Fernandes dos Santos",
         "lang:en": "Teófilo Fernandes dos Santos"
@@ -3001,26 +2984,6 @@
     },
     {
       "name": {
-        "lang:pt-br": "Eduardo Bolsonaro",
-        "lang:pt": "Eduardo Bolsonaro",
-        "lang:en": "Eduardo Bolsonaro"
-      },
-      "id": "Q18246320",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q18246320"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/bolsonaro.enb"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:pt-br": "Carmen Zanotto",
         "lang:pt": "Carmen Zanotto",
         "lang:en": "Carmen Zanotto"
@@ -3244,26 +3207,6 @@
       ],
       "links": [
 
-      ]
-    },
-    {
-      "name": {
-        "lang:pt-br": "Cabo Daciolo",
-        "lang:pt": "Cabo Daciolo",
-        "lang:en": "Cabo Daciolo"
-      },
-      "id": "Q19944687",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q19944687"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/depudadocabodaciolo"
-        }
       ]
     },
     {
@@ -4789,23 +4732,6 @@
     },
     {
       "name": {
-        "lang:pt-br": "Franklin Lima",
-        "lang:pt": "Franklin Lima",
-        "lang:en": "Franklin Lima"
-      },
-      "id": "Q29207674",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q29207674"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:pt-br": "Luiz Philippe de Orléans e Bragança",
         "lang:pt": "Luiz Philippe de Orléans e Bragança",
         "lang:en": "Luiz Philippe de Orléans e Bragança"
@@ -5025,23 +4951,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3891609"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:pt-br": "Dejorge Patrício",
-        "lang:pt": "Dejorge Patrício",
-        "lang:en": "Dejorge Patrício"
-      },
-      "id": "Q40999475",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q40999475"
         }
       ],
       "links": [
@@ -11622,51 +11531,6 @@
       "seat_counts": {
         "Q20058725": "513"
       }
-    },
-    {
-      "name": {
-        "lang:pt-br": "Patriota",
-        "lang:pt": "Patriota",
-        "lang:en": "Patriota"
-      },
-      "id": "Q10345629",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q10345629"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:pt-br": "Democratas",
-        "lang:pt": "Democratas",
-        "lang:en": "Democrats"
-      },
-      "id": "Q1185830",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1185830"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:pt-br": "Partido Social Liberal",
-        "lang:pt": "Partido Social Liberal",
-        "lang:en": "Social Liberal Party"
-      },
-      "id": "Q2366265",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2366265"
-        }
-      ]
     }
   ],
   "areas": [
@@ -12353,7 +12217,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10263827-732021B2-C877-4218-97BA-F565AF6A3BE9",
@@ -12370,7 +12235,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10263907-3A9A0620-5A32-4574-ACD5-2367725A7F88",
@@ -12387,7 +12253,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10263927-86AE98AA-010E-47C2-8814-A823FB929F6C",
@@ -12404,7 +12271,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10264196-06952BF4-116D-4FE8-9E70-832BDB0D778C",
@@ -12421,7 +12289,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10265017-D30CF5A8-EE92-4333-8DE5-C1737D99CCE5",
@@ -12457,7 +12326,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10266351-D385087C-33B8-46C5-BD4B-E70D2C50D96E",
@@ -12474,7 +12344,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10266663-C17DC95D-568D-4774-8FAF-F2B248F4459B",
@@ -12510,7 +12381,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10268142-0DB519A4-F64A-45DA-95EC-3FD9AF56785C",
@@ -12546,7 +12418,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10270805-02BC0F5B-ABC6-4547-9C7D-2CD0F715C9E1",
@@ -12563,7 +12436,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10270995-1A4E311D-21BC-49AF-8ACF-2FFD581728D2",
@@ -12580,7 +12454,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10271244-C1C67179-D64D-4950-8FEF-455AE9919242",
@@ -12597,7 +12472,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10271797-3FCEF236-AFAA-46B4-BBEC-3C598F40105A",
@@ -12614,7 +12490,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10272988-623386AD-3526-4C6A-9258-156EF6671287",
@@ -12631,7 +12508,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10273609-FBF56DF2-7E43-4C84-B1F6-C0134EC61C4C",
@@ -12648,7 +12526,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10279146-5F1A42F8-D569-4CA6-BAF2-6A92CF16E205",
@@ -12665,7 +12544,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10281021-216EAA72-10A2-4C48-8E37-50C8E38CDE4D",
@@ -12758,7 +12638,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10284776-BEA889D6-B588-4374-8E3B-DBE162E72734",
@@ -12927,7 +12808,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10289540-6E6F4599-43D8-4EA5-AFBC-BD6AA26EA961",
@@ -12944,7 +12826,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10289877-314A0420-C73F-40D5-B6A0-071030DB7E23",
@@ -12961,7 +12844,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10290036-6848C468-4910-4C57-8B96-470A225BE25A",
@@ -12978,7 +12862,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10293100-42905370-369E-4082-BF0B-FE87BDA30164",
@@ -12995,7 +12880,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10293167-243FC06E-C87F-4531-9F1C-B277313AE4A2",
@@ -13012,7 +12898,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10294410-8271E802-01E3-488D-86C6-8C32784B6CB9",
@@ -13029,7 +12916,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10294757-8951EB0D-6981-41F4-8003-12E521D431DE",
@@ -13046,7 +12934,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10298002-DDCAB36A-BB5F-4128-A693-E7C0B8682427",
@@ -13082,7 +12971,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10299174-B9B7A70E-EA62-49A6-87BD-974BA08AEFFE",
@@ -13100,7 +12990,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10304402-6E048348-A2F5-485B-BBCB-ED1015DAB16D",
@@ -13117,7 +13008,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10304982-4F544010-2E0F-4CA3-84AE-BCB8DA4EBF6F",
@@ -13152,7 +13044,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10307116-EEDB7EB9-29B0-4A0C-A848-74962C9415EA",
@@ -13321,7 +13214,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10308930-64410844-2841-4164-8598-0D021AA782C3",
@@ -13433,7 +13327,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10309776-4F199396-DF87-4D66-A597-4B9ED819BB3C",
@@ -13488,7 +13383,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10310210-F8A43000-C2EF-4027-94EE-C2477C0CE831",
@@ -13505,7 +13401,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10310355-831D5306-F5E7-49A9-8DE2-D5324F1E5C41",
@@ -13522,7 +13419,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10310565-81EFF144-E89F-45F4-9BD5-225642CB554E",
@@ -13653,7 +13551,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10316576-A0270056-9241-495F-8565-D99ED6EF976E",
@@ -13670,7 +13569,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10318428-56AFB475-8BF3-451B-BFF4-C39CAEE8B67B",
@@ -13687,7 +13587,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10320298-39E8FA4C-D205-4152-B43F-6791206B0A4F",
@@ -13704,7 +13605,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10320757-31805A89-3647-471D-84D2-83A3698A9902",
@@ -13721,7 +13623,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10321665-B8A91F6A-89F3-404D-88E7-708B34DD92D3",
@@ -13738,7 +13641,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10324010-9DA2F04E-94FB-4B29-8767-E31A7E39FAE7",
@@ -13812,7 +13716,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10325618-04EC173C-E93B-4092-9CFB-5A8971609B1F",
@@ -13829,7 +13734,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10326642-091A7E32-76F2-4E18-8C7B-284523E9D645",
@@ -13846,7 +13752,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10327085-8EB02852-1140-4786-93FA-85E1457A5977",
@@ -13863,7 +13770,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10329800-FE2821A3-1B67-40E8-9DAB-4F6ED32F2580",
@@ -13899,7 +13807,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10340213-64439BB9-4378-4EE9-9D21-C1C03221AD79",
@@ -13916,7 +13825,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10341050-D9C899F5-F4BE-4C80-AAB8-B0E8F535B99F",
@@ -13933,7 +13843,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10342262-D9F8894C-8AFF-4D36-A401-BCF0376B4E2E",
@@ -13950,7 +13861,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10342495-A244DFAE-31BF-411D-B6D4-95EEA5D09AB8",
@@ -13967,7 +13879,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10346153-01B0787A-F0B8-448A-9AF7-F135CB486B48",
@@ -13984,7 +13897,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10346742-94AEB0C5-0BDF-4559-9FD7-6831A221000E",
@@ -14001,7 +13915,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10346852-88AF50DC-52C9-4E0E-9E05-ADE4806167A8",
@@ -14018,7 +13933,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10347687-A27B396D-0358-4F23-ACCF-581A58B667C0",
@@ -14035,7 +13951,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10347794-9FA00B60-587F-489C-917C-E4A0EB05A0FA",
@@ -14052,7 +13969,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10347839-63A4A41C-C041-4A3E-93F2-BA553497FCBF",
@@ -14088,7 +14006,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10357126-45562AEA-26DA-4D59-8C64-945ED4A420AA",
@@ -14143,7 +14062,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10358639-971B7328-7061-4121-9CD3-66107CE41E90",
@@ -14160,7 +14080,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10359026-1B4CA01B-082B-40A4-A354-E4A9AAD8D4DF",
@@ -14177,7 +14098,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10359434-A4B28554-291A-40E7-853C-73914CC04CB6",
@@ -14194,7 +14116,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10361085-A6A7AC5C-EE2C-4052-82F7-BA8287B80779",
@@ -14211,7 +14134,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10361159-5BA434BE-EAD2-4587-9CC1-B3F565F02F52",
@@ -14229,7 +14153,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10363266-04043962-7826-4642-8C0B-DB4E5A93D989",
@@ -14247,7 +14172,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10363415-41B65CA0-47D3-44CC-A040-E97A63BD5CDC",
@@ -14264,7 +14190,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10363712-DC593F01-A564-4DFD-9B83-CE3F502049EC",
@@ -14300,7 +14227,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10365087-A82DC34C-89A3-4A8E-9876-7B28F480E675",
@@ -14317,7 +14245,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10365112-84EBF51C-AE51-4FCC-B337-0E4AFB516D7A",
@@ -14334,7 +14263,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10365440-FDDA9B12-239C-46A8-ABD4-596F61D5E050",
@@ -14351,7 +14281,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10367339-20215D10-955F-4E29-B6EF-CF63DC7E01D0",
@@ -14368,7 +14299,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10369090-33899611-D3AC-48A8-9C59-C49F3D5719D3",
@@ -14422,7 +14354,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10376248-3B330726-AE28-4BB0-A5E0-CF8EC007F682",
@@ -14439,7 +14372,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10376248-8BBA36DC-8DB4-4D7F-A0B1-453584383EA0",
@@ -14456,7 +14390,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10376265-12EC8E65-0EE2-42BC-BA86-F9CD4C32348A",
@@ -14473,7 +14408,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10380176-43AF4C3A-94E4-4D0F-ACDB-FB57C71375C7",
@@ -14481,26 +14417,6 @@
       "organization_id": "Q1834804",
       "area_id": "Q53657987",
       "start_date": "1890-11-15",
-      "role_superclass_code": "Q1055894",
-      "role_superclass": {
-        "lang:pt-br": "deputado",
-        "lang:pt": "deputado",
-        "lang:en": "deputy"
-      },
-      "role_code": "Q20058725",
-      "role": {
-        "lang:pt-br": "deputado federal",
-        "lang:pt": "deputado federal",
-        "lang:en": "Brazilian federal deputy"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q10380562-f9505545-44f1-1c97-a3f8-5ca0fb35f6ff",
-      "person_id": "Q10380562",
-      "on_behalf_of_id": "Q1185830",
-      "organization_id": "Q1834804",
-      "area_id": "Q53657991",
-      "start_date": "2015-02-01",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:pt-br": "deputado",
@@ -14567,7 +14483,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10389046-A33FE308-A982-46E5-83DD-CC38FC5A0591",
@@ -14584,7 +14501,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10390313-CF45CAC5-3B90-4337-8660-F16FA0E37869",
@@ -14601,7 +14519,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10392111-3796D2CA-A08C-4E29-A9BF-1BADB265895D",
@@ -14637,7 +14556,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10392867-FE4BA65A-1B57-4E63-9495-872D7C0CED35",
@@ -14654,7 +14574,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10393350-CE7E681B-53EF-4CBA-8AD7-A0F43AE07F8F",
@@ -14671,7 +14592,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10393365-3C745AEF-D97C-4A04-A66E-AD985C8BBA02",
@@ -14688,7 +14610,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10393821-DED66445-E23E-490B-8BE1-1F573808A12A",
@@ -14705,7 +14628,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10393971-393FA2A7-2336-4F21-ABF6-D8367F5AAFE4",
@@ -14722,7 +14646,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10396030-DA92B030-E2E0-48DF-88C0-383F29AE9591",
@@ -14739,7 +14664,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10396106-50F1F9C5-F1CE-4BC3-A985-67BA58B56A54",
@@ -14756,7 +14682,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10396332-DE54B295-63E1-419B-8CA1-DD7EC56F3ABC",
@@ -14830,7 +14757,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16336306-7295037A-AD21-45B5-A404-CC5FBA3E1364",
@@ -14847,7 +14775,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16336322-CF9B11C7-67ED-4E0E-BD8A-E7329DC8FC00",
@@ -14864,7 +14793,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16336345-C25D5819-D68D-44A0-B122-056197192AD3",
@@ -14881,7 +14811,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16336687-BF59F6AB-454C-4499-B760-9AE3F36446F7",
@@ -14898,7 +14829,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16336950-88F9E043-14EF-42BB-A07A-A7CDA8AA70FF",
@@ -14915,7 +14847,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16336968-C309CAF3-FE68-4A13-A48F-0D7C2C371E09",
@@ -14932,7 +14865,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16337140-DFB4DD47-4FDC-407F-9008-E22DF6BE8465",
@@ -14949,7 +14883,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16337536-74062C5E-73F3-4655-98BD-7B22E59A79DD",
@@ -14966,7 +14901,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16337672-AEC67DE2-AAC6-4BC8-8CAF-ADDCA3A6DEC2",
@@ -14983,7 +14919,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16337816-33FD34AB-7B66-4578-9784-D75C6B72F71B",
@@ -15000,7 +14937,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16337984-C7D95FBF-5580-456D-B338-ABB8AAD9911C",
@@ -15017,7 +14955,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16487528-5BEC2BD1-80AF-40A8-8C50-8BC559BFA9CF",
@@ -15072,7 +15011,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16490259-055F0761-3820-4225-A4C2-F51BCBF3B7F4",
@@ -15108,7 +15048,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16490659-A1CD367D-5A8C-4635-9998-4A5CE46E3C1A",
@@ -15201,7 +15142,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16494333-C084368F-8AE5-4CD7-B62B-816892C07F25",
@@ -15256,7 +15198,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16929971-681260A6-9FCA-455E-9C72-0CF627373C06",
@@ -15292,7 +15235,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16939760-6835BCC5-8727-4721-9C42-F6CF0BBD4636",
@@ -15309,7 +15253,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16940146-D8AC5EA9-9687-40ED-A261-A3087C08311A",
@@ -15326,7 +15271,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16940201-92E7BD0E-4E49-499A-B504-41BDF005E8BC",
@@ -15343,7 +15289,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16941003-99C95EFB-2B41-4D98-AC11-E7E2A7A2292E",
@@ -15360,7 +15307,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q17489966-66C66E6D-60D0-4E84-A811-607B2BDCC0F0",
@@ -15377,7 +15325,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q17490028-F3D61D8F-C65C-415C-A6DC-F154D26D679B",
@@ -15394,7 +15343,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q17490149-0079B45C-AE8F-438E-BFDA-270B6E88266B",
@@ -15411,7 +15361,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q1791416-99DEFB29-17B3-4B17-9B0B-80BBA49345DF",
@@ -15447,27 +15398,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q18246320-6574D450-C354-4CA5-A45D-43482AAAC389",
-      "person_id": "Q18246320",
-      "on_behalf_of_id": "Q2366265",
-      "organization_id": "Q1834804",
-      "area_id": "Q53657905",
-      "start_date": "2015-02-01",
-      "role_superclass_code": "Q1055894",
-      "role_superclass": {
-        "lang:pt-br": "deputado",
-        "lang:pt": "deputado",
-        "lang:en": "deputy"
       },
-      "role_code": "Q20058725",
-      "role": {
-        "lang:pt-br": "deputado federal",
-        "lang:pt": "deputado federal",
-        "lang:en": "Brazilian federal deputy"
-      }
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q18274606-84E4708B-5CDE-4550-BD96-2BBDC94A9C56",
@@ -15484,7 +15416,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q18275320-F050CD55-098A-474E-A548-2359D7CF396A",
@@ -15501,7 +15434,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q18275726-EE580290-5878-4E4F-AFE8-09D2EAAA987D",
@@ -15518,7 +15452,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q18276132-0F634AE2-1199-4125-B5A8-8E4B85A1BB19",
@@ -15535,7 +15470,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q18279752-594B4129-FBBB-4E2E-B990-0A3B6DC060A5",
@@ -15552,7 +15488,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q18464585-24B6AA53-B22F-442D-896C-64A403106B38",
@@ -15569,7 +15506,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q18476806-AB5728C7-0EC4-4B0D-9876-84668DD8BDCA",
@@ -15586,7 +15524,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q19607490-E0AEEE9F-A5ED-400C-8E3A-29C545E74ECF",
@@ -15603,7 +15542,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q19708125-15CDAE1E-A3A8-44D2-8201-10A0E74D056D",
@@ -15620,7 +15560,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q19708978-C5B955A5-47A3-4EAF-9B65-2AD73C3FF107",
@@ -15637,7 +15578,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q19709290-25EC4277-137D-4969-8B72-F4D37D835795",
@@ -15654,7 +15596,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q19709389-25DEBC1B-9EE3-4B8A-B152-D30716416F1E",
@@ -15671,7 +15614,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q19710150-4B313C2A-8EE8-4568-BB2B-F50861058BC0",
@@ -15688,27 +15632,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q19944687-53735C86-1281-4E06-A301-D09A8BA5D748",
-      "person_id": "Q19944687",
-      "on_behalf_of_id": "Q10345629",
-      "organization_id": "Q1834804",
-      "area_id": "Q53657911",
-      "start_date": "2015-02-01",
-      "role_superclass_code": "Q1055894",
-      "role_superclass": {
-        "lang:pt-br": "deputado",
-        "lang:pt": "deputado",
-        "lang:en": "deputy"
       },
-      "role_code": "Q20058725",
-      "role": {
-        "lang:pt-br": "deputado federal",
-        "lang:pt": "deputado federal",
-        "lang:en": "Brazilian federal deputy"
-      }
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20045578-E0595AA6-FA27-4F11-B8AE-BCF92B27D568",
@@ -15725,7 +15650,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20045716-249AA435-5825-4E86-BD12-943CD4D3DE28",
@@ -15742,7 +15668,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20045770-2634A955-236F-4966-B09C-219CBF95BC5B",
@@ -15759,7 +15686,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20045828-9D289B5A-B94F-449A-9058-4D84A9330EC6",
@@ -15776,7 +15704,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20045927-49361AF7-8201-4618-A7CA-4F86A1ED0732",
@@ -15793,7 +15722,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20045969-A6F09D9A-EB0A-42C2-A1B8-136A099A7C5B",
@@ -15810,7 +15740,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20045973-BE1B1C9C-D0B7-44AD-A1E1-983329016B34",
@@ -15827,7 +15758,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20045976-33083898-7138-4D33-8C0C-814565A03EF2",
@@ -15844,7 +15776,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20046022-5A20FDB5-B34F-4B76-8C3F-02C36BEBAB49",
@@ -15861,7 +15794,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20046033-5C30B065-E5AD-4799-8E16-8FE6DACF82CD",
@@ -15878,7 +15812,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20046071-75EF441C-8678-4685-A2E8-8F681ECD8C84",
@@ -15895,7 +15830,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20046091-FDD4B5D5-6DD0-4EBC-9982-CA93F5C6FBE6",
@@ -15912,7 +15848,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20046125-DC682DB4-9913-45DA-8431-65C1EBA0F52A",
@@ -15929,7 +15866,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20046133-34B91012-AD97-431A-82FF-46C0F450A895",
@@ -15946,7 +15884,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20046141-299755FE-3FD4-4378-B5F1-D8C27B1F47EC",
@@ -15963,7 +15902,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20046153-E10E2234-0B0D-47AB-A5B3-2CCE03BDC1AA",
@@ -15980,7 +15920,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20046183-207658A8-227A-4053-B50E-56387B4F6BD1",
@@ -15997,7 +15938,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20046193-8CA513BE-AAA5-4D1C-A95B-562FB832401E",
@@ -16014,7 +15956,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20046228-BE65349B-C83A-4ADA-B3F8-053F47725DB8",
@@ -16031,7 +15974,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20048244-29C660D3-7762-46F0-8D57-9A2F5C121C27",
@@ -16048,7 +15992,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q2017507-9B0687FA-244C-495D-A6A9-50CA7E12470C",
@@ -16084,7 +16029,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q21019970-9EA57228-73B0-4047-928C-37FB8BF547A5",
@@ -16101,7 +16047,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q21020012-671D1DF7-942E-4B75-B574-C91FF2C795D5",
@@ -16118,7 +16065,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q21020048-38B7293B-2A71-4B25-B116-0F4BF815EB7E",
@@ -16135,7 +16083,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q21020156-9DB198C7-D628-4D54-9DA8-85820C015F5A",
@@ -16152,7 +16101,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q21020172-f6940095-4e98-a3fe-74c9-29e15aebf2ec",
@@ -16187,7 +16137,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q21020376-7A5AE9DF-D3AF-479C-A25E-2D7FC4A421E2",
@@ -16204,7 +16155,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q21290171-D14A775C-8C9A-4B1B-8AF0-BB7C836D7A79",
@@ -16221,7 +16173,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q21290297-F0287B6F-B223-45B6-ABF2-FF7D2E1F1D6E",
@@ -16238,7 +16191,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q21715169-390B795A-5DDE-42E0-BFC0-4EC77CE8A205",
@@ -16255,7 +16209,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q2218147-920652E0-B476-46B4-9D1B-816C7772E537",
@@ -16328,7 +16283,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q23892617-21625AE3-AABD-4E6D-8122-CDEB8B752D3E",
@@ -16345,7 +16301,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q23893154-A5179E38-0FC6-4CF9-8649-7603FA1E5019",
@@ -16362,7 +16319,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q23893555-407D6B27-1487-4AE4-9AA5-9DD77469C2BE",
@@ -16379,7 +16337,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q23893557-845B1987-491C-47AA-AB2A-54234393D26D",
@@ -16396,7 +16355,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q23893623-A1B03B26-FEF0-4243-BA0E-D2285A5C096E",
@@ -16413,7 +16373,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q23893650-B7CA73F8-539D-4048-9414-B997B74B2406",
@@ -16430,7 +16391,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q23893666-0099F8D5-EDE6-47BE-9A73-3DF8DA67D44D",
@@ -16447,7 +16409,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q23893667-27C15063-6023-4873-B95C-566038EB7CA2",
@@ -16464,7 +16427,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q23904977-38D76F1B-C919-4499-9E4B-BCD52F04EA43",
@@ -16481,7 +16445,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q23905413-6CCCF002-B79C-4689-847C-569591BB90B7",
@@ -16498,7 +16463,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q23969667-D39773E2-5D8F-4838-9F23-3539002C7185",
@@ -16515,7 +16481,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q24035071-B1ACE7D2-95B1-4E63-8F72-2020E3889AAD",
@@ -16532,7 +16499,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q24040304-5001E6B7-2A87-40D5-878A-9D978310809C",
@@ -16549,7 +16517,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q24150974-212E85D3-E455-450B-AFF5-F7B919A01343",
@@ -16566,7 +16535,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q24553437-C1C4506B-03D3-45EA-B285-7C4E613EFFB9",
@@ -16583,7 +16553,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q24691926-5FF198B0-894A-45C2-87DB-66D7A00D1B1F",
@@ -16600,7 +16571,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q24691947-B396D96A-2048-47F0-B613-D17C0E8FF286",
@@ -16617,7 +16589,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25175938-A000E97E-0A86-4A7B-AD93-E43F96B42B58",
@@ -16634,7 +16607,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25175957-D58364B5-8489-400C-975D-50EE6B29B1F0",
@@ -16651,7 +16625,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25175968-2FB68BF6-C3FD-4DEF-8536-72ED701B49D4",
@@ -16668,7 +16643,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25175972-6A11A927-3BC4-419A-BB99-EFE08E4A9F18",
@@ -16685,7 +16661,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25175979-D8222400-B12D-45DC-BB31-8CA5A6F02174",
@@ -16702,7 +16679,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25176041-86735B6E-1B1D-484D-B41E-4F80461D2EFB",
@@ -16719,7 +16697,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25176042-42A0B3CF-5382-4718-B913-7F0D4DBD093B",
@@ -16736,7 +16715,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25176046-12702267-0C6C-4FBB-89BA-F5C800A85FFC",
@@ -16753,7 +16733,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25176048-D91F1928-F965-4D2E-B790-627EFAD9D166",
@@ -16770,7 +16751,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25176049-EA3A556D-1CA9-40AF-B091-FCD02F0549E4",
@@ -16787,7 +16769,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25440287-684563BF-4EB6-441E-B7AF-962915A9D30F",
@@ -16804,7 +16787,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25440842-802CEAA0-4636-4DE2-9E1A-ADD46430A1C1",
@@ -16821,7 +16805,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25440903-3CA4484C-3CCD-4C6D-A1C1-F9B5197D13D0",
@@ -16838,7 +16823,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25441129-4F79E869-4599-42D0-A503-12405C52E846",
@@ -16855,7 +16841,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25441401-C451A50B-0F42-4AA5-9D81-9DD6DC632AB2",
@@ -16872,7 +16859,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25441500-3FA7EAA6-AD36-40B8-9507-DC8C2C78C40F",
@@ -16889,7 +16877,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25445257-CF6F68B2-7CE6-4752-8907-F12A2A712AC8",
@@ -16906,7 +16895,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25445263-327A37BD-A662-4C16-A122-2011D3E6C7D9",
@@ -16923,7 +16913,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25499231-5D22C264-AB3E-4DD6-B186-BF4CB9F37239",
@@ -16959,7 +16950,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q27999190-72D19F02-F7C5-4AFB-8D09-A3DBE0275C15",
@@ -16976,7 +16968,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q27999231-9F3158FE-3C46-4C57-9675-9EC2E131BE04",
@@ -16993,7 +16986,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q27999267-C3ECD006-6335-4DF0-9472-174A1B3E691B",
@@ -17010,7 +17004,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q27999270-9EB97F22-46BA-4FE8-8425-10C9A222B1C2",
@@ -17027,7 +17022,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q28465692-141CAC35-3B30-42C6-AC0A-5C546DAB34C9",
@@ -17044,7 +17040,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q28466336-DF6DA8BA-744C-4FDF-A31E-C715A59EE1F0",
@@ -17061,7 +17058,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q28466341-65B9AFCA-C079-45EB-A45D-A0897A5D702D",
@@ -17078,7 +17076,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q28555860-B777FA2B-0B46-41E7-B942-3B1A7BA19B62",
@@ -17095,7 +17094,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q28677571-FB0B8A51-ACB8-4F15-8767-90FC909A7875",
@@ -17112,7 +17112,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q28677704-9CE1FB28-F314-4AD1-8A17-860DB5A20E09",
@@ -17129,7 +17130,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q28678579-78076B18-5AEE-4096-BBED-F981DA9326B1",
@@ -17146,7 +17148,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q2875339-BA922AD5-6DA6-457C-ACAF-8861BB480D1D",
@@ -17164,7 +17167,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q2917241-5AF08BDF-5915-497B-ABB5-AB6ECF4D5ACD",
@@ -17181,7 +17185,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q2920668-3DB2FC4F-1964-47D7-A872-CDB73ED50968",
@@ -17198,26 +17203,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q29207674-e9ab6a9c-477c-d7d3-2d01-fcf30c0f9d36",
-      "person_id": "Q29207674",
-      "organization_id": "Q1834804",
-      "area_id": "Q53657908",
-      "start_date": "2015-09-03",
-      "role_superclass_code": "Q1055894",
-      "role_superclass": {
-        "lang:pt-br": "deputado",
-        "lang:pt": "deputado",
-        "lang:en": "deputy"
       },
-      "role_code": "Q20058725",
-      "role": {
-        "lang:pt-br": "deputado federal",
-        "lang:pt": "deputado federal",
-        "lang:en": "Brazilian federal deputy"
-      }
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q29474202-9e305bd8-4ae2-2a9e-fcf0-d74222b8e493",
@@ -17235,7 +17222,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q3071854-BC80E600-6F29-4D23-9935-F6AE63B210FE",
@@ -17290,7 +17278,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q30931528-8DF0DF83-D2DB-4D8B-9162-71841B021DB7",
@@ -17307,7 +17296,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q30931741-6F407B26-F750-471F-BF8D-2A1DCF309446",
@@ -17324,7 +17314,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q30933367-FA049C3A-E855-4A18-B24F-93673F53ACCE",
@@ -17341,7 +17332,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q30935558-B08A1A76-4479-4182-9457-80A4A5E21418",
@@ -17358,7 +17350,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q30938034-9FB450F6-2A0D-449F-BCD3-5BA1D0A66513",
@@ -17432,7 +17425,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q3891609-00AF7A06-AFC0-462B-AB8F-E6DD7B798375",
@@ -17440,24 +17434,6 @@
       "organization_id": "Q1834804",
       "area_id": "Q53657905",
       "start_date": "1890-11-15",
-      "role_superclass_code": "Q1055894",
-      "role_superclass": {
-        "lang:pt-br": "deputado",
-        "lang:pt": "deputado",
-        "lang:en": "deputy"
-      },
-      "role_code": "Q20058725",
-      "role": {
-        "lang:pt-br": "deputado federal",
-        "lang:pt": "deputado federal",
-        "lang:en": "Brazilian federal deputy"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q40999475-61f91148-47a6-6344-b53c-f1f1289d9df3",
-      "person_id": "Q40999475",
-      "organization_id": "Q1834804",
-      "start_date": "2017-01-02",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:pt-br": "deputado",
@@ -17486,7 +17462,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q42306302-1F5812DD-27BE-4AE3-9F58-1A2ADF60180C",
@@ -18966,7 +18943,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q47011443-64F7743F-08CF-4B91-A53E-37B34671AD3D",
@@ -19003,7 +18981,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q4720839-CEF098A6-7FFD-48AA-9D27-9E415EBF6021",
@@ -19020,7 +18999,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q47468510-DBB39B68-1378-4C0E-A1F1-D44C97F3F111",
@@ -19037,7 +19017,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q47493980-552C4BE6-ADBF-49D8-ABC3-87C086E6C3E5",
@@ -19054,7 +19035,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q4777666-EE21087A-C104-498C-A4FB-1BCD4EB982B4",
@@ -19090,7 +19072,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q48871891-8717391B-1D25-4FD6-9138-D2B10B86D6DC",
@@ -19107,7 +19090,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q48871893-CE8ADD61-0799-4281-BBD6-EA23B018B8A7",
@@ -19124,7 +19108,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q48871894-936AAA7E-1E32-4958-BF09-35CCFD56C344",
@@ -19141,7 +19126,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q48871933-F5A23FD5-379D-4768-9CE9-38932AD94F5B",
@@ -19158,7 +19144,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q48871938-4325FE4E-4624-47F1-BB11-784E2DD0F169",
@@ -19175,7 +19162,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q48871952-EC0AAFD5-8AE9-4D9D-A095-95E1417A053F",
@@ -19192,7 +19180,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q48871961-8A32593F-180F-4D4B-ADF6-28D1BA671230",
@@ -19209,7 +19198,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q4887390-10163191-45f2-1131-d249-00c5799fa2d9",
@@ -19226,7 +19216,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q48946732-BECC9704-AED7-4F9E-9218-DF52F532C6B2",
@@ -19243,7 +19234,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q4945046-7E8C0096-DA77-4DC9-AFB9-1E06EA1D1F14",
@@ -19279,7 +19271,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q50329652-02E9862D-0EE6-4409-8ACF-98B914495D26",
@@ -19296,7 +19289,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q514040-5D59393B-2D3B-4A77-A404-0AD398C5BF3A",
@@ -19313,7 +19307,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q51798556-BC9B00B8-0FFD-4A55-A6B1-CFB99D782FE3",
@@ -19330,7 +19325,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q51882251-6A722179-30DF-4C7D-A604-D2543198F1B6",
@@ -19347,7 +19343,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q519210-00EA9585-81D4-48F9-A94A-C3F3E25992A8",
@@ -19364,7 +19361,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q520653-7BDBC2E8-4059-4CC0-93D6-B1BB1C055D66",
@@ -19381,7 +19379,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q5338816-2B3E0610-0A8A-4AD9-89AC-D7297E5B5A77",
@@ -19398,7 +19397,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q540219-249121DA-9699-4455-A672-26E675243D12",
@@ -19434,7 +19434,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q56195632-936352C3-F422-44A0-9587-B96EE35A30DC",
@@ -19451,7 +19452,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q56350595-57DD7DC8-0DE4-4374-AACB-7874BBFF5CAC",
@@ -19468,7 +19470,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58966765-C0C6BFED-01AD-4556-A37E-0B863412AC28",
@@ -19485,7 +19488,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58967562-E03EAFEE-9A25-43C6-A7F6-A5D0E78D602F",
@@ -19502,7 +19506,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58986563-BB4D50F4-15F3-45AC-B830-EA2260B6FABB",
@@ -19519,7 +19524,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58986627-4BE07F2F-FC01-4D89-B997-2E8ABEBEE4BB",
@@ -19536,7 +19542,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58986812-EE7D2C4D-2A85-4937-833D-93209AEE2F49",
@@ -19553,7 +19560,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58987042-69605A23-36D2-42D8-8BE3-00379F5E3AD1",
@@ -19570,7 +19578,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58987155-720B8E4F-1EE0-423A-A74E-0FF4FE1D333E",
@@ -19587,7 +19596,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58987312-EF5DF512-E39D-4BD2-B014-9B65A3FCC6E3",
@@ -19604,7 +19614,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58987400-A8936763-2EE2-49A0-AEA8-FE56901AB373",
@@ -19621,7 +19632,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58987719-9DC0D58B-D6A9-439E-BF3E-ED4F0853088B",
@@ -19638,7 +19650,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58987830-98E49272-6B0E-4B65-9427-5851455086D1",
@@ -19655,7 +19668,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58988088-5853C3B9-DC80-4517-8293-E9DB2618D9EE",
@@ -19672,7 +19686,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58988196-B2986A1D-84C2-4CA0-8043-FB8A001204E0",
@@ -19689,7 +19704,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58988250-424CE2C5-54B8-4F65-92A3-C24A8EBE2479",
@@ -19706,7 +19722,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58988358-024145EC-DB1D-45AB-8FEF-8EDA31B837EC",
@@ -19723,7 +19740,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58988498-24DA6D74-660C-421E-B04C-372481E6E76B",
@@ -19740,7 +19758,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58988673-36CB99BC-C6FA-4CFC-B6BC-23C52D918C46",
@@ -19757,7 +19776,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58988794-0F3BABD6-9FF3-4996-B243-89B77DE59425",
@@ -19774,7 +19794,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58988871-59B22E2F-29E6-4414-8B0D-1F52128A6BAE",
@@ -19791,7 +19812,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58989195-1ED8069B-E81D-4E5A-AE31-400C2E3DC344",
@@ -19808,7 +19830,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58989368-AB948FC6-AF7E-4D11-A316-CCC39275AFF0",
@@ -19825,7 +19848,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58995145-6D721F44-CA1D-4205-8453-137DAB0B309E",
@@ -19842,7 +19866,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58995442-9895AD24-1C81-4F81-9B49-498C69BF287E",
@@ -19859,7 +19884,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58995518-DB3135A2-F28D-4A57-9407-1002A1AE4637",
@@ -19876,7 +19902,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58995581-1D10F297-A2EF-4BC9-A761-67BE50D0A606",
@@ -19893,7 +19920,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58995779-7A417291-78D1-48BA-901D-E8F16E2CF1B8",
@@ -19910,7 +19938,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58995869-FD2DE856-A538-4256-ACD8-ACCA2042DD8C",
@@ -19927,7 +19956,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58996126-0486341A-F810-42A8-8029-EE9B601B72B7",
@@ -19944,7 +19974,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58996186-BBAB03A9-216F-497E-8E8D-EDA49520A71E",
@@ -19961,7 +19992,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58996536-716697A1-A981-473B-9C33-2B1469FFB9B2",
@@ -19978,7 +20010,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58996577-A7C8E7E4-B38D-43E3-AC5D-429382155AB3",
@@ -19995,7 +20028,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58997105-013335B6-EE05-4598-B3CD-50433FF78FE6",
@@ -20012,7 +20046,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58997144-11B1C782-E277-431D-8AFE-0F654A9DF866",
@@ -20029,7 +20064,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58997373-DF4799B9-7BCC-4AA5-A9BC-11127D22B716",
@@ -20046,7 +20082,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58997665-7683EA46-5C0A-4594-87F7-DF93DF019166",
@@ -20063,7 +20100,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58997920-9E6E8F9C-0C8D-47FE-BA41-CCBC8136238D",
@@ -20080,7 +20118,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58998205-6B7A0324-4915-4100-8AFF-A633F576EF2E",
@@ -20097,7 +20136,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58998312-77CE9298-628E-4F86-9885-58D3392215C9",
@@ -20114,7 +20154,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58998705-96C7CF7F-4163-4535-A3D1-2E72D0F7B2C3",
@@ -20131,7 +20172,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58998806-BCEAF3B8-B6F4-4F46-BDF2-715CF9504D1A",
@@ -20148,7 +20190,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58999162-1882C833-8A62-4262-86F4-6BD666BCA63C",
@@ -20165,7 +20208,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58999284-3CD802F6-A726-49BD-8630-42B244729378",
@@ -20182,7 +20226,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58999484-79F029CE-2A28-4080-BC67-6ED67DE5559A",
@@ -20199,7 +20244,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58999631-D6CBBE06-0A42-4EAC-96FD-A453884A7665",
@@ -20216,7 +20262,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58999673-8C282518-11B0-42D3-AAE2-73DCFBFF5A54",
@@ -20233,7 +20280,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58999717-077D6060-5AD1-4C6C-8D77-7605782EB450",
@@ -20250,7 +20298,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58999935-F2A8C146-029E-4134-B2A6-3BA8402677E1",
@@ -20267,7 +20316,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58999983-2B9509E7-8CBF-4129-92EC-D3366DA5339A",
@@ -20284,7 +20334,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59000319-2AA7F6FB-BBAD-43BF-9E6D-E5C7FA5F84F1",
@@ -20301,7 +20352,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59000498-DA2B228F-6719-45B2-AA90-AEA45F6A0BB0",
@@ -20318,7 +20370,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59000553-1704561E-60A9-4D81-8039-B1B69657BEE5",
@@ -20335,7 +20388,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59000790-9820C2BB-9512-4A16-BBF9-D52740DCE250",
@@ -20352,7 +20406,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59000912-7CCBC235-E078-4FDD-827E-78FAA095830A",
@@ -20369,7 +20424,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59001015-06DC673A-EEA2-41D6-AD91-E0462CFD02F0",
@@ -20386,7 +20442,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59001077-F1E71FA8-90B9-48BF-B633-EC93F9FA622A",
@@ -20403,7 +20460,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59001179-6AABE176-D4D1-4472-88DD-FD09D4B00EE8",
@@ -20420,7 +20478,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59001225-800EC32A-3D19-4CB2-B907-5EB29E5B5669",
@@ -20437,7 +20496,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59001326-D57813C0-F9E8-4C45-BE17-111157ACE2C1",
@@ -20454,7 +20514,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59001396-E469A72E-8AEB-4A2E-9EA8-FE29D81DD6FA",
@@ -20471,7 +20532,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59001804-91E3DA5C-6EB1-49D4-A4E7-4E8E9FF28F43",
@@ -20488,7 +20550,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59002303-CCD4BBFA-CCAB-4332-9653-6F5BD77D84C6",
@@ -20505,7 +20568,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59002351-23047AC3-EA1F-4487-9D7E-43C72E092EEA",
@@ -20522,7 +20586,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59002428-C8482B6E-A90D-4210-8342-A4C071F94850",
@@ -20539,7 +20604,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59002512-76600EB6-58B9-42AC-9960-63F6355032E3",
@@ -20556,7 +20622,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59002633-12F934DE-40DD-4367-ACC5-0D424CBA45D4",
@@ -20573,7 +20640,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59002683-6A11E31D-43C2-4A7E-AFF4-329210429F95",
@@ -20590,7 +20658,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59002851-4F885DBF-EDB7-4109-9FC7-BDAFA09B25E7",
@@ -20607,7 +20676,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59003129-28862E45-B6D0-4A70-B958-34705D27863B",
@@ -20624,7 +20694,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59003227-8196BB13-5299-4C8F-8473-C41CBAF3CB51",
@@ -20641,7 +20712,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59003268-746C7441-2C08-489D-B3CC-360777826AB7",
@@ -20658,7 +20730,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59003471-6D57FA89-7510-4C2F-8FF6-6AB2BC9AEB39",
@@ -20675,7 +20748,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59003609-01598829-6B83-4FB8-9016-1426D93E3160",
@@ -20692,7 +20766,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59003657-72C8AF38-1532-497C-80B6-A0E30EC053F6",
@@ -20709,7 +20784,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59003699-6FE4126E-06A5-4F34-A7DC-5482C326381E",
@@ -20726,7 +20802,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59003788-C5BFF8C9-D883-47CF-B0E0-97BA6E0A5C74",
@@ -20743,7 +20820,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59004035-0ACB8478-B066-47AF-9682-0C41A749A98C",
@@ -20760,7 +20838,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59004375-8093A9D5-306E-47F1-B1E0-38A99B07F97E",
@@ -20777,7 +20856,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59004440-0830D0C2-915F-477F-8191-3C5980E42830",
@@ -20794,7 +20874,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59009984-2D60D764-60B7-485A-9E98-B4209F216A70",
@@ -20811,7 +20892,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59010102-F732C6BA-9EF3-4EC6-976F-2E3B011ED39C",
@@ -20828,7 +20910,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59010339-962DBE6B-465C-4D21-A939-A624C3F455B9",
@@ -20845,7 +20928,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59010388-BC642A9F-FC01-4B0E-A738-B9331D6716A9",
@@ -20862,7 +20946,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59010539-C69A6C6B-6B86-4650-98B5-D6D03D3655D2",
@@ -20879,7 +20964,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59010614-76CFA7EF-4AC9-48F2-A02D-A82CBB70324C",
@@ -20896,7 +20982,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59010975-A6F1AE0C-54CA-4636-BABF-D1E9CD881AE0",
@@ -20913,7 +21000,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59011103-63C9CFBF-EEAA-4389-83E5-099F4294D22D",
@@ -20930,7 +21018,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59011165-2BE5BF06-48E3-4819-BF35-D6308C20F5E0",
@@ -20947,7 +21036,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59011262-5FAA6319-88CD-48A0-9935-8EE884D04CAD",
@@ -20964,7 +21054,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59011836-A7F57EB9-5C4C-4710-9875-980B62906FB4",
@@ -20981,7 +21072,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59012157-3CEADB71-C5D2-423F-9C24-BBD6A98D84D0",
@@ -20998,7 +21090,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59012288-399E4F32-AA9C-4ADC-8AC2-F5106829499D",
@@ -21015,7 +21108,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59202668-9C1EFD27-37ED-45D0-909D-70E764D5DE92",
@@ -21032,7 +21126,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59202671-AA462C17-9127-4204-AE16-619898F29342",
@@ -21049,7 +21144,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59202672-7840BB39-ACE7-4C5F-B483-C87752B6A0E9",
@@ -21066,7 +21162,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59202675-9AF7BDD9-44CD-4C2E-B1C8-CE18DD181CF5",
@@ -21083,7 +21180,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59202678-9FCD0BDE-2F2F-4808-A122-E6F783C423A7",
@@ -21100,7 +21198,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59202680-425F92D8-9F8E-4653-A251-608B39277B42",
@@ -21117,7 +21216,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203038-E8914806-A4D2-4109-9A9E-CA76A277321D",
@@ -21134,7 +21234,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203059-5A213FD6-73D1-4DCB-9440-5EF997F5D47B",
@@ -21151,7 +21252,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203064-4E1729B9-B74A-4915-9A5A-2C49588D44A3",
@@ -21168,7 +21270,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203068-6CED9DD0-6948-4F28-946D-81E63AE66727",
@@ -21185,7 +21288,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203075-B9D5C4C1-CF6C-4FA7-9EE8-E7954676F0C3",
@@ -21202,7 +21306,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203095-0B324FDF-73F4-432D-9465-C089E0897648",
@@ -21219,7 +21324,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203103-736737B4-9474-4429-9AA2-6232DDEAF08C",
@@ -21236,7 +21342,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203110-30C80391-7A85-46C6-96A7-1C0A06A87239",
@@ -21253,7 +21360,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203112-E558D54E-010A-42AD-BBEF-94A45A8FFBE7",
@@ -21270,7 +21378,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203116-9FA3B9F6-241A-4C7B-BBC8-74A8A11A9884",
@@ -21287,7 +21396,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203127-8F7F1E75-F3FD-494D-B472-739D91CD733C",
@@ -21304,7 +21414,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203136-3A43DA1E-1562-41E1-BFC7-FD17415313A5",
@@ -21321,7 +21432,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203139-403CE930-5FDA-48C5-9108-F5FF72487DBC",
@@ -21338,7 +21450,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203157-ED226CBE-084F-40A0-819A-C9E9D6574568",
@@ -21355,7 +21468,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203162-7B81FA50-5452-4A91-B9DD-562A6D80957F",
@@ -21372,7 +21486,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203178-756CA76C-6983-4415-8931-7791535CACF8",
@@ -21389,7 +21504,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203187-B4319A74-BCDB-4F50-87DD-91E3D151769A",
@@ -21406,7 +21522,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203197-E5A631A7-4C87-4639-BDA4-982254958E12",
@@ -21423,7 +21540,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203200-45EB0563-266B-4E90-BA38-494EF5E4A0CC",
@@ -21440,7 +21558,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203208-4F3C662C-BAD5-409B-8EBA-80046B2DBF76",
@@ -21457,7 +21576,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203209-355C81DB-BA14-4107-A190-FE4708563341",
@@ -21474,7 +21594,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203218-120276ED-6379-441E-8191-F4A9B5CFBCC7",
@@ -21491,7 +21612,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203220-7D260620-AC0A-4462-86D8-4062A9DA9B91",
@@ -21508,7 +21630,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203222-385A4051-BEC2-4C00-98B6-787AB000A0F0",
@@ -21525,7 +21648,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203223-14372C9F-CDB8-4575-8FAB-49747DBD5031",
@@ -21542,7 +21666,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203228-E32FC51E-3701-492B-AB83-427D00B88725",
@@ -21559,7 +21684,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203231-ACD46941-7D2F-4974-BB10-57A58476B047",
@@ -21576,7 +21702,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203239-9451134E-4EC6-4444-BBC7-CC525E996B9C",
@@ -21593,7 +21720,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203243-EF4DE26D-F54C-404F-9B48-CFE3E8E6B5C3",
@@ -21610,7 +21738,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203250-413477B6-4656-4E38-8157-5A2D9285E4D1",
@@ -21627,7 +21756,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203298-4EF0F0C1-3BC8-49AB-9B75-6BCC384AFB53",
@@ -21644,7 +21774,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203302-A4C7C55C-C413-4BB7-9547-4CBC9D755481",
@@ -21661,7 +21792,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203310-A4FFB819-A123-4893-9A2C-B64859325907",
@@ -21678,7 +21810,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203314-AFA58292-BFC8-4D54-B5B2-2984E325F0D0",
@@ -21695,7 +21828,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203317-3C7C0A6B-24BF-49EB-A242-9F884D2D0671",
@@ -21712,7 +21846,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203325-4D5BA8D4-E469-4D7F-A6E4-B40EC027CE46",
@@ -21729,7 +21864,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203336-C8D66788-792A-4E5F-878B-C98331C1D046",
@@ -21746,7 +21882,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203425-D39A71B3-574E-40B6-A501-0FE305EDD715",
@@ -21763,7 +21900,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203434-73704762-AED6-42EE-B945-5F19CA09F72C",
@@ -21780,7 +21918,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203448-161C28EC-AAC3-4F0F-9FD1-131F5A76B9CB",
@@ -21797,7 +21936,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203458-C2B6F358-68E2-436C-A4AB-A69E09794760",
@@ -21814,7 +21954,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203486-86A493ED-734D-451E-94DD-8326559B3476",
@@ -21831,7 +21972,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203506-DF1A6CF3-8F4A-4685-A67F-91263F20D6BD",
@@ -21848,7 +21990,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203644-831F4C46-196E-4BF0-80A8-EF89647AA1BC",
@@ -21865,7 +22008,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203650-934A9E3A-DACC-4728-B79C-B9CEDA5E1649",
@@ -21882,7 +22026,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203658-4F5AEA81-5A7D-4C49-9B31-FEEBE3B744F1",
@@ -21899,7 +22044,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203666-20B8EC8F-4137-429E-954F-E006C499D1B3",
@@ -21916,7 +22062,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203672-0B6611E0-3D49-43E2-924E-CC73EAE46376",
@@ -21933,7 +22080,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203674-100D5268-C7BF-4962-878B-B15DBF6563E4",
@@ -21950,7 +22098,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203676-70092FA3-DA57-4CB0-BB11-C672EA378B76",
@@ -21967,7 +22116,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203687-A1FBF8DA-0655-41B8-BEE0-2298B7838B8B",
@@ -21984,7 +22134,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203690-E607E856-85D6-425A-BFF8-FECB41B5D065",
@@ -22001,7 +22152,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203695-D061EA5C-59D0-4E6F-BD47-94B4825CBFC2",
@@ -22018,7 +22170,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203696-88D3D5DF-689B-42EF-8E6F-B1B1682D6879",
@@ -22035,7 +22188,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203698-295BD8D5-176F-422B-8070-709A0C5CF482",
@@ -22052,7 +22206,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203699-E292F177-A49A-4347-AF2F-5352EB5E8E30",
@@ -22069,7 +22224,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203703-A56E98E3-DA39-491F-B3F0-1E09641F6B2A",
@@ -22086,7 +22242,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203705-809AF6AB-485D-4478-8FF8-FAD2FB288FD3",
@@ -22103,7 +22260,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203710-2A7B9E9D-527B-43BC-B8A3-81DFFC715897",
@@ -22120,7 +22278,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203721-F5DDAA6C-B51F-481D-9239-2B1337FDCECF",
@@ -22137,7 +22296,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203731-6DFBC41F-71EB-4EA1-B6FB-327892896548",
@@ -22154,7 +22314,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203732-51C5DA64-73D4-4527-9BE4-72116485551B",
@@ -22171,7 +22332,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203736-F0B42B79-779A-4EB8-BD01-BDC0AD1B1E12",
@@ -22188,7 +22350,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203738-0E8AD1AE-AA32-4B09-8845-6AC6C7FB1A57",
@@ -22205,7 +22368,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203746-5E30368F-91BA-4EF8-9A38-2FC86C5FBD04",
@@ -22222,7 +22386,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203748-A6056EA9-C8C9-469D-B548-F348274DB61F",
@@ -22239,7 +22404,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203751-E6EE23FB-7161-4D52-85A3-6D36783AC629",
@@ -22256,7 +22422,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203754-3BD556B7-18F4-4DEF-828C-2D9BC8A4E93B",
@@ -22273,7 +22440,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203762-3E2F18E2-9CC9-4CC8-91F4-660A82BCA1F3",
@@ -22290,7 +22458,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203776-6A0576ED-FE7B-4F99-80FB-03C09BF69B2D",
@@ -22307,7 +22476,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203827-2E283C70-AD8E-40AC-8A0B-AA02FCC20AB2",
@@ -22324,7 +22494,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203841-8D832361-F943-4C80-B35B-182314A051A5",
@@ -22341,7 +22512,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203864-288C572B-D025-46D7-B543-F26D471D65F3",
@@ -22358,7 +22530,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203903-1301F158-1B57-450B-A3DF-13F5E5EF3D11",
@@ -22375,7 +22548,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203909-3288260C-6218-420F-B632-25732070354A",
@@ -22392,7 +22566,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203925-21B18A36-2A01-46B5-9438-2CD73FE44D03",
@@ -22409,7 +22584,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203931-3F47D29C-E03A-4E96-A5F8-21AE21582EA3",
@@ -22426,7 +22602,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203953-A6BCED9F-F80A-4F64-9C64-1EA3E6824F8C",
@@ -22443,7 +22620,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203958-608D752E-8E51-4171-85C7-378FFD98E765",
@@ -22460,7 +22638,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203962-7484205E-84B8-443F-ADD0-890E442E08F5",
@@ -22477,7 +22656,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203967-D3C1A7CC-2BBF-457D-ACDE-689B9C60E359",
@@ -22494,7 +22674,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203974-5B762A20-6F42-4511-A6D3-47FF24092072",
@@ -22511,7 +22692,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59203994-DA2FF89D-D08D-4009-A572-ED8CE90F9AD6",
@@ -22528,7 +22710,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204008-BB8E6540-4C80-4676-A9E7-EE4EE1BEF832",
@@ -22545,7 +22728,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204018-26D5CC31-32B3-4096-9EF1-D59ED413A198",
@@ -22562,7 +22746,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204024-C2CAA238-E696-4EDB-9889-03199AC2369E",
@@ -22579,7 +22764,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204063-38C578E9-8D00-434F-8EFD-84EA4698B024",
@@ -22596,7 +22782,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204088-EDEC45F1-1285-45E1-BF0F-835608ACE582",
@@ -22613,7 +22800,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204092-FD680CC4-A4FF-4844-A469-28AE6D8A4997",
@@ -22630,7 +22818,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204107-A67D79E6-B99A-4AB7-96CA-CBF9F470E57E",
@@ -22647,7 +22836,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204109-DCCE8327-B9E1-4F85-B84F-4A8DB6205D2A",
@@ -22664,7 +22854,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204112-394AD08E-AC75-4762-AD88-3ABAD53B8A7A",
@@ -22681,7 +22872,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204133-DA1ACF92-CA53-4C56-A327-F9D60C64BF77",
@@ -22698,7 +22890,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204146-2F162A05-6063-4BDB-B82E-3AD75305D4E9",
@@ -22715,7 +22908,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204153-6F364FD2-0383-4EC0-8A20-F59E31953387",
@@ -22732,7 +22926,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204158-34A600B0-2F82-4605-89F5-D1EF621DE39E",
@@ -22749,7 +22944,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204169-E0AAB3D5-210D-435E-8735-ED5B20C9C5B3",
@@ -22766,7 +22962,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204171-144CF070-4EFD-4EEF-8A08-1762A2CC6FF7",
@@ -22783,7 +22980,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204179-ACE019A1-6FEF-449A-AE99-312F8A3841B6",
@@ -22800,7 +22998,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204183-4FFB6835-739F-46AE-BED6-996AE7B89C3B",
@@ -22817,7 +23016,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204185-20DE7795-5ED7-41C5-9023-660D62C3AA9A",
@@ -22834,7 +23034,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204188-945EBB49-A9C5-4C1F-9DE9-9F2E8F398E2D",
@@ -22851,7 +23052,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204190-6ED50253-874B-4DFB-828B-97425730E658",
@@ -22868,7 +23070,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204197-6897ABFD-A227-40FB-B94B-EC9E41D900AD",
@@ -22885,7 +23088,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204200-8654C7E0-E888-4DB3-8B86-3D567869BF39",
@@ -22902,7 +23106,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204206-3BF8DFF8-55CF-4F8E-97D0-4998C33FD3AF",
@@ -22919,7 +23124,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204212-5CD0423F-53D1-4EB7-BF89-F8D522028057",
@@ -22936,7 +23142,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204219-2B92106D-6184-4718-B4E1-DE57DE164F91",
@@ -22953,7 +23160,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204227-580EF3A1-C8A6-4B2C-8C26-FC85FAA063B2",
@@ -22970,7 +23178,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204230-3C90FD4C-1026-4917-95AF-C53ECF3FFD4A",
@@ -22987,7 +23196,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204238-B4128E46-A547-46BF-A012-64AABDCA02B9",
@@ -23004,7 +23214,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204244-9672CE63-4977-4CB7-AAC7-D42EADC412F7",
@@ -23021,7 +23232,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204252-BC49C415-395C-4A9F-9BC1-0ADC6BBBF6E6",
@@ -23038,7 +23250,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204263-C467A9C3-44A7-4705-BA36-C5EF9413419D",
@@ -23055,7 +23268,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204283-0D533F42-BC89-4DC4-B2C6-97A82CF1E285",
@@ -23072,7 +23286,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204290-B5241E79-AE18-45BC-8EDD-A5055C57CB70",
@@ -23089,7 +23304,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204303-038D9B90-519B-4F23-AA65-CDAAE96A5210",
@@ -23106,7 +23322,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204311-70139A02-BAFC-47A8-89D6-76BBCD65FC19",
@@ -23123,7 +23340,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204831-657221A8-CBFA-4D9B-81B2-46F58889D220",
@@ -23140,7 +23358,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204842-9A45331D-D858-4B9C-BCA0-8D1F950AAA02",
@@ -23157,7 +23376,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204860-00080A51-65B5-47DE-81E8-90C43B0D7D94",
@@ -23174,7 +23394,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204863-422A6EC9-B89B-401B-9AC4-D90D8C5FC475",
@@ -23191,7 +23412,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204872-DC403B73-71D1-4239-AFC9-B1DBE27CAB61",
@@ -23208,7 +23430,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204877-2FF30BF0-AA45-41AE-BDF3-80E43EAD84E6",
@@ -23225,7 +23448,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204879-B6D78508-A35E-484D-821D-1A9EEC41B1DC",
@@ -23242,7 +23466,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204889-EFEB9B45-80DC-4E93-A9CA-7696AF88BB02",
@@ -23259,7 +23484,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204892-A5BF1A2C-7FF4-4A4D-84AE-154C955EBF17",
@@ -23276,7 +23502,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204895-C9E4F7F7-270E-47DD-9419-0802F1610683",
@@ -23293,7 +23520,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204905-DF12E028-ED89-4BF1-B3D0-D4648BF47B20",
@@ -23310,7 +23538,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204915-76FB4263-B397-4C65-B2E7-74038938C453",
@@ -23327,7 +23556,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204918-97BA7BD1-7FC2-4269-92C0-D64479415B6E",
@@ -23344,7 +23574,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204925-9AB88D01-A7ED-4084-B7A7-2281DB92523E",
@@ -23361,7 +23592,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204931-52A2F47D-D9EE-4F6A-882C-B01B6E6667B4",
@@ -23378,7 +23610,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204934-D2A57EEB-8473-4395-B9AE-137C5CB61DC1",
@@ -23395,7 +23628,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204949-D2B3237A-B570-4DC4-BE43-2FDB7DFF9B33",
@@ -23412,7 +23646,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204954-96025BE0-C28F-4D8E-931B-D2D3780251B6",
@@ -23429,7 +23664,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204959-5508599D-876D-4435-9326-93033CDC8B46",
@@ -23446,7 +23682,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204965-17C92244-DAA3-4A5E-AFED-4FB9EAA37AEB",
@@ -23463,7 +23700,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204969-7ADEA24F-8D47-402B-90FC-B868D5C516F1",
@@ -23480,7 +23718,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204973-387F259C-0D31-450B-A2E1-E357072D7617",
@@ -23497,7 +23736,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204976-FDD87012-4527-4707-84D3-D314A26A76AA",
@@ -23514,7 +23754,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59204985-7508EAEC-0B2E-4354-AE47-FE4F32346F04",
@@ -23531,7 +23772,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59205036-0D9057BD-E386-4F1F-B423-5305F223C8AB",
@@ -23548,7 +23790,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59205062-B9F79295-F823-41A3-9257-2285740B90E0",
@@ -23565,7 +23808,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59205068-A96008CB-534E-429E-8C33-36D056FD4D0B",
@@ -23582,7 +23826,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59205072-5562E444-5105-4841-8058-E8B86079D4A7",
@@ -23599,7 +23844,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59205086-DC1BAEFC-A209-4E59-8190-1FDFE05CEC17",
@@ -23616,7 +23862,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59205095-D6F5D298-36EC-443E-91FF-E38BF7ABA7C3",
@@ -23633,7 +23880,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59205140-A904219B-7B90-4D79-8025-0EBE5B86AEBB",
@@ -23650,7 +23898,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59205141-04856307-07AA-45A5-A2D7-D2C5C6FF7210",
@@ -23667,7 +23916,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59205143-7D4304F8-F009-4552-99F6-A3A804A80E02",
@@ -23684,7 +23934,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59205144-0D68EE75-AB80-4066-A067-14F9C8A0CE8F",
@@ -23701,7 +23952,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59205150-8EAD27B8-A400-464F-AEA5-352DCA3B1ED6",
@@ -23718,7 +23970,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59205152-B822CF93-F8D0-42C6-B0A1-739173D2E3FD",
@@ -23735,7 +23988,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q59205155-8E272CE3-EED4-476A-9E81-12B827739FE1",
@@ -23752,7 +24006,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6428425-F8E6BF89-D207-4009-82AB-C1660864BC91",
@@ -23769,7 +24024,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q652944-32EC4DC5-4524-41EB-99B4-70E70EF32E26",
@@ -23786,7 +24042,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6701475-5ec74563-473e-4caf-ae6c-752055c78721",
@@ -23821,7 +24078,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6761707-59578A40-BF3D-4D20-B8A5-865429C38C7C",
@@ -23838,7 +24096,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7128704-323CEBD2-9A08-425C-9B9B-6FA0CD38028C",
@@ -23874,7 +24133,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q8426433-5696DD6F-446F-4848-A5DE-E43A5F1F692D",
@@ -23930,7 +24190,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q9587090-5708C256-17EB-428B-A7E4-0CDEA3D85732",
@@ -23947,7 +24208,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q9594946-FE87210F-C628-4B01-AC2A-D257424B2123",
@@ -23964,7 +24226,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q9600236-DD2CBDF9-B4C0-4E19-9267-732DB763BC7A",
@@ -24095,7 +24358,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q9631861-0B2F87D7-8F4B-4617-A823-C22823EE9707",
@@ -24131,7 +24395,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q9656210-678EDA04-9295-4326-B216-7B4E107C8776",
@@ -24186,7 +24451,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q9769912-3CF30734-2D17-4133-93C9-93D81636FB55",
@@ -24203,7 +24469,8 @@
         "lang:pt-br": "deputado federal",
         "lang:pt": "deputado federal",
         "lang:en": "Brazilian federal deputy"
-      }
+      },
+      "term_id": "Q57947486"
     }
   ]
 }

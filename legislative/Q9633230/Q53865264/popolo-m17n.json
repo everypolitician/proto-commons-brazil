@@ -1,0 +1,83 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:pt-br": "Assembleia Legislativa do Paraná",
+        "lang:pt": "Assembleia Legislativa do Paraná",
+        "lang:en": "Legislative Assembly of Paraná"
+      },
+      "id": "Q9633230",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9633230"
+        }
+      ],
+      "area_id": "Q15499",
+      "seat_counts": {
+        "Q53864928": "54"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q15499",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:pr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15499"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18176235",
+        "Q53864928"
+      ],
+      "type": {
+        "lang:pt-br": "unidade federativa do Brasil",
+        "lang:pt": "unidade federativa do Brasil",
+        "lang:en": "federative unit of Brazil"
+      },
+      "name": {
+        "lang:pt": "Paraná"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

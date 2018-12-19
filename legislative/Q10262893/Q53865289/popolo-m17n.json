@@ -1,0 +1,82 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:pt-br": "Câmara Legislativa do Distrito Federal",
+        "lang:pt": "Câmara Legislativa do Distrito Federal",
+        "lang:en": "Legislative Chamber of Federal District"
+      },
+      "id": "Q10262893",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10262893"
+        }
+      ],
+      "area_id": "Q119158",
+      "seat_counts": {
+        "Q53864942": "24"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q119158",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br/fed:df"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q119158"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53739380",
+        "Q53864942"
+      ],
+      "type": {
+        "lang:pt": "distrito federal do Brasil",
+        "lang:en": "federal district of Brazil"
+      },
+      "name": {
+        "lang:pt": "Distrito Federal"
+      },
+      "parent_id": "Q155"
+    },
+    {
+      "id": "Q155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5176750"
+      ],
+      "type": {
+        "lang:pt-br": "país",
+        "lang:pt": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:pt": "República Federativa do Brasil",
+        "lang:en": "Federative Republic of Brazil"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}
